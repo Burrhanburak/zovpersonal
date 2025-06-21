@@ -12,8 +12,8 @@ import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
 
-export default async function Home({ params }: { params: { locale: string } }) {
-  const { locale } = params;
+export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
   const t = await getTranslations();
 
   const services = [

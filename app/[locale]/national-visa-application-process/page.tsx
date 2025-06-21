@@ -2,12 +2,13 @@ import { getTranslations } from "next-intl/server";
 import { ArrowRight, CheckCircle2, Clock, Users, FileText, Send } from "lucide-react";
 
 interface PageProps {
-  params: {
+  params: Promise<{
     locale: string;
-  };
+  }>;
 }
 
-export default async function ApplicationProcessPage({ params: { locale } }: PageProps) {
+export default async function ApplicationProcessPage({ params }: PageProps) {
+  const { locale } = await params;
   const t = await getTranslations();
 
   const processSteps = [

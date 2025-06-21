@@ -3,9 +3,9 @@ import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Link from "next/link";
 
-export default async function AboutPage({ params }: { params: { locale: string } }) {
+export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
   const t = await getTranslations('about');
-  const { locale } = params;
+  const { locale } = await params;
 
   return (
     <main className="">
