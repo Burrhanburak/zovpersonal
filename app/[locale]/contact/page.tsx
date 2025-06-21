@@ -87,7 +87,7 @@ export default function ContactPage() {
           
           <div>
             <h2 className="font-semibold">{t('contact.sections.follow')}</h2>
-            <div className="mt-3 flex gap-6 lg:gap-10">
+            <div className="mt-3 flex gap-6 lg:gap-10 justify-center">
               <a 
                 href={t('footer.social.instagram.url')} 
                 target="_blank"
