@@ -36,9 +36,9 @@ const satoshi = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "VisaConsult - International Work Visa Consulting",
+  title: "ZovPersonal - International Work Visa Consulting",
   description: "Expert guidance for obtaining work visas to Germany, EU countries, and beyond. Professional consultation services for individuals and businesses.",
-  keywords: "work visa, immigration, Germany visa, EU visa, visa consulting, international work",
+  keywords: "work visa, immigration, Germany visa, EU visa, visa consulting, international work, zovpersonal",
 };
 
 export default async function LocaleLayout({
