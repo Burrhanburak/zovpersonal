@@ -1,0 +1,664 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "consultation": "Kostenlose Beratung"
+  },
+  "hero": {
+    "title": "Internationale Arbeitsvisum-Beratung",
+    "subtitle": "Ihr Tor zur Arbeit im Ausland",
+    "description": "Expertenberatung für die Erlangung von Arbeitsvisa nach Deutschland, EU-Ländern und darüber hinaus. Professionelle Beratungsdienste für Einzelpersonen und Unternehmen.",
+    "longDescription": "Bauen Sie Widerstandsfähigkeit auf und entdecken Sie Ihre innere Stärke wieder. Ob Sie Angst, Trauma, Beziehungsprobleme erleben oder einfach Klarheit in Ihrer internationalen Karriere suchen.",
+    "cta": "Anruf Anfordern",
+    "secondary_cta": "Mehr erfahren",
+    "learnMore": "Mehr erfahren",
+    "tag1": "Klarheit Gewinnen",
+    "tag2": "Stress Bewältigen"
+  },
+  "about": {
+    "hero": {
+      "title": "Demokratisierung qualitativ hochwertiger Visa-Beratungsdienste",
+      "subtitle": "ZovPersonal bietet professionelle Visa-Beratung, um Sie zu Ihren internationalen Karrierezielen zu führen.",
+      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Visa-Antrag erfolgreich abzuschließen.",
+      "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir Ihnen helfen können, besser als je zuvor zu arbeiten. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
+    },
+    "stats": {
+      "experience": {
+        "number": "12+",
+        "label": "Jahre Erfahrung"
+      },
+      "clients": {
+        "number": "5K+",
+        "label": "Erfolgreiche Kunden"
+      },
+      "visas": {
+        "number": "10K+",
+        "label": "Genehmigte Visa"
+      },
+      "countries": {
+        "number": "25+",
+        "label": "Zielländer"
+      }
+    },
+    "team": {
+      "title": "Das Team",
+      "description1": "Wir begannen 2019 mit dem Aufbau von ZovPersonal und starteten 2022. Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, Visa-Beratungsinnovationen für die nächsten hundert Jahre zu fördern.",
+      "description2": "Unsere erfahrenen Berater verstehen die einzigartigen Bedürfnisse jedes Kunden und bieten personalisierte Lösungen. Wir sind hier, um die Komplexität von Visa-Prozessen zu vereinfachen und Ihren Antragsprozess reibungslos zu gestalten.",
+      "description3": "Kontaktieren Sie uns für Visa-Beratung.",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "company": {
+      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, internationale Visa-Prozesse zu transformieren und unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen und Ineffizienzen zu bieten. Durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit stellen wir die Werkzeuge bereit, die für den Erfolg jedes Visa-Antrags benötigt werden.",
+      "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir besseren Service als je zuvor bieten können. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
+    },
+    "images": {
+      "teamWork": "Teamzusammenarbeit",
+      "officeSpace": "Büroarbeitsplatz",
+      "consulting": "Beratungsdienstleistungen",
+      "success": "Erfolgsgeschichten"
+    },
+    "partners": {
+      "title": "Unsere Partner",
+      "partner1": {
+        "name": "Mehmet Yılmaz",
+        "role": "Visa-Spezialist"
+      },
+      "partner2": {
+        "name": "Ayşe Demir",
+        "role": "Rechtsberaterin"
+      },
+      "partner3": {
+        "name": "Ali Kaya",
+        "role": "Geschäftsentwicklung"
+      },
+      "partner4": {
+        "name": "Fatma Öz",
+        "role": "Kundenbeziehungen"
+      },
+      "partner5": {
+        "name": "Emre Şahin",
+        "role": "Betriebsleiter"
+      }
+    },
+    "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Visa-Prozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit 15 Jahren Erfahrung bieten wir weltweit vertrauensvolle Visa-Beratungsdienste.",
+    "features": {
+      "compassion": "Empathie und Verständnis",
+      "integrity": "Ehrlichkeit und Zuverlässigkeit",
+      "mindGrowth": "Persönliche und berufliche Entwicklung"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende Visa- und Einwanderungslösungen",
+    "workVisa": {
+      "title": "Arbeitsvisum-Anträge",
+      "description": "Vollständige Unterstützung bei Arbeitsvisum-Anträgen für verschiedene Länder einschließlich Deutschland, Österreich, Niederlande und mehr."
+    },
+    "skillsAssessment": {
+      "title": "Qualifikationsbewertung",
+      "description": "Professionelle Bewertung Ihrer Qualifikationen und Matching mit internationalen Jobmöglichkeiten."
+    },
+    "documentation": {
+      "title": "Dokumentenvorbereitung",
+      "description": "Expertenunterstützung bei der Dokumentenvorbereitung, Übersetzung und Beglaubigungsdiensten."
+    },
+    "consultation": {
+      "title": "Persönliche Beratung",
+      "description": "Eins-zu-eins-Beratungssitzungen, um Ihre spezifischen Bedürfnisse und Karriereziele zu verstehen."
+    },
+    "tabContent": {
+      "workVisa": {
+        "title": "Beantragen. Vorbereiten. Genehmigen.",
+        "description": "Wir bereiten Ihre Arbeitsvisum-Anträge professionell vor und verfolgen sie.",
+        "stat1": { "number": "95%", "label": "Genehmigungsrate" },
+        "stat2": { "number": "30", "label": "Tage durchschnittliche Zeit" },
+        "category": "Arbeitsvisum-Anträge"
+      },
+      "documentation": {
+        "title": "Organisieren. Übersetzen. Genehmigen.",
+        "description": "Wir bereiten alle Ihre Dokumente nach internationalen Standards vor und lassen sie beglaubigen.",
+        "stat1": { "number": "100%", "label": "Dokumentenkonformität" },
+        "stat2": { "number": "48", "label": "Stunden fertig" },
+        "category": "Dokumentenvorbereitung"
+      },
+      "skillsAssessment": {
+        "title": "Analysieren. Bewerten. Leiten.",
+        "description": "Wir analysieren Ihre beruflichen Qualifikationen und bringen sie mit internationalen Jobmöglichkeiten zusammen.",
+        "stat1": { "number": "85%", "label": "passende Position finden" },
+        "stat2": { "number": "12", "label": "Jahre Erfahrung" },
+        "category": "Qualifikationsbewertung"
+      }
+    },
+    "tabButtons": {
+      "workVisa": "Arbeitsvisum",
+      "documentation": "Dokumentation",
+      "skillsAssessment": "Qualifikationsbewertung"
+    }
+  },
+  "professions": {
+    "title": "Berufskategorien",
+    "subtitle": "Wir spezialisieren uns auf Visa-Anträge für verschiedene Berufsfelder",
+    "healthcare": {
+      "title": "Gesundheitsfachkräfte",
+      "description": "Pflegekräfte, Ärzte, Therapeuten und andere Gesundheitsarbeiter",
+      "requirements": "Erforderliche Dokumente und Qualifikationen"
+    },
+    "engineering": {
+      "title": "Ingenieure & IT",
+      "description": "Softwareentwickler, Ingenieure und technische Spezialisten",
+      "requirements": "Technische Qualifikationsanforderungen"
+    },
+    "skilled": {
+      "title": "Facharbeiter",
+      "description": "Handwerker, Techniker und Facharbeiter",
+      "requirements": "Berufszertifizierungsanforderungen"
+    },
+    "education": {
+      "title": "Bildung & Forschung",
+      "description": "Lehrer, Forscher und akademische Fachkräfte",
+      "requirements": "Akademische Berechtigungsanforderungen"
+    }
+  },
+  "documents": {
+    "title": "Erforderliche Dokumente",
+    "subtitle": "Wesentliche Unterlagen für Ihren Visa-Antrag",
+    "categories": {
+      "personal": {
+        "title": "Persönliche Dokumente",
+        "description": "Reisepass mit mindestens 6 Monaten Gültigkeit, Ausweisdokumente und Unterlagen mit Ihren persönlichen Informationen."
+      },
+      "education": {
+        "title": "Bildungsdokumente",
+        "description": "Diplome, Zertifikate und Sprachkenntnisse. Apostille kann für internationale Anerkennung erforderlich sein."
+      },
+      "professional": {
+        "title": "Berufliche Dokumente",
+        "description": "Stellenangebotsschreiben, Arbeitsvertrag, Berufsqualifikationszertifikate und Erfahrungsdokumente."
+      },
+      "medical": {
+        "title": "Medizinische & Rechtliche",
+        "description": "Ärztlicher Bericht, Führungszeugnis, Finanznachweise und Ihre biometrischen Fotos."
+      }
+    },
+    "list": [
+      "Gültiger Reisepass mit mindestens 6 Monaten Gültigkeit",
+      "Bildungszertifikate und Diplome",
+      "Berufsqualifikationszertifikate",
+      "Sprachzertifikate (Deutsch/Englisch)",
+      "Stellenangebot oder Arbeitsvertrag",
+      "Ärztliche Untersuchungsberichte",
+      "Führungszeugnis",
+      "Nachweis finanzieller Mittel",
+      "Ausgefüllte Visa-Antragsformulare",
+      "Biometrische Fotos"
+    ]
+  },
+  "process": {
+    "title": "Unser Visa-Antragsverfahren",
+    "subtitle": "Wir minimieren die Komplexität der Verwaltung Ihrer umfangreichen Dokumente mit unseren Tools, die Ihren Visa-Antragsprozess vereinfachen.",
+    "step1": {
+      "title": "Erstberatung und Bewertung",
+      "description": "Wir analysieren Ihr Profil und Ihre Ziele, um eine personalisierte Visa-Strategie für Sie zu entwickeln.",
+      "alt": "Visa-Beratung"
+    },
+    "step2": {
+      "title": "Dokumentenvorbereitung und -prüfung",
+      "description": "Wir bereiten alle Ihre Dokumente nach internationalen Standards vor und erkennen Mängel sofort.",
+      "alt": "Dokumentenvorbereitung"
+    },
+    "step3": {
+      "title": "Antrag und Nachverfolgung",
+      "description": "Wir reichen Ihren Antrag sicher ein und überwachen ihn kontinuierlich bis zur Fertigstellung.",
+      "alt": "Antragsverfolgung"
+    }
+  },
+  "contact": {
+    "title": "Sprechen wir miteinander",
+    "subtitle": "Ob Sie bereit sind, Ihre erste Beratung zu planen oder einfach nur Fragen haben, wir würden gerne von Ihnen hören.",
+    "pageTitle": "Kontaktieren Sie uns",
+    "pageSubtitle": "Wir sind hier, um Ihnen bei Ihren Visa-Beratungsanfragen zu helfen.",
+    "offices": {
+      "istanbul": "🇹🇷 Istanbul Büro",
+      "berlin": "🇩🇪 Berlin Büro"
+    },
+    "sections": {
+      "email": "Schreiben Sie uns",
+      "follow": "Folgen Sie uns",
+      "inquiries": "Anfragen"
+    },
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "E-Mail-Adresse",
+    "datePlaceholder": "Datum wählen",
+    "messagePlaceholder": "Nachricht",
+    "submitButton": "Jetzt buchen",
+    "imageAlt": "Kontaktieren Sie uns für Visa-Beratung",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "form": {
+      "fullName": "Vollständiger Name",
+      "email": "Geschäftliche E-Mail-Adresse",
+    
+      "message": "Ihre Nachricht",
+      "submit": "Absenden",
+      "optional": "(optional)",
+      "placeholders": {
+        "fullName": "Vor- und Nachname",
+        "email": "ich@firma.com",
+
+        "message": "Schreiben Sie Ihre Nachricht"
+      }
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihre internationale Karriere zu starten?",
+    "subtitle": "Erhalten Sie eine kostenlose Beratung von unserem Expertenteam und machen Sie den ersten Schritt zu Ihrem Traumjob im Ausland.",
+    "button": "Kostenlose Beratung erhalten"
+  },
+  "whyChooseUs": {
+    "title": "Warum uns wählen?",
+    "subtitle": "Unsere besonderen Merkmale in der internationalen Visa-Beratung",
+    "category": "Visa-Beratung",
+    "description": "Mit 15+ Jahren Erfahrung sind wir Ihr vertrauensvoller Partner beim Erreichen internationaler Karriereziele. Wir machen den Unterschied mit unserem personalisierten Ansatz und hoher Erfolgsquote.",
+    "feature1": {
+      "title": "Expertenteam",
+      "description": "Wir stehen Ihnen mit unseren Visa-Spezialisten und Rechtsberatern mit 15+ Jahren Erfahrung zur Seite."
+    },
+    "feature2": {
+      "title": "Hohe Erfolgsquote",
+      "description": "Mit unserer 95%igen Erfolgsquote haben wir die Träume von Tausenden von Kunden wahr werden lassen."
+    },
+    "feature3": {
+      "title": "Personalisierter Service",
+      "description": "Wir entwickeln maßgeschneiderte Lösungen für die einzigartige Situation jedes Kunden."
+    },
+    "feature4": {
+      "title": "24/7 Support",
+      "description": "Wir bieten ununterbrochene Unterstützung und aktuelle Informationen während des gesamten Prozesses."
+    },
+    "slides": {
+      "personalizedCare": {
+        "title": "Personalisierte Betreuung",
+        "description": "Wir entwickeln individuelle Lösungen durch das Verstehen der einzigartigen Bedürfnisse jedes Kunden."
+      },
+      "experiencedProfessionals": {
+        "title": "Erfahrene Fachkräfte",
+        "description": "Wir bieten zuverlässige Beratungsdienstleistungen mit unserem Expertenteam in ihrem Fachgebiet."
+      },
+      "holisticApproach": {
+        "title": "Ganzheitlicher Ansatz",
+        "description": "Wir behandeln alle Phasen Ihres Visa-Prozesses umfassend."
+      },
+      "supportiveEnvironment": {
+        "title": "Unterstützendes Umfeld",
+        "description": "Sie können Beratungsdienstleistungen in einer sicheren und komfortablen Umgebung erhalten."
+      },
+      "healthcareRecruitment": {
+        "title": "Rekrutierung im Gesundheitswesen",
+        "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Deutschland zu beheben. Mit unserem gezielten und strukturierten Ansatz strukturieren wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich anzuziehen. Wir erstellen attraktive Stellenanzeigen, die internationale Fachkräfte mit klaren Stellenbeschreibungen, Gehaltstransparenz und umfassenden Unterstützungsdienstleistungen ansprechen."
+      },
+      "livingInGermany": {
+        "title": "Leben in Deutschland",
+        "description": "Deutschland ist bekannt für seine starke Wirtschaft, Kultur und hohe Lebensqualität. Wir bieten einen umfassenden Leitfaden zum Leben in Deutschland von den ersten Schritten im täglichen Leben bis zur erfolgreichen Integration in die Gesellschaft. Wir bieten detaillierte Informationen zur Wohnungssuche, deutsche Kultur und Traditionen, Spracherwerb, Gesundheitssystem und tägliches Leben. Wir führen Sie durch alles von wichtigen Werten wie Pünktlichkeit und Ordnung bis hin zu traditionellen Feiern wie Weihnachten und Oktoberfest."
+      },
+      "experiencedProfessionalsVisa": {
+        "title": "Visa für erfahrene Fachkräfte",
+        "description": "Das Visa für erfahrene Fachkräfte richtet sich an qualifizierte Arbeitnehmer mit mindestens zwei Jahren qualifizierter Berufserfahrung in ihrem Bereich. Mit diesem Visa können Sie in stark nachgefragten Berufen in Deutschland arbeiten. Sie können sich bewerben, wenn Sie Anforderungen wie qualifizierte Berufserfahrung, Mindestlohnbedingungen, Stellenangebot und Sprachkenntnisse erfüllen. Wir unterstützen Ihren Bewerbungsprozess mit einem Mindestjahresgehalt von 40.770 € und B1-Niveau deutschen Sprachkenntnissen."
+      },
+      "vocationalTrainingVisa": {
+        "title": "Berufsausbildungsvisum",
+        "description": "Das Berufsausbildungsabschlussvisum richtet sich an Personen, die eine duale Berufsausbildung in einem anerkannten Ausbildungsberuf in Deutschland absolvieren möchten. Dieses Programm kombiniert theorisches Wissen aus der Berufsschule mit praktischer Ausbildung in einem Unternehmen und bietet jungen Menschen die Möglichkeit, eine qualifizierte Ausbildung in deutschen Lehrstellen abzuschließen und anschließend langfristige Perspektiven auf dem deutschen Arbeitsmarkt zu gewinnen."
+      },
+      "qualificationRecognitionVisa": {
+        "title": "Anerkennungsvisum für Qualifikationen",
+        "description": "Das Visa zur Anerkennung ausländischer Berufsqualifikationen richtet sich an Fachkräfte, die ihre im Ausland erworbenen Berufsqualifikationen in Deutschland anerkennen lassen möchten. Wir bieten langfristige Beschäftigungsmöglichkeiten in Deutschland, indem wir Ihre Qualifikationen auf deutsche Standards bringen. Mit diesem Visa, das es Ihnen ermöglicht, während des Anerkennungsverfahrens in Deutschland zu leben und berufliche Anpassungsmaßnahmen zu ergreifen, unterstützen wir Sie bei der Erfüllung der Anforderungen von B1-Niveau Deutsch und monatlicher Mindestsicherheit von 947 €."
+      }
+    }
+  },
+  "approach": {
+    "title": "Unser Service-Verständnis",
+    "subtitle": "Wie wir Ihren Visa-Antragsprozess verwalten",
+    "holisticApproach": "Mit einem ganzheitlichen Ansatz stehen wir Ihnen in jeder Phase Ihres Visa-Prozesses bei.",
+    "personalizedCare": "Mit unserem personalisierten Betreuungsansatz erfüllen wir die besonderen Bedürfnisse jedes Kunden.",
+    "compassionateProfessionals": "Unsere einfühlsamen Spezialisten unterstützen Sie während des gesamten Prozesses.",
+    "flexibleScheduling": "Mit unserem flexiblen Terminsystem bedienen wir Sie zu passenden Zeiten.",
+    "confidentialSpace": "Sie können Ihre persönlichen Informationen in einer privaten und sicheren Umgebung teilen.",
+    "imageAlt": "Unser Visa-Beratungsansatz",
+    "step1": {
+      "title": "Analyse und Planung",
+      "description": "Wir analysieren Ihre persönliche Situation detailliert und bestimmen die am besten geeignete Visa-Strategie."
+    },
+    "step2": {
+      "title": "Dokumentenvorbereitung",
+      "description": "Wir bereiten alle Ihre Dokumente nach internationalen Standards vor und überprüfen sie."
+    },
+    "step3": {
+      "title": "Antrag und Nachverfolgung",
+      "description": "Wir reichen Ihren Antrag ein und verfolgen ihn kontinuierlich bis zum Abschluss."
+    },
+    "step4": {
+      "title": "Erfolg und Unterstützung",
+      "description": "Auch nach Erhalt des Visas begleiten wir Sie weiterhin durch den Ansiedlungsprozess."
+    }
+  },
+  "reviews": {
+    "title": "Kundenbewertungen",
+    "subtitle": {
+      "line1": "Erfahrungen und Meinungen",
+      "line2": "unserer erfolgreichen Kunden"
+    },
+    "review1": {
+      "title": "Exzellenter Service",
+      "content": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir und hielten mich ständig auf dem Laufenden.",
+      "name": "Dr. Ayşe Kaya",
+      "role": "Krankenschwester - Deutschland",
+      "text": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir.",
+      "rating": 5
+    },
+    "review2": {
+      "title": "Professioneller Ansatz",
+      "content": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein niederländisches Arbeitsvisum reibungslos erhalten. Das Team ist wirklich sachkundig und erfahren.",
+      "name": "Ingenieur Mehmet Öz",
+      "role": "Software-Entwickler - Niederlande",
+      "text": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein niederländisches Arbeitsvisum reibungslos erhalten. Danke ZovPersonal!",
+      "rating": 5
+    },
+    "review3": {
+      "title": "Prozess vereinfacht",
+      "content": "Als ich mich für mein kanadisches Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht und Schritt-für-Schritt-Anleitung gegeben.",
+      "name": "Lehrerin Fatma Demir",
+      "role": "Lehrerin - Kanada",
+      "text": "Als ich mich für mein kanadisches Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht.",
+      "rating": 5
+    },
+    "review4": {
+      "title": "Zuverlässiger Partner",
+      "content": "Ich habe ZovPersonal gewählt, um meine Arbeitserlaubnis als Arzt in Deutschland zu erhalten. Ich habe die richtige Entscheidung getroffen, der Prozess verlief sehr schnell.",
+      "name": "Dr. Can Özkan",
+      "role": "Arzt - Deutschland",
+      "rating": 5
+    },
+    "review5": {
+      "title": "Ausgezeichnetes Ergebnis",
+      "content": "Ich war sehr besorgt, als ich mich für mein Australien-Arbeitsvisum beworben habe. Das ZovPersonal-Team beruhigte mich und spielte eine wichtige Rolle beim Erreichen erfolgreicher Ergebnisse.",
+      "name": "Architektin Zeynep Yılmaz",
+      "role": "Architektin - Australien",
+      "rating": 5
+    },
+    "review6": {
+      "title": "Schnell und effektiv",
+      "content": "Als ich eine Arbeitsmöglichkeit in Schweden fand, hatte ich keine Ahnung vom Visa-Prozess. Dank ZovPersonal wurde alles sehr schnell gelöst.",
+      "name": "Ingenieur Burak Kaya",
+      "role": "Elektroingenieur - Schweden",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Wir beantworten alles, was Sie über Visa- und Einwanderungsverfahren wissen möchten. Finden Sie mit unserem Expertenteam den Weg zu Ihrem Traumland.",
+    "question1": "Für welche Länder bieten Sie Visaberatung an?",
+    "answer1": "Wir bieten umfassende Visaberatungsdienstleistungen für Deutschland, Australien, Kanada, USA, Großbritannien, Niederlande und viele EU-Länder an. Wir entwickeln maßgeschneiderte Lösungen für die einzigartigen Anforderungen jedes Landes.",
+    "question2": "Wie lange dauert der Visaantragsprozess?",
+    "answer2": "Die Dauer variiert je nach Land und Visatyp, normalerweise zwischen 2-6 Monaten. Eine vollständige Vorbereitung der Dokumente und das Befolgen korrekter Verfahren beschleunigt den Prozess.",
+    "question3": "Was tun Sie, wenn der Antrag abgelehnt wird?",
+    "answer3": "Bei einer Ablehnung analysieren wir die Gründe und entwickeln eine neue Strategie. Falls erforderlich, führen wir Berufungsverfahren durch und bereiten neue Anträge vor, nachdem Mängel behoben wurden. Wir unterstützen unsere Kunden während des gesamten Prozesses.",
+    "question4": "Wie hoch sind Ihre Servicegebühren?",
+    "answer4": "Unsere Gebühren variieren je nach Serviceart und Komplexität. Die Erstberatung ist kostenlos. Kontaktieren Sie uns für detaillierte Preise und personalisierte Angebote basierend auf Ihren spezifischen Bedürfnissen.",
+    "question5": "In welchen Sprachen sollten meine Dokumente vorbereitet werden?",
+    "answer5": "Dokumente müssen in die Amtssprache des Ziellandes übersetzt werden. Wir bieten auch beglaubigte Übersetzungsdienstleistungen für Deutsch, Englisch und andere erforderliche Sprachen an."
+  },
+  "footer": {
+    "ctaTitle": "Intelligentere Beratung.\nSicher voranschreiten",
+    "ctaSubtitle": "Erreichen Sie eine neue Ära mit hybriden Lösungen, fortschrittlichen Tools und Beratungsdienstleistungen auf Unternehmensebene.",
+    "ctaButton": "Loslegen",
+    "ctaSecondary": "Unsere Dienstleistungen ansehen",
+    "supportingText": "Ihr vertrauensvoller Partner für internationale Visa-Beratung und Karriereberatung.",
+    "copyright": "©2025 Alle Rechte vorbehalten, Zov Personal.",
+    "legal": "Unsere Beratungsdienstleistungen dienen zu Informationszwecken und stellen keine Garantie dar. Visa-Antragsprozesse unterliegen Länderbestimmungen und Ergebnisse können variieren. Kontaktieren Sie unsere Expertenberater zur Bewertung Ihrer persönlichen Situation.",
+    "email": "info@zovpersonal.com",
+    "phone": "(Türkei) | +90 555 123 45 67 (Deutschland) | +49 30 12345678 ",
+    "address": "Istanbul, Türkei, Berlin, Deutschland",
+    "links": {
+      "home": "Startseite",
+      "services": "Dienstleistungen",
+      "about": "Über uns",
+      "contact": "Kontakt"
+    },
+    "visa": {
+      "requiredDocuments": "Erforderliche Dokumente",
+      "applicationProcess": "Nationaler Antragsprozess",
+      "pricing": "Preisgestaltung",
+      "additionalServices": "Zusätzliche Dienstleistungen",
+      "nationalVisaSteps": "Nationale Visa-Schritte",
+      "professions": "Berufsprozess"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://instagram.com/zovpersonal",
+        "alt": "Folgen Sie uns auf Instagram"
+      },
+      "twitter": {
+        "url": "https://twitter.com/zovpersonal",
+        "alt": "Folgen Sie uns auf Twitter"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/zovpersonal",
+        "alt": "Folgen Sie uns auf LinkedIn"
+      }
+    },
+    "contact": {
+      "title": "Kontakt",
+      "email": "E-Mail",
+      "phone": "Telefon"
+    },
+    "description": "Professionelle internationale Arbeitsvisa-Beratungsdienstleistungen",
+    "quickLinks": "Schnelle Links",
+    "ourServices": "Ressourcen",
+    "services": {
+      "workVisa": "Arbeitsvisa-Anträge",
+      "skillsAssessment": "Qualifikationsbewertung",
+      "documentation": "Dokumentenvorbereitung",
+      "consultation": "Persönliche Beratung"
+    },
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "rightsReserved": "Alle Rechte vorbehalten"
+  },
+  "professionProcess": {
+    "hero": {
+      "title": "Deutschland Nationales Visum - Berufe und Verfahren",
+      "subtitle": "Ihr nationales Visumantragsprozess für die Arbeit im deutschen Gesundheitswesen"
+    },
+    "navigation": {
+      "previousSlide": "Vorherige Folie",
+      "nextSlide": "Nächste Folie"
+    },
+    "carousel": {
+      "doctor": {
+        "status": "Arztvisum",
+        "title": "Deutsches Nationales Visum für Ärzte",
+        "description": "Wir bieten umfassende Visumberatung und Prozessmanagement für Medizinabsolventen, die als Ärzte in Deutschland arbeiten möchten. Professionelle Unterstützung bei Diplomanerkennung und Sprachprüfungsverfahren.",
+        "button": "Mehr erfahren"
+      },
+      "nurse": {
+        "status": "Krankenpflegervisum",
+        "title": "Professionelle Unterstützung für Krankenpfleger",
+        "description": "Expertenberatung für Pflegeabsolventen bei Arbeitserlaubnis und nationalen Visumverfahren in Deutschland. Vollständige Unterstützung bei der Anerkennung beruflicher Kompetenzen und Sprachkenntnissen.",
+        "button": "Mehr erfahren"
+      },
+      "caregiver": {
+        "status": "Altenpflege",
+        "title": "Betreuer und Altenpflegespezialisten",
+        "description": "Umfassende Visumberatung für Fachkräfte, die im Altenpflegebereich arbeiten möchten. Verbindung mit Pflegezentren in Deutschland und Jobvermittlungsunterstützung.",
+        "button": "Mehr erfahren"
+      },
+      "healthTechnician": {
+        "status": "Krankenhausvermittlung",
+        "title": "Gesundheitstechniker und Hilfspersonal",
+        "description": "Deutsche Visumverfahren für Medizintechniker, Laborspezialisten und andere Gesundheitshilfskräfte. Umfassender Service mit beruflicher Zertifizierung und Jobsuchunterstützung.",
+        "button": "Mehr erfahren"
+      },
+      "healthExpert": {
+        "status": "Spezialisierungsprogramm",
+        "title": "Gesundheitsspezialisten und Therapeuten",
+        "description": "Arbeitsmöglichkeiten in Deutschland für Physiotherapeuten, Psychologen, Ernährungsberater und andere Gesundheitsspezialisten. Spezialisierte Visumberatung und berufliche Anerkennungsverfahren für Ihr Fachgebiet.",
+        "button": "Mehr erfahren"
+      }
+    },
+    "otherProfessions": {
+      "title": "Nationale Visumdienste für andere Berufsgruppen",
+      "construction": {
+        "title": "Baugewerbe",
+        "description": "Spezielle Visumberatung für diejenigen, die im Bau- und Baugewerbe arbeiten möchten. Klempner, Elektriker, Tischler und andere technische Personalpositionen."
+      },
+      "hospitality": {
+        "title": "Hotel & Restaurant",
+        "description": "Karrieremöglichkeiten im Tourismus- und Gastronomiebereich. Visumverfahren für Kellner, Koch, Hotelpersonal und andere Dienstleistungspositionen."
+      },
+      "logistics": {
+        "title": "Logistik & Transport",
+        "description": "Arbeitsmöglichkeiten im Fahr- und Logistikbereich. LKW-Fahrer, Gabelstaplerfahrer und Lagerpersonal."
+      },
+      "cleaning": {
+        "title": "Reinigung & Hygiene",
+        "description": "Beschäftigungsmöglichkeiten im Reinigungsdienstleistungsbereich. Industriereinigung, Krankenhausreinigung und Büroreinigungspersonal."
+      },
+      "office": {
+        "title": "Büro & Management",
+        "description": "Büroangestellte und Managementpositionen. Buchhaltung, Personalwesen, Sekretariat und andere Büroarbeitskräfte."
+      },
+      "others": {
+        "title": "Andere Berufe",
+        "description": "Spezielle Beratungsdienstleistungen für Landwirtschaft, Produktion, Verkauf und andere Berufsgruppen. Geeignete Visumverfahren für jeden Beruf."
+      },
+      "learnMore": "Mehr erfahren"
+    },
+    "process": {
+      "tabs": {
+        "jobSearch": "Jobsuchprozess",
+        "visaApplication": "Visumantrag",
+        "companyAgreements": "Unternehmensvereinbarungen"
+      },
+      "content": {
+        "jobSearch": {
+          "title": "Arbeit finden in Deutschland",
+          "subtitle": "Gesundheitswesen fokussiert",
+          "description": "Wir bieten professionelle Beratung im Jobsuchprozess im Gesundheitswesen. Dank unserem starken Netzwerk mit Krankenhäusern und Gesundheitseinrichtungen in Deutschland helfen wir Ihnen, für Sie geeignete Positionen zu finden.",
+          "detail": "Wir begleiten Sie durch den gesamten Prozess von der Lebenslaufvorbereitung bis zum Vorstellungsgespräch.",
+          "footer": "Wir haben Karriereberatungsdienste speziell für Ihren Beruf und Jobmöglichkeiten."
+        },
+        "visaApplication": {
+          "title": "Nationales Arbeitsvisum",
+          "subtitle": "Antragsprozess",
+          "description": "Wir verwalten alle Schritte für Sie im deutschen nationalen Arbeitsvisumantragsprozess. Professionelle Unterstützung von der Dokumentenvorbereitung bis zur Terminvereinbarung.",
+          "detail": "Wir bereiten alle notwendigen Dokumente korrekt vor, um den Visumgenehmigungsprozess zu beschleunigen.",
+          "footer": "Sie können mit unserer hohen Erfolgsquote vertrauensvoll Ihren Visumantrag stellen."
+        },
+        "companyAgreements": {
+          "title": "Partnerunternehmen",
+          "subtitle": "Jobgarantie",
+          "description": "Dank unserer speziellen Vereinbarungen mit 150+ Partnerkrankenhäusern und Gesundheitseinrichtungen in Deutschland bieten wir Ihnen direkte Jobmöglichkeiten.",
+          "detail": "Nach Erhalt eines Jobangebots verläuft Ihr Visumprozess viel schneller und sicherer.",
+          "footer": "Sie können mit unseren Partnerunternehmen langfristige Karriereplanung machen."
+        }
+      }
+    },
+    "about": {
+      "title": "Eine andere Art der Beratung.",
+      "description": "Wir bieten umfassende Dienstleistungen zur Verwirklichung Ihrer internationalen Karriereziele im Gesundheitswesen.",
+      "statsTitle": "In Zahlen",
+      "stats": {
+        "experience": "Jahre Erfahrung",
+        "healthPersonnel": "Gesundheitspersonal",
+        "successRate": "Erfolgsquote",
+        "partners": "Partnerorganisationen"
+      },
+      "content": {
+        "paragraph1": "Das Gesundheitswesen verändert und entwickelt sich ständig. Der Bedarf an Gesundheitspersonal in Deutschland steigt täglich. Jetzt ist die richtige Zeit, diese Gelegenheit zu nutzen.",
+        "highlight": "In Deutschland zu arbeiten ist nicht nur ein Traum. Wir machen es für Sie zur Realität.",
+        "paragraph2": "Unser Team, das jahrelang in diesem Sektor gearbeitet hat, stood vor allen Herausforderungen in den Ansiedlungsprozessen von Gesundheitspersonal in Deutschland. Traditionelle Methoden reichen nicht aus. Wir bieten einen umfassenden Beratungsservice, der speziell für Gesundheitspersonal entwickelt wurde."
+      }
+    },
+    "architectureSection": {
+      "subtitle": "Alles was Sie wissen müssen",
+      "title": "Arbeitsprozess in Deutschland",
+      "description": "Deutschland ist bekannt für seine starke Wirtschaft, Kultur und hohe Lebensqualität. Für Einwanderer bedeutet der Umzug nach Deutschland jedoch mehr als nur eine neue Karriere; es ist der Beginn eines neuen Lebens in einer neuen Umgebung.",
+      "cards": {
+        "integration": {
+          "title": "Mitarbeiterintegration",
+          "description": "Nachdem internationale Mitarbeiter erfolgreich Deutschland erreicht haben, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um langfristige Bindung an das Unternehmen zu gewährleisten."
+        },
+        "experiencedVisa": {
+          "title": "Visum für erfahrene Fachkräfte",
+          "description": "Was ist ein Visum für erfahrene Fachkräfte? Das Visum für erfahrene Fachkräfte (§ 19c Aufenthaltsgesetz, Absatz 2) richtet sich an Fachkräfte, die mindestens zwei Jahre qualifizierte Berufserfahrung in ihrem Bereich haben, aber keinen formalen Universitätsabschluss besitzen."
+        },
+        "acceleratedProcedures": {
+          "title": "Beschleunigte Verfahren",
+          "description": "Was ist das beschleunigte Fachkräfteverfahren? Das Beschleunigte Fachkräfteverfahren ist ein spezieller Prozess, der entwickelt wurde, um den Einwanderungs- und Anerkennungsprozess für Fachkräfte aus dem Ausland zu beschleunigen."
+        },
+        "recruitment": {
+          "title": "Rekrutierung",
+          "description": "Schritt für Schritt. Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Deutschland zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen."
+        }
+      },
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "nationalVisaProcess": {
+    "hero": {
+      "title": "Nationales Arbeitsvisum Antragsprozess",
+      "description": "Das nationale Arbeitsvisum gewährt das Recht zur Einreise nach Deutschland für langfristige Aufenthalte zu Arbeitszwecken. Je nach Art der Arbeit wird das Visum mit einer Gültigkeitsdauer von bis zu einem Jahr ausgestellt. Nach der Einreise müssen Sie in der Regel eine inländische Aufenthaltserlaubnis beantragen. Dieser Visumtyp gilt nur für bestimmte Arbeitspositionen und gewährt keine Freizügigkeit im Schengen-Raum."
+    },
+    "appointmentSystem": {
+      "title": "Terminsystem",
+      "description": "Termine werden über das nationale Terminsystem vergeben",
+      "ourService": "Unser Service:",
+      "serviceDescription": "Wir kümmern uns um die Terminverfahren für Sie. Wir vereinbaren die notwendigen Termine und führen die Verfahren durch. Erforderliche Dokumente werden von Ihnen angefordert und organisiert, dann verfolgen wir den Prozess."
+    },
+    "preparation": {
+      "title": "Vorbereitung",
+      "description": "Nutzen Sie das Online-Terminsystem für nationale Visa, um Ihren Aufenthaltszweck und die einzureichenden Dokumente zu erfahren. Registrieren Sie sich gegen Gebühr über das Online-Terminsystem auf der Warteliste für Ihren Aufenthaltszweck."
+    },
+    "application": {
+      "title": "Antragstellung",
+      "description1": "Aufgrund der Beteiligung deutscher Innenbehörden am Verfahren dauert die Dokumentenbearbeitung in der Regel bis zu drei Monate (oder in einigen Fällen länger). Wenn Sie Ihren Reisepass während des Bewertungsprozesses Ihres Antrags benötigen, können Sie sich an die zuständige Visaabteilung wenden, indem Sie Ihre Antragsnummer in Ihrem unterschriebenen schriftlichen Antrag angeben.",
+      "description2": "Eine Servicegebühr muss bezahlt werden. Nach der Abnahme Ihrer Fingerabdrücke werden Ihr Reisepass und die erforderlichen Dokumente von der Visaabteilung für den Bewertungsprozess entgegengenommen."
+    },
+    "afterEvaluation": {
+      "title": "Nach der Bewertung",
+      "description": "Unmittelbar nach Abschluss des Bewertungsprozesses der Anträge wird Ihr Reisepass zusammen mit einigen von Ihnen eingereichten Originaldokumenten in einem Umschlag entweder an ihre Büros oder direkt per Post an Sie zurückgesandt."
+    },
+    "note": {
+      "label": "Hinweis:",
+      "text": "Die Preisgestaltung erfolgt pro Person, und der Prozess variiert je nach Datei- und Dokumentenvielfalt sowie Visumtyp."
+    },
+    "processingTimes": {
+      "title": "Bearbeitungszeiten",
+      "importantInfo": {
+        "title": "Wichtige Information",
+        "description": "Planen Sie vor der Antragstellung bitte die Terminwartezeit und die Zeit ein, die für die Rückgabe Ihres Reisepasses erforderlich ist."
+      },
+      "decisionAuthority": {
+        "title": "Entscheidungsbefugnis",
+        "description": "Die Entscheidung über die Genehmigung oder Ablehnung des Antrags wird nur von den Auslandsvertretungen getroffen."
+      },
+      "holidayEffect": {
+        "title": "Feiertagseffekt",
+        "description": "Die Bearbeitungszeiten können aufgrund türkischer und deutscher Feiertage variieren. Daher empfehlen wir, frühzeitig einen Visumantrag zu stellen."
+      },
+      "applicationTracking": {
+        "title": "Antragsverfolgung",
+        "description": "Sie können verfolgen, in welchem Stadium sich Ihr Antrag befindet, indem Sie uns kontaktieren."
+      }
+    }
+  },
+  "navigation": {
+    "previousSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie"
+  },
+  "stats": {
+    "byNumbers": "In Zahlen"
+  }
+}

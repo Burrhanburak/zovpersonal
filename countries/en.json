@@ -1,0 +1,828 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "consultation": "Free Consultation"
+  },
+  "hero": {
+    "title": "International Work Visa Consulting",
+    "subtitle": "Your Gateway to Working Abroad",
+    "description": "Expert guidance for obtaining work visas to Germany, EU countries, and beyond. Professional consultation services for individuals and businesses.",
+    "longDescription": "Build resilience, and rediscover your inner strength. Whether you're facing anxiety, trauma, relationship issues, or simply seeking clarity in your international career journey.",
+    "cta": "Request A Call",
+    "secondary_cta": "Learn More",
+    "learnMore": "Learn More",
+    "tag1": "Gain Clarity",
+    "tag2": "Manage Stress"
+  },
+  "about": {
+    "hero": {
+      "title": "Democratising quality visa consultancy services",
+      "subtitle": "ZovPersonal provides professional visa consultancy to guide you towards your international career goals.",
+      "description1": "At ZovPersonal, we are dedicated to providing our customers with an unbeatable edge over delays, inefficiencies, and disorganisation through actionable insights and seamless collaboration. We'll stop at nothing to give you the tools you need to get every visa application across the finish line.",
+      "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can help you operate better than ever before. We're all in this together because your success is our success. In our history as a company, we've never lost a customer, because when your projects succeed, so do we."
+    },
+    "stats": {
+      "experience": {
+        "number": "12+",
+        "label": "Years Experience"
+      },
+      "clients": {
+        "number": "5K+",
+        "label": "Successful Clients"
+      },
+      "visas": {
+        "number": "10K+",
+        "label": "Approved Visas"
+      },
+      "countries": {
+        "number": "25+",
+        "label": "Target Countries"
+      }
+    },
+    "team": {
+      "title": "The team",
+      "description1": "We started building ZovPersonal in 2019 and launched in 2022. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power visa consultancy innovation for the next hundred years.",
+      "description2": "Our experienced consultants understand each client's unique needs and provide personalized solutions. We are here to simplify the complexities of visa processes and make your application journey seamless.",
+      "description3": "Contact us for visa consultancy.",
+      "cta": "Contact Us"
+    },
+    "company": {
+      "description1": "At ZovPersonal, we are dedicated to transforming international visa processes and providing our customers with an unbeatable edge over delays and inefficiencies. Through actionable insights and seamless collaboration, we provide the tools needed for every visa application to succeed.",
+      "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can provide better service than ever before. We're all in this together because your success is our success. In our company history, we've never lost a customer, because when your projects succeed, so do we."
+    },
+    "images": {
+      "teamWork": "Team collaboration",
+      "officeSpace": "Office workspace",
+      "consulting": "Consulting services",
+      "success": "Success stories"
+    },
+    "partners": {
+      "title": "Our partners",
+      "partner1": {
+        "name": "Mehmet Yılmaz",
+        "role": "Visa Specialist"
+      },
+      "partner2": {
+        "name": "Ayşe Demir",
+        "role": "Legal Advisor"
+      },
+      "partner3": {
+        "name": "Ali Kaya",
+        "role": "Business Development"
+      },
+      "partner4": {
+        "name": "Fatma Öz",
+        "role": "Client Relations"
+      },
+      "partner5": {
+        "name": "Emre Şahin",
+        "role": "Operations Manager"
+      }
+    },
+    "description": "Guiding you towards your international career goals and simplifying visa processes to create opportunities for working in your dream country. With 15 years of experience, we provide trusted visa consulting services worldwide.",
+    "features": {
+      "compassion": "Empathy and Understanding",
+      "integrity": "Honesty and Reliability",
+      "mindGrowth": "Personal and Professional Growth"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive visa and immigration solutions",
+    "workVisa": {
+      "title": "Work Visa Applications",
+      "description": "Complete assistance with work visa applications for various countries including Germany, Austria, Netherlands, and more."
+    },
+    "skillsAssessment": {
+      "title": "Skills Assessment",
+      "description": "Professional evaluation of your qualifications and matching with international job opportunities."
+    },
+    "documentation": {
+      "title": "Document Preparation",
+      "description": "Expert help with document preparation, translation, and authentication services."
+    },
+    "consultation": {
+      "title": "Personal Consultation",
+      "description": "One-on-one consultation sessions to understand your specific needs and career goals."
+    },
+    "tabContent": {
+      "workVisa": {
+        "title": "Apply. Prepare. Approve.",
+        "description": "We professionally prepare and track your work visa applications.",
+        "stat1": { "number": "95%", "label": "approval rate" },
+        "stat2": { "number": "30", "label": "days average time" },
+        "category": "Work Visa Applications"
+      },
+      "documentation": {
+        "title": "Organize. Translate. Approve.",
+        "description": "We prepare all your documents to international standards and get them authenticated.",
+        "stat1": { "number": "100%", "label": "document compliance" },
+        "stat2": { "number": "48", "label": "hours ready" },
+        "category": "Document Preparation"
+      },
+      "skillsAssessment": {
+        "title": "Analyze. Evaluate. Guide.",
+        "description": "We analyze your professional qualifications and match them with international job opportunities.",
+        "stat1": { "number": "85%", "label": "suitable position finding" },
+        "stat2": { "number": "12", "label": "years experience" },
+        "category": "Skills Assessment"
+      }
+    },
+    "tabButtons": {
+      "workVisa": "Work Visa",
+      "documentation": "Documentation",
+      "skillsAssessment": "Skills Assessment"
+    }
+  },
+  "professions": {
+    "title": "Professional Categories",
+    "subtitle": "We specialize in visa applications for various professional fields",
+    "healthcare": {
+      "title": "Healthcare Professionals",
+      "description": "Nurses, doctors, therapists, and other healthcare workers",
+      "requirements": "Required documents and qualifications"
+    },
+    "engineering": {
+      "title": "Engineers & IT",
+      "description": "Software developers, engineers, and technical specialists",
+      "requirements": "Technical qualification requirements"
+    },
+    "skilled": {
+      "title": "Skilled Workers",
+      "description": "Craftsmen, technicians, and skilled laborers",
+      "requirements": "Professional certification requirements"
+    },
+    "education": {
+      "title": "Education & Research",
+      "description": "Teachers, researchers, and academic professionals",
+      "requirements": "Academic credential requirements"
+    }
+  },
+  "documents": {
+    "title": "Required Documents",
+    "subtitle": "Essential paperwork for your visa application",
+    "categories": {
+      "personal": {
+        "title": "Personal Documents",
+        "description": "Passport with at least 6 months validity, identity documents and paperwork containing your personal information."
+      },
+      "education": {
+        "title": "Educational Documents",
+        "description": "Diplomas, certificates and language proficiency documents. Apostille may be required for international recognition."
+      },
+      "professional": {
+        "title": "Professional Documents",
+        "description": "Job offer letter, employment contract, professional qualification certificates and experience documents."
+      },
+      "medical": {
+        "title": "Medical & Legal",
+        "description": "Medical report, criminal background check, financial status documents and your biometric photographs."
+      }
+    },
+    "list": [
+      "Valid passport with at least 6 months validity",
+      "Educational certificates and diplomas",
+      "Professional qualification certificates",
+      "Language proficiency certificates (German/English)",
+      "Job offer letter or employment contract",
+      "Medical examination reports",
+      "Criminal background check",
+      "Proof of financial means",
+      "Completed visa application forms",
+      "Biometric photographs"
+    ]
+  },
+  "process": {
+    "title": "Our Visa Application Process",
+    "subtitle": "We minimize the complexity of managing your complex documents with our tools that simplify your visa application process.",
+    "step1": {
+      "title": "Initial Consultation and Assessment",
+      "description": "We analyze your profile and goals to develop a personalized visa strategy for you.",
+      "alt": "Visa consultation"
+    },
+    "step2": {
+      "title": "Document Preparation and Review",
+      "description": "We prepare all your documents to international standards and detect any deficiencies instantly.",
+      "alt": "Document preparation"
+    },
+    "step3": {
+      "title": "Application and Follow-up",
+      "description": "We securely submit your application and continuously monitor it until completion.",
+      "alt": "Application tracking"
+    }
+  },
+  "contact": {
+    "title": "Let's Talk With Us",
+    "subtitle": "Whether you're ready to schedule your first consultation or just have questions, we'd love to hear from you.",
+    "pageTitle": "Contact us",
+    "pageSubtitle": "We're here to help with your visa consultation inquiries.",
+    "offices": {
+      "istanbul": "🇹🇷 Istanbul Office",
+      "berlin": "🇩🇪 Berlin Office"
+    },
+    "sections": {
+      "email": "Email us",
+      "follow": "Follow us",
+      "inquiries": "Inquiries"
+    },
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email Address",
+    "datePlaceholder": "Select Date",
+    "messagePlaceholder": "Message",
+    "submitButton": "Book Now",
+    "imageAlt": "Contact us for visa consulting",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "form": {
+      "fullName": "Full name",
+      "email": "Work email address",
+    
+      "message": "Your message",
+      "submit": "Submit",
+      "optional": "(optional)",
+      "placeholders": {
+        "fullName": "First and last name",
+        "email": "me@mail.com",
+        "message": "Write your message"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Start Your International Career?",
+    "subtitle": "Get a free consultation with our expert team and take the first step towards your dream job abroad.",
+    "button": "Get Free Consultation"
+  },
+  "footer": {
+    "ctaTitle": "Smarter Consulting.\nMove Forward with Confidence",
+    "ctaSubtitle": "Access a new era with hybrid solutions, advanced tools, and enterprise-level consulting services.",
+    "ctaButton": "Get Started",
+    "ctaSecondary": "View Our Services", 
+    "supportingText": "Your trusted partner for international visa consulting and career guidance.",
+    "copyright": "Copyright ©2025. All rights reserved.",
+    "links": {
+      "home": "Home",
+      "services": "Services", 
+      "about": "About",
+      "contact": "Contact",
+      "requiredDocuments": "Required Documents",
+      "applicationProcess": " National Visa Application Process",
+      "pricing": "Pricing",
+      "additionalServices": "Additional Services",
+      "nationalVisaSteps": "National Visa Steps (90+ Days)"
+    },
+    "description": "Professional international work visa consulting services",
+    "quickLinks": "Quick Links",
+    "ourServices": "Resources",
+    "email": "info@zovpersonal.com",
+    "phone": "(Turkey) | +90 555 123 45 67 (Germany) | +49 30 12345678",
+    "address": "Istanbul, Turkey, Berlin, Germany",
+    "visa": {
+      "requiredDocuments": "Required Documents",
+      "applicationProcess": "Application Process",
+      "pricing": "Pricing",
+      "additionalServices": "Additional Services",
+      "nationalVisaSteps": "National Visa Steps",
+      "professions": "Profession Process"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://instagram.com/zovpersonal",
+        "alt": "Follow us on Instagram"
+      },
+      "twitter": {
+        "url": "https://twitter.com/zovpersonal",
+        "alt": "Follow us on Twitter"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/company/zovpersonal",
+        "alt": "Follow us on LinkedIn"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "services": {
+      "workVisa": "Work Visa Applications",
+      "skillsAssessment": "Skills Assessment",
+      "documentation": "Document Preparation",
+      "consultation": "Personal Consultation"
+    },
+    "legal": "Our consulting services are for informational purposes only and do not constitute guarantees. Visa application processes are subject to country regulations and results may vary. Please contact our expert consultants to evaluate your personal situation.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rightsReserved": "All rights reserved"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "subtitle": "ZovPersonal Consulting Services - Protection and Security of Your Personal Data",
+    "sections": {
+      "intro": {
+        "title": "Our Privacy Policy",
+        "content": "As ZovPersonal Consulting and Service Foreign Trade Inc., we show the highest level of sensitivity regarding the security of your personal data. This privacy policy explains how we collect, process, protect and store your personal data when using our services.",
+        "kvkk": "As data controllers under the Personal Data Protection Law No. 6698 (KVKK), we ensure full compliance with legislation in the processing of your personal data."
+      },
+      "dataCollection": {
+        "title": "Personal Data We Collect",
+        "identity": {
+          "title": "Identity and Contact Information",
+          "items": ["Name, surname", "Date and place of birth", "National ID number", "Passport information", "Phone number", "Email address", "Address information"]
+        },
+        "visa": {
+          "title": "Visa Application Information",
+          "items": ["Education status", "Professional information", "Income status", "Travel history", "Family status", "Health status (when required)"]
+        },
+        "technical": {
+          "title": "Technical Data",
+          "items": ["IP address", "Browser information", "Device information", "Website usage data"]
+        }
+      },
+      "processing": {
+        "title": "Purposes of Personal Data Processing",
+        "description": "We process your personal data for the following purposes:",
+        "purposes": ["Conducting visa application processes", "Providing consulting services", "Customer relationship management", "Fulfilling legal obligations", "Improving service quality", "Statistical analysis", "Measuring customer satisfaction", "Taking security measures"]
+      },
+      "security": {
+        "title": "Data Security",
+        "description": "We take the following technical and administrative measures for the security of your personal data:",
+        "measures": ["Encrypted data transmission with SSL certificate", "Secure server infrastructure", "Access control and authorization", "Regular security updates", "Staff training and confidentiality agreements", "Data backup and recovery procedures", "24/7 security monitoring"]
+      },
+      "rights": {
+        "title": "Data Subject Rights",
+        "description": "You have the following rights under KVKK:",
+        "list": {
+          "info": {
+            "title": "Right to Information",
+            "description": "Right to learn whether your personal data is being processed"
+          },
+          "access": {
+            "title": "Right of Access",
+            "description": "Right to request information about your processed personal data"
+          },
+          "rectification": {
+            "title": "Right to Rectification",
+            "description": "Right to request correction of incorrect or incomplete data"
+          },
+          "erasure": {
+            "title": "Right to Erasure",
+            "description": "Right to request deletion of your personal data"
+          },
+          "objection": {
+            "title": "Right to Object",
+            "description": "Right to object to data processing and request its cessation"
+          },
+          "portability": {
+            "title": "Right to Portability",
+            "description": "Right to request transfer of your data to another data controller"
+          }
+        },
+        "howToUse": {
+          "title": "How Can You Exercise Your Rights?",
+          "description": "You can use the following communication channels to exercise the above rights:",
+          "channels": ["Email: info@zovpersonal.com", "Written application: Hand delivery or mail to our company address", "Online form: Application form at www.zovpersonal.com"]
+        }
+      },
+      "cookies": {
+        "title": "Cookies",
+        "description": "We use cookies on our website to improve user experience. Cookies are small text files stored in your web browser. You can control cookie usage from your browser settings."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "You can contact us for questions about our privacy policy:",
+        "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+        "offices": {
+          "turkey": {
+            "title": "Turkey Office",
+            "address": "Address",
+            "phone": "Phone",
+            "location": "Istanbul, Turkey"
+          },
+          "germany": {
+            "title": "Germany Office",
+            "address": "Address", 
+            "phone": "Phone",
+            "location": "Berlin, Germany"
+          }
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "subtitle": "ZovPersonal Consulting Services - Security Regulations and Personal Data Protection",
+    "sections": {
+      "securityRegulations": {
+        "title": "SECURITY REGULATIONS",
+        "intro": "Security Regulations Announcement covering matters that must be observed and complied with by applicants visiting ZovPersonal Visa Application Centers;",
+        "description": "In accordance with the security requirements of German/Italian representations, applicants visiting ZovPersonal offices are prohibited from performing the following actions and bringing and using the specified items in ZovPersonal offices:",
+        "prohibitedItems": [
+          "Mobile phones, cameras, video cameras or any other devices that record audio/video (mp3 readers/players, portable computers, battery-powered recording devices, etc.)",
+          "All kinds of flammable (matches, lighters, fuel and similar combustible) and cutting (scissors, pencil sharpeners, files, etc.) objects",
+          "Weapons or weapon-like objects or any explosive materials",
+          "Pets (due to allergic sensitivities)",
+          "Sealed envelopes or packages",
+          "Food and beverages",
+          "Bags or suitcases larger than cabin size, backpacks, briefcases or zippered bags (If you have files, you can only keep files containing the requested documents)"
+        ],
+        "disclaimer": "*The above list is not limited to those specified.",
+        "additionalRules": [
+          "Security guards and office officials have the right to prohibit suspicious items and refuse entry to suspicious persons to our offices. Security guards have the authority to check the applicant's bag at any time during the visa application process.",
+          "For security reasons, third parties such as friends, relatives or workplace employees other than the applicant are prohibited from entering visa applications (Entry to ZovPersonal offices is not possible except for the applicant and the person who will apply by proxy). Only 1 person will be accepted to accompany applicants who physically need someone else's help, have hearing impairments or cannot read and write.",
+          "Applicants are prohibited from entering areas other than the common areas reserved for applicants in our offices (staff work areas, toilets, etc.).",
+          "ZovPersonal offices do not have any place to store the prohibited items mentioned above. ZovPersonal offices also do not accept deposits. Applicants are requested to choose alternative ways not to bring such characteristics and types of items with them before entering the center.",
+          "ZovPersonal offices are recorded with cameras 24/7 due to our security policy."
+        ],
+        "footer": "We respectfully inform you."
+      },
+      "dataProtection": {
+        "title": "GENERAL INFORMATION TEXT ON THE PROTECTION AND PROCESSING OF PERSONAL DATA",
+        "intro": "As ZovPersonal Consulting and Service Foreign Trade Inc. (\"ZovPersonal\" or \"Company\"), we show maximum sensitivity to the security of your personal data. With this awareness, we attach great importance to the processing and storage of personal data belonging to natural persons with whom the Company interacts in accordance with the Personal Data Protection Law No. 6698 (\"Law\"), secondary regulations (regulations, communiqués, circulars) that have been and will be put into effect based on the Law, and binding decisions taken and to be taken by the Personal Data Protection Board.",
+        "dataController": {
+          "title": "Information About the Data Controller",
+          "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., registered with the Istanbul Trade Registry Directorate, is the Data Controller in accordance with the Law."
+        },
+        "processingPurposes": {
+          "title": "Purposes of Processing Personal Data",
+          "content": "Your personal data is processed by the Company for the purposes of carrying out the necessary work by the Company's business units and conducting activities in this direction for the fulfillment of the Company's commercial activities in accordance with legislation and Company policies, determining, planning and implementing the Company's short, medium and long-term commercial policies, fulfilling the Company's obligations arising from relevant legislation, managing customer relations and corporate communication processes, managing service sales processes, managing call center processes, and ensuring the commercial and legal security of natural and legal persons with whom the Company has business relations, within the limits specified in the Law, in accordance with the law, honesty rules, and always in a connected, limited and proportionate manner with these purposes."
+        },
+        "dataTransfer": {
+          "title": "Transfer of Personal Data",
+          "content": "Your personal data is transferred within the scope of the above-mentioned purposes, in accordance with the conditions specified in Articles 8 and 9 of the Law, primarily to legally authorized public institutions, judicial and administrative authorities, private law legal entities and natural persons permitted by other legislation, institutions and organizations authorized to audit the Company, payment institutions contracted for the fulfillment of payments and financial obligations, business partners from whom services are received or with whom cooperation is established for the fulfillment of services provided through the call center and for the conduct and development of the Company's activities, and only when necessary to the Company's suppliers, by taking the data security measures specified in the Law."
+        },
+        "collectionMethod": {
+          "title": "Method and Legal Basis for Collecting Personal Data",
+          "content": "Your personal data is collected by the Company's authorized units and employees through automatic and non-automatic methods, verbally, in writing or in electronic environment. In this context, personal data in the categories of identity, communication, location, legal transaction, customer transaction, transaction security, risk management, finance are processed based on the legal reasons of processing personal data belonging to the parties of the contract being mandatory due to being directly related to the establishment or performance of a contract shown in the second paragraph of Article 5 of the Law, processing data being mandatory for the data controller to fulfill its legal obligation, being made public by the data subject himself, and processing data being mandatory for the legitimate interests of the Company, provided that it does not harm the fundamental rights and freedoms of the data subject."
+        },
+        "dataSubjectRights": {
+          "title": "Rights of Data Subjects Under the Law",
+          "intro": "You can apply to ZovPersonal at any time to:",
+          "rights": [
+            "Learn whether your personal data is being processed",
+            "Request information about this if your personal data has been processed",
+            "Learn the purpose of processing your personal data and whether they are used in accordance with their purpose",
+            "Know the third parties to whom your personal data is transferred domestically or abroad",
+            "Request correction of incomplete or incorrectly processed personal data",
+            "Request deletion or destruction of personal data within the framework of the conditions stipulated in Article 7 of the Law",
+            "Request that the operations carried out in accordance with subparagraphs (d) and (e) of Article 11 of the Law be notified to third parties to whom your personal data has been transferred",
+            "Object to the emergence of a result against you through the analysis of your processed data exclusively through automated systems",
+            "Request compensation for damages in case you suffer damage due to illegal processing of your personal data"
+          ],
+          "applicationProcess": "You can request to exercise your rights. You can submit your requests regarding your rights and the application of the Law by filling out the application form that you can obtain from https://zovpersonal.com/ and sending it to the company address via notary, registered mail with return receipt or with your personal application in wet signature form, or by signing the application form you filled out electronically with your mobile signature or secure electronic signature and then sending it to info@zovpersonal.com using your KEP address or the e-mail address already registered in the Company's data recording system.",
+          "fees": "ZovPersonal will respond to requests in this scope free of charge up to ten pages if a written response is to be given; it will respond by charging a fee for each page over ten pages per transaction. If the response to the application is given on a recording medium such as CD or flash memory, the fee that may be requested by the Company cannot exceed the cost of the recording medium."
+        }
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "subtitle": "Our distinctive features in international visa consultancy",
+    "category": "Visa Consultancy",
+    "description": "With 15+ years of experience, we are your trusted partner in achieving international career goals. We make a difference with our personalized approach and high success rate.",
+    "feature1": {
+      "title": "Expert Team",
+      "description": "We stand by you with our visa specialists and legal advisors with 15+ years of experience."
+    },
+    "feature2": {
+      "title": "High Success Rate",
+      "description": "We've made thousands of clients' dreams come true with our 95% success rate."
+    },
+    "feature3": {
+      "title": "Personalized Service",
+      "description": "We develop customized solutions for each client's unique situation."
+    },
+    "feature4": {
+      "title": "24/7 Support",
+      "description": "We provide uninterrupted support and up-to-date information throughout the process."
+    },
+    "slides": {
+      "personalizedCare": {
+        "title": "Personalized Care",
+        "description": "We develop custom solutions by understanding each client's unique needs."
+      },
+      "experiencedProfessionals": {
+        "title": "Experienced Professionals",
+        "description": "We provide reliable consulting services with our team of experts in their field."
+      },
+      "holisticApproach": {
+        "title": "Holistic Approach",
+        "description": "We comprehensively address all stages of your visa process."
+      },
+      "supportiveEnvironment": {
+        "title": "Supportive Environment",
+        "description": "You can receive consulting services in a safe and comfortable environment."
+      },
+      "healthcareRecruitment": {
+        "title": "Healthcare Sector Recruitment",
+        "description": "Recruiting international specialists offers tremendous opportunities to address Germany's skills shortage. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad. We create attractive job postings that appeal to international professionals with clear job descriptions, salary transparency, and comprehensive support services."
+      },
+      "livingInGermany": {
+        "title": "Living in Germany",
+        "description": "Germany is known for its strong economy, culture, and high quality of life. We provide a comprehensive guide to life in Germany from the first steps in daily life to successful integration into society. We offer detailed information on finding accommodation, German culture and traditions, language learning, healthcare system, and daily life. We guide you on everything from important values like punctuality and order to traditional celebrations like Christmas and Oktoberfest."
+      },
+      "experiencedProfessionalsVisa": {
+        "title": "Visa for Experienced Professionals",
+        "description": "The visa for experienced professionals is aimed at skilled workers with at least two years of qualified professional experience in their field. With this visa, you can work in high-demand professions in Germany. You can apply if you meet requirements such as qualified professional experience, minimum wage conditions, job offer, and language skills. We support your application process with a minimum annual salary of €40,770 and B1 level German language proficiency."
+      },
+      "vocationalTrainingVisa": {
+        "title": "Vocational Training Visa",
+        "description": "The vocational training completion visa is aimed at individuals who want to complete a dual vocational training program in a recognized vocational training profession in Germany. This program combines theoretical knowledge taught in vocational school with practical training in a company, offering young people the opportunity to complete qualified training in German apprenticeships and subsequently gain long-term prospects in the German labor market."
+      },
+      "qualificationRecognitionVisa": {
+        "title": "Qualification Recognition Visa",
+        "description": "The visa for recognition of foreign professional qualifications is aimed at skilled workers who want their professional qualifications acquired abroad to be recognized in Germany. We provide long-term employment opportunities in Germany by bringing your qualifications to German standards. With this visa that allows you to live in Germany during the recognition process and take professional adaptation measures, we support you in meeting the requirements of B1 level German and minimum monthly financial security of €947."
+      }
+    }
+  },
+  "approach": {
+    "title": "Our Service Philosophy",
+    "subtitle": "How we manage your visa application process",
+    "holisticApproach": "With a holistic approach, we stand by you at every stage of your visa process.",
+    "personalizedCare": "With our personalized care approach, we meet each client's special needs.",
+    "compassionateProfessionals": "Our empathetic specialists support you throughout the process.",
+    "flexibleScheduling": "We serve you at convenient times with our flexible appointment system.",
+    "confidentialSpace": "You can share your personal information in a private and secure environment.",
+    "imageAlt": "Our visa consultancy approach",
+    "step1": {
+      "title": "Analysis and Planning",
+      "description": "We analyze your personal situation in detail and determine the most suitable visa strategy."
+    },
+    "step2": {
+      "title": "Document Preparation",
+      "description": "We prepare and review all your documents according to international standards."
+    },
+    "step3": {
+      "title": "Application and Follow-up",
+      "description": "We submit your application and continuously track it until completion."
+    },
+    "step4": {
+      "title": "Success and Support",
+      "description": "We continue to guide you through the settlement process even after obtaining the visa."
+    }
+  },
+  "reviews": {
+    "title": "Client Reviews",
+    "subtitle": {
+      "line1": "Experiences and opinions of",
+      "line2": "our successful clients"
+    },
+    "review1": {
+      "title": "Excellent Service",
+      "content": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process and kept me constantly informed.",
+      "name": "Dr. Ayşe Kaya",
+      "role": "Nurse - Germany",
+      "text": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process.",
+      "rating": 5
+    },
+    "review2": {
+      "title": "Professional Approach",
+      "content": "Thanks to their professional approach and detailed guidance, I obtained my Netherlands work visa smoothly. The team is really knowledgeable and experienced.",
+      "name": "Engineer Mehmet Öz",
+      "role": "Software Developer - Netherlands",
+      "text": "Thanks to their professional approach and detailed guidance, I obtained my Netherlands work visa smoothly. Thank you ZovPersonal!",
+      "rating": 5
+    },
+    "review3": {
+      "title": "Process Simplified",
+      "content": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything and provided step-by-step guidance.",
+      "name": "Teacher Fatma Demir",
+      "role": "Teacher - Canada",
+      "text": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything.",
+      "rating": 5
+    },
+    "review4": {
+      "title": "Reliable Partner",
+      "content": "I chose ZovPersonal to get my work permit as a doctor in Germany. I made the right decision, the process progressed very quickly.",
+      "name": "Dr. Can Özkan",
+      "role": "Doctor - Germany",
+      "rating": 5
+    },
+    "review5": {
+      "title": "Excellent Result",
+      "content": "I was very worried when applying for my Australia work visa. The ZovPersonal team reassured me and played a major role in achieving successful results.",
+      "name": "Architect Zeynep Yılmaz",
+      "role": "Architect - Australia",
+      "rating": 5
+    },
+    "review6": {
+      "title": "Fast and Effective",
+      "content": "When I found a job opportunity in Sweden, I had no idea about the visa process. Thanks to ZovPersonal, everything was resolved very quickly.",
+      "name": "Engineer Burak Kaya",
+      "role": "Electrical Engineer - Sweden",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We answer everything you wonder about visa and immigration processes. Find your path to your dream country with our expert team.",
+    "question1": "Which countries do you provide visa consulting for?",
+    "answer1": "We provide comprehensive visa consulting services for Germany, Australia, Canada, USA, UK, Netherlands, and many EU countries. We create tailored solutions for each country's unique requirements.",
+    "question2": "How long does the visa application process take?",
+    "answer2": "Duration varies by country and visa type, typically ranging from 2-6 months. Complete preparation of documents and following correct procedures accelerates the process.",
+    "question3": "What do you do if the application is rejected?",
+    "answer3": "In case of rejection, we analyze the reasons and develop a new strategy. If necessary, we handle appeal processes and prepare new applications after addressing deficiencies. We continue supporting our clients throughout the process.",
+    "question4": "What are your service fees?",
+    "answer4": "Our fees vary according to service type and complexity. Initial consultation is free. Contact us for detailed pricing and personalized quotes based on your specific needs.",
+    "question5": "In which languages should my documents be prepared?",
+    "answer5": "Documents must be translated into the official language of the target country. We also provide certified translation services for German, English, and other required languages."
+  },
+  "professionProcess": {
+    "hero": {
+      "title": "Germany National Visa - Professions and Process",
+      "subtitle": "Your national visa application process to work in Germany's healthcare sector"
+    },
+    "navigation": {
+      "previousSlide": "Previous slide",
+      "nextSlide": "Next slide"
+    },
+    "carousel": {
+      "doctor": {
+        "status": "Doctor Visa",
+        "title": "Germany National Visa for Doctors",
+        "description": "We provide comprehensive visa guidance and process management for medical graduates who want to work as doctors in Germany. Professional support in diploma recognition and language exam processes.",
+        "button": "Learn more"
+      },
+      "nurse": {
+        "status": "Nurse Visa",
+        "title": "Professional Support for Nurses",
+        "description": "Expert guidance for nursing graduates in work permit and national visa processes in Germany. Full support in professional competency recognition and language proficiency processes.",
+        "button": "Learn more"
+      },
+      "caregiver": {
+        "status": "Elderly Care",
+        "title": "Caregivers and Elderly Care Specialists",
+        "description": "Comprehensive visa consultancy for professionals who want to work in the elderly care sector. Connection with care centers in Germany and job placement support.",
+        "button": "Learn more"
+      },
+      "healthTechnician": {
+        "status": "Hospital Placement",
+        "title": "Health Technicians and Support Staff",
+        "description": "Germany visa processes for medical technicians, laboratory specialists and other healthcare support personnel. Comprehensive service with professional certification and job finding support.",
+        "button": "Learn more"
+      },
+      "healthExpert": {
+        "status": "Specialization Program",
+        "title": "Health Specialists and Therapists",
+        "description": "Work opportunities in Germany for physiotherapists, psychologists, dietitians and other health specialists. Specialized visa consultancy and professional recognition processes for your field of expertise.",
+        "button": "Learn more"
+      }
+    },
+    "otherProfessions": {
+      "title": "National Visa Services for Other Professional Groups",
+      "construction": {
+        "title": "Construction Sector",
+        "description": "Special visa consultancy for those who want to work in construction and building sector. Plumber, electrician, carpenter and other technical personnel positions."
+      },
+      "hospitality": {
+        "title": "Hotel & Restaurant",
+        "description": "Career opportunities in tourism and gastronomy sector. Visa processes for waiter, chef, hotel staff and other service sector positions."
+      },
+      "logistics": {
+        "title": "Logistics & Transportation",
+        "description": "Work opportunities in driving and logistics sector. Truck driver, forklift operator and warehouse staff positions."
+      },
+      "cleaning": {
+        "title": "Cleaning & Hygiene",
+        "description": "Employment opportunities in cleaning services sector. Industrial cleaning, hospital cleaning and office cleaning personnel."
+      },
+      "office": {
+        "title": "Office & Management",
+        "description": "Office workers and management positions. Accounting, human resources, secretarial and other office work personnel."
+      },
+      "others": {
+        "title": "Other Professions",
+        "description": "Special consultancy services for agriculture, production, sales and other professional groups. Appropriate visa processes for every profession."
+      },
+      "learnMore": "Learn more"
+    },
+    "process": {
+      "tabs": {
+        "jobSearch": "Job Search Process",
+        "visaApplication": "Visa Application",
+        "companyAgreements": "Company Agreements"
+      },
+      "content": {
+        "jobSearch": {
+          "title": "Finding Work in Germany",
+          "subtitle": "Healthcare Sector Focused",
+          "description": "We provide professional guidance in the job search process in the healthcare sector. Thanks to our strong network with hospitals and healthcare institutions in Germany, we help you find positions suitable for you.",
+          "detail": "We are with you throughout the entire process from CV preparation to interview.",
+          "footer": "We have career counseling services specific to your profession and job opportunities."
+        },
+        "visaApplication": {
+          "title": "National Work Visa",
+          "subtitle": "Application Process",
+          "description": "We manage all steps for you in the Germany national work visa application process. Professional support from document preparation to appointment scheduling.",
+          "detail": "We prepare all necessary documents correctly to expedite the visa approval process.",
+          "footer": "You can confidently apply for your visa with our high success rate."
+        },
+        "companyAgreements": {
+          "title": "Partner Companies",
+          "subtitle": "Job Guarantee",
+          "description": "Thanks to our special agreements with 150+ partner hospitals and healthcare institutions in Germany, we offer you direct job opportunities.",
+          "detail": "After receiving a job offer, your visa process proceeds much faster and more securely.",
+          "footer": "You can make long-term career planning with our partner companies."
+        }
+      }
+    },
+    "about": {
+      "title": "A different kind of consultancy.",
+      "description": "We offer comprehensive services to achieve your international career goals in the healthcare sector.",
+      "statsTitle": "By Numbers",
+      "stats": {
+        "experience": "Years Experience",
+        "healthPersonnel": "Health Personnel",
+        "successRate": "Success Rate",
+        "partners": "Partner Organizations"
+      },
+      "content": {
+        "paragraph1": "The healthcare sector is constantly changing and developing. The need for healthcare personnel in Germany is increasing every day. Now is the right time to seize this opportunity.",
+        "highlight": "Working in Germany is not just a dream. We make it a reality for you.",
+        "paragraph2": "Our team, which has worked in this sector for years, has faced all the challenges in the settlement processes of healthcare personnel in Germany. Traditional methods are not sufficient. We offer a comprehensive consultancy service specially designed for healthcare personnel."
+      }
+    },
+    "architectureSection": {
+      "subtitle": "Everything you need to know",
+      "title": "Work process in Germany",
+      "description": "Germany is known for its strong economy, culture and high quality of life. However, for immigrants, moving to Germany means more than just a new career; it is the beginning of a new life in a new environment.",
+      "cards": {
+        "integration": {
+          "title": "Employee integration",
+          "description": "After international employees successfully reach Germany, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company."
+        },
+        "experiencedVisa": {
+          "title": "Visa for experienced professionals",
+          "description": "What is an experienced professional visa? The visa for experienced professionals (Section 19c of the Residence Act, Paragraph 2) is aimed at skilled workers who have at least two years of qualified professional experience in their field but do not have a formal university degree."
+        },
+        "acceleratedProcedures": {
+          "title": "Accelerated procedures",
+          "description": "What is the accelerated skilled worker procedure? The Accelerated Skilled Worker Procedure is a special process developed to accelerate the immigration and recognition process for skilled workers from abroad."
+        },
+        "recruitment": {
+          "title": "Recruitment",
+          "description": "Step by step. Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Germany. However, for this process to be successful, companies need to adopt a targeted and structured approach."
+        }
+      },
+      "learnMore": "Learn More"
+    }
+  },
+  "nationalVisaProcess": {
+    "hero": {
+      "title": "National Work Visa Application Process",
+      "description": "The national work visa grants the right to enter Germany for long-term stays for work purposes. Depending on the type of work, the visa is issued with a validity period of up to one year. After entering the country, you usually need to apply for a domestic residence permit. This visa type is only valid for specific job positions and does not grant freedom of movement in the Schengen area."
+    },
+    "appointmentSystem": {
+      "title": "Appointment System",
+      "description": "Appointments are given through the national appointment system",
+      "ourService": "Our Service:",
+      "serviceDescription": "We handle the appointment procedures for you. We make the necessary appointments and carry out the procedures. Required documents will be requested from you and organized, then we follow up on the process."
+    },
+    "preparation": {
+      "title": "Preparation",
+      "description": "Use the online appointment system for national visas to learn about your purpose of stay and the documents you need to submit. Register on the appointment waiting list for your purpose of stay through the online appointment system for a fee."
+    },
+    "application": {
+      "title": "Application",
+      "description1": "Due to the involvement of German internal authorities in the process, document processing will typically take up to three months (or longer in some cases). If you need your passport during the evaluation process of your application, you can contact the relevant visa department by stating your application number in your signed written petition.",
+      "description2": "Service fee must be paid. After your fingerprints are taken, your passport and required documents are received by the visa department for the evaluation process."
+    },
+    "afterEvaluation": {
+      "title": "After Evaluation",
+      "description": "Immediately after the evaluation process of applications is completed, your passport is returned to you in an envelope along with some original documents you submitted, either to their offices or directly by mail."
+    },
+    "note": {
+      "label": "Note:",
+      "text": "Pricing is per person, and the process varies according to file and document variety and visa type."
+    },
+    "processingTimes": {
+      "title": "Processing Times",
+      "importantInfo": {
+        "title": "Important Information",
+        "description": "Before applying, please plan for the appointment waiting time and the time required to return your passport."
+      },
+      "decisionAuthority": {
+        "title": "Decision Authority",
+        "description": "The decision to approve or reject the application is made only by the Foreign Representations."
+      },
+      "holidayEffect": {
+        "title": "Holiday Effect",
+        "description": "Processing times may vary due to Turkish and German official holidays. Therefore, we recommend applying for a visa at an early date."
+      },
+      "applicationTracking": {
+        "title": "Application Tracking",
+        "description": "You can track what stage your application is at by contacting us."
+      }
+    }
+  },
+  "navigation": {
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide"
+  },
+  "stats": {
+    "byNumbers": "By the Numbers"
+  }
+}

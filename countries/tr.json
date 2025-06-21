@@ -1,0 +1,822 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda", 
+    "contact": "İletişim",
+    "consultation": "Ücretsiz Danışmanlık"
+  },
+  "hero": {
+    "title": "Uluslararası İş Vizesi Danışmanlığı",
+    "subtitle": "Yurtdışında Çalışmanın Kapısı",
+    "description": "Almanya, AB ülkeleri ve daha fazlası için iş vizesi başvurularında uzman rehberlik. Bireyler ve işletmeler için profesyonel danışmanlık hizmetleri.",
+    "longDescription": "Dayanıklılık kazanın ve iç gücünüzü yeniden keşfedin. İster endişe, travma, ilişki sorunları yaşıyor olun, ister sadece uluslararası kariyer yolculuğunuzda netlik arıyor olun.",
+    "cta": "Arama Talebinde Bulunun",
+    "secondary_cta": "Daha Fazla Bilgi",
+    "learnMore": "Daha Fazla Bilgi",
+    "tag1": "Netlik Kazanın",
+    "tag2": "Stresi Yönetin"
+  },
+  "about": {
+    "hero": {
+      "title": "Uluslararası vize danışmanlığında kaliteli hizmeti demokratikleştiriyoruz",
+      "subtitle": "ZovPersonal, uluslararası kariyer hedeflerinize profesyonel vize danışmanlığı ile rehberlik ediyor.",
+      "description1": "ZovPersonal'da, müşterilerimize gecikmeler, verimsizlikler ve organizasyon eksiklikleri karşısında yenilmez bir avantaj sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği sunuyoruz. Her vize başvurunuzun başarıyla sonuçlanması için gereken araçları size vermek için her şeyi yaparız.",
+      "description2": "Müşteri odaklıyız — iş akışınızın her yönünü anlamak için zaman harcıyoruz, böylece her zamankinden daha iyi çalışmanıza yardımcı olabiliriz. Hep birlikteyiz çünkü sizin başarınız bizim başarımızdır. Şirket tarihimizde hiçbir müşterimizi kaybetmedik, çünkü projeleriniz başarılı olduğunda biz de başarılı oluyoruz."
+    },
+    "stats": {
+      "experience": {
+        "number": "12+",
+        "label": "Yıl Deneyim"
+      },
+      "clients": {
+        "number": "5K+",
+        "label": "Başarılı Müşteri"
+      },
+      "visas": {
+        "number": "10K+",
+        "label": "Onaylanan Vize"
+      },
+      "countries": {
+        "number": "25+",
+        "label": "Hedef Ülke"
+      }
+    },
+    "team": {
+      "title": "Ekibimiz",
+      "description1": "2019'da ZovPersonal'ı kurmaya başladık ve 2022'de hizmete girdik. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Önümüzdeki yüz yıl boyunca vize danışmanlığı inovasyonunu güçlendirmek için özel olarak inşa edildik.",
+      "description2": "Deneyimli danışmanlarımız, her müşterinin benzersiz ihtiyaçlarını anlayarak kişiselleştirilmiş çözümler sunar. Vize süreçlerindeki karmaşıklığı basitleştirip, başvuru sürecinizi sorunsuz hale getirmek için buradayız.",
+      "description3": "Vize danışmanlığı için iletişime geçin.",
+      "cta": "İletişime Geçin"
+    },
+    "company": {
+      "description1": "ZovPersonal'da, uluslararası vize süreçlerini dönüştürmeye ve müşterilerimize gecikmeler, verimsizlikler karşısında üstünlük sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği ile her vize başvurunuzun başarıya ulaşması için gereken araçları sunuyoruz.",
+      "description2": "Müşteri odaklıyız — iş akışınızın her yönünü anlamak için zaman harcıyoruz, böylece her zamankinden daha iyi hizmet verebiliriz. Hep birlikteyiz çünkü sizin başarınız bizim başarımızdır. Şirket tarihimizde hiçbir müşterimizi kaybetmedik, çünkü sizin projeleriniz başarılı olduğunda biz de başarılı oluyoruz."
+    },
+    "images": {
+      "teamWork": "Ekip çalışması",
+      "officeSpace": "Ofis alanı",
+      "consulting": "Danışmanlık",
+      "success": "Başarı"
+    },
+    "partners": {
+      "title": "Ortaklarımız",
+      "partner1": {
+        "name": "Mehmet Yılmaz",
+        "role": "Vize Uzmanı"
+      },
+      "partner2": {
+        "name": "Ayşe Demir",
+        "role": "Hukuk Danışmanı"
+      },
+      "partner3": {
+        "name": "Ali Kaya",
+        "role": "İş Geliştirme"
+      },
+      "partner4": {
+        "name": "Fatma Öz",
+        "role": "Müşteri İlişkileri"
+      },
+      "partner5": {
+        "name": "Emre Şahin",
+        "role": "Operasyon Müdürü"
+      }
+    },
+    "description": "Uluslararası kariyer hedeflerinize ulaşmanızda rehberlik etmek ve vize süreçlerini basitleştirerek hayalinizdeki ülkede çalışma fırsatı yaratmak. 15 yıllık deneyimimizle, dünya çapında güvenilir vize danışmanlığı hizmeti sunuyoruz.",
+    "features": {
+      "compassion": "Empati ve Anlayış",
+      "integrity": "Dürüstlük ve Güvenilirlik", 
+      "mindGrowth": "Kişisel ve Mesleki Gelişim"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Kapsamlı vize ve göçmenlik çözümleri",
+    "workVisa": {
+      "title": "İş Vizesi Başvuruları",
+      "description": "Almanya, Avusturya, Hollanda ve daha fazlası dahil çeşitli ülkeler için iş vizesi başvurularında tam destek."
+    },
+    "skillsAssessment": {
+      "title": "Yetenek Değerlendirmesi",
+      "description": "Niteliklerinizin profesyonel değerlendirmesi ve uluslararası iş fırsatlarıyla eşleştirme."
+    },
+    "documentation": {
+      "title": "Belge Hazırlama",
+      "description": "Belge hazırlama, çeviri ve onaylatma hizmetlerinde uzman yardım."
+    },
+    "consultation": {
+      "title": "Kişisel Danışmanlık",
+      "description": "Özel ihtiyaçlarınızı ve kariyer hedeflerinizi anlamak için birebir danışmanlık seansları."
+    },
+    "tabContent": {
+      "workVisa": {
+        "title": "Başvuru. Hazırla. Onayla.",
+        "description": "İş vizesi başvurularınızı profesyonel bir şekilde hazırlar ve takip ederiz.",
+        "stat1": { "number": "95%", "label": "onay oranı" },
+        "stat2": { "number": "30", "label": "gün ortalama süre" },
+        "category": "İş Vizesi Başvuruları"
+      },
+      "documentation": {
+        "title": "Düzenle. Çevir. Onayla.",
+        "description": "Tüm belgelerinizi uluslararası standartlarda hazırlar ve onaylatırız.",
+        "stat1": { "number": "100%", "label": "belge uygunluğu" },
+        "stat2": { "number": "48", "label": "saat içinde hazır" },
+        "category": "Belge Hazırlama"
+      },
+      "skillsAssessment": {
+        "title": "Analiz. Değerlendir. Yönlendir.",
+        "description": "Profesyonel niteliklerinizi analiz eder, uluslararası iş fırsatlarıyla eşleştiririz.",
+        "stat1": { "number": "85%", "label": "uygun pozisyon bulma" },
+        "stat2": { "number": "12", "label": "yıl deneyim" },
+        "category": "Yetenek Değerlendirmesi"
+      }
+    },
+    "tabButtons": {
+      "workVisa": "İş Vizesi",
+      "documentation": "Belge Hazırlama",
+      "skillsAssessment": "Yetenek Değerlendirmesi"
+    }
+  },
+  "professions": {
+    "title": "Meslek Kategorileri",
+    "subtitle": "Çeşitli meslek alanlarında vize başvurularında uzmanlaşıyoruz",
+    "healthcare": {
+      "title": "Sağlık Profesyonelleri",
+      "description": "Hemşireler, doktorlar, terapistler ve diğer sağlık çalışanları",
+      "requirements": "Gerekli belgeler ve nitelikler"
+    },
+    "engineering": {
+      "title": "Mühendisler ve BT",
+      "description": "Yazılım geliştiriciler, mühendisler ve teknik uzmanlar",
+      "requirements": "Teknik nitelik gereksinimleri"
+    },
+    "skilled": {
+      "title": "Nitelikli İşçiler",
+      "description": "Zanaatkarlar, teknisyenler ve nitelikli işçiler",
+      "requirements": "Meslek sertifikası gereksinimleri"
+    },
+    "education": {
+      "title": "Eğitim ve Araştırma",
+      "description": "Öğretmenler, araştırmacılar ve akademik profesyoneller",
+      "requirements": "Akademik kimlik belgesi gereksinimleri"
+    }
+  },
+  "documents": {
+    "title": "Gerekli Belgeler",
+    "subtitle": "Vize başvurunuz için temel evraklar",
+    "categories": {
+      "personal": {
+        "title": "Kişisel Belgeler",
+        "description": "En az 6 aylık geçerlilik süresi olan pasaport, kimlik belgeleri ve kişisel bilgilerinizi içeren evraklar."
+      },
+      "education": {
+        "title": "Eğitim Belgeleri",
+        "description": "Diploma, sertifika ve dil yeterlilik belgeleriniz. Uluslararası tanınırlık için apostille gerekebilir."
+      },
+      "professional": {
+        "title": "Mesleki Belgeler",
+        "description": "İş teklifi mektubu, iş sözleşmesi, mesleki yeterlilik sertifikaları ve deneyim belgeleri."
+      },
+      "medical": {
+        "title": "Sağlık ve Hukuki",
+        "description": "Sağlık raporu, sabıka kaydı, mali durum belgeleri ve biyometrik fotoğraflarınız."
+      }
+    },
+    "list": [
+      "En az 6 ay geçerlilikli pasaport",
+      "Eğitim sertifikaları ve diplomalar",
+      "Meslek yeterlilik sertifikaları",
+      "Dil yeterlilik sertifikaları (Almanca/İngilizce)",
+      "İş teklifi mektubu veya iş sözleşmesi",
+      "Tıbbi muayene raporları",
+      "Sabıka kaydı",
+      "Mali durumu gösteren belgeler",
+      "Doldurulmuş vize başvuru formları",
+      "Biyometrik fotoğraflar"
+    ]
+  },
+  "process": {
+    "title": "Vize Başvuru Sürecimiz",
+    "subtitle": "Vize başvuru sürecinizi basitleştiren araçlarımızla, karmaşık belgelerinizi yönetmenin zorluğunu minimize ediyoruz.",
+    "step1": {
+      "title": "İlk Danışmanlık ve Değerlendirme",
+      "description": "Profilinizi ve hedeflerinizi analiz ederek size özel vize stratejisi geliştiriyoruz.",
+      "alt": "Vize danışmanlığı"
+    },
+    "step2": {
+      "title": "Belge Hazırlama ve Kontrolü",
+      "description": "Tüm belgelerinizi uluslararası standartlarda hazırlayıp eksiklikleri anlık tespit ediyoruz.",
+      "alt": "Belge hazırlama"
+    },
+    "step3": {
+      "title": "Başvuru ve Takip",
+      "description": "Başvurunuzu güvenle yapıyor ve sonuçlanana kadar sürekli takip ediyoruz.",
+      "alt": "Başvuru takibi"
+    }
+  },
+  "contact": {
+    "title": "Bizimle Konuşalım",
+    "subtitle": "İlk danışmanlığınızı planlamaya hazır olsanız da sadece sorularınız olsa da, sizden haber almayı çok isteriz.",
+    "pageTitle": "İletişim",
+    "pageSubtitle": "Vize danışmanlığı konusundaki sorularınız için buradayız.",
+    "offices": {
+      "istanbul": "🇹🇷 İstanbul Ofisi",
+      "berlin": "🇩🇪 Berlin Ofisi"
+    },
+    "sections": {
+      "email": "E-posta ile bize ulaşın",
+      "follow": "Bizi takip edin",
+      "inquiries": "Sorularınız"
+    },
+    "namePlaceholder": "İsim",
+    "emailPlaceholder": "E-posta Adresi",
+    "datePlaceholder": "Tarih Seçin",
+    "messagePlaceholder": "Mesaj",
+    "submitButton": "Randevu Al",
+    "imageAlt": "Vize danışmanlığı için bizimle iletişime geçin",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "form": {
+      "fullName": "Ad Soyad",
+      "email": "İş E-posta Adresi",
+      "message": "Mesajınız",
+      "submit": "Gönder",
+      "optional": "(opsiyonel)",
+      "placeholders": {
+        "fullName": "Ad ve soyad",
+        "email": "ornek@gmail.com",
+        "message": "Mesajınızı yazın"
+      }
+    }
+  },
+  "cta": {
+    "title": "Uluslararası Kariyerinize Başlamaya Hazır mısınız?",
+    "subtitle": "Uzman ekibimizle ücretsiz danışmanlık alın ve hayalinizdeki işe ulaşın.",
+    "button": "Ücretsiz Danışmanlık Alın"
+  },
+  "footer": {
+    "ctaTitle": "Daha akıllı danışmanlık.\nGüvenle ilerleyin",
+    "ctaSubtitle": "Hibrit çözümler, gelişmiş araçlar ve kurumsal düzeyde danışmanlık hizmetleriyle yeni bir çağa erişin.",
+    "ctaButton": "Başlayın",
+    "ctaSecondary": "Hizmetlerimizi Görün",
+    "supportingText": "Uluslararası vize danışmanlığı ve kariyer rehberliğinde güvenilir ortağınız.",
+    "copyright": "©2025 Tüm hakları saklıdır, Zov Personal.",
+    "legal": "Danışmanlık hizmetlerimiz bilgilendirme amaçlıdır ve garanti teşkil etmez. Vize başvuru süreçleri ülke yönetmeliklerine tabidir ve sonuçlar değişiklik gösterebilir. Kişisel durumunuzu değerlendirmek için uzman danışmanlarımızla iletişime geçiniz.",
+    "email": "info@zovpersonal.com",
+    "phone": "(Türkiye) | +90 555 123 45 67 (Almanya) | +49 30 12345678",
+    "address": "İstanbul, Türkiye, Berlin, Almanya",
+    "links": {
+      "home": "Ana Sayfa",
+      "services": "Hizmetler",
+      "about": "Hakkında", 
+      "contact": "İletişim"
+    },
+    "visa": {
+      "requiredDocuments": "Gerekli Evraklar",
+      "applicationProcess": "Ulusal Vize Başvuru Süreci ",
+      "pricing": "Ücretlendirme",
+      "additionalServices": "Ek Hizmetlerimiz",
+      "nationalVisaSteps": "Ulusal Vize Adımları",
+      "professions": "Meslek Grupları ve Süreçleri"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://instagram.com/zovpersonal",
+        "alt": "Instagram'da bizi takip edin"
+      },
+      "twitter": {
+        "url": "https://twitter.com/zovpersonal",
+        "alt": "Twitter'da bizi takip edin"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/zovpersonal",
+        "alt": "LinkedIn'de bizi takip edin"
+      }
+    },
+    "contact": {
+      "title": "İletişim",
+      "email": "E-posta",
+      "phone": "Telefon"
+    },
+    "description": "Profesyonel uluslararası iş vizesi danışmanlık hizmetleri",
+    "quickLinks": "Hızlı Bağlantılar",
+    "ourServices": "Kaynaklar",
+    "services": {
+      "workVisa": "İş Vizesi Başvuruları",
+      "skillsAssessment": "Yetenek Değerlendirmesi", 
+      "documentation": "Belge Hazırlama",
+      "consultation": "Kişisel Danışmanlık"
+    },
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Koşulları",
+    "rightsReserved": "Tüm hakları saklıdır"
+  },
+  "privacyPolicy": {
+    "title": "Gizlilik Politikası",
+    "subtitle": "ZovPersonal Danışmanlık Hizmetleri - Kişisel Verilerinizin Korunması ve Güvenliği",
+    "sections": {
+      "intro": {
+        "title": "Gizlilik Politikamız",
+        "content": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş. olarak kişisel verilerinizin güvenliği konusunda en üst düzeyde hassasiyet göstermekteyiz. Bu gizlilik politikası, hizmetlerimizi kullanırken kişisel verilerinizi nasıl topladığımızı, işlediğimizi, koruduğumuzu ve sakladığımızı açıklamaktadır.",
+        "kvkk": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında veri sorumlusu sıfatıyla, kişisel verilerinizin işlenmesinde mevzuata tam uygunluk sağlamaktayız."
+      },
+      "dataCollection": {
+        "title": "Topladığımız Kişisel Veriler",
+        "identity": {
+          "title": "Kimlik ve İletişim Bilgileri",
+          "items": ["Ad, soyad", "Doğum tarihi ve yeri", "TC kimlik numarası", "Pasaport bilgileri", "Telefon numarası", "E-posta adresi", "Adres bilgileri"]
+        },
+        "visa": {
+          "title": "Vize Başvuru Bilgileri", 
+          "items": ["Eğitim durumu", "Meslek bilgileri", "Gelir durumu", "Seyahat geçmişi", "Aile durumu", "Sağlık durumu (gerektiğinde)"]
+        },
+        "technical": {
+          "title": "Teknik Veriler",
+          "items": ["IP adresi", "Tarayıcı bilgileri", "Cihaz bilgileri", "Site kullanım verileri"]
+        }
+      },
+      "processing": {
+        "title": "Kişisel Verilerin İşlenme Amaçları",
+        "description": "Kişisel verilerinizi aşağıdaki amaçlarla işlemekteyiz:",
+        "purposes": ["Vize başvuru süreçlerinin yürütülmesi", "Danışmanlık hizmetlerinin sunulması", "Müşteri ilişkileri yönetimi", "Yasal yükümlülüklerin yerine getirilmesi", "Hizmet kalitesinin artırılması", "İstatistiksel analiz yapılması", "Müşteri memnuniyetinin ölçülmesi", "Güvenlik tedbirlerinin alınması"]
+      },
+      "security": {
+        "title": "Veri Güvenliği",
+        "description": "Kişisel verilerinizin güvenliği için aşağıdaki teknik ve idari tedbirleri almaktayız:",
+        "measures": ["SSL sertifikası ile şifreli veri iletimi", "Güvenli sunucu altyapısı", "Erişim kontrolü ve yetkilendirme", "Düzenli güvenlik güncellemeleri", "Personel eğitimi ve gizlilik anlaşmaları", "Veri yedekleme ve kurtarma prosedürleri", "24/7 güvenlik izleme"]
+      },
+      "rights": {
+        "title": "Veri Sahibi Hakları",
+        "description": "KVKK kapsamında aşağıdaki haklarınız bulunmaktadır:",
+        "list": {
+          "info": {
+            "title": "Bilgi Alma Hakkı",
+            "description": "Kişisel verilerinizin işlenip işlenmediğini öğrenme hakkı"
+          },
+          "access": {
+            "title": "Erişim Hakkı", 
+            "description": "İşlenen kişisel verileriniz hakkında bilgi talep etme hakkı"
+          },
+          "rectification": {
+            "title": "Düzeltme Hakkı",
+            "description": "Yanlış veya eksik verilerin düzeltilmesini isteme hakkı"
+          },
+          "erasure": {
+            "title": "Silme Hakkı",
+            "description": "Kişisel verilerinizin silinmesini talep etme hakkı"
+          },
+          "objection": {
+            "title": "İtiraz Hakkı",
+            "description": "Veri işlemeye itiraz etme ve durdurulmasını isteme hakkı"
+          },
+          "portability": {
+            "title": "Taşınabilirlik Hakkı",
+            "description": "Verilerinizin başka bir veri sorumlusuna aktarılmasını isteme hakkı"
+          }
+        },
+        "howToUse": {
+          "title": "Haklarınızı Nasıl Kullanabilirsiniz?",
+          "description": "Yukarıdaki haklarınızı kullanmak için aşağıdaki iletişim kanallarını kullanabilirsiniz:",
+          "channels": ["E-posta: info@zovpersonal.com", "Yazılı başvuru: Şirket adresimize elden teslim veya posta yoluyla", "Online form: www.zovpersonal.com adresindeki başvuru formu"]
+        }
+      },
+      "cookies": {
+        "title": "Çerezler (Cookies)",
+        "description": "Web sitemizde kullanıcı deneyimini iyileştirmek amacıyla çerezler kullanmaktayız. Çerezler, web tarayıcınızda saklanan küçük metin dosyalarıdır. Çerez kullanımını tarayıcı ayarlarınızdan kontrol edebilirsiniz."
+      },
+      "contact": {
+        "title": "İletişim",
+        "description": "Gizlilik politikamız hakkında sorularınız için bizimle iletişime geçebilirsiniz:",
+        "company": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş.",
+        "offices": {
+          "turkey": {
+            "title": "Türkiye Ofisi",
+            "address": "Adres",
+            "phone": "Telefon",
+            "location": "Istanbul, Türkiye"
+          },
+          "germany": {
+            "title": "Almanya Ofisi", 
+            "address": "Adres",
+            "phone": "Telefon",
+            "location": "Berlin, Almanya"
+          }
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Hizmet Koşulları",
+    "subtitle": "ZovPersonal Danışmanlık Hizmetleri - Güvenlik Düzenlemeleri ve Kişisel Verilerin Korunması",
+    "sections": {
+      "securityRegulations": {
+        "title": "GÜVENLİK DÜZENLEMELERİ",
+        "intro": "ZovPersonal Vize Başvuru Merkezini Ziyaret Eden Başvuru Sahiplerine Yönelik Dikkat Edilmesi ve Uyulması Gereken Hususları Kapsayan Güvenlik Düzenlemeleri Duyurusudur;",
+        "description": "Almanya/İtalya temsilciliklerinin güvenlik gereklilikleri uyarınca, ZovPersonal ofislerini ziyaret eden başvuru sahiplerinin aşağıda belirtilen eylemleri gerçekleştirmeleri ve belirtilen eşyaları ZovPersonal ofislerine sokmaları ve kullanmaları yasaktır:",
+        "prohibitedItems": [
+          "Cep telefonu, fotoğraf makinesi, kamera veya başka herhangi bir şekilde ses/video kaydı yapan cihazlar (mp3 okuyucu/çalıcı, taşınabilir bilgisayar, pilli kayıt cihazları, vb.)",
+          "Yanıcı (kibrit, çakmak, yakıt ve benzeri gibi tutuşabilir) ve kesici (makas, kalemtıraş, törpü, vb.) her türlü nesne",
+          "Silah veya silah benzeri nesneler ya da herhangi bir patlayıcı malzeme",
+          "Evcil hayvan (Alerjik hassasiyetler sebebiyle)",
+          "Mühürlü zarflar ya da paketler",
+          "Yiyecek ve içecek",
+          "Kabin boyundan büyük çanta veya bavul ya da valiz, sırt çantaları, evrak çantaları veya fermuarlı çantalar (Dosya bulunduruluyorsa yalnızca istenilen belgeleri içeren dosya bulundurulabilir)"
+        ],
+        "disclaimer": "*Yukarıdaki liste belirtilenlerle sınırlı değildir.",
+        "additionalRules": [
+          "Güvenlik görevlileri ve ofis yetkilileri şüpheli gördüğü eşyaları yasaklama ve şüpheli şahısları ofislerimize kabul etmeme hakkına sahiptirler. Güvenlik görevlisi, vize başvuru işlemi sırasında istediği zaman başvuru sahibinin çantasını kontrol etme yetkisine sahiptir.",
+          "Güvenlik nedenlerinden dolayı, vize başvurularında başvuru sahibi haricinde arkadaş, akraba ya da işyeri çalışanları gibi 3. Kişilerin giriş yapmaları yasaktır (Başvuru sahibi ve vekâleten başvuru yapacak kişi dışında ZovPersonal ofislerine giriş mümkün değildir). Fiziksel olarak bir başkasının yardımına ihtiyaç duyan kişilere, duyma bozukluğu olan ya da okuma yazma bilmeyen başvuru sahiplerine refakat etmek üzere sadece 1 kişi kabul edilecektir.",
+          "Başvuru sahiplerinin, ofislerimizde başvuru sahipleri için ayrılmış olan ortak alanlar dışındaki alanlara (personel çalışma alanları, WC vb.) girişi yasaktır.",
+          "ZovPersonal ofislerinde yukarıda belirtilen yasaklı eşyaları muhafaza edecek herhangi bir yer bulunmamaktadır. Ayrıca ZovPersonal ofisleri emanet de kabul etmez. Başvuru sahiplerinden, merkeze girmeden önce bu özellikte ve tipte eşyaları yanlarında getirmemek üzere alternatif yolları tercih etmeleri rica olunur.",
+          "ZovPersonal ofisleri güvenlik politikamız gereği 7/24 kamera ile kayıt altına alınmaktadır."
+        ],
+        "footer": "Önemle bilgilerinize sunarız."
+      },
+      "dataProtection": {
+        "title": "KİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ HAKKINDA GENEL AYDINLATMA METNİ",
+        "intro": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş. (\"ZovPersonal\" veya \"Şirket\") olarak kişisel verilerinizin güvenliği hususuna azami hassasiyet göstermekteyiz. Bu bilinçle, Şirket'in etkileşim içerisine olduğu gerçek kişilere ait kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"Kanun\")'na, Kanun'a bağlı yürürlüğe koyulan ve koyulacak ikincil düzenlemelere (yönetmelik, tebliğ, genelge) ve bağlayıcı nitelikteki Kişisel Verileri Koruma Kurul'u tarafından alınmış ve alınacak kararlara uygun olarak işlenerek, muhafaza edilmesine büyük önem atfetmekteyiz.",
+        "dataController": {
+          "title": "Veri Sorumlusuna İlişkin Bilgiler",
+          "content": "Kanun uyarınca İstanbul Ticaret Sicil Müdürlüğü'nde kayıtlı ZovPersonal DANIŞMANLIK VE HİZMET DIŞ TİCARET A.Ş. Veri Sorumlusu'dur."
+        },
+        "processingPurposes": {
+          "title": "Kişisel Verilerin İşlenme Amaçları",
+          "content": "Kişisel verileriniz Şirket tarafından; Şirket'in yürüttüğü ticari faaliyetlerin mevzuata ve Şirket politikalarına uygun olarak yerine getirilmesi için Şirket'in iş birimleri tarafından gerekli çalışmaların yapılması ve bu doğrultuda faaliyetlerin yürütülmesi, Şirket'in kısa, orta ve uzun vadede ticari politikalarının tespit edilmesi, planlanması ve uygulanması, Şirket'in ilgili mevzuattan doğan yükümlülüklerin yerine getirilmesi, müşteri ilişkileri ve kurumsal iletişim süreçlerinin yönetilmesi, hizmet satış süreçlerinin yönetilmesi, çağrı merkezi süreçlerinin yönetilmesi ve Şirket'in iş ilişkisi içerisinde olduğu gerçek ve tüzel kişilerin ticari ve hukuki emniyetinin sağlanması amaçlarıyla Kanun'da belirtilen sınırlar çerçevesinde hukuka, dürüstlük kurallarına uygun ve işbu amaçlarla her daim bağlantılı, sınırlı ve ölçülü şekilde işlenmektedir."
+        },
+        "dataTransfer": {
+          "title": "Kişisel Verilerin Aktarılması",
+          "content": "Kişisel verileriniz yukarıda belirtilen amaçlar dahilinde, Kanun'un 8. ve 9. maddesinde belirtilen şartlara uygun olarak başta kanunen yetkili kamu kuruluşlarına, adli ve idari makamlara, sair mevzuatta izin verilen özel hukuk tüzel ve gerçek kişilerine, Şirket'i denetime yetkili kurum ve kuruluşlara, ödemelerin ve mali yükümlülüklerin yerine getirilmesi adına anlaşmalı olunan ödeme kuruluşlarına, çağrı merkezi üzerinden sağlanan hizmetlerin yerine getirilmesi ve Şirket'in faaliyetlerinin yürütülmesi ve geliştirilmesi için hizmet alınan veya işbirliği içerisinde olunan iş ortaklarına ve sadece gerektiğinde Şirket'in tedarikçilerine Kanun'da belirtilen veri güvenliği tedbirleri alınmak suretiyle aktarılmaktadır."
+        },
+        "collectionMethod": {
+          "title": "Kişisel Verilerin Toplanma Yöntemi ve Hukuki Sebebi",
+          "content": "Kişisel verileriniz, Şirket'in yetkili birim ve çalışanları tarafından otomatik ve otomatik olmayan yöntemlerle, sözlü, yazılı veya elektronik ortamda toplanmaktadır. Bu kapsamda kimlik, iletişim, lokasyon, hukuki işlem, müşteri işlem, işlem güvenliği, risk yönetimi, finans kategorisinde yer alan kişisel veriler; Kanun'un 5. Maddesinin ikinci fıkrasında gösterilen bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olmasından dolayı sözleşmenin taraflarına ait kişisel verilerin işlenmesinin zorunlu olması, veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için veri işlemenin zorunlu olması, ilgili kişinin kendisi tarafından alenileştirilmiş olması ve ilgili kişinin temel hak ve özgürlüklerinize zarar vermemek kaydıyla Şirketin meşru menfaatleri için veri işlemenin zorunlu olması hukuki sebeplerine dayalı olarak işlenmektedir."
+        },
+        "dataSubjectRights": {
+          "title": "Veri Sahiplerinin Kanun Kapsamındaki Hakları",
+          "intro": "Dilediğiniz zaman ZovPersonal'a başvurarak;",
+          "rights": [
+            "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
+            "Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme",
+            "Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme",
+            "Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme",
+            "Kişisel verilerinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme",
+            "Kanun'un 7. maddesinde öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme",
+            "Kanun'un 11. maddesinin (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme",
+            "İşlenen verilerinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kendiniz aleyhine bir sonucun ortaya çıkmasına itiraz etme",
+            "Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme"
+          ],
+          "applicationProcess": "Haklarınızı kullanmayı talep edebilirsiniz. Haklarınıza ve Kanunun uygulanmasına ilişkin taleplerinizi, https://zovpersonal.com/ adresinden temin edebileceğiniz başvuru formunu doldurarak ıslak imzalı şekilde şirket adresine noter kanalıyla, iadeli taahhütlü posta yoluyla veya şahsi başvurunuzla ya da elektronik ortamda doldurduğunuz başvuru formunu mobil imzanızla, güvenli elektronik imzanızla imzaladıktan sonra KEP adresinizi veya Şirket'in veri kayıt sisteminde halihazırda kayıtlı olan e-posta adresinizi kullanarak info@zovpersonal.com adresine iletebilirsiniz.",
+          "fees": "ZovPersonal, bu kapsamdaki taleplere yazılı olarak cevap verilecekse, on sayfaya kadar ücret almadan; on sayfanın üzerindeki her sayfa için işlem başına ücret alarak yanıtlandıracaktır. Başvuruya cevabın CD, flash bellek gibi bir kayıt ortamında verilmesi halinde Şirket tarafından talep edilebilecek ücret kayıt ortamının maliyetini geçemeyecektir."
+        }
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "Neden Bizi Seçmelisiniz?",
+    "subtitle": "Uluslararası vize danışmanlığında fark yaratan özelliklerimiz",
+    "category": "Vize Danışmanlığı",
+    "description": "15+ yıl deneyimimizle, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
+    "feature1": {
+      "title": "Uzman Ekip",
+      "description": "15+ yıl deneyimli vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
+    },
+    "feature2": {
+      "title": "Yüksek Başarı Oranı",
+      "description": "%95 başarı oranımızla binlerce müşterinin hayallerini gerçekleştirdik."
+    },
+    "feature3": {
+      "title": "Kişiselleştirilmiş Hizmet",
+      "description": "Her müşterinin özgün durumuna özel çözümler geliştiriyoruz."
+    },
+    "feature4": {
+      "title": "7/24 Destek",
+      "description": "Süreç boyunca kesintisiz destek ve güncel bilgilendirme sağlıyoruz."
+    },
+    "slides": {
+      "personalizedCare": {
+        "title": "Kişiselleştirilmiş Bakım",
+        "description": "Her müşterinin benzersiz ihtiyaçlarını anlayarak özel çözümler geliştiriyoruz."
+      },
+      "experiencedProfessionals": {
+        "title": "Deneyimli Profesyoneller",
+        "description": "Alanında uzman ekibimizle güvenilir danışmanlık hizmeti sunuyoruz."
+      },
+      "holisticApproach": {
+        "title": "Bütüncül Yaklaşım",
+        "description": "Vize sürecinizin tüm aşamalarını kapsamlı bir şekilde ele alıyoruz."
+      },
+      "supportiveEnvironment": {
+        "title": "Destekleyici Ortam",
+        "description": "Güvenli ve rahat bir ortamda danışmanlık hizmeti alabilirsiniz."
+      },
+      "healthcareRecruitment": {
+        "title": "Sağlık Sektörü İşe Alım",
+        "description": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz. Net iş tanımları, maaş şeffaflığı ve kapsamlı destek hizmetleriyle uluslararası profesyonellere hitap eden çekici iş ilanları oluşturuyoruz."
+      },
+      "livingInGermany": {
+        "title": "Almanya'da Yaşamak",
+        "description": "Almanya güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Günlük yaşamdaki ilk adımlardan topluma başarılı bir şekilde entegre olmaya kadar Almanya'daki yaşamın kapsamlı rehberini sunuyoruz. Konaklama bulma, Alman kültürü ve gelenekleri, dil öğrenimi, sağlık sistemi ve günlük yaşam hakkında detaylı bilgiler sağlıyoruz. Dakiklik ve düzen gibi önemli değerlerden, Noel ve Oktoberfest gibi geleneksel kutlamalara kadar her konuda rehberlik ediyoruz."
+      },
+      "experiencedProfessionalsVisa": {
+        "title": "Deneyimli Profesyoneller İçin Vize",
+        "description": "Deneyimli profesyoneller için vize, alanlarında en az iki yıllık nitelikli mesleki deneyime sahip vasıflı işçilere yöneliktir. Bu vize ile Almanya'da yüksek talep gören mesleklerde çalışabilirsiniz. Nitelikli mesleki deneyim, asgari ücret şartları, iş teklifi ve dil becerileri gibi gereksinimleri karşılamanız durumunda başvuru yapabilirsiniz. 40.770 € minimum yıllık maaş şartı ve B1 seviyesi Almanca dil yeterliliği ile başvuru sürecinizi destekliyoruz."
+      },
+      "vocationalTrainingVisa": {
+        "title": "Mesleki Eğitim Vizesi",
+        "description": "Mesleki eğitimi tamamlama vizesi, Almanya'da tanınan bir mesleki eğitim mesleğinde ikili mesleki eğitim programını tamamlamak isteyen kişilere yöneliktir. Meslek okulunda öğretilen teorik bilgiyi bir şirketteki pratik eğitimle birleştiren bu program, gençlere Alman çıraklığında nitelikli eğitim tamamlama ve ardından Alman işgücü piyasasında uzun vadeli beklentiler kazanma fırsatı sunar."
+      },
+      "qualificationRecognitionVisa": {
+        "title": "Mesleki Yeterlilik Tanıma Vizesi",
+        "description": "Yabancı mesleki yeterliliklerin tanınması için vize, yurtdışında edindikleri mesleki yeterliliklerinin Almanya'da tanınmasını isteyen vasıflı işçilere yöneliktir. Yeterliliklerinizi Alman standartlarına getirerek Almanya'da uzun süreli istihdam olanağı sağlıyoruz. Tanınma süreci boyunca Almanya'da yaşamanıza ve mesleki uyum önlemleri almanıza olanak tanıyan bu vize ile B1 seviyesi Almanca ve aylık minimum 947 € mali güvenlik şartlarını karşılamanızı destekliyoruz."
+      }
+    }
+  },
+  "approach": {
+    "title": "Hizmet Anlayışımız",
+    "subtitle": "Vize başvuru sürecinizi nasıl yönetiyoruz",
+    "holisticApproach": "Bütüncül bir yaklaşımla, vize sürecinizin her aşamasında yanınızda oluyoruz.",
+    "personalizedCare": "Kişiselleştirilmiş bakım anlayışımızla her müşterinin özel ihtiyaçlarını karşılıyoruz.",
+    "compassionateProfessionals": "Empati sahibi uzmanlarımız, süreç boyunca size destek oluyor.",
+    "flexibleScheduling": "Esnek randevu sistemimizle size uygun zamanlarda hizmet veriyoruz.",
+    "confidentialSpace": "Gizli ve güvenli bir ortamda kişisel bilgilerinizi paylaşabilirsiniz.",
+    "imageAlt": "Vize danışmanlığı yaklaşımımız",
+    "step1": {
+      "title": "Analiz ve Planlama",
+      "description": "Kişisel durumunuzu detaylı analiz ederek en uygun vize stratejisini belirliyoruz."
+    },
+    "step2": {
+      "title": "Belge Hazırlığı",
+      "description": "Tüm belgelerinizi uluslararası standartlarda hazırlayıp kontrol ediyoruz."
+    },
+    "step3": {
+      "title": "Başvuru ve Takip",
+      "description": "Başvurunuzu yapıyor ve sonuçlanana kadar sürekli takip ediyoruz."
+    },
+    "step4": {
+      "title": "Başarı ve Destek",
+      "description": "Vize alındıktan sonra da yerleşim sürecinde rehberlik ediyoruz."
+    }
+  },
+  "reviews": {
+    "title": "Müşteri Yorumları",
+    "subtitle": {
+      "line1": "Başarılı müşterilerimizin",
+      "line2": "deneyimleri ve görüşleri"
+    },
+    "review1": {
+      "title": "Mükemmel Hizmet",
+      "content": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular ve beni sürekli bilgilendirdiler.",
+      "name": "Dr. Ayşe Kaya",
+      "role": "Hemşire - Almanya",
+      "text": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular.",
+      "rating": 5
+    },
+    "review2": {
+      "title": "Profesyonel Yaklaşım",
+      "content": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Ekip gerçekten çok bilgili ve deneyimli.",
+      "name": "Mühendis Mehmet Öz",
+      "role": "Yazılım Geliştirici - Hollanda",
+      "text": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Teşekkürler ZovPersonal!",
+      "rating": 5
+    },
+    "review3": {
+      "title": "Süreç Kolaylaştırıldı",
+      "content": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi ve adım adım rehberlik etti.",
+      "name": "Öğretmen Fatma Demir",
+      "role": "Öğretmen - Kanada",
+      "text": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi.",
+      "rating": 5
+    },
+    "review4": {
+      "title": "Güvenilir Partner",
+      "content": "Almanya'da doktor olarak çalışma iznini almak için ZovPersonal'ı seçtim. Doğru kararı vermişim, süreç çok hızlı ilerledi.",
+      "name": "Dr. Can Özkan",
+      "role": "Doktor - Almanya",
+      "rating": 5
+    },
+    "review5": {
+      "title": "Mükemmel Sonuç",
+      "content": "Avustralya iş vizem için başvururken çok endişeliydim. ZovPersonal ekibi beni rahatlatıp, başarılı sonuç elde etmemde büyük rol oynadı.",
+      "name": "Mimar Zeynep Yılmaz",
+      "role": "Mimar - Avustralya",
+      "rating": 5
+    },
+    "review6": {
+      "title": "Hızlı ve Etkili",
+      "content": "İsveç'te çalışma fırsatı bulduğumda vize süreciyle ilgili hiçbir fikrim yoktu. ZovPersonal sayesinde her şey çok hızlı halloldu.",
+      "name": "Mühendis Burak Kaya",
+      "role": "Elektrik Mühendisi - İsveç",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Vize ve göçmenlik süreçleri hakkında merak ettiğiniz her şeyi yanıtlıyoruz. Uzman ekibimizle hayalinizdeki ülkeye giden yolu bulun.",
+    "question1": "Hangi ülkeler için vize danışmanlığı veriyorsunuz?",
+    "answer1": "Almanya, Avustralya, Kanada, ABD, İngiltere, Hollanda ve birçok AB ülkesi için kapsamlı vize danışmanlığı hizmeti sunuyoruz. Her ülkenin kendine özgü gereksinimlerine uygun çözümler üretiyoruz.",
+    "question2": "Vize başvuru süreci ne kadar sürer?",
+    "answer2": "Süre, ülkeye ve vize türüne göre değişir. Genellikle 2-6 ay arasında değişmektedir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır.",
+    "question3": "Başvuru reddedilirse ne yapıyorsunuz?",
+    "answer3": "Red durumunda sebepleri analiz ederek yeni bir strateji geliştiririz. Gerekirse itiraz süreçlerini yönetir, eksikleri gidererek yeniden başvuru hazırlarız. Müşterilerimize süreç boyunca destek olmaya devam ederiz.",
+    "question4": "Hizmet ücretleriniz nedir?",
+    "answer4": "Ücretlerimiz hizmet türüne ve karmaşıklığına göre değişmektedir. İlk danışmanlık ücretsizdir. Detaylı fiyat bilgisi için bizimle iletişime geçerek kişiselleştirilmiş teklif alabilirsiniz.",
+    "question5": "Belgelerim hangi dillerde hazırlanmalı?",
+    "answer5": "Belgeleriniz hedef ülkenin resmi diline çevrilmelidir. Yeminli tercüme hizmeti de sunuyoruz. Almanca, İngilizce ve diğer dillerdeki çeviri ihtiyaçlarınızı karşılıyoruz."
+  },
+  "professionProcess": {
+    "hero": {
+      "title": "Almanya Ulusal Vize - Meslekler ve Süreç",
+      "subtitle": "Almanya'da sağlık sektöründe çalışmak için ulusal vize başvuru süreciniz"
+    },
+    "navigation": {
+      "previousSlide": "Önceki slayt",
+      "nextSlide": "Sonraki slayt"
+    },
+    "carousel": {
+      "doctor": {
+        "status": "Doktor Vizesi",
+        "title": "Doktorlar için Almanya Ulusal Vizesi",
+        "description": "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı vize rehberliği ve süreç yönetimi sunuyoruz. Diploma denkliği ve dil sınavı süreçlerinde profesyonel destek.",
+        "button": "Daha fazla bilgi"
+      },
+      "nurse": {
+        "status": "Hemşire Vizesi",
+        "title": "Hemşireler için Profesyonel Destek",
+        "description": "Hemşirelik mezunları için Almanya'da çalışma izni ve ulusal vize süreçlerinde uzman rehberlik. Mesleki yeterlilik tanıma ve dil yeterliliği süreçlerinde tam destek.",
+        "button": "Daha fazla bilgi"
+      },
+      "caregiver": {
+        "status": "Yaşlı Bakım",
+        "title": "Bakıcılar ve Yaşlı Bakım Uzmanları",
+        "description": "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı vize danışmanlığı. Almanya'daki bakım merkezleri ile bağlantı kurma ve iş yerleştirme desteği.",
+        "button": "Daha fazla bilgi"
+      },
+      "healthTechnician": {
+        "status": "Hastane Yerleştirmesi",
+        "title": "Sağlık Teknisyenleri ve Yardımcı Personel",
+        "description": "Tıbbi teknisyen, laboratuvar uzmanı ve diğer sağlık yardımcı personeli için Almanya vize süreçleri. Mesleki sertifikasyon ve iş bulma desteği ile kapsamlı hizmet.",
+        "button": "Daha fazla bilgi"
+      },
+      "healthExpert": {
+        "status": "Uzmanlık Programı",
+        "title": "Sağlık Uzmanları ve Terapistler",
+        "description": "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları. Uzmanlık alanınıza özel vize danışmanlığı ve mesleki tanıma süreçleri.",
+        "button": "Daha fazla bilgi"
+      }
+    },
+    "otherProfessions": {
+      "title": "Diğer Meslek Grupları için Ulusal Vize Hizmetleri",
+      "construction": {
+        "title": "İnşaat Sektörü",
+        "description": "İnşaat ve yapı sektöründe çalışmak isteyenler için özel vize danışmanlığı. Tesisatçı, elektrikçi, marangoz ve diğer teknik personel pozisyonları."
+      },
+      "hospitality": {
+        "title": "Otel & Restoran",
+        "description": "Turizm ve gastronomi sektöründe kariyer fırsatları. Garson, aşçı, otel personeli ve diğer hizmet sektörü pozisyonları için vize süreçleri."
+      },
+      "logistics": {
+        "title": "Lojistik & Ulaşım",
+        "description": "Şoförlük ve lojistik sektöründe çalışma fırsatları. Kamyon şoförü, forklift operatörü ve depo personeli pozisyonları."
+      },
+      "cleaning": {
+        "title": "Temizlik & Hijyen",
+        "description": "Temizlik hizmetleri sektöründe istihdam imkânları. Endüstriyel temizlik, hastane temizliği ve ofis temizlik personeli."
+      },
+      "office": {
+        "title": "Büro & Yönetim",
+        "description": "Ofis çalışanları ve yönetim pozisyonları. Muhasebe, insan kaynakları, sekreterlik ve diğer büro işleri personeli."
+      },
+      "others": {
+        "title": "Diğer Meslekler",
+        "description": "Tarım, üretim, satış ve diğer meslek grupları için özel danışmanlık hizmetleri. Her meslek için uygun vize süreçleri."
+      },
+      "learnMore": "Daha fazla bilgi"
+    },
+    "process": {
+      "tabs": {
+        "jobSearch": "İş Bulma Süreci",
+        "visaApplication": "Vize Başvurusu",
+        "companyAgreements": "Şirket Anlaşmaları"
+      },
+      "content": {
+        "jobSearch": {
+          "title": "Almanya'da İş Bulma",
+          "subtitle": "Sağlık Sektörü Odaklı",
+          "description": "Sağlık sektöründe iş bulma sürecinde profesyonel rehberlik sunuyoruz. Almanya'daki hastaneler ve sağlık kuruluşlarıyla olan güçlü ağımız sayesinde size uygun pozisyonları bulmanıza yardımcı oluyoruz.",
+          "detail": "CV hazırlığından mülakata kadar tüm süreçte yanınızdayız.",
+          "footer": "Mesleğinize özel iş fırsatları ve kariyer danışmanlığı hizmetimiz mevcuttur."
+        },
+        "visaApplication": {
+          "title": "Ulusal Çalışma Vizesi",
+          "subtitle": "Başvuru Süreci",
+          "description": "Almanya ulusal çalışma vizesi başvuru sürecinde tüm adımları sizin için yönetiyoruz. Evrak hazırlığından randevu alımına kadar profesyonel destek.",
+          "detail": "Vize onay sürecini hızlandırmak için gerekli tüm belgeleri doğru şekilde hazırlıyoruz.",
+          "footer": "Yüksek başarı oranımızla güvenle vize başvurunuzu yapabilirsiniz."
+        },
+        "companyAgreements": {
+          "title": "Partner Şirketler",
+          "subtitle": "İş Garantisi",
+          "description": "Almanya'daki 150+ partner hastane ve sağlık kuruluşu ile özel anlaşmalarımız sayesinde size doğrudan iş fırsatları sunuyoruz.",
+          "detail": "İş teklifi aldıktan sonra vize süreciniz çok daha hızlı ve güvenli şekilde ilerler.",
+          "footer": "Partner şirketlerimizle uzun vadeli kariyer planlaması yapabilirsiniz."
+        }
+      }
+    },
+    "about": {
+      "title": "Farklı bir danışmanlık.",
+      "description": "Sağlık sektöründe uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
+      "statsTitle": "Rakamlarla",
+      "stats": {
+        "experience": "Yıl Deneyim",
+        "healthPersonnel": "Sağlık Personeli",
+        "successRate": "Başarı Oranı",
+        "partners": "Partner Kuruluş"
+      },
+      "content": {
+        "paragraph1": "Sağlık sektörü sürekli değişiyor ve gelişiyor. Almanya'da sağlık personeli ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",
+        "highlight": "Almanya'da çalışmak sadece bir hayal değil. Sizin için gerçeğe dönüştürüyoruz.",
+        "paragraph2": "Yıllarca bu sektörde çalışan ekibimiz, sağlık personelinin Almanya'ya yerleşim süreçlerindeki tüm zorluklarla karşılaştı. Geleneksel yöntemler yeterli değil. Biz, sağlık personeli için özel olarak tasarlanmış, kapsamlı bir danışmanlık hizmeti sunuyoruz."
+      }
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Merak edilen herşey",
+    "title": "Almanya'da iş süreci",
+    "description": "Almanya güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Ancak göçmenler için Almanya'ya taşınmak sadece yeni bir kariyerden daha fazlası anlamına gelir; yeni bir ortamda yeni bir hayatın başlangıcıdır.",
+    "cards": {
+      "integration": {
+        "title": "Çalışan entegrasyonu",
+        "description": "Uluslararası çalışanlar Almanya'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar. İyi entegrasyon, yalnızca yeni çalışanların yeni ortamlarında kendilerini rahat hissetmelerini sağlamak için değil, aynı zamanda şirkete uzun vadeli bağlılık sağlamak için de önemlidir."
+      },
+      "experiencedVisa": {
+        "title": "Deneyimli profesyoneller için vize",
+        "description": "Deneyimli profesyonel vizesi nedir? Deneyimli profesyoneller için vize (İkamet Yasası'nın 19c Bölümü, 2. Paragrafı), alanlarında en az iki yıllık nitelikli mesleki deneyime sahip ancak resmi bir üniversite derecesine sahip olmayan vasıflı işçilere yöneliktir."
+      },
+      "acceleratedProcedures": {
+        "title": "Hızlandırılmış prosedürler",
+        "description": "Hızlandırılmış kalifiye işçi prosedürü nedir? Hızlandırılmış Nitelikli İşçi Prosedürü, yurt dışından gelen nitelikli işçiler için göç ve tanınma sürecini hızlandırmak için geliştirilen özel bir süreçtir."
+      },
+      "recruitment": {
+        "title": "İşe alım",
+        "description": "Adım adım. Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Ancak, bu sürecin başarılı olması için şirketlerin hedefli ve yapılandırılmış bir yaklaşım benimsemeleri gerekir."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "nationalVisaProcess": {
+    "hero": {
+      "title": "Ulusal Çalışma Vizesi Başvuru Süreci",
+      "description": "Ulusal çalışma vizesi, Almanya'da çalışma amacıyla uzun süreli kalış için giriş hakkı verir. Çalışma türüne bağlı olarak vize bir yıla kadar geçerlilik süresi ile verilmektedir. Ülkeye giriş yaptıktan sonra genellikle yurt içi oturma iznine başvurmanız gerekir. Bu vize türü sadece belirli iş pozisyonları için geçerlidir ve Schengen bölgesinde serbest dolaşım hakkı vermez."
+    },
+    "appointmentSystem": {
+      "title": "Randevu Sistemi",
+      "description": "Randevular ulusal randevu sistemi üzerinden verilmektedir",
+      "ourService": "Bizim Hizmetimiz:",
+      "serviceDescription": "Sizin için randevu işlemleriyle biz ilgileniyoruz. Gerekli randevuları alıp işlemleri biz yürütüyoruz. Gerekli evraklar sizden istenilecek ve düzenlenecek, sonrasında süreç takibi yapıyoruz."
+    },
+    "preparation": {
+      "title": "Hazırlık",
+      "description": "Ulusal vizeler için online randevu sistemini kullanarak kalış amacınızı ve teslim etmeniz gereken belgeleri öğrenin. Kalış amacınıza uygun randevu bekleme listesine online randevu sisteminden ücret karşılığında kayıt olun."
+    },
+    "application": {
+      "title": "Uygulama",
+      "description1": "Başvurular Alman iç makamlarının sürece dahil olması nedeniyle belgenin işlenmesi genellikle üç aya kadar (veya bazı durumlarda daha uzun) sürecektir. Başvurunuzun değerlendirilme sürecinde pasaportunuza ihtiyaç duymanız halinde, imzalı yazılı dilekçenizde başvuru numaranızı belirterek ilgili vize bölümü ile irtibata geçebilirsiniz.",
+      "description2": "Hizmet ücreti ödenmesi gerekmektedir. Pasaportunuz ve gerekli evraklarınız parmak iziniz alındıktan sonra, vize bölümü tarafından değerlendirme süreci için teslim alınmaktadır."
+    },
+    "afterEvaluation": {
+      "title": "Değerlendirme Sonrası",
+      "description": "Başvuruların değerlendirme süreci tamamlandıktan hemen sonra, pasaportunuz sunmuş olduğunuz bazı orijinal evraklar ile birlikte zarf içerisinde ofislerine veya doğrudan posta yoluyla tarafınıza geri gönderilmektedir."
+    },
+    "note": {
+      "label": "Not:",
+      "text": "Ücretlendirme kişi başı olup, dosya ve evrak çeşitliliği ile süreç, vize türüne göre değişiklik gösterir."
+    },
+    "processingTimes": {
+      "title": "İşlem Süreleri",
+      "importantInfo": {
+        "title": "Önemli Bilgilendirme",
+        "description": "Başvuruda bulunmadan önce lütfen randevu bekleme süresini ve pasaportunuzu iade etmek için gerekli süreyi de planlayınız."
+      },
+      "decisionAuthority": {
+        "title": "Karar Verme Yetkisi",
+        "description": "Başvurunun onaylanması veya reddedilmesi kararı yalnızca Dış Temsilcilikler tarafından verilir."
+      },
+      "holidayEffect": {
+        "title": "Tatil Günleri Etkisi",
+        "description": "Türk ve Alman resmi tatilleri sebebiyle işlem sürelerinde değişiklik olabilmektedir. Bu nedenle erken bir tarihte vize başvurusunda bulunmanızı öneririz."
+      },
+      "applicationTracking": {
+        "title": "Başvuru Takibi",
+        "description": "Başvurunuzun hangi aşamada olduğunu iletişime geçerek takip edebilirsiniz."
+      }
+    }
+  },
+  "navigation": {
+    "previousSlide": "Önceki slayt",
+    "nextSlide": "Sonraki slayt"
+  },
+  "stats": {
+    "byNumbers": "Rakamlarla"
+  }
+}
