@@ -99,7 +99,9 @@ export default function ServicesPage() {
     { name: 'Austria', flag: '🇦🇹', popular: true },
     { name: 'Croatia', flag: '🇭🇷', popular: false },
     { name: 'Bulgaria', flag: '🇧🇬', popular: false },
-    
+    { name: 'Romania', flag: '🇷🇴', popular: false },
+    { name: 'Serbia', flag: '🇷🇸', popular: false },
+
     { name: 'Netherlands', flag: '🇳🇱', popular: true },
     { name: 'Switzerland', flag: '🇨🇭', popular: false },
     { name: 'Belgium', flag: '🇧🇪', popular: false },
@@ -235,7 +237,7 @@ export default function ServicesPage() {
                 <img 
                   alt="Vize danışmanlığı hizmetleri" 
                   className="w-full h-full object-cover object-center" 
-                  src="/zovpersonal.webp" 
+                  src="/ise-alım.png" 
                 />
               </div>
             </div>
@@ -247,9 +249,9 @@ export default function ServicesPage() {
           <div className="container space-y-8 lg:space-y-12">
             <div className="text-center max-w-4xl mx-auto">
               <h2 className="text-lg md:text-xl lg:text-2xl text-balance leading-tight">
-                Dünyanın en iyi vize danışmanlık ekipleriyle güçlendiriyoruz.
+                {t('services.countries.title')}
                 <br className="hidden md:block"/>
-                <span className="text-muted-foreground block mt-2">Yeni nesil girişimlerden köklü kuruluşlara.</span>
+                <span className="text-muted-foreground block mt-2">{t('services.countries.subtitle')}</span>
               </h2>
             </div>
             
@@ -258,19 +260,19 @@ export default function ServicesPage() {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-6 lg:gap-12 w-full max-w-2xl">
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇩🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Almanya</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.germany')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇦🇹</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Avusturya</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.austria')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇳🇱</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Hollanda</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.netherlands')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇨🇭</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">İsviçre</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.switzerland')}</p>
                 </div>
               </div>
               
@@ -278,23 +280,43 @@ export default function ServicesPage() {
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 lg:gap-8 w-full max-w-3xl">
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇧🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Belçika</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.belgium')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇱🇺</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Lüksemburg</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.luxembourg')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇩🇰</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Danimarka</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.denmark')}</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl lg:text-4xl mb-2">🇷🇸</div>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.serbia')}</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl lg:text-4xl mb-2">🇷🇴</div>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.romania')}</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl lg:text-4xl mb-2">🇭🇷</div>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.croatia')}</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl lg:text-4xl mb-2">🇧🇬</div>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.bulgaria')}</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl lg:text-4xl mb-2">🇳🇱</div>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.netherlands')}</p>
                 </div>
                 <div className="text-center">
                   <div className="text-3xl lg:text-4xl mb-2">🇸🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">İsveç</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.sweden')}</p>
                 </div>
                 <div className="text-center md:col-start-2 lg:col-start-auto">
                   <div className="text-3xl lg:text-4xl mb-2">🇫🇮</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">Finlandiya</p>
+                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.finland')}</p>
                 </div>
               </div>
             </div>
@@ -373,7 +395,7 @@ export default function ServicesPage() {
             <div>
               <div className="flex-1 outline-none animate-in duration-300 fade-in">
                 <div className="relative">
-                  <img alt={tabContent[activeTab].category} className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]" src="/zovpersonal.png" />
+                  <img alt={tabContent[activeTab].category} className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]" src="/is-alim-onei.png" />
                   <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-blue-600/80 via-transparent to-transparent"></div>
                   <div className="absolute bottom-0 left-0 flex flex-col justify-center gap-8 p-6 text-white">
                     <div className="flex flex-col gap-1.5">
@@ -422,7 +444,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/zovpersonal.png" alt={t('process.step1.alt')} className="z-10 aspect-video w-full rounded-xl border object-cover min-[960px]:max-h-56 min-[960px]:w-auto" />
+              <img src="/ilk-basvuru.png" alt={t('process.step1.alt')} className="z-10 aspect-video w-full rounded-xl border object-cover min-[960px]:max-h-56 min-[960px]:w-auto" />
             </div>
 
             {/* Step 2 */}
@@ -442,7 +464,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/zovpersonal.png" alt={t('process.step2.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
+              <img src="/belge-hazırlama-kontrol.png" alt={t('process.step2.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
             </div>
 
             {/* Step 3 */}
@@ -460,7 +482,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/zovpersonal.png" alt={t('process.step3.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
+              <img src="/takipi.png" alt={t('process.step3.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
             </div>
           </div>
         </div>

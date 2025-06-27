@@ -1,0 +1,1424 @@
+{
+  "metadata": {
+    "title": "ZovPersonal - Internationaal Toekomstgericht Wervingsbureau",
+    "description": "Uw vertrouwde partner die gekwalificeerde professionals verbindt met internationale werkgevers. Toekomstgerichte wervingsdiensten voor duurzaam succes in Duitsland, EU-landen en daarbuiten.",
+    "keywords": "internationale werving, werkgeverspartnerschap, jobplaatsing, Duitsland banen, EU werkgelegenheid, wervingsbureau, zovpersonal"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over Ons",
+    "contact": "Contact",
+    "consultation": "Gratis Werkgeverspartnerschap"
+  },
+  "hero": {
+    "title": "Internationaal Toekomstgericht Wervingsbureau (ZOV)",
+    "subtitle": "Uw vertrouwde partner voor internationale carrièremogelijkheden",
+    "description": "Wij verbinden gekwalificeerde professionals met innovatieve bedrijven wereldwijd. Toekomstgerichte werving voor duurzaam succes in Duitsland en de EU.",
+    "longDescription": "Uw vertrouwde partner die gekwalificeerde professionals verbindt met internationale werkgevers. Of u nu ondersteuning zoekt bij het wervingsproces of carrièremogelijkheden in het buitenland nastreeft, bereik succes met ons expertteam.",
+    "cta": "Vraag een Terugbelverzoek Aan",
+    "secondary_cta": "Meer Informatie",
+    "learnMore": "Meer Informatie",
+    "tag1": "Werkzoekende",
+    "tag2": "Werkgever"
+  },
+  "acceleratedProcedure": {
+    "title": "Versnelde Vakbekwame Werker Procedure",
+    "subtitle": "Een speciaal proces ontwikkeld om het immigratie- en erkenningsproces voor geschoolde arbeiders uit het buitenland te versnellen. Dit proces is ontworpen om bureaucratische belemmeringen te minimaliseren en vergunningen te versnellen.",
+    "imageAlt": "Versneld procedure proces",
+    "employerInitiation": "Werkgever Initiatief - Het proces wordt geïnitieerd en gecoördineerd door de werkgever",
+    "qualificationRecognition": "Kwalificatie Erkenning - Buitenlandse kwalificaties worden snel beoordeeld en erkend",
+    "comprehensiveSupport": "Uitgebreide Ondersteuning - Werkgever neemt het grootste deel van het aanvraagproces over",
+    "reducedBureaucracy": "Verminderde Bureaucratie - Snelle resultaten met maximaal 3 maanden verwerkingstijd",
+    "internationalRecruitment": "Internationale Werving - Samenwerking met gespecialiseerde platforms zoals Jobsingermany.net"
+  },
+  "home": {
+    "carousel": {
+      "badge": "Internationale Toekomstgerichte Werving",
+      "title": "Internationale Toekomstgerichte Werving",
+      "description": "Ons werkzoekersprogramma is ontworpen om u te helpen uw droombaan in het buitenland te vinden. Wij bieden de tools en middelen die u nodig heeft om te slagen.",
+      "cards": {
+        "recruitment": {
+          "category": "Talent Acquisitie",
+          "title": "Wereldwijde Wervingsoplossingen"
+        },
+        "partnership": {
+          "category": "Werkgeverspartnerschap",
+          "title": "Strategische Bedrijfspartnerschappen"
+        },
+        "visaprocess": {
+          "category": "Visa & Documentatie",
+          "title": "Complete Visa Verwerking"
+        },
+        "support": {
+          "category": "24/7 Ondersteuning",
+          "title": "Continue Klantondersteuning"
+        },
+        "healthcare": {
+          "category": "Zorgverlening Sector",
+          "title": "Medische Professionals Werving"
+        },
+        "technology": {
+          "category": "IT & Technologie",
+          "title": "Tech Talent Oplossingen"
+        }
+      },
+      "content": {
+        "recruitment": {
+          "highlight": "Vind de perfecte talent match.",
+          "description": "Onze geavanceerde wervingsmethodologie verbindt u met gekwalificeerde professionals van over de hele wereld. We stroomlijnen het gehele aanwervingsproces van kandidatenonderzoek tot eindplaatsing.",
+          "features": [
+            {
+              "title": "Wereldwijde Talentpool",
+              "description": "Toegang tot meer dan 50.000 gekwalificeerde professionals in verschillende sectoren en landen."
+            },
+            {
+              "title": "Snelle Plaatsing",
+              "description": "Gemiddelde plaatsingstijd van 45 dagen met 95% kandidaatretentie."
+            }
+          ]
+        },
+        "partnership": {
+          "highlight": "Bouw blijvende zakelijke relaties.",
+          "description": "We creëren strategische partnerschappen tussen werkgevers en internationaal talent. Onze uitgebreide aanpak zorgt voor duurzame groei en wederzijds succes voor alle betrokkenen.",
+          "features": [
+            {
+              "title": "Partnerschapbeheer",
+              "description": "Toegewijde accountmanagers voor voortdurende relatieopbouw en ondersteuning."
+            },
+            {
+              "title": "Succes Metrics",
+              "description": "Prestatie bijhouden met gedetailleerde analyses en regelmatige partnerschapbeoordelingen."
+            }
+          ]
+        },
+        "visaprocess": {
+          "highlight": "Vereenvoudig complexe visa procedures.",
+          "description": "Navigeer met vertrouwen door internationale visa vereisten. Ons expertteam behandelt alle documentatie, aanvraagprocessen en juridische compliance voor naadloze overgangen.",
+          "features": [
+            {
+              "title": "Expert Documentatie",
+              "description": "Professionele voorbereiding van alle vereiste documenten met 100% compliance ratio."
+            },
+            {
+              "title": "Juridische Compliance",
+              "description": "Blijf up-to-date met veranderende immigratiewetten en vereisten."
+            }
+          ]
+        },
+        "support": {
+          "highlight": "Ondersteuning die nooit stopt.",
+          "description": "Onze toewijding reikt verder dan plaatsing. We bieden continue ondersteuning om langdurig succes voor zowel werkgevers als werknemers gedurende hun reis te verzekeren.",
+          "features": [
+            {
+              "title": "24/7 Beschikbaarheid",
+              "description": "Rond-de-klok ondersteuning voor urgente zaken en voortdurende assistentie."
+            },
+            {
+              "title": "Integratie Ondersteuning",
+              "description": "Culturele integratie en aanpassingsdiensten voor soepele overgangen."
+            }
+          ]
+        },
+        "healthcare": {
+          "highlight": "Zorgverlening talent excellentie.",
+          "description": "Gespecialiseerde werving voor zorgprofessionals inclusief artsen, verpleegkundigen, therapeuten en medische technici. We begrijpen de unieke vereisten van de zorgsector.",
+          "features": [
+            {
+              "title": "Medische Licentie",
+              "description": "Assistentie bij medische licentie erkenning en professionele certificering."
+            },
+            {
+              "title": "Vaardigheden Validatie",
+              "description": "Uitgebreide beoordeling van medische kwalificaties en praktische vaardigheden."
+            }
+          ]
+        },
+        "technology": {
+          "highlight": "Versterk uw tech transformatie.",
+          "description": "Verbind met eersteklas IT professionals en technologie experts. Van softwareontwikkelaars tot datawetenschappers, we leveren het talent dat innovatie drijft.",
+          "features": [
+            {
+              "title": "Tech Expertise",
+              "description": "Specialisten in AI, blockchain, cloud computing en opkomende technologieën."
+            },
+            {
+              "title": "Snelle Implementatie",
+              "description": "Snelle plaatsingsoplossingen voor urgente technologieprojecten en rollen."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Internationale toekomstgerichte recruitmentbureau (ZOV)",
+      "subtitle": "ZovPersonal verbindt gekwalificeerde professionals met Europa's toonaangevende bedrijven door toekomstgerichte internationale wervingsprocessen.",
+      "description1": "Bij ZovPersonal zijn we toegewijd aan het bieden van een ongeëvenaard voordeel tegen vertragingen, inefficiënties en wanorde door middel van bruikbare inzichten en naadloze samenwerking. We stoppen niet voordat u de tools heeft om elke visumaanvraag succesvol af te ronden.",
+      "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we u beter dan ooit kunnen helpen opereren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
+    },
+    "stats": {
+      "experience": {
+        "number": "12+",
+        "label": "Jaren Infrastructuur"
+      },
+      "clients": {
+        "number": "5K+",
+        "label": "Succesvolle Klanten"
+      },
+      "visas": {
+        "number": "10K+",
+        "label": "Goedgekeurde Visa"
+      },
+      "countries": {
+        "number": "25+",
+        "label": "Doellanden"
+      }
+    },
+    "team": {
+      "title": "Het team",
+      "description1": "We begonnen met het bouwen van ZovPersonal in 2019 en lanceerden in 2022. Elk proces is vanaf de grond opgebouwd — zonder technische schulden of verouderde systemen. We zijn speciaal ontworpen om werving en werkgeverspartnerschap innovatie te ondersteunen voor de komende honderd jaar.",
+      "description2": "Onze ervaren adviseurs begrijpen de unieke behoeften van elke klant en bieden gepersonaliseerde oplossingen. We zijn hier om de complexiteiten van wervingsprocessen te vereenvoudigen en uw arbeidsreis naadloos te maken.",
+      "description3": "Neem contact met ons op voor werkgeverspartnerschap.",
+      "cta": "Neem Contact Op"
+    },
+    "company": {
+      "description1": "Bij ZovPersonal zijn we toegewijd aan het transformeren van internationale visumprocessen en het bieden van een ongeëvenaard voordeel tegen vertragingen en inefficiënties. Door middel van bruikbare inzichten en naadloze samenwerking bieden we de tools die nodig zijn om elke visumaanvraag te laten slagen.",
+      "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we betere service kunnen bieden dan ooit tevoren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
+    },
+    "images": {
+      "teamWork": "Samenwerking team",
+      "officeSpace": "Kantoorruimte",
+      "consulting": "Adviesdiensten",
+      "success": "Succesverhalen"
+    },
+    "partners": {
+      "title": "Onze partners",
+      "partner1": {
+        "name": "Anna Schneider",
+        "role": "Wervingsspecialist"
+      },
+      "partner2": {
+        "name": "Ayşe Demir",
+        "role": "Juridisch Adviseur"
+      },
+      "partner3": {
+        "name": "Ali Kaya",
+        "role": "Bedrijfsontwikkeling"
+      },
+      "partner4": {
+        "name": "Fatma Öz",
+        "role": "Klantrelaties"
+      },
+      "partner5": {
+        "name": "Lukas Wagner",
+        "role": "Operationeel Manager"
+      }
+    },
+    "description": "U begeleiden naar uw internationale carrièredoelen en visumprocessen vereenvoudigen om kansen te creëren voor werken in uw droomland. Met 15 jaar infrastructuur bieden we vertrouwde visumadviesdiensten wereldwijd.",
+    "features": {
+      "compassion": "Empathie en Begrip",
+      "integrity": "Eerlijkheid en Betrouwbaarheid",
+      "mindGrowth": "Persoonlijke en Professionele Groei"
+    }
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "subtitle": "Uitgebreide werving en werkgeverspartnerschap oplossingen",
+    "workVisa": {
+      "title": "Werving Diensten",
+      "description": "Complete ondersteuning en begeleiding bij het werven van internationale professionals uit verschillende landen, waaronder Duitsland, Oostenrijk, Nederland en meer."
+    },
+    "skillsAssessment": {
+      "title": "Vaardigheidsbeoordeling",
+      "description": "Professionele evaluatie van uw kwalificaties en matching met internationale banenkansen."
+    },
+    "documentation": {
+      "title": "Documentvoorbereiding",
+      "description": "Deskundige hulp bij documentvoorbereiding, vertaling en authenticatiediensten."
+    },
+    "consultation": {
+      "title": "Persoonlijk Consult",
+      "description": "Een-op-een consultsessies om uw specifieke behoeften en carrièredoelen te begrijpen."
+    },
+    "countries": {
+      "title": "We versterken ons met 's werelds beste werving- en werkgeverspartnerteams.",
+      "subtitle": "Van next-generation startups tot gevestigde organisaties.",
+      "countryNames": {
+        "germany": "Duitsland",
+        "austria": "Oostenrijk",
+        "netherlands": "Nederland",
+        "switzerland": "Zwitserland",
+        "belgium": "België",
+        "luxembourg": "Luxemburg",
+        "denmark": "Denemarken",
+        "romania": "Roemenië",
+        "croatia": "Kroatië",
+        "bulgaria": "Bulgarije",
+        "sweden": "Zweden",
+        "finland": "Finland",
+        "serbia": "Servië"
+      }
+    },
+    "tabContent": {
+      "workVisa": {
+        "title": "Wervingsproces",
+        "description": "Het werven van internationale specialisten biedt enorme kansen om het tekort aan vaardigheden in Duitsland aan te pakken. Met onze gerichte en gestructureerde aanpak organiseren we uw wervingsproces effectief om gekwalificeerde zorgprofessionals uit het buitenland succesvol aan te trekken.",
+        "stat1": { "number": "95%", "label": "succesvolle werving" },
+        "stat2": { "number": "30", "label": "dagen gemiddelde tijd" },
+        "category": "Wervingsproces"
+      },
+      "documentation": {
+        "title": "Documentvoorbereiding Proces",
+        "description": "Visum voor erkenning van buitenlandse beroepskwalificaties is gericht op geschoolde werknemers die hun in het buitenland verworven beroepskwalificaties in Duitsland erkend willen krijgen. We bereiden uw documenten voor volgens Duitse normen en vergemakkelijken het erkenningsproces.",
+        "stat1": { "number": "100%", "label": "documentconformiteit" },
+        "stat2": { "number": "48", "label": "uren gereed" },
+        "category": "Documentvoorbereiding"
+      },
+      "skillsAssessment": {
+        "title": "Beroepskwalificatie Beoordeling",
+        "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met Duitse taalvaardigheden op B1-niveau en bewijs van financiële zekerheid.",
+        "stat1": { "number": "85%", "label": "succesvolle erkenning" },
+        "stat2": { "number": "12", "label": "jaren ervaring" },
+        "category": "Beroepskwalificatie"
+      }
+    },
+    "tabButtons": {
+      "workVisa": "Werving",
+      "documentation": "Documentatie",
+      "skillsAssessment": "Beroepskwalificatie"
+    }
+  },
+  "professions": {
+    "title": "Professionele Categorieën",
+    "subtitle": "Wij zijn gespecialiseerd in visumaanvragen voor verschillende professionele velden",
+    "healthcare": {
+      "title": "Gezondheidszorg Professionals",
+      "description": "Verpleegkundigen, artsen, therapeuten en andere gezondheidszorgmedewerkers",
+      "requirements": "Vereiste documenten en kwalificaties"
+    },
+    "engineering": {
+      "title": "Ingenieurs & IT",
+      "description": "Softwareontwikkelaars, ingenieurs en technische specialisten",
+      "requirements": "Technische kwalificatievereisten"
+    },
+    "skilled": {
+      "title": "Geschoolde Werknemers",
+      "description": "Ambachtslieden, technici en geschoolde arbeiders",
+      "requirements": "Professionele certificeringsvereisten"
+    },
+    "education": {
+      "title": "Onderwijs & Onderzoek",
+      "description": "Leraren, onderzoekers en academische professionals",
+      "requirements": "Academische credentialvereisten"
+    }
+  },
+  "documents": {
+    "title": "Vereiste Documenten",
+    "subtitle": "Essentiële papieren voor uw visumaanvraag",
+    "categories": {
+      "personal": {
+        "title": "Persoonlijke Documenten",
+        "description": "Paspoort met minimaal 6 maanden geldigheid, identiteitsdocumenten en papierwerk met uw persoonlijke informatie."
+      },
+      "education": {
+        "title": "Opleidingsdocumenten",
+        "description": "Diploma's, certificaten en taalcertificaten. Een apostille kan vereist zijn voor internationale erkenning."
+      },
+      "professional": {
+        "title": "Professionele Documenten",
+        "description": "Aanbiedingsbrief, arbeidscontract, professionele kwalificatiecertificaten en ervaringsdocumenten."
+      },
+      "medical": {
+        "title": "Medisch & Juridisch",
+        "description": "Medisch rapport, strafbladcontrole, documenten over financiële status en uw biometrische foto's."
+      }
+    },
+    "list": [
+      "Geldig paspoort met minimaal 6 maanden geldigheid",
+      "Opleidingscertificaten en diploma's",
+      "Professionele kwalificatiecertificaten",
+      "Taalcertificaten (Duits/Engels)",
+      "Aanbiedingsbrief of arbeidscontract",
+      "Medische onderzoeksrapporten",
+      "Strafbladcontrole",
+      "Bewijs van financiële middelen",
+      "Ingevulde visumaanvraagformulieren",
+      "Biometrische foto's"
+    ]
+  },
+  "process": {
+    "title": "Ons Visumaanvraagproces",
+    "subtitle": "We minimaliseren de complexiteit van het beheren van uw complexe documenten met onze tools die uw visumaanvraagproces vereenvoudigen.",
+    "step1": {
+      "title": "Initiële Consultatie en Beoordeling",
+      "description": "We analyseren uw profiel en doelen om een gepersonaliseerde visumstrategie voor u te ontwikkelen.",
+      "alt": "Visumconsultatie"
+    },
+    "step2": {
+      "title": "Documentvoorbereiding en Controle",
+      "description": "We bereiden al uw documenten voor volgens internationale normen en detecteren eventuele tekortkomingen direct.",
+      "alt": "Documentvoorbereiding"
+    },
+    "step3": {
+      "title": "Aanvraag en Opvolging",
+      "description": "We dienen uw aanvraag veilig in en volgen deze continu totdat deze is afgerond.",
+      "alt": "Aanvraagtracking"
+    }
+  },
+  "contact": {
+    "title": "Laten We Praten",
+    "jobSeeker": "Werkzoekende",
+    "employer": "Werkgever",
+    "subtitle": "Of u nu klaar bent om uw eerste consult te plannen of gewoon vragen heeft, we horen graag van u.",
+    "pageTitle": "Neem contact met ons op",
+    "pageSubtitle": "We zijn hier om te helpen met uw vragen over visumadvies.",
+    "offices": {
+      "istanbul": "🇹🇷 Kantoor Istanbul",
+      "berlin": "🇩🇪 Kantoor Berlijn"
+    },
+    "sections": {
+      "email": "E-mail ons",
+      "follow": "Volg ons",
+      "inquiries": "Vragen"
+    },
+    "selectApplicantType": "Selecteer Type Aanvrager",
+    "namePlaceholder": "Naam",
+    "emailPlaceholder": "E-mailadres",
+    "datePlaceholder": "Selecteer Datum",
+    "messagePlaceholder": "Bericht",
+    "submitButton": "Boek Nu",
+    "sending": "Wordt verzonden...",
+    "successMessage": "Uw bericht is succesvol verzonden! We nemen spoedig contact met u op.",
+    "errorMessage": "Er is een fout opgetreden bij het verzenden van het bericht. Probeer het opnieuw.",
+    "imageAlt": "Neem contact met ons op voor visumadvies",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "address": "Adres",
+    "form": {
+      "fullName": "Volledige naam",
+      "email": "Werk e-mailadres",
+      "message": "Uw bericht",
+      "submit": "Verzenden",
+      "optional": "(optioneel)",
+      "placeholders": {
+        "fullName": "Voor- en achternaam",
+        "email": "mijn@email.com",
+        "message": "Schrijf uw bericht"
+      }
+    }
+  },
+  "cta": {
+    "title": "Klaar om Uw Internationale Carrière te Starten?",
+    "subtitle": "Ontvang een gratis consult met ons deskundige team en zet de eerste stap naar uw droombaan in het buitenland.",
+    "button": "Ontvang Gratis Consult"
+  },
+  "footer": {
+    "ctaTitle": "Slimmer Advies.\nGa Vooruit met Vertrouwen",
+    "ctaSubtitle": "Toegang tot een nieuw tijdperk met hybride oplossingen, geavanceerde tools en adviesdiensten op bedrijfsniveau.",
+    "ctaButton": "Begin Nu",
+    "ctaSecondary": "Bekijk Onze Diensten",
+    "supportingText": "Uw vertrouwde partner voor internationaal visumadvies en loopbaanbegeleiding.",
+    "copyright": "Copyright ©2025. Alle rechten voorbehouden.",
+    "links": {
+      "home": "Home",
+      "services": "Diensten",
+      "about": "Over Ons",
+      "contact": "Contact",
+      "requiredDocuments": "Vereiste Documenten",
+      "applicationProcess": "Internationale Werving",
+      "pricing": "Prijzen",
+      "additionalServices": "Extra Diensten",
+      "nationalVisaSteps": "Nationaal Visum Stappen (90+ Dagen)"
+    },
+    "description": "Professionele internationale werkvisum adviesdiensten",
+    "quickLinks": "Snelle Links",
+    "ourServices": "Bronnen",
+    "email": "info@zovpersonal.com",
+    "phone": "(Turkije) | +90 555 123 45 67 (Duitsland) | +49 30 12345678",
+    "address": "Istanbul, Turkije, Brückstraße 59, 26725 Emden, Duitsland",
+    "visa": {
+      "requiredDocuments": "Vereiste Documenten",
+      "applicationProcess": "Aanvraagproces",
+      "pricing": "Prijzen",
+      "additionalServices": "Extra Diensten",
+      "nationalVisaSteps": "Nationaal Visum Stappen",
+      "professions": "Beroepsproces",
+      "businessProcess": "Business-Prozess in Deutschland"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://instagram.com/zovpersonal",
+        "alt": "Volg ons op Instagram"
+      },
+      "twitter": {
+        "url": "https://twitter.com/zovpersonal",
+        "alt": "Volg ons op Twitter"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/company/zovpersonal",
+        "alt": "Volg ons op LinkedIn"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "jobSeeker": "Werkzoekende",
+      "employer": "Werkgever",
+      "selectApplicantType": "Selecteer Aanvragertype"
+    },
+    "services": {
+      "workVisa": "Werkvisum Aanvragen",
+      "skillsAssessment": "Vaardigheidsbeoordeling",
+      "documentation": "Documentvoorbereiding",
+      "consultation": "Persoonlijk Consult"
+    },
+    "legal": "Onze adviesdiensten zijn uitsluitend voor informatieve doeleinden en bieden geen garanties. Visumaanvraagprocessen zijn onderhevig aan landelijke regelgeving en resultaten kunnen variëren. Neem contact op met onze deskundige adviseurs om uw persoonlijke situatie te evalueren.",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "rightsReserved": "Alle rechten voorbehouden"
+  },
+  "privacyPolicy": {
+    "title": "Privacybeleid",
+    "subtitle": "ZovPersonal Adviesdiensten - Bescherming en Beveiliging van Uw Persoonsgegevens",
+    "sections": {
+      "intro": {
+        "title": "Ons Privacybeleid",
+        "content": "Als ZovPersonal Consulting and Service Foreign Trade Inc. tonen we de hoogste mate van zorgvuldigheid met betrekking tot de beveiliging van uw persoonsgegevens. Dit privacybeleid legt uit hoe we uw persoonsgegevens verzamelen, verwerken, beschermen en opslaan wanneer u onze diensten gebruikt.",
+        "kvkk": "Als gegevensbeheerders onder de Wet op de Bescherming van Persoonsgegevens Nr. 6698 (KVKK) zorgen we voor volledige naleving van de wetgeving bij de verwerking van uw persoonsgegevens."
+      },
+      "dataCollection": {
+        "title": "Persoonsgegevens Die We Verzamelen",
+        "identity": {
+          "title": "Identiteits- en Contactinformatie",
+          "items": ["Naam, achternaam", "Geboortedatum en -plaats", "Nationaal ID-nummer", "Paspoortinformatie", "Telefoonnummer", "E-mailadres", "Adresinformatie"]
+        },
+        "visa": {
+          "title": "Visumaanvraaginformatie",
+          "items": ["Opleidingsstatus", "Professionele informatie", "Inkomensstatus", "Reisgeschiedenis", "Familie status", "Gezondheidsstatus (indien vereist)"]
+        },
+        "technical": {
+          "title": "Technische Gegevens",
+          "items": ["IP-adres", "Browserinformatie", "Apparaatinformatie", "Gebruikersgegevens website"]
+        }
+      },
+      "processing": {
+        "title": "Doelen van Persoonsgegevensverwerking",
+        "description": "We verwerken uw persoonsgegevens voor de volgende doeleinden:",
+        "purposes": ["Uitvoeren van visumaanvraagprocessen", "Verlenen van adviesdiensten", "Klantrelatiebeheer", "Voldoen aan wettelijke verplichtingen", "Verbeteren van servicekwaliteit", "Statistische analyse", "Meten van klanttevredenheid", "Nemen van veiligheidsmaatregelen"]
+      },
+      "security": {
+        "title": "Gegevensbeveiliging",
+        "description": "We nemen de volgende technische en administratieve maatregelen voor de beveiliging van uw persoonsgegevens:",
+        "measures": ["Versleutelde gegevensoverdracht met SSL-certificaat", "Veilige serverinfrastructuur", "Toegangscontrole en autorisatie", "Regelmatige beveiligingsupdates", "Personeelstraining en vertrouwelijkheidsovereenkomsten", "Gegevensback-up en herstelprocedures", "24/7 beveiligingsmonitoring"]
+      },
+      "rights": {
+        "title": "Rechten van Betrokkenen",
+        "description": "U heeft de volgende rechten onder KVKK:",
+        "list": {
+          "info": {
+            "title": "Recht op Informatie",
+            "description": "Recht om te weten of uw persoonsgegevens worden verwerkt"
+          },
+          "access": {
+            "title": "Recht op Toegang",
+            "description": "Recht om informatie op te vragen over uw verwerkte persoonsgegevens"
+          },
+          "rectification": {
+            "title": "Recht op Correctie",
+            "description": "Recht om correctie van onjuiste of onvolledige gegevens te vragen"
+          },
+          "erasure": {
+            "title": "Recht op Verwijdering",
+            "description": "Recht om verwijdering van uw persoonsgegevens te vragen"
+          },
+          "objection": {
+            "title": "Recht op Bezwaar",
+            "description": "Recht om bezwaar te maken tegen gegevensverwerking en te vragen om stopzetting"
+          },
+          "portability": {
+            "title": "Recht op Overdraagbaarheid",
+            "description": "Recht om overdracht van uw gegevens naar een andere gegevensbeheerder te vragen"
+          }
+        },
+        "howToUse": {
+          "title": "Hoe Kunt U Uw Rechten Uitoefenen?",
+          "description": "U kunt de bovenstaande rechten uitoefenen via de volgende communicatiekanalen:",
+          "channels": ["E-mail: info@zovpersonal.com", "Schriftelijke aanvraag: Persoonlijke overhandiging of per post naar ons bedrijfsadres", "Online formulier: Aanvraagformulier op www.zovpersonal.com"]
+        }
+      },
+      "cookies": {
+        "title": "Cookies",
+        "description": "We gebruiken cookies op onze website om de gebruikerservaring te verbeteren. Cookies zijn kleine tekstbestanden die in uw webbrowser worden opgeslagen. U kunt het gebruik van cookies beheren via uw browserinstellingen."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "U kunt contact met ons opnemen voor vragen over ons privacybeleid:",
+        "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+        "offices": {
+          "turkey": {
+            "title": "Kantoor Turkije",
+            "address": "Adres",
+            "phone": "Telefoon",
+            "location": "Istanbul, Turkije"
+          },
+          "germany": {
+            "title": "Kantoor Duitsland",
+            "address": "Adres",
+            "phone": "Telefoon",
+            "location": "Berlijn, Duitsland"
+          }
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Gebruiksvoorwaarden",
+    "subtitle": "ZovPersonal Adviesdiensten - Beveiligingsvoorschriften en Bescherming van Persoonsgegevens",
+    "sections": {
+      "securityRegulations": {
+        "title": "BEVEILIGINGSVOORSCHRIFTEN",
+        "intro": "Aankondiging van beveiligingsvoorschriften met betrekking tot zaken die moeten worden nageleefd door aanvragers die ZovPersonal Visum Aanvraagcentra bezoeken;",
+        "description": "In overeenstemming met de beveiligingseisen van Duitse/Italiaanse vertegenwoordigingen is het aanvragers die ZovPersonal-kantoren bezoeken verboden de volgende handelingen uit te voeren en de genoemde items mee te nemen en te gebruiken in ZovPersonal-kantoren:",
+        "prohibitedItems": [
+          "Mobiele telefoons, camera's, videocamera's of andere apparaten die audio/video opnemen (mp3-spelers, draagbare computers, batterijgevoede opnameapparaten, enz.)",
+          "Alle soorten brandbare (lucifers, aanstekers, brandstof en soortgelijke brandbare) en snijdende (scharen, puntenslijpers, vijlen, enz.) objecten",
+          "Wapens of wapenachtige objecten of explosieve materialen",
+          "Huisdieren (vanwege allergische gevoeligheden)",
+          "Verzegelde enveloppen of pakketten",
+          "Eten en drinken",
+          "Tassen of koffers groter dan handbagage, rugzakken, aktetassen of tassen met rits (Als u dossiers heeft, kunt u alleen dossiers met de gevraagde documenten bewaren)"
+        ],
+        "disclaimer": "*De bovenstaande lijst is niet beperkt tot de genoemde items.",
+        "additionalRules": [
+          "Beveiligingsmedewerkers en kantoormedewerkers hebben het recht om verdachte items te verbieden en toegang te weigeren aan verdachte personen in onze kantoren. Beveiligingsmedewerkers hebben de bevoegdheid om de tas van de aanvrager op elk moment tijdens het visumaanvraagproces te controleren.",
+          "Om veiligheidsredenen is het derde partijen zoals vrienden, familieleden of werknemers van de werkplek, anders dan de aanvrager, verboden om visumaanvragen in te dienen (Toegang tot ZovPersonal-kantoren is niet mogelijk, behalve voor de aanvrager en de persoon die bij volmacht aanvraagt). Slechts 1 persoon wordt geaccepteerd om aanvragers te begeleiden die fysiek hulp van iemand anders nodig hebben, gehoorproblemen hebben of niet kunnen lezen en schrijven.",
+          "Aanvragers is het verboden om gebieden te betreden anders dan de gemeenschappelijke ruimtes die zijn gereserveerd voor aanvragers in onze kantoren (werkruimtes van het personeel, toiletten, enz.).",
+          "ZovPersonal-kantoren hebben geen opslagruimte voor de bovengenoemde verboden items. ZovPersonal-kantoren accepteren ook geen deposito's. Aanvragers wordt verzocht alternatieve manieren te kiezen om dergelijke kenmerken en soorten items niet mee te brengen voordat ze het centrum betreden.",
+          "ZovPersonal-kantoren worden 24/7 opgenomen met camera's vanwege ons beveiligingsbeleid."
+        ],
+        "footer": "We informeren u met respect."
+      },
+      "dataProtection": {
+        "title": "ALGEMENE INFORMATIE OVER DE BESCHERMING EN VERWERKING VAN PERSOONSGEGEVENS",
+        "intro": "Als ZovPersonal Consulting and Service Foreign Trade Inc. (\"ZovPersonal\" of \"Bedrijf\") tonen we maximale zorgvuldigheid voor de beveiliging van uw persoonsgegevens. Met dit besef hechten we groot belang aan de verwerking en opslag van persoonsgegevens van natuurlijke personen met wie het Bedrijf interacteert in overeenstemming met de Wet op de Bescherming van Persoonsgegevens Nr. 6698 (\"Wet\"), secundaire regelgeving (verordeningen, mededelingen, circulaires) die op basis van de Wet zijn en zullen worden ingevoerd, en bindende besluiten die zijn en zullen worden genomen door de Raad voor de Bescherming van Persoonsgegevens.",
+        "dataController": {
+          "title": "Informatie Over de Gegevensbeheerder",
+          "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., geregistreerd bij het Handelsregister van Istanbul, is de Gegevensbeheerder in overeenstemming met de Wet."
+        },
+        "processingPurposes": {
+          "title": "Doelen van Verwerking van Persoonsgegevens",
+          "content": "Uw persoonsgegevens worden door het Bedrijf verwerkt voor het uitvoeren van de nodige werkzaamheden door de bedrijfsunits van het Bedrijf en het uitvoeren van activiteiten in deze richting voor de uitvoering van de commerciële activiteiten van het Bedrijf in overeenstemming met wetgeving en bedrijfsbeleid, het bepalen, plannen en implementeren van de korte, middellange en lange termijn commerciële beleidslijnen van het Bedrijf, het nakomen van de verplichtingen van het Bedrijf die voortvloeien uit relevante wetgeving, het beheren van klantrelaties en bedrijfscommunicatieprocessen, het beheren van serviceverkoopprocessen, het beheren van callcenterprocessen, en het waarborgen van de commerciële en juridische veiligheid van natuurlijke en rechtspersonen met wie het Bedrijf zakenrelaties heeft, binnen de grenzen die in de Wet zijn gespecificeerd, in overeenstemming met de wet, eerlijkheidsregels, en altijd op een verbonden, beperkte en proportionele manier met deze doeleinden."
+        },
+        "dataTransfer": {
+          "title": "Overdracht van Persoonsgegevens",
+          "content": "Uw persoonsgegevens worden overgedragen binnen het kader van de bovengenoemde doeleinden, in overeenstemming met de voorwaarden gespecificeerd in Artikelen 8 en 9 van de Wet, voornamelijk aan wettelijk bevoegde overheidsinstellingen, gerechtelijke en administratieve autoriteiten, rechtspersonen en natuurlijke personen die toegestaan zijn door andere wetgeving, instellingen en organisaties die bevoegd zijn om het Bedrijf te controleren, betalingsinstellingen waarmee contracten zijn gesloten voor de uitvoering van betalingen en financiële verplichtingen, zakenpartners van wie diensten worden ontvangen of waarmee wordt samengewerkt voor de uitvoering van diensten die via het callcenter worden geleverd en voor het uitvoeren en ontwikkelen van de activiteiten van het Bedrijf, en alleen wanneer nodig aan de leveranciers van het Bedrijf, door het nemen van de in de Wet gespecificeerde beveiligingsmaatregelen voor gegevens."
+        },
+        "collectionMethod": {
+          "title": "Methode en Juridische Basis voor het Verzamelen van Persoonsgegevens",
+          "content": "Uw persoonsgegevens worden verzameld door de bevoegde eenheden en werknemers van het Bedrijf via automatische en niet-automatische methoden, mondeling, schriftelijk of in elektronische omgeving. In deze context worden persoonsgegevens in de categorieën identiteit, communicatie, locatie, juridische transactie, klanttransactie, transactiebeveiliging, risicobeheer, financiën verwerkt op basis van de juridische redenen dat het verwerken van persoonsgegevens van de contractpartijen verplicht is vanwege directe verband met de oprichting of uitvoering van een contract zoals aangegeven in de tweede paragraaf van Artikel 5 van de Wet, het verwerken van gegevens verplicht is voor de gegevensbeheerder om zijn wettelijke verplichting na te komen, openbaar gemaakt is door de betrokkene zelf, en het verwerken van gegevens verplicht is voor de legitieme belangen van het Bedrijf, op voorwaarde dat dit de fundamentele rechten en vrijheden van de betrokkene niet schaadt."
+        },
+        "dataSubjectRights": {
+          "title": "Rechten van Betrokkenen Onder de Wet",
+          "intro": "U kunt op elk moment bij ZovPersonal een aanvraag indienen om:",
+          "rights": [
+            "Te weten of uw persoonsgegevens worden verwerkt",
+            "Informatie op te vragen hierover als uw persoonsgegevens zijn verwerkt",
+            "Te weten met welk doel uw persoonsgegevens worden verwerkt en of ze worden gebruikt in overeenstemming met hun doel",
+            "Te weten aan welke derde partijen uw persoonsgegevens in binnen- of buitenland worden overgedragen",
+            "Correctie te vragen van onvolledige of onjuist verwerkte persoonsgegevens",
+            "Verwijdering of vernietiging van persoonsgegevens te vragen binnen het kader van de voorwaarden zoals gespecificeerd in Artikel 7 van de Wet",
+            "Te vragen dat de verrichtingen uitgevoerd in overeenstemming met subparagrafen (d) en (e) van Artikel 11 van de Wet worden gemeld aan derde partijen aan wie uw persoonsgegevens zijn overgedragen",
+            "Bezwaar te maken tegen het ontstaan van een resultaat tegen u door de analyse van uw verwerkte gegevens uitsluitend via geautomatiseerde systemen",
+            "Compensatie te vragen voor schade in geval u schade lijdt als gevolg van onrechtmatige verwerking van uw persoonsgegevens"
+          ],
+          "applicationProcess": "U kunt verzoeken om uw rechten uit te oefenen. U kunt uw verzoeken met betrekking tot uw rechten en de toepassing van de Wet indienen door het aanvraagformulier in te vullen dat u kunt verkrijgen via https://zovpersonal.com/ en dit te verzenden naar het bedrijfsadres via notaris, aangetekende brief met ontvangstbevestiging of met uw persoonlijke aanvraag in natte handtekeningvorm, of door het aanvraagformulier dat u elektronisch heeft ingevuld te ondertekenen met uw mobiele handtekening of veilige elektronische handtekening en vervolgens te verzenden naar info@zovpersonal.com met behulp van uw KEP-adres of het e-mailadres dat al geregistreerd is in het gegevensregistratiesysteem van het Bedrijf.",
+          "fees": "ZovPersonal zal gratis reageren op verzoeken in deze context tot tien pagina's als een schriftelijke reactie moet worden gegeven; het zal reageren door een vergoeding in rekening te brengen voor elke pagina boven de tien pagina's per transactie. Als de reactie op de aanvraag wordt gegeven op een opnamemedium zoals CD of flashgeheugen, kan de vergoeding die door het Bedrijf kan worden gevraagd niet hoger zijn dan de kosten van het opnamemedium."
+        }
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "Waarom Kiezen Voor Ons?",
+    "subtitle": "Onze onderscheidende kenmerken in internationaal visumadvies",
+    "category": "Visumadvies",
+    "description": "Met meer dan 15 jaar infrastructuur zijn we uw vertrouwde partner in het bereiken van internationale carrièredoelen. We maken het verschil met onze gepersonaliseerde aanpak en hoog succespercentage.",
+    "feature1": {
+      "title": "Deskundig Team",
+      "description": "We staan aan uw zijde met onze visumspecialisten en juridische adviseurs met meer dan 15 jaar infrastructuur."
+    },
+    "feature2": {
+      "title": "Hoog Succespercentage",
+      "description": "We hebben de dromen van duizenden klanten waargemaakt met ons succespercentage van 95%."
+    },
+    "feature3": {
+      "title": "Gepersonaliseerde Service",
+      "description": "We ontwikkelen op maat gemaakte oplossingen voor de unieke situatie van elke klant."
+    },
+    "feature4": {
+      "title": "24/7 Ondersteuning",
+      "description": "We bieden ononderbroken ondersteuning en actuele informatie gedurende het hele proces."
+    },
+    "slides": {
+      "personalizedCare": {
+        "title": "Gepersonaliseerde Zorg",
+        "description": "We ontwikkelen aangepaste oplossingen door de unieke behoeften van elke klant te begrijpen."
+      },
+      "experiencedProfessionals": {
+        "title": "Ervaren Professionals",
+        "description": "We bieden betrouwbare adviesdiensten met ons team van experts in hun vakgebied."
+      },
+      "holisticApproach": {
+        "title": "Holistische Aanpak",
+        "description": "We behandelen alle fasen van uw visumproces op een uitgebreide manier."
+      },
+      "supportiveEnvironment": {
+        "title": "Ondersteunende Omgeving",
+        "description": "U kunt adviesdiensten ontvangen in een veilige en comfortabele omgeving."
+      },
+      "healthcareRecruitment": {
+        "title": "Werving in de Gezondheidszorg",
+        "description": "Het werven van internationale specialisten biedt enorme kansen om het tekort aan vaardigheden in Duitsland aan te pakken. Met onze gerichte en gestructureerde aanpak structureren we uw wervingsproces effectief om gekwalificeerde gezondheidszorgprofessionals uit het buitenland succesvol aan te trekken. We maken aantrekkelijke vacatures die aantrekkelijk zijn voor internationale professionals met duidelijke functiebeschrijvingen, transparantie in salaris en uitgebreide ondersteuningsdiensten."
+      },
+      "livingInGermany": {
+        "title": "Wonen in Duitsland",
+        "description": "Duitsland staat bekend om zijn sterke economie, cultuur en hoge levenskwaliteit. We bieden een uitgebreide gids voor het leven in Duitsland, van de eerste stappen in het dagelijks leven tot succesvolle integratie in de samenleving. We bieden gedetailleerde informatie over het vinden van huisvesting, Duitse cultuur en tradities, taalleren, het gezondheidszorgsysteem en het dagelijks leven. We begeleiden u bij alles, van belangrijke waarden zoals stiptheid en orde tot traditionele vieringen zoals Kerstmis en Oktoberfest."
+      },
+      "experiencedProfessionalsVisa": {
+        "title": "Visum voor Ervaren Professionals",
+        "description": "Het visum voor ervaren professionals is gericht op geschoolde werknemers met minstens twee jaar gekwalificeerde professionele ervaring in hun vakgebied. Met dit visum kunt u werken in veelgevraagde beroepen in Duitsland. U kunt solliciteren als u voldoet aan vereisten zoals gekwalificeerde professionele ervaring, minimumloonvoorwaarden, baanaanbod en taalvaardigheden. We ondersteunen uw aanvraagproces met een minimum jaarsalaris van €40.770 en B1-niveau Duitse taalvaardigheid."
+      },
+      "vocationalTrainingVisa": {
+        "title": "Beroepsopleidingsvisum",
+        "description": "Het visum voor het afronden van een beroepsopleiding is gericht op individuen die een duale beroepsopleiding willen afronden in een erkend beroepsopleidingsberoep in Duitsland. Dit programma combineert theoretische kennis die op de vakschool wordt onderwezen met praktische training in een bedrijf, en biedt jongeren de kans om gekwalificeerde training te voltooien in Duitse leerlingplaatsen en vervolgens langetermijnperspectieven te krijgen op de Duitse arbeidsmarkt."
+      },
+      "qualificationRecognitionVisa": {
+        "title": "Visum voor Erkenning van Kwalificaties",
+        "description": "Het visum voor erkenning van buitenlandse professionele kwalificaties is gericht op geschoolde werknemers die hun in het buitenland behaalde professionele kwalificaties in Duitsland erkend willen zien. We bieden langetermijnwerkgelegenheid in Duitsland door uw kwalificaties aan te passen aan de Duitse normen. Met dit visum, dat u in staat stelt om in Duitsland te verblijven tijdens het erkenningsproces en professionele aanpassingsmaatregelen te nemen, ondersteunen we u bij het voldoen aan de vereisten van B1-niveau Duits en een minimale maandelijkse financiële zekerheid van €947."
+      }
+    }
+  },
+  "approach": {
+    "title": "Onze Servicefilosofie",
+    "subtitle": "Hoe we uw visumaanvraagproces beheren",
+    "holisticApproach": "Met een holistische aanpak staan we aan uw zijde in elke fase van uw visumproces.",
+    "personalizedCare": "Met onze gepersonaliseerde zorgbenadering voldoen we aan de speciale behoeften van elke klant.",
+    "compassionateProfessionals": "Onze empathische specialisten ondersteunen u gedurende het hele proces.",
+    "flexibleScheduling": "We bedienen u op geschikte tijden met ons flexibele afspraken systeem.",
+    "confidentialSpace": "U kunt uw persoonlijke informatie delen in een privé en veilige omgeving.",
+    "imageAlt": "Onze visumadviesaanpak",
+    "step1": {
+      "title": "Analyse en Planning",
+      "description": "We analyseren uw persoonlijke situatie in detail en bepalen de meest geschikte visumstrategie."
+    },
+    "step2": {
+      "title": "Documentvoorbereiding",
+      "description": "We bereiden en controleren al uw documenten volgens internationale normen."
+    },
+    "step3": {
+      "title": "Aanvraag en Opvolging",
+      "description": "We dienen uw aanvraag in en volgen deze continu totdat deze is afgerond."
+    },
+    "step4": {
+      "title": "Succes en Ondersteuning",
+      "description": "We blijven u begeleiden tijdens het vestigingsproces, zelfs na het verkrijgen van het visum."
+    }
+  },
+  "reviews": {
+    "title": "Klantenbeoordelingen",
+    "subtitle": {
+      "line1": "Ervaringen en meningen van",
+      "line2": "onze succesvolle klanten"
+    },
+    "review1": {
+      "title": "Uitstekende Service",
+      "content": "Dankzij ZovPersonal is mijn droom om als verpleegkundige in Duitsland te werken uitgekomen. Ze waren bij elke stap van het proces bij me en hielden me constant op de hoogte.",
+      "name": "Dr. Mehmet Kaya",
+      "role": "Verpleegkundige - Duitsland",
+      "text": "Dankzij ZovPersonal is mijn droom om als verpleegkundige in Duitsland te werken uitgekomen. Ze waren bij elke stap van het proces bij me.",
+      "rating": 5
+    },
+    "review2": {
+      "title": "Professionele Aanpak",
+      "content": "Dankzij hun professionele aanpak en gedetailleerde begeleiding heb ik mijn Duitse werkvisum soepel verkregen. Het team is echt deskundig en ervaren.",
+      "name": "Ingenieur Busra Oz",
+      "role": "Softwareontwikkelaar - Nederland",
+      "text": "Dankzij hun professionele aanpak en gedetailleerde begeleiding heb ik mijn Duitse werkvisum soepel verkregen. Bedankt ZovPersonal!",
+      "rating": 5
+    },
+    "review3": {
+      "title": "Proces Vereenvoudigd",
+      "content": "Toen ik mijn Canada onderwijsvisum aanvroeg, leek het erg complex. ZovPersonal heeft alles vereenvoudigd en stap-voor-stap begeleiding geboden.",
+      "name": "Leraar Nicolaus Voss",
+      "role": "Leraar - Canada",
+      "text": "Toen ik mijn Canada onderwijsvisum aanvroeg, leek het erg complex. ZovPersonal heeft alles vereenvoudigd.",
+      "rating": 5
+    },
+    "review4": {
+      "title": "Betrouwbare Partner",
+      "content": "Ik koos ZovPersonal om mijn werkvergunning als arts in Duitsland te krijgen. Ik heb de juiste beslissing genomen, het proces verliep erg snel.",
+      "name": "Dr. Georgi Vasilev",
+      "role": "Arts - Bulgarije",
+      "rating": 5
+    },
+    "review5": {
+      "title": "Uitstekend Resultaat",
+      "content": "Ik was erg bezorgd bij het aanvragen van mijn Australische werkvisum. Het ZovPersonal-team stelde me gerust en speelde een grote rol in het behalen van succesvolle resultaten.",
+      "name": "Architect Marko Balković",
+      "role": "Architect - Australië",
+      "rating": 5
+    },
+    "review6": {
+      "title": "Snel en Effectief",
+      "content": "Toen ik een baanmogelijkheid in Duitsland vond, had ik geen idee over het visumproces. Dankzij ZovPersonal werd alles erg snel opgelost.",
+      "name": "Ingenieur Andrei Popescu",
+      "role": "Elektricien - Roemenië",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "subtitle": "We beantwoorden alles wat u wilt weten over visum- en immigratieprocessen. Vind uw weg naar uw droomland met ons deskundige team.",
+    "question1": "Voor welke landen bieden jullie visumadvies?",
+    "answer1": "We bieden uitgebreide visumadviesdiensten voor Duitsland, Australië, Canada, de VS, het VK, Nederland en vele EU-landen. We creëren op maat gemaakte oplossingen voor de unieke vereisten van elk land.",
+    "question2": "Hoe lang duurt het visumaanvraagproces?",
+    "answer2": "De duur varieert per land en visumtype, meestal tussen de 2-6 maanden. Volledige voorbereiding van documenten en het volgen van de juiste procedures versnelt het proces.",
+    "question3": "Wat doen jullie als de aanvraag wordt afgewezen?",
+    "answer3": "Bij afwijzing analyseren we de redenen en ontwikkelen we een nieuwe strategie. Indien nodig behandelen we beroepsprocedures en bereiden we nieuwe aanvragen voor na het aanpakken van tekortkomingen. We blijven onze klanten gedurende het hele proces ondersteunen.",
+    "question4": "Wat zijn jullie servicekosten?",
+    "answer4": "Onze kosten variëren afhankelijk van het type dienst en de complexiteit. Het eerste consult is gratis. Neem contact met ons op voor gedetailleerde prijzen en gepersonaliseerde offertes op basis van uw specifieke behoeften.",
+    "question5": "In welke talen moeten mijn documenten worden voorbereid?",
+    "answer5": "Documenten moeten worden vertaald in de officiële taal van het doelland. We bieden ook gecertificeerde vertaaldiensten voor Duits, Engels en andere vereiste talen."
+  },
+  "internationalRecruitment": {
+    "hero": {
+      "title": "Internationale Toekomstgerichte Werving",
+      "description": "In de moderne wereld kennen talenten geen grenzen. Ontdek de arbeidskrachten van morgen vandaag en versterk uw bedrijf met internationale talenten."
+    },
+    "vision": {
+      "title": "De Toekomst van het Bedrijfsleven Vormgeven",
+      "subtitle": "Human Resources in het Digitale Tijdperk",
+      "description": "Terwijl technologie zich snel ontwikkelt, blijft de belangrijkste bron de mens. Het ontdekken van internationale talenten en het evalueren ervan in de juiste posities is de sleutel voor bedrijven om concurrentievoordeel te behalen.",
+      "features": [
+        {
+          "title": "AI-Aangedreven Matching",
+          "description": "We matchen kandidaten en posities met perfecte harmonie met behulp van kunstmatige intelligentie-algoritmen."
+        },
+        {
+          "title": "Wereldwijde Talentpool",
+          "description": "Met ons uitgebreide netwerk van gekwalificeerde professionals uit 50+ landen vinden we de talenten die u nodig heeft."
+        },
+        {
+          "title": "Snel Wervingsproces",
+          "description": "We voltooien werving in 2-4 weken door traditionele processen met 70% te verkorten."
+        },
+        {
+          "title": "Culturele Integratie",
+          "description": "We bieden integratieprogramma's die ervoor zorgen dat internationale werknemers zich aanpassen aan uw bedrijfscultuur."
+        }
+      ]
+    },
+    "trends": {
+      "title": "2025 Arbeidsmarkttrends",
+      "subtitle": "Toekomstvoorspellende Strategieën",
+      "items": [
+        {
+          "trend": "Hybride Werkmodel",
+          "impact": "Talenten overschrijden geografische grenzen",
+          "percentage": "89%",
+          "description": "Bedrijven nemen hybride werkmodellen aan"
+        },
+        {
+          "trend": "Digitale Vaardigheden",
+          "impact": "Technologie gebruik in elke positie",
+          "percentage": "95%",
+          "description": "Baanrollen vereisen digitale vaardigheden"
+        },
+        {
+          "trend": "Diversiteit en Inclusie",
+          "impact": "Prestatie- en innovatieverhoging",
+          "percentage": "76%",
+          "description": "Betere financiële resultaten behalen"
+        },
+        {
+          "trend": "Duurzaamheidsfocus",
+          "impact": "Milieubewuste werknemersvoorkeur",
+          "percentage": "73%",
+          "description": "Talenten geven voorkeur aan duurzame bedrijven"
+        }
+      ]
+    },
+    "methodology": {
+      "title": "Onze Innovatieve Wervingsmethodologie",
+      "subtitle": "Data-Gedreven Benadering",
+      "steps": [
+        {
+          "phase": "1",
+          "title": "Behoeftenanalyse",
+          "description": "We analyseren de huidige en toekomstige behoeften van uw bedrijf in detail.",
+          "duration": "1-2 dagen",
+          "tools": ["AI Analytics", "Marktonderzoek", "Skill Mapping"]
+        },
+        {
+          "phase": "2", 
+          "title": "Talentontdekking",
+          "description": "We identificeren de meest geschikte kandidaten uit onze wereldwijde database.",
+          "duration": "3-5 dagen",
+          "tools": ["Wereldwijde Sourcing", "Social Recruiting", "Netwerkanalyse"]
+        },
+        {
+          "phase": "3",
+          "title": "Beoordeling en Filtering",
+          "description": "We selecteren de beste kandidaten door een meertrapsbeoordelingsproces.",
+          "duration": "1-2 weken",
+          "tools": ["Technische Beoordeling", "Cultuurfit Analyse", "Referentiecontrole"]
+        },
+        {
+          "phase": "4",
+          "title": "Presentatie en Integratie",
+          "description": "We presenteren geselecteerde kandidaten aan u en beheren het integratieproces.",
+          "duration": "1-3 weken",
+          "tools": ["Interview Coördinatie", "Aanbod Management", "Onboarding Ondersteuning"]
+        }
+      ]
+    },
+    "success": {
+      "title": "Succesverhalen",
+      "subtitle": "Ons Succes in Cijfers",
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Succesvolle Wervingen",
+          "period": "Laatste 12 maanden"
+        },
+        {
+          "number": "95%",
+          "label": "Klanttevredenheid",
+          "period": "Continu"
+        },
+        {
+          "number": "2.5x",
+          "label": "Snelheidsverhoging",
+          "period": "Vergeleken met traditionele methoden"
+        },
+        {
+          "number": "35+",
+          "label": "Landenbereik",
+          "period": "Wereldwijd netwerk"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Ontdek de Toekomstige Arbeidskrachten Vandaag",
+      "description": "Begin nu om uw bedrijf te versterken met internationale talenten en concurrentievoordeel te behalen.",
+      "primaryButton": "Gratis Consultatie",
+      "secondaryButton": "Succesverhalen Verkennen"
+    }
+  },
+  "professionProcess": {
+    "hero": {
+      "title": "Duits Nationaal Visum - Beroepen en Proces",
+      "subtitle": "Uw nationaal visumaanvraagproces om te werken in de gezondheidszorgsector in Duitsland"
+    },
+    "navigation": {
+      "previousSlide": "Vorige dia",
+      "nextSlide": "Volgende dia"
+    },
+    "carousel": {
+      "doctor": {
+        "status": "Artsenvisum",
+        "title": "Duits Nationaal Visum voor Artsen",
+        "description": "We bieden uitgebreide visumbegeleiding en procesbeheer voor afgestudeerden in de geneeskunde die als arts in Duitsland willen werken. Professionele ondersteuning bij diplomawaardering en taalexamenprocessen.",
+        "button": "Meer informatie"
+      },
+      "nurse": {
+        "status": "Verpleegkundigenvisum",
+        "title": "Professionele Ondersteuning voor Verpleegkundigen",
+        "description": "Deskundige begeleiding voor afgestudeerden in de verpleegkunde bij werkvergunning en nationaal visumprocessen in Duitsland. Volledige ondersteuning bij erkenning van professionele competentie en taalvaardigheidsprocessen.",
+        "button": "Meer informatie"
+      },
+      "caregiver": {
+        "status": "Ouderenzorg",
+        "title": "Verzorgers en Ouderenzorgspecialisten",
+        "description": "Uitgebreide visumadvies voor professionals die willen werken in de ouderenzorgsector. Verbinding met zorgcentra in Duitsland en ondersteuning bij werkplaatsing.",
+        "button": "Meer informatie"
+      },
+      "healthTechnician": {
+        "status": "Ziekenhuisplaatsing",
+        "title": "Gezondheidstechnici en Ondersteunend Personeel",
+        "description": "Duitse visumprocessen voor medische technici, laboratoriumspecialisten en ander ondersteunend personeel in de gezondheidszorg. Uitgebreide service met professionele certificering en ondersteuning bij het vinden van werk.",
+        "button": "Meer informatie"
+      },
+      "healthExpert": {
+        "status": "Specialisatieprogramma",
+        "title": "Gezondheidsspecialisten en Therapeuten",
+        "description": "Werkmogelijkheden in Duitsland voor fysiotherapeuten, psychologen, diëtisten en andere gezondheidsspecialisten. Gespecialiseerde visumadvies en professionele erkenningsprocessen voor uw expertisegebied.",
+        "button": "Meer informatie"
+      }
+    },
+    "otherProfessions": {
+      "title": "Nationaal Visumdiensten voor Andere Professionele Groepen",
+      "construction": {
+        "title": "Bouwsector",
+        "description": "Speciale visumadvies voor degenen die willen werken in de bouw- en constructiesector. Loodgieter, elektricien, timmerman en andere technische personeelsfuncties."
+      },
+      "hospitality": {
+        "title": "Hotel & Restaurant",
+        "description": "Carrièremogelijkheden in de toerisme- en gastronomiesector. Visumprocessen voor ober, chef-kok, hotelpersoneel en andere functies in de dienstensector."
+      },
+      "logistics": {
+        "title": "Logistiek & Transport",
+        "description": "Werkmogelijkheden in de rij- en logistieksector. Vrachtwagenchauffeur, heftruckchauffeur en magazijnpersoneelsfuncties."
+      },
+      "cleaning": {
+        "title": "Schoonmaak & Hygiëne",
+        "description": "Werkgelegenheidskansen in de schoonmaakdiensten sector. Industriële reiniging, ziekenhuisreiniging en kantoorreinigingspersoneel."
+      },
+      "office": {
+        "title": "Kantoor & Management",
+        "description": "Kantoormedewerkers en managementfuncties. Boekhouding, human resources, secretariaat en ander kantoowerkpersoneel."
+      },
+      "others": {
+        "title": "Andere Beroepen",
+        "description": "Speciale adviesdiensten voor landbouw, productie, verkoop en andere professionele groepen. Geschikte visumprocessen voor elk beroep."
+      },
+      "learnMore": "Meer informatie"
+    },
+    "process": {
+      "tabs": {
+        "jobSearch": "Werkzoekproces",
+        "visaApplication": "Visumaanvraag",
+        "companyAgreements": "Bedrijfsovereenkomsten"
+      },
+      "content": {
+        "jobSearch": {
+          "title": "Werk Vinden in Duitsland",
+          "subtitle": "Gefocust op de Gezondheidszorgsector",
+          "description": "We bieden professionele begeleiding in het werkzoekproces in de gezondheidszorgsector. Dankzij ons sterke netwerk met ziekenhuizen en gezondheidszorginstellingen in Duitsland helpen we u geschikte posities te vinden.",
+          "detail": "We zijn bij u tijdens het hele proces, van CV-voorbereiding tot sollicitatiegesprek.",
+          "footer": "We hebben loopbaanbegeleidingsdiensten specifiek voor uw beroep en banenkansen."
+        },
+        "visaApplication": {
+          "title": "Nationaal Werkvisum",
+          "subtitle": "Aanvraagproces",
+          "description": "We beheren alle stappen voor u in het Duitse nationale werkvisum aanvraagproces. Professionele ondersteuning van documentvoorbereiding tot afspraakplanning.",
+          "detail": "We bereiden alle benodigde documenten correct voor om het visumgoedkeuringsproces te versnellen.",
+          "footer": "U kunt met vertrouwen uw visum aanvragen met ons hoge succespercentage."
+        },
+        "companyAgreements": {
+          "title": "Partnerbedrijven",
+          "subtitle": "Baangarantie",
+          "description": "Dankzij onze speciale overeenkomsten met meer dan 150 partnerziekenhuizen en gezondheidszorginstellingen in Duitsland bieden we u directe banenkansen.",
+          "detail": "Na ontvangst van een baanaanbod verloopt uw visumproces veel sneller en veiliger.",
+          "footer": "U kunt langetermijn carrièreplanning maken met onze partnerbedrijven."
+        }
+      }
+    },
+    "about": {
+      "title": "Een ander soort advies.",
+      "description": "We bieden uitgebreide diensten om uw internationale carrièredoelen in de gezondheidszorgsector te bereiken.",
+      "statsTitle": "In Cijfers",
+      "stats": {
+        "experience": "Jaren Ervaring",
+        "healthPersonnel": "Gezondheidspersoneel",
+        "successRate": "Succespercentage",
+        "partners": "Partnerorganisaties"
+      },
+      "content": {
+        "paragraph1": "De gezondheidszorgsector verandert en ontwikkelt voortdurend. De behoefte aan gezondheidszorgpersoneel in Duitsland neemt elke dag toe. Nu is het juiste moment om deze kans te grijpen.",
+        "highlight": "Werken in Duitsland is niet slechts een droom. Wij maken het werkelijkheid voor u.",
+        "paragraph2": "Ons team, dat jarenlang in deze sector heeft gewerkt, heeft alle uitdagingen in de vestigingsprocessen van gezondheidszorgpersoneel in Duitsland onder ogen gezien. Traditionele methoden zijn niet voldoende. We bieden een uitgebreide adviesdienst speciaal ontworpen voor gezondheidszorgpersoneel."
+      }
+    },
+    "architectureSection": {
+      "subtitle": "Alles wat u moet weten",
+      "title": "Werkproces in Duitsland",
+      "description": "Duitsland staat bekend om zijn sterke economie, cultuur en hoge levenskwaliteit. Echter, voor immigranten betekent verhuizen naar Duitsland meer dan alleen een nieuwe carrière; het is het begin van een nieuw leven in een nieuwe omgeving.",
+      "cards": {
+        "integration": {
+          "title": "Integratie van Werknemers",
+          "description": "Nadat internationale werknemers succesvol Duitsland hebben bereikt, begint het cruciale proces van integratie. Goede integratie is belangrijk, niet alleen om ervoor te zorgen dat nieuwe werknemers zich comfortabel voelen in hun nieuwe omgeving, maar ook om langetermijnverbintenis aan het bedrijf te waarborgen."
+        },
+        "experiencedVisa": {
+          "title": "Visum voor Ervaren Professionals",
+          "description": "Wat is een visum voor ervaren professionals? Het visum voor ervaren professionals (Sectie 19c van de Verblijfswet, Paragraaf 2) is gericht op geschoolde werknemers die minstens twee jaar gekwalificeerde professionele ervaring hebben in hun vakgebied maar geen formele universitaire graad hebben."
+        },
+        "acceleratedProcedures": {
+          "title": "Versnelde Procedures",
+          "description": "Wat is de versnelde procedure voor geschoolde werknemers? De Versnelde Procedure voor Geschoolde Werknemers is een speciaal proces dat is ontwikkeld om het immigratie- en erkenningsproces voor geschoolde werknemers uit het buitenland te versnellen."
+        },
+        "recruitment": {
+          "title": "Werving",
+          "description": "Stap voor stap. Het werven van internationale specialisten biedt een enorme kans om het tekort aan vaardigheden in Duitsland aan te pakken. Echter, om dit proces succesvol te maken, moeten bedrijven een gerichte en gestructureerde aanpak aannemen."
+        }
+      },
+      "learnMore": "Meer Informatie"
+    }
+  },
+  "businessProcess": {
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Werknemersintegratieprocessen",
+        "subtitle": "Uitgebreide ondersteuning voor succesvolle integratie in Duitsland",
+        "description": "We bieden speciaal ontworpen integratieprogramma's voor internationale werknemers om succesvol te integreren in Duitsland.",
+        "section1": {
+          "title": "Werknemersintegratie",
+          "content": "Nadat internationale werknemers met succes in Duitsland zijn aangekomen, begint het kritieke proces van integratie. Goede integratie is belangrijk, niet alleen om ervoor te zorgen dat nieuwe werknemers zich op hun gemak voelen in hun nieuwe omgeving, maar ook om langdurige betrokkenheid bij het bedrijf te waarborgen. Bedrijven kunnen een belangrijke bijdrage leveren met gerichte maatregelen die erop gericht zijn nieuwe professionals een soepele start te bieden."
+        },
+        "section2": {
+          "title": "Ondersteunende Diensten",
+          "content": "We bieden uitgebreide diensten waaronder taaltraining, culturele oriëntatie, juridisch advies en sociale integratieondersteuning."
+        },
+        "benefits": "Snelle aanpassing, hoge werktevredenheid en langetermijnsucces"
+      },
+      "experiencedVisa": {
+        "title": "Visum voor Ervaren Professionals",
+        "subtitle": "Speciaal visumprogramma voor gekwalificeerde ervaren specialisten",
+        "description": "We bieden versnelde visumprocessen en speciale mogelijkheden voor professionals met minstens 2 jaar professionele ervaring.",
+        "section1": {
+          "title": "Visum voor ervaren professionals",
+          "content": "Het visum voor ervaren professionals (Sectie 19c, Paragraaf 2 van de Verblijfswet) is gericht op gekwalificeerde arbeiders die minstens twee jaar gekwalificeerde beroepservaring hebben op hun gebied maar geen formele universiteitsdiploma hebben. Het visum stelt deze geschoolde arbeiders in staat om in Duitsland te werken, vooral in beroepen die zeer gewild zijn. Dit visum werd geïntroduceerd om te voldoen aan de vraag naar geschoolde arbeiders en de Duitse arbeidsmarkt te versterken."
+        },
+        "section2": {
+          "title": "Aanvraagproces",
+          "content": "We bieden professionele begeleiding voor de evaluatie van uw ervaringscertificaten, erkenning van professionele kwalificaties en versnelde aanvraagprocessen."
+        },
+        "benefits": "Snel proces, flexibele voorwaarden en ervaringsgerichte evaluatie"
+      },
+      "acceleratedProcedure": {
+        "title": "Versnelde Procedure voor Geschoolde Werknemers",
+        "subtitle": "Snel en efficiënt visumaanvraagproces",
+        "description": "We verkorten uw visumproces met de versnelde procedure speciaal ontworpen voor geschoolde werknemers.",
+        "section1": {
+          "title": "Wat is de versnelde procedure voor geschoolde werknemers?",
+          "content": "De Versnelde Procedure voor Geschoolde Werknemers is een speciaal proces dat is ontwikkeld om het immigratie- en erkenningsproces voor geschoolde werknemers uit het buitenland te versnellen. Het primaire doel is om bedrijven te helpen dringend benodigde geschoolde werknemers sneller naar Duitsland te brengen en het tekort aan vaardigheden effectiever te bestrijden. Dit proces is gebaseerd op nauwe samenwerking tussen werkgevers, immigratieautoriteiten en erkenningsinstellingen om bureaucratische barrières te minimaliseren en vergunningen snel uit te geven."
+        },
+        "section2": {
+          "title": "Voordelen",
+          "content": "We optimaliseren uw proces met korte wachttijden, prioriteitsverwerking en speciale adviseurstoewijzing."
+        },
+        "benefits": "2-3 weken proces, prioriteitsverwerking en gegarandeerde resultaten"
+      },
+      "recruitment": {
+        "title": "Internationale Wervingsdiensten",
+        "subtitle": "Gekwalificeerde professionals verbinden met Duitsland",
+        "description": "Onze expertdiensten bij het werven van internationale talenten om te voldoen aan de personeelsbehoeften van Duitsland.",
+        "section1": {
+          "title": "Werving",
+          "content": "Het werven van internationale specialisten biedt een enorme kans om het tekort aan vaardigheden in Duitsland aan te pakken. Om dit proces succesvol te maken, moeten bedrijven echter een gerichte en gestructureerde aanpak aannemen. Deze stap-voor-stap gids toont u hoe u uw wervingsproces effectief kunt structureren om gekwalificeerde specialisten uit het buitenland succesvol aan te trekken."
+        },
+        "section2": {
+          "title": "Procesbeheer",
+          "content": "We beheren het gehele wervingsproces inclusief kandidaatsourcing, evaluatie, visumprocessen en werkplaatsing."
+        },
+        "benefits": "Grote kandidatenpool, kwaliteitsmatching en procesgarantie"
+      }
+    },
+    "common": {
+      "advantagesTitle": "Voordelen",
+      "processTitle": "Proces",
+      "processDescription": "Veilige resultaten met stap-voor-stap begeleiding",
+      "step1Title": "1. Eerste Beoordeling",
+      "step1Description": "We voeren situatieanalyse en geschiktheidsbeoordeling uit.",
+      "step2Title": "2. Documentvoorbereiding",
+      "step2Description": "We bereiden alle vereiste documenten professioneel voor.",
+      "step3Title": "3. Aanvraagproces",
+      "step3Description": "We volgen en beheren uw aanvraag.",
+      "step4Title": "4. Resultaat en Opvolging",
+      "step4Description": "Procesvoltooiing en opvolgingsdiensten.",
+      "ctaTitle": "Laten we meteen beginnen",
+      "ctaDescription": "Neem contact op met ons expertteam om uw proces te starten.",
+      "contactButton": "Contact opnemen",
+      "backButton": "Terug"
+    }
+  },
+  "nationalVisaProcess": {
+    "hero": {
+      "title": "Nationaal Werkvisum Aanvraagproces",
+      "description": "Het nationale werkvisum verleent het recht om Duitsland binnen te komen voor langdurig verblijf voor werkdoeleinden. Afhankelijk van het type werk wordt het visum uitgegeven met een geldigheidsduur van maximaal één jaar. Na binnenkomst in het land moet u meestal een binnenlandse verblijfsvergunning aanvragen. Dit visumtype is alleen geldig voor specifieke functies en verleent geen bewegingsvrijheid in het Schengengebied."
+    },
+    "appointmentSystem": {
+      "title": "Afspraaksysteem",
+      "description": "Afspraken worden gegeven via het nationale afspraaksysteem",
+      "ourService": "Onze Dienst:",
+      "serviceDescription": "Wij handelen de afspraakprocedures voor u af. We maken de benodigde afspraken en voeren de procedures uit. Vereiste documenten worden bij u opgevraagd en georganiseerd, en vervolgens volgen we het proces op."
+    },
+    "preparation": {
+      "title": "Voorbereiding",
+      "description": "Gebruik het online afspraaksysteem voor nationale visa om meer te weten te komen over uw verblijfsdoel en de documenten die u moet indienen. Registreer u op de wachtlijst voor afspraken voor uw verblijfsdoel via het online afspraaksysteem tegen betaling."
+    },
+    "application": {
+      "title": "Aanvraag",
+      "description1": "Vanwege de betrokkenheid van Duitse interne autoriteiten bij het proces zal de documentverwerking doorgaans tot drie maanden duren (of langer in sommige gevallen). Als u uw paspoort nodig heeft tijdens het evaluatieproces van uw aanvraag, kunt u contact opnemen met de relevante visumafdeling door uw aanvraagnummer te vermelden in uw ondertekende schriftelijke petitie.",
+      "description2": "De servicekosten moeten worden betaald. Nadat uw vingerafdrukken zijn genomen, worden uw paspoort en vereiste documenten ontvangen door de visumafdeling voor het evaluatieproces."
+    },
+    "afterEvaluation": {
+      "title": "Na Evaluatie",
+      "description": "Onmiddellijk na voltooiing van het evaluatieproces van aanvragen wordt uw paspoort samen met enkele originele documenten die u heeft ingediend, ofwel naar hun kantoren of direct per post aan u geretourneerd in een envelop."
+    },
+    "note": {
+      "label": "Opmerking:",
+      "text": "De prijs is per persoon en het proces varieert afhankelijk van het type dossier en document en het visumtype."
+    },
+    "processingTimes": {
+      "title": "Verwerkingstijden",
+      "importantInfo": {
+        "title": "Belangrijke Informatie",
+        "description": "Plan voor de aanvraag de wachttijd voor afspraken en de tijd die nodig is om uw paspoort terug te krijgen."
+      },
+      "decisionAuthority": {
+        "title": "Beslissingsautoriteit",
+        "description": "De beslissing om de aanvraag goed te keuren of af te wijzen wordt alleen genomen door de Buitenlandse Vertegenwoordigingen."
+      },
+      "holidayEffect": {
+        "title": "Feestdageffect",
+        "description": "Verwerkingstijden kunnen variëren vanwege Turkse en Duitse officiële feestdagen. Daarom raden we aan om op een vroege datum een visum aan te vragen."
+      },
+      "applicationTracking": {
+        "title": "Aanvraagtracking",
+        "description": "U kunt volgen in welke fase uw aanvraag zich bevindt door contact met ons op te nemen."
+      }
+    }
+  },
+  "navigation": {
+    "previousSlide": "Vorige dia",
+    "nextSlide": "Volgende dia"
+  },
+  "stats": {
+    "byNumbers": "In Cijfers"
+  },
+  "employer": {
+    "hero": {
+      "tag1": "Werkgever",
+      "tag2": "Internationale Werving",
+      "title": "Stel Top Internationale Toekomstgerichte Talenten in",
+      "description": "Maak verbinding met getalenteerde professionals wereldwijd. Wij behandelen internationale toekomstgerichte werving, compliance en onboarding om wereldwijd talent naar uw bedrijf te brengen.",
+      "startHiring": "Begin met Werven",
+      "learnMore": "Meer Informatie"
+    },
+    "benefits": {
+      "badge": "Voor Werkgevers",
+      "title": "Waarom Internationale",
+      "subtitle": "Toekomstgerichte Talenten Werven?",
+      "description": "Breid uw personeel uit met gekwalificeerde professionals van over de hele wereld en ontsluit ongekende groeimogelijkheden met onze bewezen wervingsoplossingen.",
+      "stats": {
+        "countries": "25+ Landen",
+        "hires": "5K+ Succesvolle Wervingen",
+        "successRate": "98% Succespercentage"
+      },
+      "services": [
+        "Talentbeschafffing",
+        "Visum Ondersteuning",
+        "Compliance",
+        "Kandidaat Screening",
+        "Onboarding Ondersteuning",
+        "Multi-Industrie Expertise",
+        "24/7 Ondersteuning Beschikbaar"
+      ]
+    },
+    "services": {
+      "badge": "Werkgever Services",
+      "title": "Uitgebreide Internationale Wervingsoplossingen",
+      "items": [
+        {
+          "title": "Wereldwijde Talentbeschafffing",
+          "description": "Toegang tot gekwalificeerde professionals uit 25+ landen met ons uitgebreide internationale netwerk en geverifieerde kandidatendatabase."
+        },
+        {
+          "title": "Uitgebreide Visum Ondersteuning",
+          "description": "End-to-end visum assistentie inclusief documentvoorbereiding, aanvragbegeleiding en compliance management voor naadloze werving."
+        },
+        {
+          "title": "Versnelde Verwerking",
+          "description": "Versneld wervingsproces met 98% succespercentage, verkorting van time-to-hire en zorgen voor snelle plaatsing van gekwalificeerde kandidaten."
+        }
+      ]
+    },
+    "process": {
+      "title": "Ons Wervingsproces",
+      "description": "Gestroomlijnd proces om de beste internationale talenten te vinden en in te huren",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Vereisten Definiëren",
+          "description": "Bespreek uw specifieke wervingsbehoeften en functievereisten"
+        },
+        {
+          "step": "02",
+          "title": "Kandidaat Matching",
+          "description": "Vind en screen gekwalificeerde internationale kandidaten"
+        },
+        {
+          "step": "03",
+          "title": "Interview Proces",
+          "description": "Faciliteer interviews en vaardigheidsevaluaties"
+        },
+        {
+          "step": "04",
+          "title": "Visum & Onboarding",
+          "description": "Behandel visumprocessen en soepele onboarding"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Vertrouwd door Leidende Bedrijven",
+      "description": "Onze bewezen staat van dienst spreekt voor zich",
+      "items": [
+        {
+          "number": "500+",
+          "label": "Bediende Bedrijven"
+        },
+        {
+          "number": "5K+",
+          "label": "Succesvolle Wervingen"
+        },
+        {
+          "number": "25+",
+          "label": "Landen"
+        },
+        {
+          "number": "98%",
+          "label": "Klanttevredenheid"
+        }
+      ]
+    }
+  },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "Werkzoekende", 
+      "tag2": "Internationale Carrière",
+      "title": "Vind je droombaan in het buitenland met ons",
+      "description": "internationale toekomstgerichte wervingsoplossingen",
+      "startJourney": "Start je reis",
+      "viewServices": "Bekijk services"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "Werkzoekenden",
+        "opportunities": {
+          "label": "Kansen",
+          "title": "Premium Baan",
+          "subtitle": "Kansen Wereldwijd",
+          "description": "Toegang tot exclusieve goedbetaalde internationale posities bij topbedrijven in 25+ landen.",
+          "stats": ["25+ Landen", "5K+ Baan Plaatsingen", "95% Succespercentage"],
+          "benefits": [
+            "Toegang tot Premium Banen",
+            "Geverifieerde Werkgevers",
+            "Wereldwijd Netwerk",
+            "Hoge Salarispakketten"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5K+", "label": "Baan Plaatsingen" },
+            "stat2": { "value": "25+", "label": "Landen" }
+          }
+        },
+        "support": {
+          "label": "Ondersteuning",
+          "title": "Uitgebreide",
+          "subtitle": "Carrière Ondersteuning",
+          "description": "Van sollicitatie tot verhuizing, wij bieden uitgebreide ondersteuning bij elke stap.",
+          "stats": ["24/7 Ondersteuning", "Expert Begeleiding", "98% Tevredenheid"],
+          "benefits": [
+            "CV Optimalisatie",
+            "Interview Coaching",
+            "Visum Assistentie",
+            "Verhuisondersteuning"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Ondersteuning" },
+            "stat2": { "value": "98%", "label": "Tevredenheid" }
+          }
+        },
+        "process": {
+          "label": "Proces",
+          "title": "Gestroomlijnd",
+          "subtitle": "Sollicitatieproces",
+          "description": "Ons efficiënte proces brengt u sneller aan het werk in het buitenland met bewezen resultaten en snelle plaatsing.",
+          "stats": ["30 Dagen Gemiddeld", "95% Succes", "Snelle Verwerking"],
+          "benefits": [
+            "Snelle Verwerking",
+            "Stap-voor-Stap Begeleiding",
+            "Document Voorbereiding",
+            "Snelle Resultaten"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Dagen Gemiddeld" },
+            "stat2": { "value": "95%", "label": "Succespercentage" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "Werkzoekende Services",
+      "title": "Onze Services voor Werkzoekenden",
+      "items": [
+        {
+          "title": "CV & Resume Optimalisatie",
+          "description": "Professioneel CV schrijven en optimalisatie voor internationale arbeidsmarkten"
+        },
+        {
+          "title": "Job Matching",
+          "description": "Verbinden met geverifieerde werkgevers die naar jouw specifieke vaardigheden zoeken"
+        },
+        {
+          "title": "Interview Voorbereiding", 
+          "description": "Uitgebreide interview coaching voor internationale posities"
+        },
+        {
+          "title": "Visa Assistentie",
+          "description": "Volledige werkvisum aanvraag ondersteuning en documentatie"
+        }
+      ]
+    },
+    "process": {
+      "title": "Hoe het werkt",
+      "description": "Ons werkzoekende programma is ontworpen om je te helpen je droombaan in het buitenland te vinden. We bieden je de tools en bronnen die je nodig hebt om succesvol te zijn.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Profiel Beoordeling",
+          "description": "Uitgebreide vaardigheidsevaluatie en carrièredoelen analyse"
+        },
+        {
+          "step": "02",
+          "title": "Job Matching",
+          "description": "Matching met geschikte internationale jobmogelijkheden"
+        },
+        {
+          "step": "03",
+          "title": "Aanvraag Ondersteuning",
+          "description": "Professionele aanvraagvoorbereiding en indiening"
+        },
+        {
+          "step": "04",
+          "title": "Visa Verwerking",
+          "description": "Volledige werkvisum aanvraag en documentatie"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Onze Succesverhalen",
+      "description": "Bewezen track record van succesvolle job plaatsingen",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Succespercentage"
+        },
+        {
+          "number": "5K+",
+          "label": "Geplaatste Jobs"
+        },
+        {
+          "number": "25+",
+          "label": "Landen"
+        },
+        {
+          "number": "30",
+          "label": "Dagen Gemiddeld"
+        }
+      ]
+    }
+  }
+}

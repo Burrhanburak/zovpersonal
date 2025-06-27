@@ -1,33 +1,167 @@
 {
+  "metadata": {
+    "title": "ZovPersonal - Uluslararası Gelecek Odaklı İşe Alım Ajansı",
+    "description": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. Almanya, AB ülkeleri ve daha fazlası için gelecek odaklı işe alım hizmetleri.",
+    "keywords": "uluslararası işe alım, iş veren ortaklığı, iş yerleştirme, Almanya işleri, AB istihdam, işe alım ajansı, zovpersonal"
+  },
   "nav": {
     "home": "Ana Sayfa",
     "services": "Hizmetler",
     "about": "Hakkımızda", 
     "contact": "İletişim",
-    "consultation": "Ücretsiz Danışmanlık"
+    "consultation": "ücretsiz iş veren ortaklığı"
   },
   "hero": {
-    "title": "Uluslararası İş Vizesi Danışmanlığı",
+    "title": "Uluslararası İşe Alım ve İş Veren Ortaklığı",
     "subtitle": "Yurtdışında Çalışmanın Kapısı",
-    "description": "Almanya, AB ülkeleri ve daha fazlası için iş vizesi başvurularında uzman rehberlik. Bireyler ve işletmeler için profesyonel danışmanlık hizmetleri.",
-    "longDescription": "Dayanıklılık kazanın ve iç gücünüzü yeniden keşfedin. İster endişe, travma, ilişki sorunları yaşıyor olun, ister sadece uluslararası kariyer yolculuğunuzda netlik arıyor olun.",
+          "description": "Almanya, AB ülkeleri ve daha fazlası için nitelikli personel istihdamında uzman rehberlik. Bireyler ve işletmeler için profesyonel işe alım hizmetleri.",
+    "longDescription": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. İster işe alım sürecinizde destek arıyor olun, ister yurt dışında kariyer fırsatları peşinde olun, uzman ekibimizle başarıya ulaşın.",
     "cta": "Arama Talebinde Bulunun",
     "secondary_cta": "Daha Fazla Bilgi",
     "learnMore": "Daha Fazla Bilgi",
-    "tag1": "Netlik Kazanın",
-    "tag2": "Stresi Yönetin"
+    "tag1": "İş Arayan",
+    "tag2": "İş Veren"
+  },
+  "acceleratedProcedure": {
+    "title": "Hızlandırılmış Kalifiye İşçi Prosedürü",
+    "subtitle": "Yurt dışından gelen nitelikli işçiler için göç ve tanınma sürecini hızlandırmak için geliştirilen özel bir süreçtir. Bu süreç, bürokratik engelleri en aza indirmek ve izinleri hızla vermek için tasarlanmıştır.",
+    "imageAlt": "Hızlandırılmış prosedür süreci",
+    "employerInitiation": "İşveren Başlatması - Süreç işveren tarafından başlatılır ve tüm süreç boyunca koordine edilir",
+    "qualificationRecognition": "Niteliklerin Tanınması - Yurt dışında edinilen nitelikler hızla değerlendirilir ve tanınır",
+    "comprehensiveSupport": "Kapsamlı Destek - İşveren başvuru sürecinin büyük kısmını üstlenir",
+    "reducedBureaucracy": "Azaltılmış Bürokrasi - En fazla 3 aylık işlem süresi ile hızlı sonuç",
+    "internationalRecruitment": "Uluslararası İşe Alım - Jobsingermany.net gibi uzman platformlarla işbirliği"
+  },
+  "home": {
+    "carousel": {
+      "badge": "Uluslararası Gelecek Odaklı İşe Alım",
+      "title": "Uluslararası Gelecek Odaklı İşe Alım", 
+      "description": "İş arayan programımız yurtdışında hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
+      "cards": {
+        "recruitment": {
+          "category": "Yetenek Bulma",
+          "title": "Küresel İşe Alım Çözümleri"
+        },
+        "partnership": {
+          "category": "İş Veren Ortaklığı",
+          "title": "Stratejik İş Ortaklıkları"
+        },
+        "visaprocess": {
+          "category": "Vize ve Belgelendirme",
+          "title": "Kapsamlı Vize İşlemleri"
+        },
+        "support": {
+          "category": "7/24 Destek",
+          "title": "Sürekli Müşteri Desteği"
+        },
+        "healthcare": {
+          "category": "Sağlık Sektörü",
+          "title": "Tıbbi Uzman İşe Alım"
+        },
+        "technology": {
+          "category": "BT ve Teknoloji",
+          "title": "Teknoloji Yetenek Çözümleri"
+        }
+      },
+      "content": {
+        "recruitment": {
+          "highlight": "Mükemmel yetenek eşleşmesi bulun.",
+          "description": "Gelişmiş işe alım metodolojimiz sizi dünyanın dört bir yanından nitelikli profesyonellerle buluşturur. Aday araştırmasından son yerleştirmeye kadar tüm işe alım sürecini kolaylaştırıyoruz.",
+          "features": [
+            {
+              "title": "Küresel Yetenek Havuzu",
+              "description": "Birden fazla sektör ve ülkede 50.000'den fazla nitelikli profesyonele erişim."
+            },
+            {
+              "title": "Hızlı Yerleştirme",
+              "description": "Ortalama 45 günde yerleştirme ve %95 aday tutma oranı."
+            }
+          ]
+        },
+        "partnership": {
+          "highlight": "Kalıcı iş ilişkileri kurun.",
+          "description": "İş verenler ve uluslararası yetenekler arasında stratejik ortaklıklar yaratıyoruz. Kapsamlı yaklaşımımız tüm taraflar için sürdürülebilir büyüme ve karşılıklı başarı sağlar.",
+          "features": [
+            {
+              "title": "Ortaklık Yönetimi",
+              "description": "Sürekli ilişki kurma ve destek için özel hesap yöneticileri."
+            },
+            {
+              "title": "Başarı Metrikleri",
+              "description": "Detaylı analizler ve düzenli ortaklık incelemeleri ile performans takibi."
+            }
+          ]
+        },
+        "visaprocess": {
+          "highlight": "Karmaşık vize işlemlerini basitleştirin.",
+          "description": "Uluslararası vize gereksinimlerinde güvenle ilerleyin. Uzman ekibimiz sorunsuz geçişler için tüm belgelendirme, başvuru süreçleri ve yasal uyumluluğu yönetir.",
+          "features": [
+            {
+              "title": "Uzman Belgelendirme",
+              "description": "Gerekli tüm belgelerin %100 uyumluluk oranıyla profesyonel hazırlanması."
+            },
+            {
+              "title": "Yasal Uyumluluk",
+              "description": "Değişen göçmenlik yasaları ve gereksinimleri ile güncel kalın."
+            }
+          ]
+        },
+        "support": {
+          "highlight": "Hiç bitmeyen destek.",
+          "description": "Taahhüdümüz yerleştirmenin ötesine uzanır. Yolculukları boyunca hem iş verenler hem de çalışanlar için uzun vadeli başarı sağlamak üzere sürekli destek sağlıyoruz.",
+          "features": [
+            {
+              "title": "7/24 Ulaşılabilirlik",
+              "description": "Acil durumlar ve sürekli yardım için günün her saati destek."
+            },
+            {
+              "title": "Entegrasyon Desteği",
+              "description": "Sorunsuz geçişler için kültürel entegrasyon ve uyum sağlama hizmetleri."
+            }
+          ]
+        },
+        "healthcare": {
+          "highlight": "Sağlık yetenek mükemmelliği.",
+          "description": "Doktorlar, hemşireler, terapistler ve tıbbi teknisyenler dahil sağlık uzmanları için özel işe alım. Sağlık sektörünün benzersiz gereksinimlerini anlıyoruz.",
+          "features": [
+            {
+              "title": "Tıbbi Lisanslama",
+              "description": "Tıbbi lisans tanınması ve mesleki sertifikasyon konularında yardım."
+            },
+            {
+              "title": "Beceri Doğrulama",
+              "description": "Tıbbi niteliklerin ve pratik becerilerin kapsamlı değerlendirmesi."
+            }
+          ]
+        },
+        "technology": {
+          "highlight": "Teknoloji dönüşümünüzü güçlendirin.",
+          "description": "En üst düzey BT uzmanları ve teknoloji uzmanlarıyla bağlantı kurun. Yazılım geliştiricilerden veri bilimcilerine kadar, inovasyonu yönlendiren yetenekleri buluyoruz.",
+          "features": [
+            {
+              "title": "Teknoloji Uzmanlığı",
+              "description": "AI, blockchain, bulut bilişim ve gelişmekte olan teknolojilerde uzmanlar."
+            },
+            {
+              "title": "Hızlı Konuşlandırma",
+              "description": "Acil teknoloji projeleri ve rolleri için hızlı yerleştirme çözümleri."
+            }
+          ]
+        }
+      }
+    }
   },
   "about": {
     "hero": {
-      "title": "Uluslararası vize danışmanlığında kaliteli hizmeti demokratikleştiriyoruz",
-      "subtitle": "ZovPersonal, uluslararası kariyer hedeflerinize profesyonel vize danışmanlığı ile rehberlik ediyor.",
-      "description1": "ZovPersonal'da, müşterilerimize gecikmeler, verimsizlikler ve organizasyon eksiklikleri karşısında yenilmez bir avantaj sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği sunuyoruz. Her vize başvurunuzun başarıyla sonuçlanması için gereken araçları size vermek için her şeyi yaparız.",
+      "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
+      "subtitle": "ZovPersonal, nitelikli profesyonelleri Avrupa'nın önde gelen şirketleriyle buluşturan, gelecek odaklı uluslararası işe alım süreçlerinde uzman ajansınız.",
+      "description1": "ZovPersonal'da, müşterilerimize gecikmeler, verimsizlikler ve organizasyon eksiklikleri karşısında yenilmez bir avantaj sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği sunuyoruz. Her işe alım sürecinizin başarıyla sonuçlanması için gereken araçları size vermek için her şeyi yaparız.",
       "description2": "Müşteri odaklıyız — iş akışınızın her yönünü anlamak için zaman harcıyoruz, böylece her zamankinden daha iyi çalışmanıza yardımcı olabiliriz. Hep birlikteyiz çünkü sizin başarınız bizim başarımızdır. Şirket tarihimizde hiçbir müşterimizi kaybetmedik, çünkü projeleriniz başarılı olduğunda biz de başarılı oluyoruz."
     },
     "stats": {
       "experience": {
         "number": "12+",
-        "label": "Yıl Deneyim"
+        "label": "Yıllık altyapı"
       },
       "clients": {
         "number": "5K+",
@@ -44,9 +178,9 @@
     },
     "team": {
       "title": "Ekibimiz",
-      "description1": "2019'da ZovPersonal'ı kurmaya başladık ve 2022'de hizmete girdik. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Önümüzdeki yüz yıl boyunca vize danışmanlığı inovasyonunu güçlendirmek için özel olarak inşa edildik.",
+      "description1": "ZovPersonal'ı profesyonel işe alım ve iş veren ortaklığı sektöründe öncü olmak amacıyla kurduk. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Gelecek nesiller boyunca işe alım ve iş veren ortaklığı inovasyonunu güçlendirmek için özel olarak inşa edildik.",
       "description2": "Deneyimli danışmanlarımız, her müşterinin benzersiz ihtiyaçlarını anlayarak kişiselleştirilmiş çözümler sunar. Vize süreçlerindeki karmaşıklığı basitleştirip, başvuru sürecinizi sorunsuz hale getirmek için buradayız.",
-      "description3": "Vize danışmanlığı için iletişime geçin.",
+      "description3": "iş veren ortaklığı için iletişime geçin.",
       "cta": "İletişime Geçin"
     },
     "company": {
@@ -62,8 +196,8 @@
     "partners": {
       "title": "Ortaklarımız",
       "partner1": {
-        "name": "Mehmet Yılmaz",
-        "role": "Vize Uzmanı"
+        "name": "Anna Schneider ",
+        "role": "İşe Alım Uzmanı"
       },
       "partner2": {
         "name": "Ayşe Demir",
@@ -78,11 +212,11 @@
         "role": "Müşteri İlişkileri"
       },
       "partner5": {
-        "name": "Emre Şahin",
+        "name": "Lukas Wagner ",
         "role": "Operasyon Müdürü"
       }
     },
-    "description": "Uluslararası kariyer hedeflerinize ulaşmanızda rehberlik etmek ve vize süreçlerini basitleştirerek hayalinizdeki ülkede çalışma fırsatı yaratmak. 15 yıllık deneyimimizle, dünya çapında güvenilir vize danışmanlığı hizmeti sunuyoruz.",
+    "description": "Uluslararası kariyer hedeflerinize ulaşmanızda rehberlik etmek ve işe alım süreçlerini basitleştirerek hayalinizdeki ülkede çalışma fırsatı yaratmak. 15 yıllık altyapımızla, dünya çapında güvenilir işe alım ve iş veren ortaklığı hizmeti sunuyoruz.",
     "features": {
       "compassion": "Empati ve Anlayış",
       "integrity": "Dürüstlük ve Güvenilirlik", 
@@ -91,10 +225,10 @@
   },
   "services": {
     "title": "Hizmetlerimiz",
-    "subtitle": "Kapsamlı vize ve göçmenlik çözümleri",
+    "subtitle": "Kapsamlı işe alım ve iş veren ortaklığı çözümleri",
     "workVisa": {
-      "title": "İş Vizesi Başvuruları",
-      "description": "Almanya, Avusturya, Hollanda ve daha fazlası dahil çeşitli ülkeler için iş vizesi başvurularında tam destek."
+      "title": "İşe Alım Hizmetleri",
+      "description": "Almanya, Avusturya, Hollanda ve daha fazlası dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
     },
     "skillsAssessment": {
       "title": "Yetenek Değerlendirmesi",
@@ -108,33 +242,52 @@
       "title": "Kişisel Danışmanlık",
       "description": "Özel ihtiyaçlarınızı ve kariyer hedeflerinizi anlamak için birebir danışmanlık seansları."
     },
+    "countries": {
+      "title": "Dünyanın en iyi işe alım ve iş veren ortaklığı ekipleriyle güçlendiriyoruz.",
+      "subtitle": "Yeni nesil girişimlerden köklü kuruluşlara.",
+      "countryNames": {
+        "germany": "Almanya",
+        "austria": "Avusturya",
+        "netherlands": "Hollanda",
+        "switzerland": "İsviçre",
+        "belgium": "Belçika",
+        "luxembourg": "Lüksemburg",
+        "denmark": "Danimarka",
+        "romania": "Romanya",
+        "croatia": "Hırvatistan",
+        "bulgaria": "Bulgaristan",
+        "sweden": "İsveç",
+        "finland": "Finlandiya",
+        "serbia": "Sırbistan"
+      }
+    },
     "tabContent": {
       "workVisa": {
-        "title": "Başvuru. Hazırla. Onayla.",
-        "description": "İş vizesi başvurularınızı profesyonel bir şekilde hazırlar ve takip ederiz.",
-        "stat1": { "number": "95%", "label": "onay oranı" },
+        "title": "İşe Alım Süreci",
+        "description": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
+        "stat1": { "number": "95%", "label": "başarılı işe alım" },
         "stat2": { "number": "30", "label": "gün ortalama süre" },
-        "category": "İş Vizesi Başvuruları"
+        "category": "İşe Alım Süreci"
       },
       "documentation": {
-        "title": "Düzenle. Çevir. Onayla.",
-        "description": "Tüm belgelerinizi uluslararası standartlarda hazırlar ve onaylatırız.",
+        "title": "Belge Hazırlama Süreci",
+        "description": "Yabancı mesleki yeterliliklerin tanınması için vize, yurtdışında edindikleri mesleki yeterliliklerinin Almanya'da tanınmasını isteyen vasıflı işçilere yöneliktir. Belgelerinizi Alman standartlarına uygun olarak hazırlayıp tanınma sürecini kolaylaştırıyoruz.",
         "stat1": { "number": "100%", "label": "belge uygunluğu" },
         "stat2": { "number": "48", "label": "saat içinde hazır" },
         "category": "Belge Hazırlama"
       },
       "skillsAssessment": {
-        "title": "Analiz. Değerlendir. Yönlendir.",
-        "description": "Profesyonel niteliklerinizi analiz eder, uluslararası iş fırsatlarıyla eşleştiririz.",
-        "stat1": { "number": "85%", "label": "uygun pozisyon bulma" },
+        "title": "Mesleki Yeterlilik Değerlendirmesi",
+        "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. B1 seviyesinde Almanca dil becerileri ve mali güvenlik kanıtı ile süreci destekliyoruz.",
+        "stat1": { "number": "85%", "label": "başarılı tanınma" },
         "stat2": { "number": "12", "label": "yıl deneyim" },
-        "category": "Yetenek Değerlendirmesi"
+        "category": "Mesleki Yeterlilik"
       }
     },
     "tabButtons": {
-      "workVisa": "İş Vizesi",
-      "documentation": "Belge Hazırlama",
-      "skillsAssessment": "Yetenek Değerlendirmesi"
+      "workVisa": "İşe Alım",
+      "documentation": "Belge Hazırlama", 
+      "skillsAssessment": "Mesleki Yeterlilik"
     }
   },
   "professions": {
@@ -201,7 +354,7 @@
     "step1": {
       "title": "İlk Danışmanlık ve Değerlendirme",
       "description": "Profilinizi ve hedeflerinizi analiz ederek size özel vize stratejisi geliştiriyoruz.",
-      "alt": "Vize danışmanlığı"
+      "alt": "iş veren ortaklığı"
     },
     "step2": {
       "title": "Belge Hazırlama ve Kontrolü",
@@ -215,25 +368,31 @@
     }
   },
   "contact": {
-    "title": "Bizimle Konuşalım",
-    "subtitle": "İlk danışmanlığınızı planlamaya hazır olsanız da sadece sorularınız olsa da, sizden haber almayı çok isteriz.",
+    "title": "Bizimle İletişime Geçin",
+    "subtitle": "İlk danışmanlığınızı planlamaya hazır olsanız da sadece sorularınız olsa da, sizden haber almayı çok isteriz. İş Arayan ve İş Verenler için farklı hizmetler sunuyoruz.",
     "pageTitle": "İletişim",
-    "pageSubtitle": "Vize danışmanlığı konusundaki sorularınız için buradayız.",
+    "pageSubtitle": "iş veren ortaklığı konusundaki sorularınız için buradayız.",
     "offices": {
       "istanbul": "🇹🇷 İstanbul Ofisi",
-      "berlin": "🇩🇪 Berlin Ofisi"
+      "berlin": "🇩🇪 Bremen Ofisi"
     },
     "sections": {
       "email": "E-posta ile bize ulaşın",
       "follow": "Bizi takip edin",
       "inquiries": "Sorularınız"
     },
+    "jobSeeker": "İş Arayan",
+    "employer": "İş Veren",
+    "selectApplicantType": "Basvuru Tipi Seçin",
     "namePlaceholder": "İsim",
     "emailPlaceholder": "E-posta Adresi",
     "datePlaceholder": "Tarih Seçin",
     "messagePlaceholder": "Mesaj",
-    "submitButton": "Randevu Al",
-    "imageAlt": "Vize danışmanlığı için bizimle iletişime geçin",
+    "submitButton": "İletişime Geç",
+    "sending": "Gönderiliyor...",
+    "successMessage": "Mesajınız başarıyla gönderildi! En kısa zamanda size dönüş yapacağız.",
+    "errorMessage": "Mesaj gönderilirken bir hata oluştu. Lütfen tekrar deneyin.",
+    "imageAlt": "İş veren ortaklığı icin bizimle iletişime geçin",
     "phone": "Telefon",
     "email": "E-posta",
     "address": "Adres",
@@ -260,12 +419,12 @@
     "ctaSubtitle": "Hibrit çözümler, gelişmiş araçlar ve kurumsal düzeyde danışmanlık hizmetleriyle yeni bir çağa erişin.",
     "ctaButton": "Başlayın",
     "ctaSecondary": "Hizmetlerimizi Görün",
-    "supportingText": "Uluslararası vize danışmanlığı ve kariyer rehberliğinde güvenilir ortağınız.",
+    "supportingText": "Uluslararası işe alım ve kariyer rehberliğinde güvenilir ortağınız.",
     "copyright": "©2025 Tüm hakları saklıdır, Zov Personal.",
     "legal": "Danışmanlık hizmetlerimiz bilgilendirme amaçlıdır ve garanti teşkil etmez. Vize başvuru süreçleri ülke yönetmeliklerine tabidir ve sonuçlar değişiklik gösterebilir. Kişisel durumunuzu değerlendirmek için uzman danışmanlarımızla iletişime geçiniz.",
     "email": "info@zovpersonal.com",
-    "phone": "(Türkiye) | +90 555 123 45 67 (Almanya) | +49 30 12345678",
-    "address": "İstanbul, Türkiye, Berlin, Almanya",
+    "phone": "(Türkiye) | +90 538 596 99 43 (Almanya) | +49 30 12345678",
+    "address": "İstanbul, Türkiye, Brückstraße 59, 26725 Emden, Almanya",
     "links": {
       "home": "Ana Sayfa",
       "services": "Hizmetler",
@@ -274,11 +433,12 @@
     },
     "visa": {
       "requiredDocuments": "Gerekli Evraklar",
-      "applicationProcess": "Ulusal Vize Başvuru Süreci ",
+      "applicationProcess": "Uluslararası İşe Alım",
       "pricing": "Ücretlendirme",
       "additionalServices": "Ek Hizmetlerimiz",
       "nationalVisaSteps": "Ulusal Vize Adımları",
-      "professions": "Meslek Grupları ve Süreçleri"
+      "professions": "Meslek Grupları ve Süreçleri",
+      "businessProcess": "Almanya'ya giriş süreci"
     },
     "social": {
       "instagram": {
@@ -297,9 +457,12 @@
     "contact": {
       "title": "İletişim",
       "email": "E-posta",
-      "phone": "Telefon"
+      "phone": "Telefon",
+      "jobSeeker": "İş Arayan",
+      "employer": "İş Veren",
+      "selectApplicantType": "Basvuru Tipi Seçin"
     },
-    "description": "Profesyonel uluslararası iş vizesi danışmanlık hizmetleri",
+    "description": "Profesyonel uluslararası işe alım ve personel bulma hizmetleri",
     "quickLinks": "Hızlı Bağlantılar",
     "ourServices": "Kaynaklar",
     "services": {
@@ -389,6 +552,9 @@
         "title": "İletişim",
         "description": "Gizlilik politikamız hakkında sorularınız için bizimle iletişime geçebilirsiniz:",
         "company": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş.",
+        "jobSeeker": "İş Arayan",
+        "employer": "İş Veren",
+        "selectApplicantType": "Basvuru Tipi Seçin",
         "offices": {
           "turkey": {
             "title": "Türkiye Ofisi",
@@ -400,7 +566,7 @@
             "title": "Almanya Ofisi", 
             "address": "Adres",
             "phone": "Telefon",
-            "location": "Berlin, Almanya"
+            "location": "Brückstraße 59, 26725 Emden, Almanya"
           }
         }
       }
@@ -474,12 +640,12 @@
   },
   "whyChooseUs": {
     "title": "Neden Bizi Seçmelisiniz?",
-    "subtitle": "Uluslararası vize danışmanlığında fark yaratan özelliklerimiz",
-    "category": "Vize Danışmanlığı",
-    "description": "15+ yıl deneyimimizle, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
+    "subtitle": "Uluslararası işe alım ve iş veren ortaklığında fark yaratan özelliklerimiz",
+    "category": "İşe Alım ve İş Veren Ortaklığı",
+    "description": "15+ yıl altyapımızla, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
     "feature1": {
       "title": "Uzman Ekip",
-      "description": "15+ yıl deneyimli vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
+      "description": "15+ yıl altyapılı vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
     },
     "feature2": {
       "title": "Yüksek Başarı Oranı",
@@ -540,7 +706,7 @@
     "compassionateProfessionals": "Empati sahibi uzmanlarımız, süreç boyunca size destek oluyor.",
     "flexibleScheduling": "Esnek randevu sistemimizle size uygun zamanlarda hizmet veriyoruz.",
     "confidentialSpace": "Gizli ve güvenli bir ortamda kişisel bilgilerinizi paylaşabilirsiniz.",
-    "imageAlt": "Vize danışmanlığı yaklaşımımız",
+    "imageAlt": "iş veren ortaklığı yaklaşımımız",
     "step1": {
       "title": "Analiz ve Planlama",
       "description": "Kişisel durumunuzu detaylı analiz ederek en uygun vize stratejisini belirliyoruz."
@@ -567,7 +733,7 @@
     "review1": {
       "title": "Mükemmel Hizmet",
       "content": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular ve beni sürekli bilgilendirdiler.",
-      "name": "Dr. Ayşe Kaya",
+      "name": "Dr. Mehmet Kaya",
       "role": "Hemşire - Almanya",
       "text": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular.",
       "rating": 5
@@ -575,7 +741,7 @@
     "review2": {
       "title": "Profesyonel Yaklaşım",
       "content": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Ekip gerçekten çok bilgili ve deneyimli.",
-      "name": "Mühendis Mehmet Öz",
+      "name": "Mühendis Busra Oz",
       "role": "Yazılım Geliştirici - Hollanda",
       "text": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Teşekkürler ZovPersonal!",
       "rating": 5
@@ -583,7 +749,7 @@
     "review3": {
       "title": "Süreç Kolaylaştırıldı",
       "content": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi ve adım adım rehberlik etti.",
-      "name": "Öğretmen Fatma Demir",
+      "name": "Öğretmen Nicolaus Voss",
       "role": "Öğretmen - Kanada",
       "text": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi.",
       "rating": 5
@@ -591,30 +757,30 @@
     "review4": {
       "title": "Güvenilir Partner",
       "content": "Almanya'da doktor olarak çalışma iznini almak için ZovPersonal'ı seçtim. Doğru kararı vermişim, süreç çok hızlı ilerledi.",
-      "name": "Dr. Can Özkan",
-      "role": "Doktor - Almanya",
+      "name": "Dr. Georgi Vasilev",
+      "role": "Doktor - Bulgaristan",
       "rating": 5
     },
     "review5": {
       "title": "Mükemmel Sonuç",
       "content": "Avustralya iş vizem için başvururken çok endişeliydim. ZovPersonal ekibi beni rahatlatıp, başarılı sonuç elde etmemde büyük rol oynadı.",
-      "name": "Mimar Zeynep Yılmaz",
+      "name": "Mimar Marko Balković",
       "role": "Mimar - Avustralya",
       "rating": 5
     },
     "review6": {
       "title": "Hızlı ve Etkili",
-      "content": "İsveç'te çalışma fırsatı bulduğumda vize süreciyle ilgili hiçbir fikrim yoktu. ZovPersonal sayesinde her şey çok hızlı halloldu.",
-      "name": "Mühendis Burak Kaya",
-      "role": "Elektrik Mühendisi - İsveç",
+      "content": "Romaniya'da çalışma fırsatı bulduğumda vize süreciyle ilgili hiçbir fikrim yoktu. ZovPersonal sayesinde her şey çok hızlı halloldu.",
+      "name": "Mühendis Andrei Popescu",
+      "role": "Elektrik Mühendisi - Romanya",
       "rating": 5
     }
   },
   "faq": {
     "title": "Sık Sorulan Sorular",
     "subtitle": "Vize ve göçmenlik süreçleri hakkında merak ettiğiniz her şeyi yanıtlıyoruz. Uzman ekibimizle hayalinizdeki ülkeye giden yolu bulun.",
-    "question1": "Hangi ülkeler için vize danışmanlığı veriyorsunuz?",
-    "answer1": "Almanya, Avustralya, Kanada, ABD, İngiltere, Hollanda ve birçok AB ülkesi için kapsamlı vize danışmanlığı hizmeti sunuyoruz. Her ülkenin kendine özgü gereksinimlerine uygun çözümler üretiyoruz.",
+    "question1": "Hangi ülkeler için işe alım ve iş veren ortaklığı veriyorsunuz?",
+    "answer1": "Almanya, Avustralya, Kanada, ABD, İngiltere, Hollanda ve birçok AB ülkesi için kapsamlı işe alım ve iş veren ortaklığı hizmeti sunuyoruz. Her ülkenin kendine özgü gereksinimlerine uygun çözümler üretiyoruz.",
     "question2": "Vize başvuru süreci ne kadar sürer?",
     "answer2": "Süre, ülkeye ve vize türüne göre değişir. Genellikle 2-6 ay arasında değişmektedir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır.",
     "question3": "Başvuru reddedilirse ne yapıyorsunuz?",
@@ -637,19 +803,19 @@
       "doctor": {
         "status": "Doktor Vizesi",
         "title": "Doktorlar için Almanya Ulusal Vizesi",
-        "description": "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı vize rehberliği ve süreç yönetimi sunuyoruz. Diploma denkliği ve dil sınavı süreçlerinde profesyonel destek.",
+        "description": "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı işe alım ve iş veren ortaklığı rehberliği ve süreç yönetimi sunuyoruz. Diploma denkliği ve dil sınavı süreçlerinde profesyonel destek.",
         "button": "Daha fazla bilgi"
       },
       "nurse": {
         "status": "Hemşire Vizesi",
         "title": "Hemşireler için Profesyonel Destek",
-        "description": "Hemşirelik mezunları için Almanya'da çalışma izni ve ulusal vize süreçlerinde uzman rehberlik. Mesleki yeterlilik tanıma ve dil yeterliliği süreçlerinde tam destek.",
+        "description": "Hemşirelik mezunları için Almanya'da çalışma izni ve işe alım ve iş veren ortaklığı süreçlerinde uzman rehberlik. Mesleki yeterlilik tanıma ve dil yeterliliği süreçlerinde tam destek.",
         "button": "Daha fazla bilgi"
       },
       "caregiver": {
         "status": "Yaşlı Bakım",
         "title": "Bakıcılar ve Yaşlı Bakım Uzmanları",
-        "description": "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı vize danışmanlığı. Almanya'daki bakım merkezleri ile bağlantı kurma ve iş yerleştirme desteği.",
+        "description": "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı işe alım ve iş veren ortaklığı. Almanya'daki bakım merkezleri ile bağlantı kurma ve iş yerleştirme desteği.",
         "button": "Daha fazla bilgi"
       },
       "healthTechnician": {
@@ -661,7 +827,7 @@
       "healthExpert": {
         "status": "Uzmanlık Programı",
         "title": "Sağlık Uzmanları ve Terapistler",
-        "description": "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları. Uzmanlık alanınıza özel vize danışmanlığı ve mesleki tanıma süreçleri.",
+        "description": "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları. Uzmanlık alanınıza özel işe alım ve mesleki tanıma süreçleri.",
         "button": "Daha fazla bilgi"
       }
     },
@@ -669,7 +835,7 @@
       "title": "Diğer Meslek Grupları için Ulusal Vize Hizmetleri",
       "construction": {
         "title": "İnşaat Sektörü",
-        "description": "İnşaat ve yapı sektöründe çalışmak isteyenler için özel vize danışmanlığı. Tesisatçı, elektrikçi, marangoz ve diğer teknik personel pozisyonları."
+        "description": "İnşaat ve yapı sektöründe çalışmak isteyenler için özel işe alım ve iş veren ortaklığı. Tesisatçı, elektrikçi, marangoz ve diğer teknik personel pozisyonları."
       },
       "hospitality": {
         "title": "Otel & Restoran",
@@ -728,10 +894,10 @@
       "description": "Sağlık sektöründe uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
       "statsTitle": "Rakamlarla",
       "stats": {
-        "experience": "Yıl Deneyim",
+        "experience": "Yıl altyapısı",
         "healthPersonnel": "Sağlık Personeli",
         "successRate": "Başarı Oranı",
-        "partners": "Partner Kuruluş"
+        "partners": "Partner Kuruluşlar"
       },
       "content": {
         "paragraph1": "Sağlık sektörü sürekli değişiyor ve gelişiyor. Almanya'da sağlık personeli ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",
@@ -762,6 +928,208 @@
         }
       },
       "learnMore": "Daha Fazla Bilgi"
+    }
+  },
+  "businessProcess": {
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Çalışan Entegrasyonu Süreçleri",
+        "subtitle": "Almanya'da başarılı entegrasyon için kapsamlı destek",
+        "description": "Uluslararası çalışanların Almanya'ya başarıyla uyum sağlaması için özel olarak tasarlanmış entegrasyon programları sunuyoruz.",
+        "section1": {
+          "title": "Çalışanların Entegrasyonu",
+          "content": "Uluslararası çalışanlar Almanya'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar. İyi entegrasyon, yalnızca yeni çalışanların yeni ortamlarında kendilerini rahat hissetmelerini sağlamak için değil, aynı zamanda şirkete uzun vadeli bağlılık sağlamak için de önemlidir. Şirketler, yeni profesyoneller için sorunsuz bir başlangıç ​​sağlamak amacıyla hedeflenen önlemlerle önemli bir katkı sağlayabilir."
+        },
+        "section2": {
+          "title": "Destek Hizmetleri",
+          "content": "Dil eğitimi, kültürel oryantasyon, yasal danışmanlık ve sosyal entegrasyon desteği dahil olmak üzere kapsamlı hizmetler sunuyoruz."
+        },
+        "benefits": "Hızlı adaptasyon, yüksek iş memnuniyeti ve uzun vadeli başarı"
+      },
+      "experiencedVisa": {
+        "title": "Deneyimli Profesyoneller için Vize",
+        "subtitle": "Nitelikli deneyime sahip uzmanlar için özel vize programı",
+        "description": "En az 2 yıl mesleki deneyime sahip profesyoneller için hızlandırılmış vize süreçleri ve özel imkânlar sunuyoruz.",
+        "section1": {
+          "title": "Deneyimli Profesyoneller için Vize",
+          "content": "Deneyimli profesyoneller için vize (İkamet Yasası'nın 19c Bölümü, 2. Paragrafı), alanlarında en az iki yıllık nitelikli mesleki deneyime sahip ancak resmi bir üniversite derecesine sahip olmayan vasıflı işçilere yöneliktir. Vize, bu vasıflı işçilerin Almanya'da, özellikle de yüksek talep gören mesleklerde çalışmasına olanak tanır. Bu vize, vasıflı işçilere olan talebi karşılamak ve Alman işgücü piyasasını güçlendirmek için getirilmiştir."
+        },
+        "section2": {
+          "title": "Başvuru Süreci",
+          "content": "Deneyim belgelerinizin değerlendirilmesi, mesleki yeterliliğin tanınması ve hızlandırılmış başvuru süreci için profesyonel rehberlik sağlıyoruz."
+        },
+        "benefits": "Hızlı süreç, esnek koşullar ve deneyim odaklı değerlendirme"
+      },
+      "acceleratedProcedure": {
+        "title": "Hızlandırılmış Nitelikli İşçi Prosedürü",
+        "subtitle": "Hızlı ve etkili vize başvuru süreci",
+        "description": "Nitelikli işçiler için özel olarak tasarlanmış hızlandırılmış prosedür ile vize sürecinizi kısaltıyoruz.",
+        "section1": {
+          "title": "Hızlandırılmış Kalifiye İşçi Prosedürü Nedir?",
+          "content": "Hızlandırılmış Nitelikli İşçi Prosedürü, yurt dışından gelen nitelikli işçiler için göç ve tanınma sürecini hızlandırmak için geliştirilen özel bir süreçtir. Birincil amacı, şirketlerin acilen ihtiyaç duyulan nitelikli işçileri Almanya'ya daha hızlı getirmelerine ve beceri eksikliğiyle daha etkili bir şekilde mücadele etmelerine yardımcı olmaktır. Bu süreç, bürokratik engelleri en aza indirmek ve izinleri hızla vermek için işveren, göçmenlik makamları ve tanınma kuruluşları arasındaki yakın iş birliğine dayanır."
+        },
+        "section2": {
+          "title": "Avantajlar",
+          "content": "Kısa bekleme süreleri, öncelikli işlem görme ve uzman danışman ataması ile sürecinizi optimize ediyoruz."
+        },
+        "benefits": "2-3 hafta süreç, öncelikli işlem ve garantili sonuç"
+      },
+      "recruitment": {
+        "title": "Uluslararası İşe Alım Hizmetleri",
+        "subtitle": "Nitelikli profesyonelleri Almanya ile buluşturuyoruz",
+        "description": "Almanya'daki işgücü ihtiyaçlarını karşılamak üzere uluslararası yetenekleri işe alma konusunda uzman hizmetlerimiz.",
+        "section1": {
+          "title": "İşe Alım",
+          "content": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Ancak, bu sürecin başarılı olması için şirketlerin hedefli ve yapılandırılmış bir yaklaşım benimsemeleri gerekir. Bu adım adım kılavuz, yurtdışından nitelikli uzmanları başarılı bir şekilde çekmek için işe alım sürecinizi nasıl etkili bir şekilde yapılandıracağınızı gösterecektir."
+        },
+        "section2": {
+          "title": "Süreç Yönetimi",
+          "content": "Aday bulma, değerlendirme, vize süreçleri ve iş yerleştirme dahil olmak üzere tüm işe alım sürecini yönetiyoruz."
+        },
+        "benefits": "Geniş aday havuzu, kaliteli eşleştirme ve süreç garantisi"
+      }
+    },
+    "common": {
+      "advantagesTitle": "Avantajlar",
+      "processTitle": "Süreç",
+      "processDescription": "Adım adım rehberlik ile güvenli sonuç",
+      "step1Title": "1. İlk Değerlendirme",
+      "step1Description": "Durum analizi ve uygunluk değerlendirmesi yapıyoruz.",
+      "step2Title": "2. Belge Hazırlama",
+      "step2Description": "Gerekli tüm evrakları profesyonelce hazırlıyoruz.",
+      "step3Title": "3. Başvuru Süreci",
+      "step3Description": "Başvurunuzu takip ediyor ve yönetiyoruz.",
+      "step4Title": "4. Sonuç ve Takip",
+      "step4Description": "Sürecin tamamlanması ve takip hizmetleri.",
+      "ctaTitle": "Hemen Başlayalım",
+      "ctaDescription": "Uzman ekibimizle sürecinizi başlatmak için iletişime geçin.",
+      "contactButton": "İletişime Geç",
+      "backButton": "Geri Dön"
+    }
+  },
+  "internationalRecruitment": {
+    "hero": {
+      "title": "Uluslararası Geleceğe Yönelik İşe Alım",
+      "description": "Modern dünyada yeteneklerin sınırları yok. Geleceğin işgücünü bugünden keşfedin ve uluslararası yeteneklerle şirketinizi güçlendirin."
+    },
+    "vision": {
+      "title": "Geleceğin İş Dünyasını Şekillendiriyoruz",
+      "subtitle": "Dijital Çağda İnsan Kaynakları",
+      "description": "Teknoloji hızla gelişirken, en önemli kaynak hala insan. Uluslararası yetenekleri keşfetmek ve onları doğru pozisyonlarda değerlendirmek, şirketlerin rekabet avantajı elde etmesinin anahtarıdır.",
+      "features": [
+        {
+          "title": "AI Destekli Eşleştirme",
+          "description": "Yapay zeka algoritmaları ile adayları ve pozisyonları mükemmel uyumla eşleştiriyoruz."
+        },
+        {
+          "title": "Küresel Yetenek Havuzu",
+          "description": "50+ ülkeden nitelikli profesyonellerle geniş ağımız sayesinde ihtiyacınız olan yetenekleri buluyoruz."
+        },
+        {
+          "title": "Hızlı İşe Alım Süreci",
+          "description": "Geleneksel süreçleri %70 kısaltarak 2-4 hafta içinde işe alım tamamlıyoruz."
+        },
+        {
+          "title": "Kültürel Entegrasyon",
+          "description": "Uluslararası çalışanların şirket kültürünüze uyumunu sağlayacak entegrasyon programları sunuyoruz."
+        }
+      ]
+    },
+    "trends": {
+      "title": "2025 İşgücü Trendleri",
+      "subtitle": "Geleceği Öngören Stratejiler",
+      "items": [
+        {
+          "trend": "Hibrit Çalışma Modeli",
+          "impact": "Yeteneklerin coğrafi sınırları aşması",
+          "percentage": "89%",
+          "description": "Şirketlerin hibrit çalışma modelini benimsiyor"
+        },
+        {
+          "trend": "Dijital Beceriler",
+          "impact": "Her pozisyonda teknoloji kullanımı",
+          "percentage": "95%",
+          "description": "İş rollerinin dijital beceri gerektiriyor"
+        },
+        {
+          "trend": "Çeşitlilik ve Kapsayıcılık",
+          "impact": "Performans ve inovasyon artışı",
+          "percentage": "76%",
+          "description": "Daha iyi finansal sonuçlar elde ediyor"
+        },
+        {
+          "trend": "Sürdürülebilirlik Odaklı",
+          "impact": "Çevre bilincli çalışan tercihi",
+          "percentage": "73%",
+          "description": "Yeteneklerin sürdürülebilir şirketleri tercih ediyor"
+        }
+      ]
+    },
+    "methodology": {
+      "title": "İnovatif İşe Alım Metodolojimiz",
+      "subtitle": "Veri Odaklı Yaklaşım",
+      "steps": [
+        {
+          "phase": "1",
+          "title": "İhtiyaç Analizi",
+          "description": "Şirketinizin mevcut ve gelecekteki ihtiyaçlarını detaylı analiz ediyoruz.",
+          "duration": "1-2 gün",
+          "tools": ["AI Analytics", "Market Research", "Skill Mapping"]
+        },
+        {
+          "phase": "2", 
+          "title": "Yetenek Keşfi",
+          "description": "Küresel veritabanımızdan en uygun adayları belirliyoruz.",
+          "duration": "3-5 gün",
+          "tools": ["Global Sourcing", "Social Recruiting", "Network Analysis"]
+        },
+        {
+          "phase": "3",
+          "title": "Değerlendirme ve Filtreleme",
+          "description": "Çok aşamalı değerlendirme süreciyle en iyi adayları seçiyoruz.",
+          "duration": "1-2 hafta",
+          "tools": ["Technical Assessment", "Culture Fit Analysis", "Reference Check"]
+        },
+        {
+          "phase": "4",
+          "title": "Sunum ve Entegrasyon",
+          "description": "Seçilen adayları size sunuyor ve entegrasyon sürecini yönetiyoruz.",
+          "duration": "1-3 hafta",
+          "tools": ["Interview Coordination", "Offer Management", "Onboarding Support"]
+        }
+      ]
+    },
+    "success": {
+      "title": "Başarı Hikayeleri",
+      "subtitle": "Rakamlarla Başarımız",
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Başarılı İşe Alım",
+          "period": "Son 12 ay"
+        },
+        {
+          "number": "95%",
+          "label": "Müşteri Memnuniyeti",
+          "period": "Sürekli"
+        },
+        {
+          "number": "2.5x",
+          "label": "Hız Artışı",
+          "period": "Geleneksel yöntemlere göre"
+        },
+        {
+          "number": "35+",
+          "label": "Ülke Erişimi",
+          "period": "Küresel ağ"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Geleceğin İşgücünü Bugün Keşfedin",
+      "description": "Uluslararası yeteneklerle şirketinizi güçlendirmek ve rekabet avantajı elde etmek için hemen başlayın.",
+      "primaryButton": "Ücretsiz Konsültasyon",
+      "secondaryButton": "Başarı Hikayelerini İncele"
     }
   },
   "nationalVisaProcess": {
@@ -818,5 +1186,242 @@
   },
   "stats": {
     "byNumbers": "Rakamlarla"
+  },
+  "employer": {
+    "hero": {
+      "tag1": "İş Veren",
+      "tag2": "Uluslararası İşe Alım",
+      "title": "En İyi Uluslararası Gelecek Odaklı Yetenekleri İşe Alın",
+      "description": "Dünya çapında yetenekli profesyonellerle bağlantı kurun. Uluslararası gelecek odaklı işe alım, uyumluluk ve işe alım süreçlerini yönetiyoruz.",
+      "startHiring": "İşe Alıma Başla",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "benefits": {
+      "badge": "İş Verenler İçin",
+      "title": "Neden Uluslararası",
+      "subtitle": "Gelecek Odaklı Yetenekleri İşe Almalısınız?",
+      "description": "Dünyanın dört bir yanından nitelikli profesyonellerle işgücünüzü genişletin ve kanıtlanmış işe alım çözümlerimizle benzersiz büyüme fırsatlarının kilidini açın.",
+      "stats": {
+        "countries": "25+ Ülke",
+        "hires": "5K+ Başarılı İşe Alım",
+        "successRate": "98% Başarı Oranı"
+      },
+      "services": [
+        "Yetenek Bulma",
+        "Vize Desteği",
+        "Uyum Sağlama",
+        "Aday Değerlendirmesi",
+        "İşe Başlatma Desteği",
+        "Çok Sektörlü Uzmanlık",
+        "7/24 Destek Mevcut"
+      ],
+      "tabs": {
+        "efficiency": "Verimlilik",
+        "quality": "Kalite", 
+        "support": "Destek"
+      }
+    },
+    "services": {
+      "badge": "İş Veren Hizmetleri",
+      "title": "Kapsamlı Uluslararası İşe Alım Çözümleri",
+      "items": [
+        {
+          "title": "Küresel Yetenek Bulma",
+          "description": "Geniş uluslararası ağımız ve doğrulanmış aday veritabanımız ile 25+ ülkeden nitelikli profesyonellere erişim sağlıyoruz."
+        },
+        {
+          "title": "Kapsamlı Vize Desteği",
+          "description": "Belge hazırlama, başvuru rehberliği ve uyum yönetimi dahil olmak üzere baştan sona vize desteği sunuyoruz."
+        },
+        {
+          "title": "Hızlı İşlem",
+          "description": "%98 başarı oranı ile hızlandırılmış işe alım süreci, işe alım süresini kısaltır ve nitelikli adayların hızlı yerleştirilmesini sağlar."
+        }
+      ]
+    },
+    "process": {
+      "title": "İşe Alım Sürecimiz",
+      "description": "En iyi uluslararası yetenekleri bulmak ve işe almak için düzenli ve akıcı süreç",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Gereksinimleri Belirleme",
+          "description": "Özel işe alım ihtiyaçlarınızı ve iş gereksinimlerinizi görüşelim"
+        },
+        {
+          "step": "02",
+          "title": "Aday Eşleştirme",
+          "description": "Nitelikli uluslararası adayları bulup değerlendirin"
+        },
+        {
+          "step": "03",
+          "title": "Mülakat Süreci",
+          "description": "Mülakatları ve yetenek değerlendirmelerini kolaylaştırıyoruz"
+        },
+        {
+          "step": "04",
+          "title": "Vize ve İşe Başlatma",
+          "description": "Vize süreçlerini yönetip sorunsuz işe başlatma sağlıyoruz"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Önde Gelen Şirketler Tarafından Güveniliyor",
+      "description": "Kanıtlanmış başarı kaydımız kendi kendini anlatıyor",
+      "items": [
+        {
+          "number": "500+",
+          "label": "Hizmet Verilen Şirket"
+        },
+        {
+          "number": "5K+",
+          "label": "Başarılı İşe Alım"
+        },
+        {
+          "number": "25+",
+          "label": "Ülke"
+        },
+        {
+          "number": "98%",
+          "label": "Müşteri Memnuniyeti"
+        }
+      ]
+    }
+  },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "İş Arayan", 
+      "tag2": "Uluslararası Kariyer",
+      "title": "Bizimle Yurtdışında Hayalinizdeki İşi Bulun",
+      "description": "uluslararası gelecek odaklı işe alım çözümleri",
+      "startJourney": "Yolculuğunuza Başlayın",
+      "viewServices": "Hizmetleri Görüntüle"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "İş Arayanlar",
+        "opportunities": {
+          "label": "Fırsatlar",
+          "title": "Premium İş",
+          "subtitle": "Dünya Çapında Fırsatlar",
+          "description": "25+ ülkedeki önde gelen şirketlerle özel yüksek maaşlı uluslararası pozisyonlara erişim.",
+          "stats": ["25+ Ülke", "5K+ İş Yerleştirme", "95% Başarı Oranı"],
+          "benefits": [
+            "Premium İşlere Erişim",
+            "Doğrulanmış İşverenler",
+            "Küresel Ağ",
+            "Yüksek Maaş Paketleri"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5K+", "label": "İş Yerleştirme" },
+            "stat2": { "value": "25+", "label": "Ülke" }
+          }
+        },
+        "support": {
+          "label": "Destek",
+          "title": "Kapsamlı",
+          "subtitle": "Kariyer Desteği",
+          "description": "Başvurudan taşınmaya kadar, her adımda kapsamlı destek sağlıyoruz.",
+          "stats": ["24/7 Destek", "Uzman Rehberlik", "98% Memnuniyet"],
+          "benefits": [
+            "CV Optimizasyonu",
+            "Mülakat Koçluğu",
+            "Vize Yardımı",
+            "Taşınma Desteği"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Destek" },
+            "stat2": { "value": "98%", "label": "Memnuniyet" }
+          }
+        },
+        "process": {
+          "label": "Süreç",
+          "title": "Düzenli",
+          "subtitle": "Başvuru Süreci",
+          "description": "Verimli sürecimiz sizi kanıtlanmış sonuçlar ve hızlı yerleştirme ile yurtdışında daha hızlı çalışmaya başlatır.",
+          "stats": ["30 Gün Ortalama", "95% Başarı", "Hızlı İşlem"],
+          "benefits": [
+            "Hızlı İşlem",
+            "Adım Adım Rehberlik",
+            "Belge Hazırlama",
+            "Hızlı Sonuçlar"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Gün Ortalama" },
+            "stat2": { "value": "95%", "label": "Başarı Oranı" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "İş Arayan Hizmetleri",
+      "title": "İş Arayanlar İçin Hizmetlerimiz",
+      "items": [
+        {
+          "title": "CV ve Özgeçmiş Optimizasyonu",
+          "description": "Uluslararası iş piyasaları için profesyonel CV yazımı ve optimizasyonu"
+        },
+        {
+          "title": "İş Eşleştirme",
+          "description": "Özel becerilerinizi arayan doğrulanmış işverenlerle bağlantı kurma"
+        },
+        {
+          "title": "Mülakat Hazırlığı", 
+          "description": "Uluslararası pozisyonlar için kapsamlı mülakat koçluğu"
+        },
+        {
+          "title": "Vize Yardımı",
+          "description": "Kapsamlı çalışma vizesi başvuru desteği ve dokümantasyon"
+        }
+      ]
+    },
+    "process": {
+      "title": "Nasıl Çalışır",
+      "description": "İş arayan programımız yurtdışında hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Profil Değerlendirmesi",
+          "description": "Kapsamlı beceri değerlendirmesi ve kariyer hedefleri analizi"
+        },
+        {
+          "step": "02",
+          "title": "İş Eşleştirme",
+          "description": "Uygun uluslararası iş fırsatlarıyla eşleştirme"
+        },
+        {
+          "step": "03",
+          "title": "Başvuru Desteği",
+          "description": "Profesyonel başvuru hazırlığı ve sunumu"
+        },
+        {
+          "step": "04",
+          "title": "Vize İşlemleri",
+          "description": "Kapsamlı çalışma vizesi başvurusu ve dokümantasyon"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Başarı Rakamlarımız",
+      "description": "Kanıtlanmış başarılı iş yerleştirme rekoru",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Başarı Oranı"
+        },
+        {
+          "number": "5K+",
+          "label": "Yerleştirilen İş"
+        },
+        {
+          "number": "25+",
+          "label": "Ülke"
+        },
+        {
+          "number": "30",
+          "label": "Gün Ortalama"
+        }
+      ]
+    }
   }
 }

@@ -1,0 +1,1352 @@
+{
+  "metadata": {
+    "title": "ZovPersonal - Agenție Internațională de Recrutare Orientată Spre Viitor",
+    "description": "Partenerul dvs. de încredere care conectează profesioniștii calificați cu angajatorii internaționali. Servicii de recrutare orientate spre viitor pentru succes durabil în Germania, țările UE și dincolo.",
+    "keywords": "recrutare internațională, parteneriat cu angajatorii, plasare în muncă, locuri de muncă Germania, angajare UE, agenție de recrutare, zovpersonal"
+  },
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact",
+    "consultation": "Parteneriat Gratuit cu Angajatorii"
+  },
+  "hero": {
+    "title": "Agenție Internațională de Recrutare Orientată Spre Viitor (ZOV)",
+    "subtitle": "Partenerul tău de încredere pentru oportunități de carieră internaționale",
+    "description": "Conectăm profesioniști calificați cu companii inovatoare din întreaga lume. Recrutare orientată spre viitor pentru succes durabil în Germania și UE.",
+    "longDescription": "Partenerul dvs. de încredere care conectează profesioniștii calificați cu angajatorii internaționali. Indiferent dacă căutați sprijin în procesul de recrutare sau urmăriți oportunități de carieră în străinătate, obțineți succesul cu echipa noastră de experți.",
+    "cta": "Solicită un Apel",
+    "secondary_cta": "Află Mai Multe",
+    "learnMore": "Află Mai Multe",
+    "tag1": "Căutător de Locuri de Muncă",
+    "tag2": "Angajator"
+  },
+  "acceleratedProcedure": {
+    "title": "Procedura Accelerată pentru Lucrători Calificați",
+    "subtitle": "Un proces special dezvoltat pentru a accelera procesul de imigrare și recunoaștere pentru lucrătorii calificați din străinătate. Acest proces este conceput pentru a minimiza barierele birocratice și a expedia permisele.",
+    "imageAlt": "Proces accelerat",
+    "employerInitiation": "Inițiativa Angajatorului - Procesul este inițiat și coordonat de angajator",
+    "qualificationRecognition": "Recunoașterea Calificărilor - Calificările străine sunt evaluate și recunoscute rapid",
+    "comprehensiveSupport": "Suport Cuprinzător - Angajatorul preia cea mai mare parte a procesului de aplicare",
+    "reducedBureaucracy": "Birocracie Redusă - Rezultate rapide cu maximum 3 luni timp de procesare",
+    "internationalRecruitment": "Recrutare Internațională - Cooperare cu platforme specializate ca Jobsingermany.net"
+  },
+  "home": {
+    "carousel": {
+      "badge": "Recrutare Internațională Orientată spre Viitor",
+      "title": "Recrutare Internațională Orientată spre Viitor",
+      "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să vă ajute să găsiți jobul visurilor voastre în străinătate. Oferim instrumentele și resursele de care aveți nevoie pentru a reuși.",
+      "cards": {
+        "recruitment": {
+          "category": "Achiziția de Talente",
+          "title": "Soluții Globale de Recrutare"
+        },
+        "partnership": {
+          "category": "Parteneriat cu Angajatorii",
+          "title": "Parteneriate Strategice de Afaceri"
+        },
+        "visaprocess": {
+          "category": "Vize și Documentație",
+          "title": "Procesare Completă de Vize"
+        },
+        "support": {
+          "category": "Suport 24/7",
+          "title": "Suport Continuu pentru Clienți"
+        },
+        "healthcare": {
+          "category": "Sectorul Sanitar",
+          "title": "Recrutarea Profesioniștilor Medicali"
+        },
+        "technology": {
+          "category": "IT și Tehnologie",
+          "title": "Soluții pentru Talente Tehnologice"
+        }
+      },
+      "content": {
+        "recruitment": {
+          "highlight": "Găsiți potrivirea perfectă a talentelor.",
+          "description": "Metodologia noastră avansată de recrutare vă conectează cu profesioniști calificați din întreaga lume. Simplificăm întregul proces de angajare de la căutarea candidaților până la plasarea finală.",
+          "features": [
+            {
+              "title": "Pool Global de Talente",
+              "description": "Acces la peste 50.000 de profesioniști calificați în multiple industrii și țări."
+            },
+            {
+              "title": "Plasare Rapidă",
+              "description": "Timp mediu de plasare de 45 de zile cu o rată de retenție a candidaților de 95%."
+            }
+          ]
+        },
+        "partnership": {
+          "highlight": "Construiți relații de afaceri durabile.",
+          "description": "Creăm parteneriate strategice între angajatori și talente internaționale. Abordarea noastră cuprinzătoare asigură creșterea durabilă și succesul mutual pentru toate părțile implicate.",
+          "features": [
+            {
+              "title": "Managementul Parteneriatelor",
+              "description": "Manageri de cont dedicați pentru construirea continuă a relațiilor și suport."
+            },
+            {
+              "title": "Metrici de Succes",
+              "description": "Urmărirea performanței cu analize detaliate și revizuiri regulate ale parteneriatelor."
+            }
+          ]
+        },
+        "visaprocess": {
+          "highlight": "Simplificați procedurile complexe de vize.",
+          "description": "Navigați cu încredere prin cerințele internaționale de vize. Echipa noastră de experți gestionează toată documentația, procesele de aplicare și conformitatea legală pentru tranziții fără probleme.",
+          "features": [
+            {
+              "title": "Documentație de Expert",
+              "description": "Pregătirea profesională a tuturor documentelor necesare cu o rată de conformitate de 100%."
+            },
+            {
+              "title": "Conformitate Legală",
+              "description": "Rămâneți la curent cu legile și cerințele de imigrare în schimbare."
+            }
+          ]
+        },
+        "support": {
+          "highlight": "Suport care nu se oprește niciodată.",
+          "description": "Angajamentul nostru se extinde dincolo de plasare. Oferim suport continuu pentru a asigura succesul pe termen lung atât pentru angajatori, cât și pentru angajați pe parcursul călătoriei lor.",
+          "features": [
+            {
+              "title": "Disponibilitate 24/7",
+              "description": "Suport non-stop pentru probleme urgente și asistență continuă."
+            },
+            {
+              "title": "Suport pentru Integrare",
+              "description": "Servicii de integrare culturală și adaptare pentru tranziții fluide."
+            }
+          ]
+        },
+        "healthcare": {
+          "highlight": "Excelența talentelor din sănătate.",
+          "description": "Recrutarea specializată pentru profesioniștii din sănătate, inclusiv doctori, asistente medicale, terapeuți și tehnicieni medicali. Înțelegem cerințele unice ale sectorului sanitar.",
+          "features": [
+            {
+              "title": "Licențe Medicale",
+              "description": "Asistență pentru recunoașterea licențelor medicale și certificarea profesională."
+            },
+            {
+              "title": "Validarea Competențelor",
+              "description": "Evaluarea cuprinzătoare a calificărilor medicale și a competențelor practice."
+            }
+          ]
+        },
+        "technology": {
+          "highlight": "Stimulați-vă transformarea tehnologică.",
+          "description": "Conectați-vă cu profesioniști IT de top și experți în tehnologie. De la dezvoltatori de software la oameni de știință de date, procurăm talentele care conduc inovația.",
+          "features": [
+            {
+              "title": "Expertiză Tehnologică",
+              "description": "Specialiști în AI, blockchain, cloud computing și tehnologii emergente."
+            },
+            {
+              "title": "Implementare Rapidă",
+              "description": "Soluții rapide de plasare pentru proiecte și roluri tehnologice urgente."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Agenția internațională de recrutare orientată spre viitor (ZOV)",
+      "subtitle": "ZovPersonal conectează profesioniștii calificați cu companiile de frunte din Europa prin procese de recrutare internaționale orientate spre viitor.",
+      "description1": "La ZovPersonal, suntem dedicați să oferim clienților noștri un avantaj imbatabil față de întârzieri, ineficiențe și dezorganizare prin perspective acționabile și colaborare fără probleme. Nu ne vom opri până nu vă vom oferi instrumentele de care aveți nevoie pentru a duce fiecare cerere de viză la bun sfârșit.",
+      "description2": "Suntem obsedați de clienți — investim timp pentru a înțelege fiecare aspect al procesului dvs., astfel încât să vă putem ajuta să operați mai bine ca niciodată. Suntem cu toții în asta împreună, deoarece succesul dvs. este succesul nostru. În istoria noastră ca companie, nu am pierdut niciodată un client, pentru că atunci când proiectele dvs. reușesc, și noi reușim."
+    },
+    "stats": {
+      "experience": {
+        "number": "12+",
+        "label": "Ani Infrastructură"
+      },
+      "clients": {
+        "number": "5K+",
+        "label": "Clienți de Succes"
+      },
+      "visas": {
+        "number": "10K+",
+        "label": "Vize Aprobate"
+      },
+      "countries": {
+        "number": "25+",
+        "label": "Țări Țintă"
+      }
+    },
+    "team": {
+      "title": "Echipa",
+      "description1": "Am început să construim ZovPersonal în 2019 și am lansat în 2022. Fiecare proces a fost proiectat de la zero — fără datorii tehnice sau sisteme moștenite. Suntem construiți special pentru a alimenta inovația în recrutare și parteneriat cu angajatorii pentru următorii o sută de ani.",
+      "description2": "Consultanții noștri experimentați înțeleg nevoile unice ale fiecărui client și oferă soluții personalizate. Suntem aici pentru a simplifica complexitățile proceselor de recrutare și pentru a face călătoria dvs. de muncă fără probleme.",
+      "description3": "Contactați-ne pentru parteneriat cu angajatorii.",
+      "cta": "Contactați-ne"
+    },
+    "company": {
+      "description1": "La ZovPersonal, suntem dedicați transformării proceselor internaționale de viză și oferirii clienților noștri un avantaj imbatabil față de întârzieri și ineficiențe. Prin perspective acționabile și colaborare fără probleme, oferim instrumentele necesare pentru ca fiecare cerere de viză să reușească.",
+      "description2": "Suntem obsedați de clienți — investim timp pentru a înțelege fiecare aspect al procesului dvs., astfel încât să putem oferi un serviciu mai bun ca niciodată. Suntem cu toții în asta împreună, deoarece succesul dvs. este succesul nostru. În istoria companiei noastre, nu am pierdut niciodată un client, pentru că atunci când proiectele dvs. reușesc, și noi reușim."
+    },
+    "images": {
+      "teamWork": "Colaborare în echipă",
+      "officeSpace": "Spațiu de lucru de birou",
+      "consulting": "Servicii de consultanță",
+      "success": "Povești de succes"
+    },
+    "partners": {
+      "title": "Partenerii noștri",
+      "partner1": {
+        "name": "Anna Schneider",
+        "role": "Specialist în Recrutare"
+      },
+      "partner2": {
+        "name": "Ayşe Demir",
+        "role": "Consilier Juridic"
+      },
+      "partner3": {
+        "name": "Ali Kaya",
+        "role": "Dezvoltare Afaceri"
+      },
+      "partner4": {
+        "name": "Fatma Öz",
+        "role": "Relații cu Clienții"
+      },
+      "partner5": {
+        "name": "Lukas Wagner",
+        "role": "Manager Operațiuni"
+      }
+    },
+    "description": "Vă ghidăm spre obiectivele dvs. de carieră internaționale și simplificăm procesele de viză pentru a crea oportunități de a lucra în țara visurilor dvs. Cu 15 ani de infrastructură, oferim servicii de consultanță pentru vize de încredere la nivel mondial.",
+    "features": {
+      "compassion": "Empatie și Înțelegere",
+      "integrity": "Onestitate și Fiabilitate",
+      "mindGrowth": "Creștere Personală și Profesională"
+    }
+  },
+  "services": {
+    "title": "Serviciile Noastre",
+    "subtitle": "Soluții complete pentru recrutare și parteneriat cu angajatorii",
+    "workVisa": {
+      "title": "Servicii de Recrutare",
+      "description": "Sprijin complet și îndrumări în recrutarea profesioniștilor internaționali din diverse țări, inclusiv Germania, Austria, Olanda și multe altele."
+    },
+    "skillsAssessment": {
+      "title": "Evaluarea Abilităților",
+      "description": "Evaluare profesională a calificărilor dvs. și potrivire cu oportunități de muncă internaționale."
+    },
+    "documentation": {
+      "title": "Pregătirea Documentelor",
+      "description": "Ajutor expert cu pregătirea documentelor, traducere și servicii de autentificare."
+    },
+    "consultation": {
+      "title": "Consultație Personală",
+      "description": "Sesiuni de consultație unu-la-unu pentru a înțelege nevoile dvs. specifice și obiectivele de carieră."
+    },
+    "countries": {
+      "title": "Ne consolidăm cu cele mai bune echipe de recrutare și parteneriat cu angajatorii din lume.",
+      "subtitle": "De la startup-uri de generație următoare la organizații consacrate.",
+      "countryNames": {
+        "germany": "Germania",
+        "austria": "Austria",
+        "netherlands": "Olanda",
+        "switzerland": "Elveția",
+        "belgium": "Belgia",
+        "luxembourg": "Luxemburg",
+        "denmark": "Danemarca",
+        "romania": "România",
+        "croatia": "Croația",
+        "bulgaria": "Bulgaria",
+        "sweden": "Suedia",
+        "finland": "Finlanda",
+        "serbia": "Serbia"
+      }
+    },
+    "tabContent": {
+      "workVisa": {
+        "title": "Proces de Recrutare",
+        "description": "Recrutarea specialiștilor internaționali oferă oportunități enorme pentru a aborda lipsa de competențe din Germania. Cu abordarea noastră țintită și structurată, organizăm eficient procesul de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
+        "stat1": { "number": "95%", "label": "recrutare reușită" },
+        "stat2": { "number": "30", "label": "zile timp mediu" },
+        "category": "Proces de Recrutare"
+      },
+      "documentation": {
+        "title": "Proces de Pregătire a Documentelor",
+        "description": "Viza pentru recunoașterea calificărilor profesionale străine se adresează lucrătorilor calificați care își doresc să-și recunoască calificările profesionale dobândite în străinătate în Germania. Pregătim documentele în conformitate cu standardele germane și facilitează procesul de recunoaștere.",
+        "stat1": { "number": "100%", "label": "conformitate documente" },
+        "stat2": { "number": "48", "label": "ore pregătire" },
+        "category": "Pregătirea Documentelor"
+      },
+      "skillsAssessment": {
+        "title": "Evaluarea Calificărilor Profesionale",
+        "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu competențe de limba germană la nivel B1 și dovada siguranței financiare.",
+        "stat1": { "number": "85%", "label": "recunoaștere reușită" },
+        "stat2": { "number": "12", "label": "ani experiență" },
+        "category": "Calificări Profesionale"
+      }
+    },
+    "tabButtons": {
+      "workVisa": "Recrutare",
+      "documentation": "Documentație",
+      "skillsAssessment": "Calificări Profesionale"
+    }
+  },
+  "professions": {
+    "title": "Categorii Profesionale",
+    "subtitle": "Suntem specializați în cereri de vize pentru diverse domenii profesionale",
+    "healthcare": {
+      "title": "Profesioniști în Sănătate",
+      "description": "Asistenți medicali, medici, terapeuți și alți lucrători din domeniul sănătății",
+      "requirements": "Documente și calificări necesare"
+    },
+    "engineering": {
+      "title": "Ingineri și IT",
+      "description": "Dezvoltatori de software, ingineri și specialiști tehnici",
+      "requirements": "Cerințe de calificare tehnică"
+    },
+    "skilled": {
+      "title": "Lucrători Calificați",
+      "description": "Meșteșugari, tehnicieni și muncitori calificați",
+      "requirements": "Cerințe de certificare profesională"
+    },
+    "education": {
+      "title": "Educație și Cercetare",
+      "description": "Profesori, cercetători și profesioniști academici",
+      "requirements": "Cerințe de acreditare academică"
+    }
+  },
+  "documents": {
+    "title": "Documente Necesare",
+    "subtitle": "Documente esențiale pentru cererea ta de viză",
+    "categories": {
+      "personal": {
+        "title": "Documente Personale",
+        "description": "Pașaport valabil cel puțin 6 luni, documente de identitate și acte care conțin informațiile tale personale."
+      },
+      "education": {
+        "title": "Documente Educaționale",
+        "description": "Diplome, certificate și documente de competență lingvistică. Apostila poate fi necesară pentru recunoaștere internațională."
+      },
+      "professional": {
+        "title": "Documente Profesionale",
+        "description": "Scrisoare de ofertă de muncă, contract de muncă, certificate de calificare profesională și documente de experiență."
+      },
+      "medical": {
+        "title": "Medicale și Juridice",
+        "description": "Raport medical, verificare a cazierului judiciar, documente de stare financiară și fotografiile tale biometrice."
+      }
+    },
+    "list": [
+      "Pașaport valabil cel puțin 6 luni",
+      "Certificate și diplome educaționale",
+      "Certificate de calificare profesională",
+      "Certificate de competență lingvistică (germană/engleză)",
+      "Scrisoare de ofertă de muncă sau contract de muncă",
+      "Rapoarte de examinare medicală",
+      "Verificare a cazierului judiciar",
+      "Dovada mijloacelor financiare",
+      "Formulare de cerere de viză completate",
+      "Fotografii biometrice"
+    ]
+  },
+  "process": {
+    "title": "Procesul Nostru de Cerere de Viză",
+    "subtitle": "Minimizăm complexitatea gestionării documentelor tale complexe cu instrumentele noastre care simplifică procesul de cerere de viză.",
+    "step1": {
+      "title": "Consultație și Evaluare Inițială",
+      "description": "Analizăm profilul și obiectivele tale pentru a dezvolta o strategie personalizată de viză pentru tine.",
+      "alt": "Consultație pentru viză"
+    },
+    "step2": {
+      "title": "Pregătirea și Revizuirea Documentelor",
+      "description": "Pregătim toate documentele tale conform standardelor internaționale și detectăm orice deficiențe instantaneu.",
+      "alt": "Pregătirea documentelor"
+    },
+    "step3": {
+      "title": "Depunerea Cererii și Urmărirea",
+      "description": "Depunem cererea ta în siguranță și o monitorizăm continuu până la finalizare.",
+      "alt": "Urmărirea cererii"
+    }
+  },
+  "contact": {
+    "title": "Hai să Vorbim",
+    "jobSeeker": "Căutător de Locuri de Muncă",
+    "employer": "Angajator",
+    "subtitle": "Fie că ești gata să programezi prima consultație sau doar ai întrebări, am fi bucuroși să auzim de tine.",
+    "pageTitle": "Contactează-ne",
+    "pageSubtitle": "Suntem aici pentru a ajuta cu întrebările tale legate de consultanța pentru vize.",
+    "offices": {
+      "istanbul": "🇹🇷 Birou Istanbul",
+      "berlin": "🇩🇪 Birou Berlin"
+    },
+    "sections": {
+      "email": "Trimite-ne un e-mail",
+      "follow": "Urmărește-ne",
+      "inquiries": "Întrebări"
+    },
+    "selectApplicantType": "Selectează Tipul Solicitantului",
+    "namePlaceholder": "Nume",
+    "emailPlaceholder": "Adresă de E-mail",
+    "datePlaceholder": "Selectează Data",
+    "messagePlaceholder": "Mesaj",
+    "submitButton": "Rezervă Acum",
+    "sending": "Se trimite...",
+    "successMessage": "Mesajul tău a fost trimis cu succes! Îți vom răspunde în curând.",
+    "errorMessage": "A apărut o eroare la trimiterea mesajului. Te rugăm să încerci din nou.",
+    "imageAlt": "Contactează-ne pentru consultanță pentru vize",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Adresă",
+    "form": {
+      "fullName": "Nume complet",
+      "email": "Adresă de e-mail de lucru",
+      "message": "Mesajul tău",
+      "submit": "Trimite",
+      "optional": "(opțional)",
+      "placeholders": {
+        "fullName": "Nume și prenume",
+        "email": "eu@mail.com",
+        "message": "Scrie mesajul tău"
+      }
+    }
+  },
+  "cta": {
+    "title": "Gata să-ți Începi Cariera Internațională?",
+    "subtitle": "Obține o consultație gratuită cu echipa noastră de experți și fă primul pas către jobul visurilor tale în străinătate.",
+    "button": "Obține Consultație Gratuită"
+  },
+  "footer": {
+    "ctaTitle": "Consultanță mai Inteligentă.\nAvansează cu Încredere",
+    "ctaSubtitle": "Accesează o nouă eră cu soluții hibride, instrumente avansate și servicii de consultanță la nivel de întreprindere.",
+    "ctaButton": "Începe Acum",
+    "ctaSecondary": "Vezi Serviciile Noastre",
+    "supportingText": "Partenerul tău de încredere pentru consultanța internațională pentru vize și ghidarea carierei.",
+    "copyright": "Drepturi de autor ©2025. Toate drepturile rezervate.",
+    "links": {
+      "home": "Acasă",
+      "services": "Servicii",
+      "about": "Despre",
+      "contact": "Contact",
+      "requiredDocuments": "Documente Necesare",
+      "applicationProcess": "Procesul de Cerere pentru Viza Națională",
+      "pricing": "Prețuri",
+      "additionalServices": "Servicii Suplimentare",
+      "nationalVisaSteps": "Pașii Vizei Naționale (90+ Zile)"
+    },
+    "description": "Servicii profesionale de consultanță pentru vize de muncă internaționale",
+    "quickLinks": "Linkuri Rapide",
+    "ourServices": "Resurse",
+    "email": "info@zovpersonal.com",
+    "phone": "(Turcia) | +90 555 123 45 67 (Germania) | +49 30 12345678",
+    "address": "Istanbul, Turcia, Brückstraße 59, 26725 Emden, Germania",
+    "visa": {
+      "requiredDocuments": "Documente Necesare",
+      "applicationProcess": "Recrutare Internațională",
+      "pricing": "Prețuri",
+      "additionalServices": "Servicii Suplimentare",
+      "nationalVisaSteps": "Pașii Vizei Naționale",
+      "professions": "Procesul Profesional",
+      "businessProcess": "Business-Prozess in Deutschland"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://instagram.com/zovpersonal",
+        "alt": "Urmărește-ne pe Instagram"
+      },
+      "twitter": {
+        "url": "https://twitter.com/zovpersonal",
+        "alt": "Urmărește-ne pe Twitter"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/company/zovpersonal",
+        "alt": "Urmărește-ne pe LinkedIn"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "jobSeeker": "Căutător de muncă",
+      "employer": "Angajator",
+      "selectApplicantType": "Selectați tipul de candidat"
+    },
+    "services": {
+      "workVisa": "Cereri de Vize de Muncă",
+      "skillsAssessment": "Evaluarea Abilităților",
+      "documentation": "Pregătirea Documentelor",
+      "consultation": "Consultație Personală"
+    },
+    "legal": "Serviciile noastre de consultanță sunt doar în scop informativ și nu constituie garanții. Procesele de cerere de viză sunt supuse reglementărilor țării și rezultatele pot varia. Vă rugăm să contactați consultanții noștri experți pentru a evalua situația dvs. personală.",
+    "privacy": "Politica de Confidențialitate",
+    "terms": "Termeni de Serviciu",
+    "rightsReserved": "Toate drepturile rezervate"
+  },
+  "privacyPolicy": {
+    "title": "Politica de Confidențialitate",
+    "subtitle": "ZovPersonal Servicii de Consultanță - Protecția și Securitatea Datelor Tale Personale",
+    "sections": {
+      "intro": {
+        "title": "Politica Noastră de Confidențialitate",
+        "content": "Ca ZovPersonal Consulting and Service Foreign Trade Inc., manifestăm cel mai înalt nivel de sensibilitate cu privire la securitatea datelor tale personale. Această politică de confidențialitate explică modul în care colectăm, procesăm, protejăm și stocăm datele tale personale atunci când utilizezi serviciile noastre.",
+        "kvkk": "Ca controlori de date conform Legii privind Protecția Datelor Personale Nr. 6698 (KVKK), asigurăm conformitatea deplină cu legislația în procesarea datelor tale personale."
+      },
+      "dataCollection": {
+        "title": "Date Personale Colectate",
+        "identity": {
+          "title": "Informații de Identitate și Contact",
+          "items": ["Nume, prenume", "Data și locul nașterii", "Număr de identificare național", "Informații pașaport", "Număr de telefon", "Adresă de e-mail", "Informații adresă"]
+        },
+        "visa": {
+          "title": "Informații pentru Cererea de Viză",
+          "items": ["Statut educațional", "Informații profesionale", "Statut financiar", "Istoric de călătorie", "Statut familial", "Stare de sănătate (când este necesar)"]
+        },
+        "technical": {
+          "title": "Date Tehnice",
+          "items": ["Adresă IP", "Informații despre browser", "Informații despre dispozitiv", "Date de utilizare a site-ului"]
+        }
+      },
+      "processing": {
+        "title": "Scopurile Procesării Datelor Personale",
+        "description": "Procesăm datele tale personale în următoarele scopuri:",
+        "purposes": ["Desfășurarea proceselor de cerere de viză", "Furnizarea de servicii de consultanță", "Managementul relațiilor cu clienții", "Îndeplinirea obligațiilor legale", "Îmbunătățirea calității serviciilor", "Analiză statistică", "Măsurarea satisfacției clienților", "Luarea măsurilor de securitate"]
+      },
+      "security": {
+        "title": "Securitatea Datelor",
+        "description": "Luăm următoarele măsuri tehnice și administrative pentru securitatea datelor tale personale:",
+        "measures": ["Transmisie criptată a datelor cu certificat SSL", "Infrastructură de server securizată", "Control de acces și autorizare", "Actualizări regulate de securitate", "Instruirea personalului și acorduri de confidențialitate", "Proceduri de backup și recuperare a datelor", "Monitorizare de securitate 24/7"]
+      },
+      "rights": {
+        "title": "Drepturile Subiectului Datelor",
+        "description": "Ai următoarele drepturi conform KVKK:",
+        "list": {
+          "info": {
+            "title": "Dreptul la Informare",
+            "description": "Dreptul de a afla dacă datele tale personale sunt procesate"
+          },
+          "access": {
+            "title": "Dreptul de Acces",
+            "description": "Dreptul de a solicita informații despre datele tale personale procesate"
+          },
+          "rectification": {
+            "title": "Dreptul la Rectificare",
+            "description": "Dreptul de a solicita corectarea datelor incorecte sau incomplete"
+          },
+          "erasure": {
+            "title": "Dreptul la Ștergere",
+            "description": "Dreptul de a solicita ștergerea datelor tale personale"
+          },
+          "objection": {
+            "title": "Dreptul la Obiecție",
+            "description": "Dreptul de a obiecta asupra procesării datelor și de a solicita încetarea acesteia"
+          },
+          "portability": {
+            "title": "Dreptul la Portabilitate",
+            "description": "Dreptul de a solicita transferul datelor tale către un alt controlor de date"
+          }
+        },
+        "howToUse": {
+          "title": "Cum Îți Poți Exersa Drepturile?",
+          "description": "Poți utiliza următoarele canale de comunicare pentru a-ți exersa drepturile de mai sus:",
+          "channels": ["E-mail: info@zovpersonal.com", "Cerere scrisă: Livrare personală sau prin poștă la adresa companiei noastre", "Formular online: Formular de cerere la www.zovpersonal.com"]
+        }
+      },
+      "cookies": {
+        "title": "Cookie-uri",
+        "description": "Folosim cookie-uri pe site-ul nostru pentru a îmbunătăți experiența utilizatorului. Cookie-urile sunt fișiere text mici stocate în browser-ul tău web. Poți controla utilizarea cookie-urilor din setările browser-ului tău."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "Ne poți contacta pentru întrebări legate de politica noastră de confidențialitate:",
+        "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+        "offices": {
+          "turkey": {
+            "title": "Birou Turcia",
+            "address": "Adresă",
+            "phone": "Telefon",
+            "location": "Istanbul, Turcia"
+          },
+          "germany": {
+            "title": "Birou Germania",
+            "address": "Adresă",
+            "phone": "Telefon",
+            "location": "Berlin, Germania"
+          }
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Termeni de Serviciu",
+    "subtitle": "ZovPersonal Servicii de Consultanță - Reglementări de Securitate și Protecția Datelor Personale",
+    "sections": {
+      "securityRegulations": {
+        "title": "REGLEMENTĂRI DE SECURITATE",
+        "intro": "Anunț privind reglementările de securitate referitoare la aspectele care trebuie respectate de solicitanții care vizitează Centrele de Cereri de Vize ZovPersonal;",
+        "description": "În conformitate cu cerințele de securitate ale reprezentanțelor germane/italiene, solicitanților care vizitează birourile ZovPersonal le este interzis să efectueze următoarele acțiuni și să aducă și să utilizeze obiectele specificate în birourile ZovPersonal:",
+        "prohibitedItems": [
+          "Telefoane mobile, camere foto, camere video sau orice alte dispozitive care înregistrează audio/video (playere mp3, computere portabile, dispozitive de înregistrare alimentate cu baterii etc.)",
+          "Toate tipurile de obiecte inflamabile (chibrituri, brichete, combustibil și alte obiecte combustibile similare) și tăietoare (foarfece, ascuțitoare, pile etc.)",
+          "Arme sau obiecte asemănătoare armelor sau orice materiale explozive",
+          "Animale de companie (din cauza sensibilităților alergice)",
+          "Plicuri sau pachete sigilate",
+          "Mâncare și băuturi",
+          "Genți sau valize mai mari decât dimensiunea bagajului de cabină, rucsacuri, serviete sau genți cu fermoar (Dacă aveți dosare, puteți păstra doar dosarele care conțin documentele solicitate)"
+        ],
+        "disclaimer": "*Lista de mai sus nu se limitează la cele specificate.",
+        "additionalRules": [
+          "Gardienii de securitate și oficialii biroului au dreptul de a interzice obiectele suspecte și de a refuza intrarea persoanelor suspecte în birourile noastre. Gardienii de securitate au autoritatea de a verifica geanta solicitantului în orice moment în timpul procesului de cerere de viză.",
+          "Din motive de securitate, terților, cum ar fi prietenii, rudele sau angajații locului de muncă, alții decât solicitantul, le este interzis să depună cereri de viză (Accesul în birourile ZovPersonal nu este posibil, cu excepția solicitantului și a persoanei care va aplica prin procură). Doar o singură persoană va fi acceptată pentru a însoți solicitanții care au nevoie fizic de ajutorul altei persoane, au deficiențe de auz sau nu pot citi și scrie.",
+          "Solicitanților le este interzis să intre în alte zone decât spațiile comune rezervate solicitanților în birourile noastre (zonele de lucru ale personalului, toaletele etc.).",
+          "Birourile ZovPersonal nu dispun de spațiu de depozitare pentru obiectele interzise menționate mai sus. Birourile ZovPersonal nu acceptă nici depozite. Solicitanții sunt rugați să aleagă metode alternative pentru a nu aduce astfel de obiecte înainte de a intra în centru.",
+          "Birourile ZovPersonal sunt înregistrate cu camere 24/7 datorită politicii noastre de securitate."
+        ],
+        "footer": "Vă informăm cu respect."
+      },
+      "dataProtection": {
+        "title": "INFORMAȚII GENERALE PRIVIND PROTECȚIA ȘI PROCESAREA DATELOR PERSONALE",
+        "intro": "Ca ZovPersonal Consulting and Service Foreign Trade Inc. („ZovPersonal” sau „Compania”), manifestăm maximă sensibilitate față de securitatea datelor tale personale. Cu această conștientizare, acordăm o mare importanță procesării și stocării datelor personale aparținând persoanelor fizice cu care Compania interacționează, în conformitate cu Legea privind Protecția Datelor Personale Nr. 6698 („Legea”), reglementările secundare (regulamente, comunicate, circulare) care au fost și vor fi puse în aplicare pe baza Legii și deciziile obligatorii luate și care vor fi luate de Consiliul pentru Protecția Datelor Personale.",
+        "dataController": {
+          "title": "Informații Despre Controlorul de Date",
+          "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., înregistrată la Direcția de Registru Comercial Istanbul, este Controlorul de Date conform Legii."
+        },
+        "processingPurposes": {
+          "title": "Scopurile Procesării Datelor Personale",
+          "content": "Datele tale personale sunt procesate de Companie în scopurile de a efectua activitățile necesare de către unitățile de afaceri ale Companiei și de a desfășura activități în această direcție pentru îndeplinirea activităților comerciale ale Companiei în conformitate cu legislația și politicile Companiei, determinarea, planificarea și implementarea politicilor comerciale pe termen scurt, mediu și lung ale Companiei, îndeplinirea obligațiilor Companiei care decurg din legislația relevantă, gestionarea relațiilor cu clienții și procesele de comunicare corporativă, gestionarea proceselor de vânzare a serviciilor, gestionarea proceselor call center și asigurarea securității comerciale și juridice a persoanelor fizice și juridice cu care Compania are relații de afaceri, în limitele specificate în Lege, în conformitate cu legea, regulile de onestitate și întotdeauna într-un mod conectat, limitat și proporțional cu aceste scopuri."
+        },
+        "dataTransfer": {
+          "title": "Transferul Datelor Personale",
+          "content": "Datele tale personale sunt transferate în cadrul scopurilor menționate mai sus, în conformitate cu condițiile specificate în Articolele 8 și 9 ale Legii, în principal către instituții publice autorizate legal, autorități judiciare și administrative, persoane juridice și fizice de drept privat permise de alte legislații, instituții și organizații autorizate să auditeze Compania, instituții de plată contractate pentru îndeplinirea plăților și obligațiilor financiare, parteneri de afaceri de la care se primesc servicii sau cu care se colaborează pentru îndeplinirea serviciilor furnizate prin call center și pentru desfășurarea și dezvoltarea activităților Companiei și, doar atunci când este necesar, către furnizorii Companiei, luând măsurile de securitate a datelor specificate în Lege."
+        },
+        "collectionMethod": {
+          "title": "Metoda și Baza Legală pentru Colectarea Datelor Personale",
+          "content": "Datele tale personale sunt colectate de unitățile și angajații autorizați ai Companiei prin metode automate și neautomate, verbal, în scris sau în mediul electronic. În acest context, datele personale din categoriile de identitate, comunicare, locație, tranzacție legală, tranzacție cu clienții, securitatea tranzacțiilor, gestionarea riscurilor, finanțe sunt procesate pe baza motivelor legale de procesare a datelor personale aparținând părților contractului fiind obligatorie datorită relației directe cu stabilirea sau executarea unui contract, așa cum se arată în al doilea paragraf al Articolului 5 al Legii, procesarea datelor fiind obligatorie pentru controlorul de date pentru a-și îndeplini obligația legală, fiind făcute publice de subiectul datelor însuși și procesarea datelor fiind obligatorie pentru interesele legitime ale Companiei, cu condiția să nu dăuneze drepturilor și libertăților fundamentale ale subiectului datelor."
+        },
+        "dataSubjectRights": {
+          "title": "Drepturile Subiecților Datelor Conform Legii",
+          "intro": "Poți solicita la ZovPersonal în orice moment să:",
+          "rights": [
+            "Afli dacă datele tale personale sunt procesate",
+            "Soliciti informații despre aceasta dacă datele tale personale au fost procesate",
+            "Afli scopul procesării datelor tale personale și dacă sunt utilizate în conformitate cu scopul lor",
+            "Cunoști terții cărora datele tale personale sunt transferate în țară sau în străinătate",
+            "Soliciti corectarea datelor personale incomplete sau procesate incorect",
+            "Soliciti ștergerea sau distrugerea datelor personale în cadrul condițiilor stipulate în Articolul 7 al Legii",
+            "Soliciti ca operațiunile efectuate în conformitate cu subparagrafele (d) și (e) ale Articolului 11 al Legii să fie notificate terților cărora datele tale personale au fost transferate",
+            "Obiectezi asupra apariției unui rezultat împotriva ta prin analiza datelor tale procesate exclusiv prin sisteme automate",
+            "Soliciti compensații pentru daune în cazul în care suferi daune din cauza procesării ilegale a datelor tale personale"
+          ],
+          "applicationProcess": "Poți solicita să îți exerciți drepturile. Poți trimite cererile tale referitoare la drepturile tale și aplicarea Legii prin completarea formularului de cerere pe care îl poți obține de la https://zovpersonal.com/ și trimițându-l la adresa companiei prin notar, poștă recomandată cu confirmare de primire sau cu cererea ta personală în format de semnătură umedă, sau prin semnarea formularului de cerere completat electronic cu semnătura ta mobilă sau semnătura electronică securizată și apoi trimițându-l la info@zovpersonal.com folosind adresa ta KEP sau adresa de e-mail deja înregistrată în sistemul de înregistrare a datelor al Companiei.",
+          "fees": "ZovPersonal va răspunde gratuit la cererile în acest domeniu până la zece pagini dacă este necesar un răspuns scris; va răspunde percepând o taxă pentru fiecare pagină peste zece pagini pe tranzacție. Dacă răspunsul la cerere este dat pe un mediu de înregistrare, cum ar fi CD sau memorie flash, taxa care poate fi cerută de Companie nu poate depăși costul mediului de înregistrare."
+        }
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "De Ce Să Ne Alegi?",
+    "subtitle": "Caracteristicile noastre distinctive în consultanța internațională pentru vize",
+    "category": "Consultanță pentru Vize",
+    "description": "Cu peste 15 ani de infrastructură, suntem partenerul tău de încredere în atingerea obiectivelor de carieră internaționale. Facem diferența cu abordarea noastră personalizată și rata mare de succes.",
+    "feature1": {
+      "title": "Echipă de Experți",
+      "description": "Suntem alături de tine cu specialiștii noștri în vize și consilierii juridici cu peste 15 ani de infrastructură."
+    },
+    "feature2": {
+      "title": "Rată Mare de Succes",
+      "description": "Am realizat visele a mii de clienți cu rata noastră de succes de 95%."
+    },
+    "feature3": {
+      "title": "Serviciu Personalizat",
+      "description": "Dezvoltăm soluții personalizate pentru situația unică a fiecărui client."
+    },
+    "feature4": {
+      "title": "Suport 24/7",
+      "description": "Oferim suport neîntrerupt și informații actualizate pe tot parcursul procesului."
+    },
+    "slides": {
+      "personalizedCare": {
+        "title": "Îngrijire Personalizată",
+        "description": "Dezvoltăm soluții personalizate înțelegând nevoile unice ale fiecărui client."
+      },
+      "experiencedProfessionals": {
+        "title": "Profesioniști Experimentați",
+        "description": "Oferim servicii de consultanță de încredere cu echipa noastră de experți în domeniul lor."
+      },
+      "holisticApproach": {
+        "title": "Abordare Holistică",
+        "description": "Abordăm în mod cuprinzător toate etapele procesului tău de viză."
+      },
+      "supportiveEnvironment": {
+        "title": "Mediu de Sprijin",
+        "description": "Poți primi servicii de consultanță într-un mediu sigur și confortabil."
+      },
+      "healthcareRecruitment": {
+        "title": "Recrutare în Sectorul Sănătății",
+        "description": "Recrutarea specialiștilor internaționali oferă oportunități uriașe pentru a aborda deficitul de competențe din Germania. Cu abordarea noastră țintită și structurată, structurăm eficient procesul tău de recrutare pentru a atrage cu succes profesioniști calificați în domeniul sănătății din străinătate. Creăm anunțuri de angajare atractive care apelează la profesioniști internaționali cu descrieri clare ale posturilor, transparență în salariu și servicii de suport cuprinzătoare."
+      },
+      "livingInGermany": {
+        "title": "Viața în Germania",
+        "description": "Germania este cunoscută pentru economia sa puternică, cultura sa și calitatea ridicată a vieții. Oferim un ghid cuprinzător pentru viața în Germania, de la primii pași în viața de zi cu zi până la integrarea cu succes în societate. Oferim informații detaliate despre găsirea unei locuințe, cultura și tradițiile germane, învățarea limbii, sistemul de sănătate și viața de zi cu zi. Vă ghidăm în toate aspectele, de la valori importante precum punctualitatea și ordinea până la sărbători tradiționale precum Crăciunul și Oktoberfest."
+      },
+      "experiencedProfessionalsVisa": {
+        "title": "Viza pentru Profesioniști Experimentați",
+        "description": "Viza pentru profesioniști experimentați este destinată lucrătorilor calificați cu cel puțin doi ani de experiență profesională calificată în domeniul lor. Cu această viză, poți lucra în profesii foarte solicitate în Germania. Poți aplica dacă îndeplinești cerințe precum experiență profesională calificată, condiții de salariu minim, ofertă de muncă și competențe lingvistice. Susținem procesul tău de cerere cu un salariu anual minim de 40.770 € și competență lingvistică germană de nivel B1."
+      },
+      "vocationalTrainingVisa": {
+        "title": "Viza pentru Formare Profesională",
+        "description": "Viza pentru finalizarea formării profesionale este destinată persoanelor care doresc să finalizeze un program de formare profesională duală într-o profesie de formare recunoscută în Germania. Acest program combină cunoștințele teoretice predate în școala profesională cu formarea practică într-o companie, oferind tinerilor oportunitatea de a finaliza o formare calificată în ucenicii germane și de a obține perspective pe termen lung pe piața muncii din Germania."
+      },
+      "qualificationRecognitionVisa": {
+        "title": "Viza pentru Recunoașterea Calificărilor",
+        "description": "Viza pentru recunoașterea calificărilor profesionale străine este destinată lucrătorilor calificați care doresc ca calificările lor profesionale obținute în străinătate să fie recunoscute în Germania. Oferim oportunități de angajare pe termen lung în Germania prin alinierea calificărilor tale la standardele germane. Cu această viză care îți permite să locuiești în Germania în timpul procesului de recunoaștere și să iei măsuri de adaptare profesională, te susținem în îndeplinirea cerințelor de nivel B1 germană și securitate financiară lunară minimă de 947 €."
+      }
+    }
+  },
+  "approach": {
+    "title": "Filosofia Noastră de Servicii",
+    "subtitle": "Cum gestionăm procesul tău de cerere de viză",
+    "holisticApproach": "Cu o abordare holistică, suntem alături de tine în fiecare etapă a procesului tău de viză.",
+    "personalizedCare": "Cu abordarea noastră de îngrijire personalizată, răspundem nevoilor speciale ale fiecărui client.",
+    "compassionateProfessionals": "Specialiștii noștri empatici te susțin pe tot parcursul procesului.",
+    "flexibleScheduling": "Te servim în momente convenabile cu sistemul nostru flexibil de programare.",
+    "confidentialSpace": "Poți împărtăși informațiile tale personale într-un mediu privat și securizat.",
+    "imageAlt": "Abordarea noastră de consultanță pentru vize",
+    "step1": {
+      "title": "Analiză și Planificare",
+      "description": "Analizăm în detaliu situația ta personală și determinăm strategia de viză cea mai potrivită."
+    },
+    "step2": {
+      "title": "Pregătirea Documentelor",
+      "description": "Pregătim și revizuim toate documentele tale conform standardelor internaționale."
+    },
+    "step3": {
+      "title": "Depunerea Cererii și Urmărirea",
+      "description": "Depunem cererea ta și o urmărim continuu până la finalizare."
+    },
+    "step4": {
+      "title": "Succes și Suport",
+      "description": "Continuăm să te ghidăm prin procesul de stabilire chiar și după obținerea vizei."
+    }
+  },
+  "reviews": {
+    "title": "Recenzii Clienți",
+    "subtitle": {
+      "line1": "Experiențele și opiniile",
+      "line2": "clienților noștri de succes"
+    },
+    "review1": {
+      "title": "Serviciu Excelent",
+      "content": "Datorită ZovPersonal, visul meu de a lucra ca asistent medical în Germania s-a împlinit. Au fost cu mine la fiecare pas pe parcursul procesului și m-au ținut constant informat.",
+      "name": "Dr. Mehmet Kaya",
+      "role": "Asistent Medical - Germania",
+      "text": "Datorită ZovPersonal, visul meu de a lucra ca asistent medical în Germania s-a împlinit. Au fost cu mine la fiecare pas pe parcursul procesului.",
+      "rating": 5
+    },
+    "review2": {
+      "title": "Abordare Profesională",
+      "content": "Datorită abordării lor profesionale și ghidării detaliate, am obținut viza de muncă pentru Germania fără probleme. Echipa este cu adevărat informată și experimentată.",
+      "name": "Inginer Busra Oz",
+      "role": "Dezvoltator Software - Olanda",
+      "text": "Datorită abordării lor profesionale și ghidării detaliate, am obținut viza de muncă pentru Germania fără probleme. Mulțumesc ZovPersonal!",
+      "rating": 5
+    },
+    "review3": {
+      "title": "Proces Simplificat",
+      "content": "Când am aplicat pentru viza de educație în Canada, părea foarte complex. ZovPersonal a simplificat totul și a oferit ghidare pas cu pas.",
+      "name": "Profesor Nicolaus Voss",
+      "role": "Profesor - Canada",
+      "text": "Când am aplicat pentru viza de educație în Canada, părea foarte complex. ZovPersonal a simplificat totul.",
+      "rating": 5
+    },
+    "review4": {
+      "title": "Partener de Încredere",
+      "content": "Am ales ZovPersonal pentru a obține permisul de muncă ca medic în Germania. Am luat decizia corectă, procesul a decurs foarte rapid.",
+      "name": "Dr. Georgi Vasilev",
+      "role": "Medic - Bulgaria",
+      "rating": 5
+    },
+    "review5": {
+      "title": "Rezultat Excelent",
+      "content": "Eram foarte îngrijorat când am aplicat pentru viza de muncă în Australia. Echipa ZovPersonal m-a liniștit și a avut un rol major în obținerea rezultatelor de succes.",
+      "name": "Arhitect Marko Balković",
+      "role": "Arhitect - Australia",
+      "rating": 5
+    },
+    "review6": {
+      "title": "Rapid și Eficient",
+      "content": "Când am găsit o oportunitate de muncă în Germania, nu aveam idee despre procesul de viză. Datorită ZovPersonal, totul s-a rezolvat foarte rapid.",
+      "name": "Inginer Andrei Popescu",
+      "role": "Inginer Electric - România",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Întrebări Frecvente",
+    "subtitle": "Răspundem la tot ce te interesează despre procesele de viză și imigrare. Găsește-ți drumul către țara visurilor tale cu echipa noastră de experți.",
+    "question1": "Pentru ce țări oferiți consultanță pentru vize?",
+    "answer1": "Oferim servicii complete de consultanță pentru vize pentru Germania, Australia, Canada, SUA, Marea Britanie, Olanda și multe țări din UE. Creăm soluții personalizate pentru cerințele unice ale fiecărei țări.",
+    "question2": "Cât durează procesul de cerere de viză?",
+    "answer2": "Durata variază în funcție de țară și tipul de viză, de obicei între 2-6 luni. Pregătirea completă a documentelor și urmarea procedurilor corecte accelerează procesul.",
+    "question3": "Ce faceți dacă cererea este respinsă?",
+    "answer3": "În caz de respingere, analizăm motivele și dezvoltăm o nouă strategie. Dacă este necesar, gestionăm procesele de apel și pregătim noi cereri după ce abordăm deficiențele. Continuăm să susținem clienții noștri pe tot parcursul procesului.",
+    "question4": "Care sunt taxele pentru serviciile voastre?",
+    "answer4": "Taxele noastre variază în funcție de tipul de serviciu și complexitate. Consultația inițială este gratuită. Contactați-ne pentru prețuri detaliate și oferte personalizate bazate pe nevoile tale specifice.",
+    "question5": "În ce limbi trebuie pregătite documentele mele?",
+    "answer5": "Documentele trebuie traduse în limba oficială a țării țintă. Oferim, de asemenea, servicii de traducere certificată pentru germană, engleză și alte limbi necesare."
+  },
+  "internationalRecruitment": {
+    "hero": {
+      "title": "Recrutare Internațională Orientată spre Viitor",
+      "description": "În lumea modernă, talentele nu cunosc granițe. Descoperiți forța de muncă de mâine astăzi și întăriți-vă compania cu talente internaționale."
+    },
+    "vision": {
+      "title": "Modelarea Viitorului Afacerilor",
+      "subtitle": "Resurse Umane în Era Digitală",
+      "description": "În timp ce tehnologia evoluează rapid, cea mai importantă resursă rămâne omul.",
+      "features": [
+        {"title": "Potrivire Alimentată de AI", "description": "Potrivim candidații și pozițiile folosind algoritmi de inteligență artificială."},
+        {"title": "Bazin Global de Talente", "description": "Cu rețeaua noastră din 50+ țări găsim talentele de care aveți nevoie."},
+        {"title": "Proces Rapid de Recrutare", "description": "Finalizăm recrutarea în 2-4 săptămâni."},
+        {"title": "Integrare Culturală", "description": "Oferim programe de integrare pentru angajații internaționali."}
+      ]
+    },
+    "trends": {
+      "title": "Tendințe 2025 ale Forței de Muncă",
+      "subtitle": "Strategii de Predicție a Viitorului",
+      "items": [
+        {"trend": "Model de Lucru Hibrid", "impact": "Talentele depășesc granițele geografice", "percentage": "89%", "description": "Companiile adoptă modele de lucru hibride"},
+        {"trend": "Competențe Digitale", "impact": "Folosirea tehnologiei în fiecare poziție", "percentage": "95%", "description": "Rolurile de muncă necesită competențe digitale"},
+        {"trend": "Diversitate și Incluziune", "impact": "Creșterea performanței și inovației", "percentage": "76%", "description": "Obținerea unor rezultate financiare mai bune"},
+        {"trend": "Focus pe Sustenabilitate", "impact": "Preferințe ecologice ale angajaților", "percentage": "73%", "description": "Talentele preferă companiile sustenabile"}
+      ]
+    },
+    "methodology": {
+      "title": "Metodologia Noastră Inovatoare de Recrutare",
+      "subtitle": "Abordare Bazată pe Date",
+      "steps": [
+        {"phase": "1", "title": "Analiza Nevoilor", "description": "Analizăm nevoile actuale și viitoare ale companiei dumneavoastră.", "duration": "1-2 zile", "tools": ["AI Analytics", "Cercetare de piață", "Maparea competențelor"]},
+        {"phase": "2", "title": "Descoperirea Talentelor", "description": "Identificăm candidații cei mai potriviți.", "duration": "3-5 zile", "tools": ["Sourcing global", "Recrutare socială", "Analiza rețelei"]},
+        {"phase": "3", "title": "Evaluare și Filtrare", "description": "Selectăm cei mai buni candidați.", "duration": "1-2 săptămâni", "tools": ["Evaluare tehnică", "Analiza potrivirii culturale", "Verificarea referințelor"]},
+        {"phase": "4", "title": "Prezentare și Integrare", "description": "Prezentăm candidații și gestionăm procesul de integrare.", "duration": "1-3 săptămâni", "tools": ["Coordonarea interviului", "Gestionarea ofertelor", "Suport pentru onboarding"]}
+      ]
+    },
+    "success": {
+      "title": "Povești de Succes",
+      "subtitle": "Succesul Nostru în Cifre",
+      "stats": [
+        {"number": "500+", "label": "Recrutări de Succes", "period": "Ultimele 12 luni"},
+        {"number": "95%", "label": "Satisfacția Clienților", "period": "Continuu"},
+        {"number": "2.5x", "label": "Creșterea Vitezei", "period": "Comparativ cu metodele tradiționale"},
+        {"number": "35+", "label": "Acoperirea Țărilor", "period": "Rețea globală"}
+      ]
+    },
+    "callToAction": {
+      "title": "Descoperiți Forța de Muncă a Viitorului Astăzi",
+      "description": "Începeți acum să vă întăriți compania cu talente internaționale.",
+      "primaryButton": "Consultație Gratuită",
+      "secondaryButton": "Explorați Povești de Succes"
+    }
+  },
+  "professionProcess": {
+    "hero": {
+      "title": "Viza Națională Germană - Profesii și Proces",
+      "subtitle": "Procesul tău de cerere de viză națională pentru a lucra în sectorul sănătății din Germania"
+    },
+    "navigation": {
+      "previousSlide": "Slide Anterior",
+      "nextSlide": "Slide Următor"
+    },
+    "carousel": {
+      "doctor": {
+        "status": "Viza pentru Medici",
+        "title": "Viza Națională Germană pentru Medici",
+        "description": "Oferim ghidare completă pentru vize și gestionarea proceselor pentru absolvenții de medicină care doresc să lucreze ca medici în Germania. Suport profesional în procesele de recunoaștere a diplomei și examenele de limbă.",
+        "button": "Află mai multe"
+      },
+      "nurse": {
+        "status": "Viza pentru Asistenți Medicali",
+        "title": "Suport Profesional pentru Asistenți Medicali",
+        "description": "Ghidare expertă pentru absolvenții de asistență medicală în procesele de permis de muncă și viza națională în Germania. Suport complet în recunoașterea competențelor profesionale și procesele de competență lingvistică.",
+        "button": "Află mai multe"
+      },
+      "caregiver": {
+        "status": "Îngrijire Vârstnici",
+        "title": "Îngrijitori și Specialiști în Îngrijirea Vârstnicilor",
+        "description": "Consultanță completă pentru vize pentru profesioniștii care doresc să lucreze în sectorul îngrijirii vârstnicilor. Conexiune cu centre de îngrijire din Germania și suport pentru plasarea locurilor de muncă.",
+        "button": "Află mai multe"
+      },
+      "healthTechnician": {
+        "status": "Plasare în Spitale",
+        "title": "Tehnicieni de Sănătate și Personal de Suport",
+        "description": "Procese de vize germane pentru tehnicieni medicali, specialiști de laborator și alt personal de suport în domeniul sănătății. Serviciu complet cu certificare profesională și suport pentru găsirea unui loc de muncă.",
+        "button": "Află mai multe"
+      },
+      "healthExpert": {
+        "status": "Program de Specializare",
+        "title": "Specialiști în Sănătate și Terapeuți",
+        "description": "Oportunități de muncă în Germania pentru fizioterapeuți, psihologi, dieteticieni și alți specialiști în sănătate. Consultanță specializată pentru vize și procese de recunoaștere profesională pentru domeniul tău de expertiză.",
+        "button": "Află mai multe"
+      }
+    },
+    "otherProfessions": {
+      "title": "Servicii de Vize Naționale pentru Alte Grupuri Profesionale",
+      "construction": {
+        "title": "Sectorul Construcțiilor",
+        "description": "Consultanță specială pentru vize pentru cei care doresc să lucreze în sectorul construcțiilor și al clădirilor. Instalator, electrician, tâmplar și alte poziții de personal tehnic."
+      },
+      "hospitality": {
+        "title": "Hotel și Restaurant",
+        "description": "Oportunități de carieră în sectorul turismului și gastronomiei. Procese de vize pentru ospătar, bucătar, personal hotelier și alte poziții din sectorul serviciilor."
+      },
+      "logistics": {
+        "title": "Logistică și Transport",
+        "description": "Oportunități de muncă în sectorul transporturilor și logisticii. Șofer de camion, operator de stivuitor și personal de depozit."
+      },
+      "cleaning": {
+        "title": "Curățenie și Igienă",
+        "description": "Oportunități de angajare în sectorul serviciilor de curățenie. Curățenie industrială, curățenie în spitale și personal de curățenie pentru birouri."
+      },
+      "office": {
+        "title": "Birou și Management",
+        "description": "Lucrători de birou și poziții de management. Contabilitate, resurse umane, secretariat și alte poziții de lucru în birou."
+      },
+      "others": {
+        "title": "Alte Profesii",
+        "description": "Servicii de consultanță speciale pentru agricultură, producție, vânzări și alte grupuri profesionale. Procese de vize adecvate pentru fiecare profesie."
+      },
+      "learnMore": "Află mai multe"
+    },
+    "process": {
+      "tabs": {
+        "jobSearch": "Procesul de Căutare a unui Loc de Muncă",
+        "visaApplication": "Cererea de Viză",
+        "companyAgreements": "Acorduri cu Companiile"
+      },
+      "content": {
+        "jobSearch": {
+          "title": "Găsirea unui Loc de Muncă în Germania",
+          "subtitle": "Concentrat pe Sectorul Sănătății",
+          "description": "Oferim ghidare profesională în procesul de căutare a unui loc de muncă în sectorul sănătății. Datorită rețelei noastre puternice cu spitalele și instituțiile de sănătate din Germania, te ajutăm să găsești poziții potrivite pentru tine.",
+          "detail": "Suntem cu tine pe tot parcursul procesului, de la pregătirea CV-ului până la interviu.",
+          "footer": "Avem servicii de consiliere în carieră specifice profesiei tale și oportunităților de muncă."
+        },
+        "visaApplication": {
+          "title": "Viza Națională de Muncă",
+          "subtitle": "Procesul de Cerere",
+          "description": "Gestionăm toate etapele pentru tine în procesul de cerere pentru viza națională de muncă în Germania. Suport profesional de la pregătirea documentelor până la programarea întâlnirilor.",
+          "detail": "Pregătim toate documentele necesare corect pentru a accelera procesul de aprobare a vizei.",
+          "footer": "Poți aplica pentru viza ta cu încredere datorită ratei noastre mari de succes."
+        },
+        "companyAgreements": {
+          "title": "Companii Partenere",
+          "subtitle": "Garanție de Loc de Muncă",
+          "description": "Datorită acordurilor noastre speciale cu peste 150 de spitale și instituții de sănătate partenere din Germania, îți oferim oportunități directe de muncă.",
+          "detail": "După ce primești o ofertă de muncă, procesul tău de viză decurge mult mai rapid și mai sigur.",
+          "footer": "Poți face planificarea carierei pe termen lung cu companiile noastre partenere."
+        }
+      }
+    },
+    "about": {
+      "title": "Un alt fel de consultanță.",
+      "description": "Oferim servicii complete pentru a-ți atinge obiectivele de carieră internaționale în sectorul sănătății.",
+      "statsTitle": "În Cifre",
+      "stats": {
+        "experience": "Ani de Experiență",
+        "healthPersonnel": "Personal Medical",
+        "successRate": "Rată de Succes",
+        "partners": "Organizații Partenere"
+      },
+      "content": {
+        "paragraph1": "Sectorul sănătății se schimbă și se dezvoltă constant. Nevoia de personal medical în Germania crește în fiecare zi. Acum este momentul potrivit pentru a profita de această oportunitate.",
+        "highlight": "Lucrul în Germania nu este doar un vis. Noi îl transformăm în realitate pentru tine.",
+        "paragraph2": "Echipa noastră, care a lucrat în acest sector ani de zile, s-a confruntat cu toate provocările din procesele de stabilire a personalului medical în Germania. Metodele tradiționale nu sunt suficiente. Oferim un serviciu de consultanță cuprinzător special conceput pentru personalul medical."
+      }
+    },
+    "architectureSection": {
+      "subtitle": "Tot ce trebuie să știi",
+      "title": "Procesul de Lucru în Germania",
+      "description": "Germania este cunoscută pentru economia sa puternică, cultura sa și calitatea ridicată a vieții. Cu toate acestea, pentru imigranți, mutarea în Germania înseamnă mai mult decât o nouă carieră; este începutul unei noi vieți într-un mediu nou.",
+      "cards": {
+        "integration": {
+          "title": "Integrarea Angajaților",
+          "description": "După ce angajații internaționali ajung cu succes în Germania, începe procesul critic de integrare. O integrare bună este importantă nu doar pentru a asigura confortul noilor angajați în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie."
+        },
+        "experiencedVisa": {
+          "title": "Viza pentru Profesioniști Experimentați",
+          "description": "Ce este viza pentru profesioniști experimentați? Viza pentru profesioniști experimentați (Secțiunea 19c din Legea Rezidenței, Paragraful 2) este destinată lucrătorilor calificați care au cel puțin doi ani de experiență profesională calificată în domeniul lor, dar nu au o diplomă universitară formală."
+        },
+        "acceleratedProcedures": {
+          "title": "Proceduri Accelerate",
+          "description": "Ce este procedura accelerată pentru lucrătorii calificați? Procedura Accelerată pentru Lucrători Calificați este un proces special dezvoltat pentru a accelera procesul de imigrare și recunoaștere pentru lucrătorii calificați din străinătate."
+        },
+        "recruitment": {
+          "title": "Recrutare",
+          "description": "Pas cu pas. Recrutarea specialiștilor internaționali oferă o oportunitate uriașă pentru a aborda deficitul de competențe din Germania. Cu toate acestea, pentru ca acest proces să fie de succes, companiile trebuie să adopte o abordare țintită și structurată."
+        }
+      },
+      "learnMore": "Află Mai Multe"
+    }
+  },
+  "businessProcess": {
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Procese de Integrare a Angajaților",
+        "subtitle": "Suport cuprinzător pentru integrarea cu succes în Germania",
+        "description": "Oferim programe de integrare special concepute pentru angajații internaționali pentru a se integra cu succes în Germania.",
+        "section1": {
+          "title": "Integrarea Angajaților",
+          "content": "După ce angajații internaționali sosesc cu succes în Germania, începe procesul critic al integrării. Integrarea bună este importantă nu doar pentru a se asigura că noii angajați se simt confortabil în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie. Companiile pot aduce o contribuție semnificativă prin măsuri țintite menite să ofere un start lin pentru noii profesioniști."
+        },
+        "section2": {
+          "title": "Servicii de Suport",
+          "content": "Oferim servicii cuprinzătoare inclusiv formare lingvistică, orientare culturală, consultanță juridică și suport pentru integrarea socială."
+        },
+        "benefits": "Adaptare rapidă, satisfacție ridicată la locul de muncă și succes pe termen lung"
+      },
+      "experiencedVisa": {
+        "title": "Viza pentru Profesioniști Experimentați",
+        "subtitle": "Program special de vize pentru specialiști experimentați calificați",
+        "description": "Oferim procese accelerate de vize și oportunități speciale pentru profesioniștii cu cel puțin 2 ani de experiență profesională.",
+        "section1": {
+          "title": "Condițiile Vizei",
+          "content": "Sub Secțiunea 19c din Legea Rezidenței, categorie specială de vize pentru profesioniștii cu cel puțin doi ani de experiență în domeniul lor. Poți aplica fără cerința unei diplome universitare."
+        },
+        "section2": {
+          "title": "Procesul de Cerere",
+          "content": "Oferim ghidare profesională pentru evaluarea certificatelor tale de experiență, recunoașterea calificărilor profesionale și procesele accelerate de cerere."
+        },
+        "benefits": "Proces rapid, condiții flexibile și evaluare orientată pe experiență"
+      },
+      "acceleratedProcedure": {
+        "title": "Procedura Accelerată pentru Lucrători Calificați",
+        "subtitle": "Proces rapid și eficient de cerere de viză",
+        "description": "Reducem procesul tău de viză cu procedura accelerată special concepută pentru lucrătorii calificați.",
+        "section1": {
+          "title": "Proces Accelerat",
+          "content": "Procedură specială care înjumătățește timpul standard de cerere de viză. Evaluare prioritară și rezultate rapide."
+        },
+        "section2": {
+          "title": "Avantaje",
+          "content": "Optimizăm procesul tău cu timpi scurți de așteptare, procesare prioritară și atribuirea unui consultant dedicat."
+        },
+        "benefits": "Proces de 2-3 săptămâni, procesare prioritară și rezultate garantate"
+      },
+      "recruitment": {
+        "title": "Servicii Internaționale de Recrutare",
+        "subtitle": "Conectând profesioniștii calificați cu Germania",
+        "description": "Serviciile noastre experte în recrutarea talentelor internaționale pentru a răspunde nevoilor de forță de muncă ale Germaniei.",
+        "section1": {
+          "title": "Strategia de Recrutare",
+          "content": "Potrivim candidații potriviți cu pozițiile potrivite prin campanii de recrutare țintite. Dezvoltăm abordări specifice sectorului."
+        },
+        "section2": {
+          "title": "Managementul Procesului",
+          "content": "Gestionăm întregul proces de recrutare inclusiv sourcing-ul candidaților, evaluarea, procesele de vize și plasarea locurilor de muncă."
+        },
+        "benefits": "Pool mare de candidați, potrivire de calitate și garanție de proces"
+      }
+    },
+    "common": {
+      "advantagesTitle": "Avantaje",
+      "processTitle": "Proces",
+      "processDescription": "Rezultate sigure cu ghidare pas cu pas",
+      "step1Title": "1. Evaluarea Inițială",
+      "step1Description": "Realizăm analiza situației și evaluarea eligibilității.",
+      "step2Title": "2. Pregătirea Documentelor",
+      "step2Description": "Pregătim profesional toate documentele necesare.",
+      "step3Title": "3. Procesul de Cerere",
+      "step3Description": "Urmărim și gestionăm cererea ta.",
+      "step4Title": "4. Rezultat și Urmărire",
+      "step4Description": "Finalizarea procesului și serviciile de urmărire.",
+      "ctaTitle": "Să începem imediat",
+      "ctaDescription": "Contactează echipa noastră de experți pentru a-ți începe procesul.",
+      "contactButton": "Intră în contact",
+      "backButton": "Înapoi"
+    }
+  },
+  "nationalVisaProcess": {
+    "hero": {
+      "title": "Procesul de Cerere pentru Viza Națională de Muncă",
+      "description": "Viza națională de muncă acordă dreptul de a intra în Germania pentru șederi pe termen lung în scopuri de muncă. În funcție de tipul de muncă, viza este emisă cu o perioadă de valabilitate de până la un an. După intrarea în țară, de obicei trebuie să soliciți un permis de rezidență intern. Acest tip de viză este valabil doar pentru poziții de muncă specifice și nu acordă libertate de mișcare în zona Schengen."
+    },
+    "appointmentSystem": {
+      "title": "Sistem de Programare",
+      "description": "Programările sunt oferite prin sistemul național de programare",
+      "ourService": "Serviciul Nostru:",
+      "serviceDescription": "Ne ocupăm de procedurile de programare pentru tine. Facem programările necesare și realizăm procedurile. Documentele necesare vor fi solicitate de la tine și organizate, apoi urmărim procesul."
+    },
+    "preparation": {
+      "title": "Pregătire",
+      "description": "Utilizează sistemul de programare online pentru vize naționale pentru a afla despre scopul șederii tale și documentele pe care trebuie să le depui. Înregistrează-te pe lista de așteptare pentru programări pentru scopul tău de ședere prin sistemul de programare online contra unei taxe."
+    },
+    "application": {
+      "title": "Cerere",
+      "description1": "Datorită implicării autorităților interne germane în proces, procesarea documentelor va dura de obicei până la trei luni (sau mai mult în unele cazuri). Dacă ai nevoie de pașaport în timpul procesului de evaluare a cererii tale, poți contacta departamentul de vize relevant, menționând numărul cererii tale într-o petiție scrisă semnată.",
+      "description2": "Taxa de serviciu trebuie plătită. După ce amprentele tale sunt luate, pașaportul tău și documentele necesare sunt primite de departamentul de vize pentru procesul de evaluare."
+    },
+    "afterEvaluation": {
+      "title": "După Evaluare",
+      "description": "Imediat după finalizarea procesului de evaluare a cererilor, pașaportul tău este returnat ție într-un plic împreună cu unele documente originale pe care le-ai depus, fie la birourile lor, fie direct prin poștă."
+    },
+    "note": {
+      "label": "Notă:",
+      "text": "Prețul este pe persoană, iar procesul variază în funcție de varietatea dosarului și documentelor și tipul de viză."
+    },
+    "processingTimes": {
+      "title": "Timpii de Procesare",
+      "importantInfo": {
+        "title": "Informații Importante",
+        "description": "Înainte de a aplica, planifică timpul de așteptare pentru programări și timpul necesar pentru returnarea pașaportului tău."
+      },
+      "decisionAuthority": {
+        "title": "Autoritatea de Decizie",
+        "description": "Decizia de a aproba sau respinge cererea este luată doar de Reprezentanțele Externe."
+      },
+      "holidayEffect": {
+        "title": "Efectul Sărbătorilor",
+        "description": "Timpii de procesare pot varia din cauza sărbătorilor oficiale turcești și germane. Prin urmare, recomandăm aplicarea pentru o viză la o dată timpurie."
+      },
+      "applicationTracking": {
+        "title": "Urmărirea Cererii",
+        "description": "Poți urmări în ce etapă se află cererea ta contactându-ne."
+      }
+    }
+  },
+  "navigation": {
+    "previousSlide": "Slide Anterior",
+    "nextSlide": "Slide Următor"
+  },
+  "stats": {
+    "byNumbers": "În cifre"
+  },
+  "employer": {
+    "hero": {
+      "tag1": "Angajator",
+      "tag2": "Recrutare internațională",
+      "title": "Angajează talente internaționale de top orientate spre viitor",
+      "description": "Conectează-te cu profesioniști calificați din întreaga lume. Noi gestionăm recrutarea internațională orientată spre viitor, conformitatea și integrarea pentru a aduce talente globale în compania ta.",
+      "startHiring": "Începe angajarea",
+      "learnMore": "Află mai multe"
+    },
+    "benefits": {
+      "badge": "Pentru angajatori",
+      "title": "De ce să angajezi talente",
+      "subtitle": "internaționale orientate spre viitor?",
+      "description": "Extinde-ți forța de muncă cu profesioniști calificați din întreaga lume și deblochează oportunități de creștere fără precedent cu soluțiile noastre dovedite de recrutare.",
+      "stats": {
+        "countries": "25+ țări",
+        "hires": "5K+ angajări de succes",
+        "successRate": "98% rată de succes"
+      },
+      "services": [
+        "Căutarea talentelor",
+        "Suport pentru vize",
+        "Conformitate",
+        "Selecția candidaților",
+        "Suport pentru integrare",
+        "Expertiză multi-industrială",
+        "Suport 24/7 disponibil"
+      ]
+    },
+    "services": {
+      "badge": "Servicii pentru angajatori",
+      "title": "Soluții complete de angajare internațională",
+      "items": [
+        {
+          "title": "Căutarea globală de talente",
+          "description": "Acces la profesioniști calificați din 25+ țări cu rețeaua noastră internațională extinsă și baza de date verificată de candidați."
+        },
+        {
+          "title": "Suport complet pentru vize",
+          "description": "Asistență end-to-end pentru vize incluzând pregătirea documentelor, ghidarea aplicației și managementul conformității pentru angajare fără probleme."
+        },
+        {
+          "title": "Procesare accelerată",
+          "description": "Proces accelerat de angajare cu 98% rată de succes, reducând timpul de angajare și asigurând plasarea rapidă a candidaților calificați."
+        }
+      ]
+    },
+    "process": {
+      "title": "Procesul nostru de angajare",
+      "description": "Proces simplificat pentru găsirea și angajarea celor mai buni talenți internaționale",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Definirea cerințelor",
+          "description": "Discută nevoile tale specifice de angajare și cerințele postului"
+        },
+        {
+          "step": "02",
+          "title": "Potrivirea candidaților",
+          "description": "Găsește și verifică candidați internaționale calificați"
+        },
+        {
+          "step": "03",
+          "title": "Procesul de interviu",
+          "description": "Facilitează interviurile și evaluările competențelor"
+        },
+        {
+          "step": "04",
+          "title": "Viza și integrarea",
+          "description": "Gestionează procesele de viză și integrarea netedă"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Încrederea companiilor de top",
+      "description": "Antecedentele noastre dovedite vorbesc de la sine",
+      "items": [
+        {
+          "number": "500+",
+          "label": "Companii deservite"
+        },
+        {
+          "number": "5K+",
+          "label": "Angajări de succes"
+        },
+        {
+          "number": "25+",
+          "label": "Țări"
+        },
+        {
+          "number": "98%",
+          "label": "Satisfacția clienților"
+        }
+      ]
+    }
+  },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "Căutător de locuri de muncă", 
+      "tag2": "Carieră internațională",
+      "title": "Găsește jobul visurilor tale în străinătate cu noi",
+      "description": "soluții internaționale de recrutare orientate spre viitor",
+      "startJourney": "Începe călătoria ta",
+      "viewServices": "Vezi serviciile"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "Căutători de locuri de muncă",
+        "opportunities": {
+          "label": "Oportunități",
+          "title": "Loc de Muncă Premium",
+          "subtitle": "Oportunități Mondiale",
+          "description": "Acces la poziții internaționale exclusive cu salarii mari la companii de top din 25+ țări.",
+          "stats": ["25+ Țări", "5K+ Locuri Plasate", "95% Rata de Succes"],
+          "benefits": [
+            "Acces la Locuri Premium",
+            "Angajatori Verificați",
+            "Rețea Globală",
+            "Pachete Salariale Mari"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5K+", "label": "Locuri Plasate" },
+            "stat2": { "value": "25+", "label": "Țări" }
+          }
+        },
+        "support": {
+          "label": "Suport",
+          "title": "Complet",
+          "subtitle": "Suport de Carieră",
+          "description": "De la aplicare la relocare, oferim suport complet la fiecare pas.",
+          "stats": ["24/7 Suport", "Ghidare Expert", "98% Satisfacție"],
+          "benefits": [
+            "Optimizare CV",
+            "Coaching Interviu",
+            "Asistență Viză",
+            "Suport Relocare"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Suport" },
+            "stat2": { "value": "98%", "label": "Satisfacție" }
+          }
+        },
+        "process": {
+          "label": "Proces",
+          "title": "Simplificat",
+          "subtitle": "Proces de Aplicare",
+          "description": "Procesul nostru eficient vă aduce mai repede la muncă în străinătate cu rezultate dovedite.",
+          "stats": ["30 Zile Medie", "95% Succes", "Procesare Rapidă"],
+          "benefits": [
+            "Procesare Rapidă",
+            "Ghidare Pas cu Pas",
+            "Pregătire Documente",
+            "Rezultate Rapide"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Zile Medie" },
+            "stat2": { "value": "95%", "label": "Rata de Succes" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "Servicii pentru căutătorii de locuri de muncă",
+      "title": "Serviciile noastre pentru căutătorii de locuri de muncă",
+      "items": [
+        {
+          "title": "Optimizarea CV-ului și a resumului",
+          "description": "Scrierea profesională de CV și optimizarea pentru piețele internaționale de muncă"
+        },
+        {
+          "title": "Potrivirea joburilor",
+          "description": "Conectarea cu angajatori verificați care caută abilitățile tale specifice"
+        },
+        {
+          "title": "Pregătirea pentru interviu", 
+          "description": "Coaching cuprinzător pentru interviu pentru poziții internaționale"
+        },
+        {
+          "title": "Asistență pentru viză",
+          "description": "Suport complet pentru cererea de viză de muncă și documentație"
+        }
+      ]
+    },
+    "process": {
+      "title": "Cum funcționează",
+      "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să te ajute să găsești jobul visurilor tale în străinătate. Îți oferim instrumentele și resursele de care ai nevoie pentru a reuși.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Evaluarea profilului",
+          "description": "Evaluarea cuprinzătoare a abilităților și analiza obiectivelor de carieră"
+        },
+        {
+          "step": "02",
+          "title": "Potrivirea joburilor",
+          "description": "Potrivirea cu oportunitățile internaționale de muncă potrivite"
+        },
+        {
+          "step": "03",
+          "title": "Sprijin pentru cerere",
+          "description": "Pregătirea profesională și depunerea cererii"
+        },
+        {
+          "step": "04",
+          "title": "Procesarea vizei",
+          "description": "Cererea completă pentru viza de muncă și documentația"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Numerele noastre de succes",
+      "description": "Istoric dovedit de plasări de succes la locuri de muncă",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Rata de succes"
+        },
+        {
+          "number": "5K+",
+          "label": "Locuri de muncă plasate"
+        },
+        {
+          "number": "25+",
+          "label": "Țări"
+        },
+        {
+          "number": "30",
+          "label": "Zile în medie"
+        }
+      ]
+    }
+  }
+}

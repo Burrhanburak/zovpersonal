@@ -1,33 +1,167 @@
 {
+  "metadata": {
+    "title": "ZovPersonal - Internationale Zukunftsorientierte Personalvermittlung",
+    "description": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland, EU-Ländern und darüber hinaus.",
+    "keywords": "internationale Personalvermittlung, Arbeitgeberpartnerschaft, Jobvermittlung, Deutschland Jobs, EU Beschäftigung, Personalvermittlungsagentur, zovpersonal"
+  },
   "nav": {
     "home": "Startseite",
     "services": "Dienstleistungen",
     "about": "Über uns",
     "contact": "Kontakt",
-    "consultation": "Kostenlose Beratung"
+    "consultation": "Kostenlose Arbeitgeberpartnerschaft"
   },
   "hero": {
-    "title": "Internationale Arbeitsvisum-Beratung",
-    "subtitle": "Ihr Tor zur Arbeit im Ausland",
-    "description": "Expertenberatung für die Erlangung von Arbeitsvisa nach Deutschland, EU-Ländern und darüber hinaus. Professionelle Beratungsdienste für Einzelpersonen und Unternehmen.",
-    "longDescription": "Bauen Sie Widerstandsfähigkeit auf und entdecken Sie Ihre innere Stärke wieder. Ob Sie Angst, Trauma, Beziehungsprobleme erleben oder einfach Klarheit in Ihrer internationalen Karriere suchen.",
+    "title": "Internationale Zukunftsorientierte Personalvermittlung (ZOV)",
+    "subtitle": "Ihr vertrauensvoller Partner für internationale Karrierechancen",
+    "description": "Wir verbinden qualifizierte Fachkräfte mit innovativen Unternehmen weltweit. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland und der EU.",
+    "longDescription": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Egal, ob Sie Unterstützung beim Rekrutierungsprozess suchen oder Karrieremöglichkeiten im Ausland verfolgen - erreichen Sie Erfolg mit unserem Expertenteam.",
     "cta": "Anruf Anfordern",
     "secondary_cta": "Mehr erfahren",
     "learnMore": "Mehr erfahren",
-    "tag1": "Klarheit Gewinnen",
-    "tag2": "Stress Bewältigen"
+    "tag1": "Arbeitsuchender",
+    "tag2": "Arbeitgeber"
+  },
+  "acceleratedProcedure": {
+    "title": "Beschleunigtes Fachkräfteverfahren",
+    "subtitle": "Ein spezielles Verfahren zur Beschleunigung des Einwanderungs- und Anerkennungsprozesses für Fachkräfte aus dem Ausland. Dieses Verfahren wurde entwickelt, um bürokratische Hürden zu minimieren und Genehmigungen zu beschleunigen.",
+    "imageAlt": "Beschleunigtes Verfahren",
+    "employerInitiation": "Arbeitgeber-Initiative - Das Verfahren wird vom Arbeitgeber eingeleitet und durchgehend koordiniert",
+    "qualificationRecognition": "Qualifikationsanerkennung - Ausländische Qualifikationen werden schnell bewertet und anerkannt",
+    "comprehensiveSupport": "Umfassende Unterstützung - Arbeitgeber übernimmt den Großteil des Antragsverfahrens",
+    "reducedBureaucracy": "Reduzierte Bürokratie - Schnelle Ergebnisse mit maximal 3-monatiger Bearbeitungszeit",
+    "internationalRecruitment": "Internationale Rekrutierung - Zusammenarbeit mit spezialisierten Plattformen wie Jobsingermany.net"
+  },
+  "home": {
+    "carousel": {
+      "badge": "Internationale Zukunftsorientierte Personalvermittlung",
+      "title": "Internationale Zukunftsorientierte Personalvermittlung",
+      "description": "Unser Jobsucherprogramm ist darauf ausgelegt, Ihnen dabei zu helfen, Ihren Traumjob im Ausland zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für Ihren Erfolg benötigen.",
+      "cards": {
+        "recruitment": {
+          "category": "Talentakquise",
+          "title": "Globale Rekrutierungslösungen"
+        },
+        "partnership": {
+          "category": "Arbeitgeberpartnerschaft",
+          "title": "Strategische Geschäftspartnerschaften"
+        },
+        "visaprocess": {
+          "category": "Visa & Dokumentation",
+          "title": "Komplette Visa-Bearbeitung"
+        },
+        "support": {
+          "category": "24/7 Unterstützung",
+          "title": "Kontinuierliche Kundenbetreuung"
+        },
+        "healthcare": {
+          "category": "Gesundheitswesen",
+          "title": "Medizinische Fachkräfte Rekrutierung"
+        },
+        "technology": {
+          "category": "IT & Technologie",
+          "title": "Tech-Talent-Lösungen"
+        }
+      },
+      "content": {
+        "recruitment": {
+          "highlight": "Finden Sie das perfekte Talent-Match.",
+          "description": "Unsere fortschrittliche Rekrutierungsmethodik verbindet Sie mit qualifizierten Fachkräften aus der ganzen Welt. Wir optimieren den gesamten Einstellungsprozess von der Kandidatensuche bis zur finalen Platzierung.",
+          "features": [
+            {
+              "title": "Globaler Talentpool",
+              "description": "Zugang zu über 50.000 qualifizierten Fachkräften in verschiedenen Branchen und Ländern."
+            },
+            {
+              "title": "Schnelle Platzierung",
+              "description": "Durchschnittliche Platzierungszeit von 45 Tagen mit 95% Kandidatenretention."
+            }
+          ]
+        },
+        "partnership": {
+          "highlight": "Bauen Sie dauerhafte Geschäftsbeziehungen auf.",
+          "description": "Wir schaffen strategische Partnerschaften zwischen Arbeitgebern und internationalen Talenten. Unser umfassender Ansatz gewährleistet nachhaltiges Wachstum und gegenseitigen Erfolg für alle Beteiligten.",
+          "features": [
+            {
+              "title": "Partnerschaftsmanagement",
+              "description": "Dedizierte Account Manager für kontinuierliche Beziehungspflege und Unterstützung."
+            },
+            {
+              "title": "Erfolgskennzahlen",
+              "description": "Leistungsverfolgung mit detaillierten Analysen und regelmäßigen Partnerschaftsbewertungen."
+            }
+          ]
+        },
+        "visaprocess": {
+          "highlight": "Vereinfachen Sie komplexe Visa-Verfahren.",
+          "description": "Navigieren Sie mit Vertrauen durch internationale Visa-Anforderungen. Unser Expertenteam übernimmt alle Dokumentation, Antragsverfahren und rechtliche Compliance für nahtlose Übergänge.",
+          "features": [
+            {
+              "title": "Expertendokumentation",
+              "description": "Professionelle Vorbereitung aller erforderlichen Dokumente mit 100% Compliance-Rate."
+            },
+            {
+              "title": "Rechtliche Compliance",
+              "description": "Bleiben Sie auf dem neuesten Stand bei sich ändernden Einwanderungsgesetzen und -anforderungen."
+            }
+          ]
+        },
+        "support": {
+          "highlight": "Unterstützung, die niemals stoppt.",
+          "description": "Unser Engagement geht über die Platzierung hinaus. Wir bieten kontinuierliche Unterstützung, um langfristigen Erfolg für Arbeitgeber und Arbeitnehmer während ihrer gesamten Reise zu gewährleisten.",
+          "features": [
+            {
+              "title": "24/7 Verfügbarkeit",
+              "description": "Rund-um-die-Uhr-Support für dringende Angelegenheiten und laufende Hilfe."
+            },
+            {
+              "title": "Integrationssupport",
+              "description": "Kulturelle Integration und Anpassungsdienstleistungen für reibungslose Übergänge."
+            }
+          ]
+        },
+        "healthcare": {
+          "highlight": "Gesundheitswesen Talent-Exzellenz.",
+          "description": "Spezialisierte Rekrutierung für Gesundheitsfachkräfte einschließlich Ärzte, Krankenpfleger, Therapeuten und medizinische Techniker. Wir verstehen die einzigartigen Anforderungen des Gesundheitssektors.",
+          "features": [
+            {
+              "title": "Medizinische Lizenzierung",
+              "description": "Hilfe bei der Anerkennung medizinischer Lizenzen und beruflicher Zertifizierung."
+            },
+            {
+              "title": "Fähigkeitsvalidierung",
+              "description": "Umfassende Bewertung medizinischer Qualifikationen und praktischer Fähigkeiten."
+            }
+          ]
+        },
+        "technology": {
+          "highlight": "Stärken Sie Ihre Tech-Transformation.",
+          "description": "Vernetzen Sie sich mit erstklassigen IT-Fachkräften und Technologie-Experten. Von Softwareentwicklern bis zu Datenwissenschaftlern - wir beschaffen die Talente, die Innovation vorantreiben.",
+          "features": [
+            {
+              "title": "Tech-Expertise",
+              "description": "Spezialisten in AI, Blockchain, Cloud Computing und aufkommenden Technologien."
+            },
+            {
+              "title": "Schnelle Bereitstellung",
+              "description": "Schnelle Platzierungslösungen für dringende Technologieprojekte und -rollen."
+            }
+          ]
+        }
+      }
+    }
   },
   "about": {
     "hero": {
-      "title": "Demokratisierung qualitativ hochwertiger Visa-Beratungsdienste",
-      "subtitle": "ZovPersonal bietet professionelle Visa-Beratung, um Sie zu Ihren internationalen Karrierezielen zu führen.",
+      "title": "Internationale, zukunftsorientierte Personalagentur (ZOV)",
+      "subtitle": "ZovPersonal verbindet qualifizierte Fachkräfte mit Europas führenden Unternehmen durch zukunftsorientierte internationale Rekrutierungsprozesse.",
       "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Visa-Antrag erfolgreich abzuschließen.",
       "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir Ihnen helfen können, besser als je zuvor zu arbeiten. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
     },
     "stats": {
       "experience": {
         "number": "12+",
-        "label": "Jahre Erfahrung"
+        "label": "Jahre Infrastruktur"
       },
       "clients": {
         "number": "5K+",
@@ -44,9 +178,9 @@
     },
     "team": {
       "title": "Das Team",
-      "description1": "Wir begannen 2019 mit dem Aufbau von ZovPersonal und starteten 2022. Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, Visa-Beratungsinnovationen für die nächsten hundert Jahre zu fördern.",
-      "description2": "Unsere erfahrenen Berater verstehen die einzigartigen Bedürfnisse jedes Kunden und bieten personalisierte Lösungen. Wir sind hier, um die Komplexität von Visa-Prozessen zu vereinfachen und Ihren Antragsprozess reibungslos zu gestalten.",
-      "description3": "Kontaktieren Sie uns für Visa-Beratung.",
+      "description1": "Wir begannen mit dem Aufbau von ZovPersonal und starteten . Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, Personalvermittlungs- und Arbeitgeberpartnerschaftsinnovationen für die nächsten hundert Jahre zu fördern.",
+      "description2": "Unsere erfahrenen Berater verstehen die einzigartigen Bedürfnisse jedes Kunden und bieten personalisierte Lösungen. Wir sind hier, um die Komplexität von Rekrutierungsprozessen zu vereinfachen und Ihren Beschäftigungsweg reibungslos zu gestalten.",
+      "description3": "Kontaktieren Sie uns für Arbeitgeberpartnerschaft.",
       "cta": "Kontaktieren Sie uns"
     },
     "company": {
@@ -62,8 +196,8 @@
     "partners": {
       "title": "Unsere Partner",
       "partner1": {
-        "name": "Mehmet Yılmaz",
-        "role": "Visa-Spezialist"
+        "name": "Anna Schneider",
+        "role": "Personalvermittlungs-Spezialist"
       },
       "partner2": {
         "name": "Ayşe Demir",
@@ -78,11 +212,11 @@
         "role": "Kundenbeziehungen"
       },
       "partner5": {
-        "name": "Emre Şahin",
+        "name": "Lukas Wagner",
         "role": "Betriebsleiter"
       }
     },
-    "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Visa-Prozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit 15 Jahren Erfahrung bieten wir weltweit vertrauensvolle Visa-Beratungsdienste.",
+    "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Rekrutierungsprozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit 15 Jahren Infrastruktur bieten wir weltweit vertrauensvolle Personalvermittlungs- und Arbeitgeberpartnerschaftsdienste.",
     "features": {
       "compassion": "Empathie und Verständnis",
       "integrity": "Ehrlichkeit und Zuverlässigkeit",
@@ -91,10 +225,10 @@
   },
   "services": {
     "title": "Unsere Dienstleistungen",
-    "subtitle": "Umfassende Visa- und Einwanderungslösungen",
+    "subtitle": "Umfassende Personalvermittlungs- und Arbeitgeberpartnerschaftslösungen",
     "workVisa": {
-      "title": "Arbeitsvisum-Anträge",
-      "description": "Vollständige Unterstützung bei Arbeitsvisum-Anträgen für verschiedene Länder einschließlich Deutschland, Österreich, Niederlande und mehr."
+      "title": "Rekrutierungsdienstleistungen",
+      "description": "Vollständige Unterstützung und Beratung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern einschließlich Deutschland, Österreich, Niederlande und mehr."
     },
     "skillsAssessment": {
       "title": "Qualifikationsbewertung",
@@ -108,33 +242,52 @@
       "title": "Persönliche Beratung",
       "description": "Eins-zu-eins-Beratungssitzungen, um Ihre spezifischen Bedürfnisse und Karriereziele zu verstehen."
     },
+    "countries": {
+      "title": "Wir stärken uns mit den besten Rekrutierungs- und Arbeitgeberpartnerschaftsteams der Welt.",
+      "subtitle": "Von innovativen Start-ups bis hin zu etablierten Organisationen.",
+      "countryNames": {
+        "germany": "Deutschland",
+        "austria": "Österreich",
+        "netherlands": "Niederlande",
+        "switzerland": "Schweiz",
+        "belgium": "Belgien",
+        "luxembourg": "Luxemburg",
+        "denmark": "Dänemark",
+        "romania": "Rumänien",
+        "croatia": "Kroatien",
+        "bulgaria": "Bulgarien",
+        "sweden": "Schweden",
+        "finland": "Finnland",
+        "serbia": "Serbien"
+      }
+    },
     "tabContent": {
       "workVisa": {
-        "title": "Beantragen. Vorbereiten. Genehmigen.",
-        "description": "Wir bereiten Ihre Arbeitsvisum-Anträge professionell vor und verfolgen sie.",
-        "stat1": { "number": "95%", "label": "Genehmigungsrate" },
+        "title": "Rekrutierungsprozess",
+        "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Deutschland zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
+        "stat1": { "number": "95%", "label": "erfolgreiche Rekrutierung" },
         "stat2": { "number": "30", "label": "Tage durchschnittliche Zeit" },
-        "category": "Arbeitsvisum-Anträge"
+        "category": "Rekrutierungsprozess"
       },
       "documentation": {
-        "title": "Organisieren. Übersetzen. Genehmigen.",
-        "description": "Wir bereiten alle Ihre Dokumente nach internationalen Standards vor und lassen sie beglaubigen.",
+        "title": "Dokumentenvorbereitungsprozess",
+        "description": "Das Visum zur Anerkennung ausländischer Berufsqualifikationen richtet sich an Fachkräfte, die ihre im Ausland erworbenen Berufsqualifikationen in Deutschland anerkennen lassen möchten. Wir bereiten Ihre Dokumente nach deutschen Standards vor und erleichtern den Anerkennungsprozess.",
         "stat1": { "number": "100%", "label": "Dokumentenkonformität" },
         "stat2": { "number": "48", "label": "Stunden fertig" },
         "category": "Dokumentenvorbereitung"
       },
       "skillsAssessment": {
-        "title": "Analysieren. Bewerten. Leiten.",
-        "description": "Wir analysieren Ihre beruflichen Qualifikationen und bringen sie mit internationalen Jobmöglichkeiten zusammen.",
-        "stat1": { "number": "85%", "label": "passende Position finden" },
+        "title": "Berufsqualifikationsbewertung",
+        "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit deutschen Sprachkenntnissen auf B1-Niveau und Nachweis der finanziellen Sicherheit.",
+        "stat1": { "number": "85%", "label": "erfolgreiche Anerkennung" },
         "stat2": { "number": "12", "label": "Jahre Erfahrung" },
-        "category": "Qualifikationsbewertung"
+        "category": "Berufsqualifikation"
       }
     },
     "tabButtons": {
-      "workVisa": "Arbeitsvisum",
+      "workVisa": "Rekrutierung",
       "documentation": "Dokumentation",
-      "skillsAssessment": "Qualifikationsbewertung"
+      "skillsAssessment": "Berufsqualifikation"
     }
   },
   "professions": {
@@ -228,11 +381,17 @@
       "follow": "Folgen Sie uns",
       "inquiries": "Anfragen"
     },
+    "jobSeeker": "Arbeitsuchender",
+    "employer": "Arbeitgeber",
+    "selectApplicantType": "Wählen Sie den Antragstyp aus",
     "namePlaceholder": "Name",
     "emailPlaceholder": "E-Mail-Adresse",
     "datePlaceholder": "Datum wählen",
     "messagePlaceholder": "Nachricht",
     "submitButton": "Jetzt buchen",
+    "sending": "Wird gesendet...",
+    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet! Wir werden uns bald bei Ihnen melden.",
+    "errorMessage": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
     "imageAlt": "Kontaktieren Sie uns für Visa-Beratung",
     "phone": "Telefon",
     "email": "E-Mail",
@@ -261,10 +420,10 @@
     "title": "Warum uns wählen?",
     "subtitle": "Unsere besonderen Merkmale in der internationalen Visa-Beratung",
     "category": "Visa-Beratung",
-    "description": "Mit 15+ Jahren Erfahrung sind wir Ihr vertrauensvoller Partner beim Erreichen internationaler Karriereziele. Wir machen den Unterschied mit unserem personalisierten Ansatz und hoher Erfolgsquote.",
+    "description": "Mit 15+ Jahren Infrastruktur sind wir Ihr vertrauensvoller Partner beim Erreichen internationaler Karriereziele. Wir machen den Unterschied mit unserem personalisierten Ansatz und hoher Erfolgsquote.",
     "feature1": {
       "title": "Expertenteam",
-      "description": "Wir stehen Ihnen mit unseren Visa-Spezialisten und Rechtsberatern mit 15+ Jahren Erfahrung zur Seite."
+      "description": "Wir stehen Ihnen mit unseren Visa-Spezialisten und Rechtsberatern mit 15+ Jahren Infrastruktur zur Seite."
     },
     "feature2": {
       "title": "Hohe Erfolgsquote",
@@ -352,46 +511,46 @@
     "review1": {
       "title": "Exzellenter Service",
       "content": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir und hielten mich ständig auf dem Laufenden.",
-      "name": "Dr. Ayşe Kaya",
+      "name": "Dr. Mehmet Kaya",
       "role": "Krankenschwester - Deutschland",
       "text": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir.",
       "rating": 5
     },
     "review2": {
       "title": "Professioneller Ansatz",
-      "content": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein niederländisches Arbeitsvisum reibungslos erhalten. Das Team ist wirklich sachkundig und erfahren.",
-      "name": "Ingenieur Mehmet Öz",
+      "content": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein Deutschland Arbeitsvisum reibungslos erhalten. Das Team ist wirklich sachkundig und erfahren.",
+      "name": "Ingenieur Busra Oz",
       "role": "Software-Entwickler - Niederlande",
-      "text": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein niederländisches Arbeitsvisum reibungslos erhalten. Danke ZovPersonal!",
+      "text": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein Deutschland Arbeitsvisum reibungslos erhalten. Danke ZovPersonal!",
       "rating": 5
     },
     "review3": {
       "title": "Prozess vereinfacht",
-      "content": "Als ich mich für mein kanadisches Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht und Schritt-für-Schritt-Anleitung gegeben.",
-      "name": "Lehrerin Fatma Demir",
+      "content": "Als ich mich für mein Deutschland Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht und Schritt-für-Schritt-Anleitung gegeben.",
+      "name": "Lehrerin Nicolaus Voss",
       "role": "Lehrerin - Kanada",
-      "text": "Als ich mich für mein kanadisches Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht.",
+      "text": "Als ich mich für mein Deutschland Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht.",
       "rating": 5
     },
     "review4": {
       "title": "Zuverlässiger Partner",
       "content": "Ich habe ZovPersonal gewählt, um meine Arbeitserlaubnis als Arzt in Deutschland zu erhalten. Ich habe die richtige Entscheidung getroffen, der Prozess verlief sehr schnell.",
-      "name": "Dr. Can Özkan",
-      "role": "Arzt - Deutschland",
+      "name": "Dr. Georgi Vasilev ",
+      "role": "Arzt - Bulgarien",
       "rating": 5
     },
     "review5": {
       "title": "Ausgezeichnetes Ergebnis",
-      "content": "Ich war sehr besorgt, als ich mich für mein Australien-Arbeitsvisum beworben habe. Das ZovPersonal-Team beruhigte mich und spielte eine wichtige Rolle beim Erreichen erfolgreicher Ergebnisse.",
-      "name": "Architektin Zeynep Yılmaz",
+      "content": "Ich war sehr besorgt, als ich mich für mein Deutschland-Arbeitsvisum beworben habe. Das ZovPersonal-Team beruhigte mich und spielte eine wichtige Rolle beim Erreichen erfolgreicher Ergebnisse.",
+      "name": "Architektin Marko Balković ",
       "role": "Architektin - Australien",
       "rating": 5
     },
     "review6": {
       "title": "Schnell und effektiv",
-      "content": "Als ich eine Arbeitsmöglichkeit in Schweden fand, hatte ich keine Ahnung vom Visa-Prozess. Dank ZovPersonal wurde alles sehr schnell gelöst.",
-      "name": "Ingenieur Burak Kaya",
-      "role": "Elektroingenieur - Schweden",
+      "content": "Als ich eine Arbeitsmöglichkeit in Deutschland fand, hatte ich keine Ahnung vom Visa-Prozess. Dank ZovPersonal wurde alles sehr schnell gelöst.",
+      "name": "Ingenieur Andrei Popescu",
+      "role": "Elektroingenieur - Rumänien",
       "rating": 5
     }
   },
@@ -419,7 +578,7 @@
     "legal": "Unsere Beratungsdienstleistungen dienen zu Informationszwecken und stellen keine Garantie dar. Visa-Antragsprozesse unterliegen Länderbestimmungen und Ergebnisse können variieren. Kontaktieren Sie unsere Expertenberater zur Bewertung Ihrer persönlichen Situation.",
     "email": "info@zovpersonal.com",
     "phone": "(Türkei) | +90 555 123 45 67 (Deutschland) | +49 30 12345678 ",
-    "address": "Istanbul, Türkei, Berlin, Deutschland",
+    "address": "Istanbul, Türkei, Brückstraße 59, 26725 Emden, Deutschland",
     "links": {
       "home": "Startseite",
       "services": "Dienstleistungen",
@@ -428,11 +587,12 @@
     },
     "visa": {
       "requiredDocuments": "Erforderliche Dokumente",
-      "applicationProcess": "Nationaler Antragsprozess",
+      "applicationProcess": "Internationale Rekrutierung",
       "pricing": "Preisgestaltung",
       "additionalServices": "Zusätzliche Dienstleistungen",
       "nationalVisaSteps": "Nationale Visa-Schritte",
-      "professions": "Berufsprozess"
+      "professions": "Berufsprozess",
+      "businessProcess": "Business-Prozess in Deutschland"
     },
     "social": {
       "instagram": {
@@ -451,7 +611,9 @@
     "contact": {
       "title": "Kontakt",
       "email": "E-Mail",
-      "phone": "Telefon"
+      "phone": "Telefon",
+      "employer": "Arbeitgeber",
+      "jobSeeker": "Jobsuchende"
     },
     "description": "Professionelle internationale Arbeitsvisa-Beratungsdienstleistungen",
     "quickLinks": "Schnelle Links",
@@ -465,6 +627,131 @@
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
     "rightsReserved": "Alle Rechte vorbehalten"
+  },
+  "internationalRecruitment": {
+    "hero": {
+      "title": "Internationale Zukunftsorientierte Personalbeschaffung",
+      "description": "In der modernen Welt kennen Talente keine Grenzen. Entdecken Sie die Arbeitskräfte von morgen heute und stärken Sie Ihr Unternehmen mit internationalen Talenten."
+    },
+    "vision": {
+      "title": "Die Zukunft der Geschäftswelt gestalten",
+      "subtitle": "Personalwesen im Digitalen Zeitalter",
+      "description": "Während sich die Technologie schnell entwickelt, bleibt die wichtigste Ressource der Mensch. Internationale Talente zu entdecken und sie in den richtigen Positionen zu bewerten, ist der Schlüssel für Unternehmen, um Wettbewerbsvorteile zu erlangen.",
+      "features": [
+        {
+          "title": "KI-gestützte Übereinstimmung",
+          "description": "Wir bringen Kandidaten und Positionen mit perfekter Harmonie zusammen, indem wir Algorithmen der künstlichen Intelligenz verwenden."
+        },
+        {
+          "title": "Globaler Talentpool",
+          "description": "Mit unserem umfangreichen Netzwerk qualifizierter Fachkräfte aus über 50 Ländern finden wir die Talente, die Sie benötigen."
+        },
+        {
+          "title": "Schneller Einstellungsprozess",
+          "description": "Wir schließen Einstellungen in 2-4 Wochen ab, indem wir traditionelle Prozesse um 70% verkürzen."
+        },
+        {
+          "title": "Kulturelle Integration",
+          "description": "Wir bieten Integrationsprogramme, die sicherstellen, dass sich internationale Mitarbeiter an Ihre Unternehmenskultur anpassen."
+        }
+      ]
+    },
+    "trends": {
+      "title": "2025 Arbeitsmarkttrends",
+      "subtitle": "Zukunftsprognostizierende Strategien",
+      "items": [
+        {
+          "trend": "Hybrides Arbeitsmodell",
+          "impact": "Talente überschreiten geografische Grenzen",
+          "percentage": "89%",
+          "description": "Unternehmen übernehmen hybride Arbeitsmodelle"
+        },
+        {
+          "trend": "Digitale Fähigkeiten",
+          "impact": "Technologieeinsatz in jeder Position",
+          "percentage": "95%",
+          "description": "Jobrollen erfordern digitale Fähigkeiten"
+        },
+        {
+          "trend": "Vielfalt und Inklusion",
+          "impact": "Leistungs- und Innovationssteigerung",
+          "percentage": "76%",
+          "description": "Erzielen bessere finanzielle Ergebnisse"
+        },
+        {
+          "trend": "Nachhaltigkeitsfokus",
+          "impact": "Umweltbewusste Mitarbeiterpräferenz",
+          "percentage": "73%",
+          "description": "Talente bevorzugen nachhaltige Unternehmen"
+        }
+      ]
+    },
+    "methodology": {
+      "title": "Unsere Innovative Rekrutierungsmethodik",
+      "subtitle": "Datengestützter Ansatz",
+      "steps": [
+        {
+          "phase": "1",
+          "title": "Bedarfsanalyse",
+          "description": "Wir analysieren die aktuellen und zukünftigen Bedürfnisse Ihres Unternehmens im Detail.",
+          "duration": "1-2 Tage",
+          "tools": ["KI-Analytik", "Marktforschung", "Skill-Mapping"]
+        },
+        {
+          "phase": "2", 
+          "title": "Talententdeckung",
+          "description": "Wir identifizieren die am besten geeigneten Kandidaten aus unserer globalen Datenbank.",
+          "duration": "3-5 Tage",
+          "tools": ["Globale Beschaffung", "Social Recruiting", "Netzwerkanalyse"]
+        },
+        {
+          "phase": "3",
+          "title": "Bewertung und Filterung",
+          "description": "Wir wählen die besten Kandidaten durch einen mehrstufigen Bewertungsprozess aus.",
+          "duration": "1-2 Wochen",
+          "tools": ["Technische Bewertung", "Kulturfit-Analyse", "Referenzprüfung"]
+        },
+        {
+          "phase": "4",
+          "title": "Präsentation und Integration",
+          "description": "Wir präsentieren Ihnen ausgewählte Kandidaten und verwalten den Integrationsprozess.",
+          "duration": "1-3 Wochen",
+          "tools": ["Interview-Koordination", "Angebotsverwaltung", "Onboarding-Unterstützung"]
+        }
+      ]
+    },
+    "success": {
+      "title": "Erfolgsgeschichten",
+      "subtitle": "Unser Erfolg in Zahlen",
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Erfolgreiche Einstellungen",
+          "period": "Letzte 12 Monate"
+        },
+        {
+          "number": "95%",
+          "label": "Kundenzufriedenheit",
+          "period": "Kontinuierlich"
+        },
+        {
+          "number": "2.5x",
+          "label": "Geschwindigkeitssteigerung",
+          "period": "Im Vergleich zu traditionellen Methoden"
+        },
+        {
+          "number": "35+",
+          "label": "Länderreichweite",
+          "period": "Globales Netzwerk"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Entdecken Sie die Zukunft der Arbeitskräfte heute",
+      "description": "Beginnen Sie jetzt, Ihr Unternehmen mit internationalen Talenten zu stärken und Wettbewerbsvorteile zu erlangen.",
+      "primaryButton": "Kostenlose Beratung",
+      "secondaryButton": "Erfolgsgeschichten erkunden"
+    }
   },
   "professionProcess": {
     "hero": {
@@ -606,6 +893,83 @@
       "learnMore": "Mehr erfahren"
     }
   },
+  "businessProcess": {
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Mitarbeiterintegrationsprozesse",
+        "subtitle": "Umfassende Unterstützung für erfolgreiche Integration in Deutschland",
+        "description": "Wir bieten speziell entwickelte Integrationsprogramme für internationale Mitarbeiter, um sich erfolgreich in Deutschland zu integrieren.",
+        "section1": {
+          "title": "Mitarbeiterintegration",
+          "content": "Nachdem internationale Mitarbeiter erfolgreich in Deutschland angekommen sind, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um eine langfristige Bindung an das Unternehmen zu gewährleisten. Unternehmen können mit gezielten Maßnahmen, die darauf abzielen, neuen Fachkräften einen reibungslosen Start zu ermöglichen, einen wichtigen Beitrag leisten."
+        },
+        "section2": {
+          "title": "Unterstützungsdienste",
+          "content": "Wir bieten umfassende Dienstleistungen einschließlich Sprachausbildung, kultureller Orientierung, Rechtsberatung und sozialer Integrationsunterstützung."
+        },
+        "benefits": "Schnelle Anpassung, hohe Arbeitszufriedenheit und langfristiger Erfolg"
+      },
+      "experiencedVisa": {
+        "title": "Visum für erfahrene Fachkräfte",
+        "subtitle": "Spezielles Visumprogramm für qualifizierte erfahrene Spezialisten",
+        "description": "Wir bieten beschleunigte Visumverfahren und spezielle Möglichkeiten für Fachkräfte mit mindestens 2 Jahren Berufserfahrung.",
+        "section1": {
+          "title": "Visum für erfahrene Fachkräfte",
+          "content": "Das Visum für erfahrene Fachkräfte (§ 19c Abs. 2 des Aufenthaltsgesetzes) richtet sich an qualifizierte Arbeitskräfte, die mindestens zwei Jahre qualifizierte Berufserfahrung in ihrem Bereich haben, aber keinen formalen Universitätsabschluss besitzen. Das Visum ermöglicht es diesen Fachkräften, in Deutschland zu arbeiten, insbesondere in Berufen, die stark nachgefragt sind. Dieses Visum wurde eingeführt, um der Nachfrage nach Fachkräften zu begegnen und den deutschen Arbeitsmarkt zu stärken."
+        },
+        "section2": {
+          "title": "Antragsprozess",
+          "content": "Wir bieten professionelle Beratung für die Bewertung Ihrer Erfahrungsnachweise, die Anerkennung beruflicher Qualifikationen und beschleunigte Antragsverfahren."
+        },
+        "benefits": "Schneller Prozess, flexible Bedingungen und erfahrungsorientierte Bewertung"
+      },
+      "acceleratedProcedure": {
+        "title": "Beschleunigtes Fachkräfteverfahren",
+        "subtitle": "Schneller und effizienter Visumantragsprozess",
+        "description": "Wir verkürzen Ihren Visumprozess mit dem speziell für Fachkräfte entwickelten beschleunigten Verfahren.",
+        "section1": {
+          "title": "Was ist das beschleunigte Fachkräfteverfahren?",
+          "content": "Das Beschleunigte Fachkräfteverfahren ist ein spezieller Prozess, der entwickelt wurde, um den Einwanderungs- und Anerkennungsprozess für Fachkräfte aus dem Ausland zu beschleunigen. Sein primäres Ziel ist es, Unternehmen dabei zu helfen, dringend benötigte Fachkräfte schneller nach Deutschland zu bringen und den Fachkräftemangel effektiver zu bekämpfen. Dieses Verfahren basiert auf enger Zusammenarbeit zwischen Arbeitgebern, Einwanderungsbehörden und Anerkennungsstellen, um bürokratische Hürden zu minimieren und Genehmigungen schnell zu erteilen."
+        },
+        "section2": {
+          "title": "Vorteile",
+          "content": "Wir optimieren Ihren Prozess mit kurzen Wartezeiten, Prioritätsbearbeitung und spezieller Beraterbetreuung."
+        },
+        "benefits": "2-3 Wochen Prozess, Prioritätsbearbeitung und garantiertes Ergebnis"
+      },
+      "recruitment": {
+        "title": "Internationale Rekrutierungsdienstleistungen",
+        "subtitle": "Wir bringen qualifizierte Fachkräfte mit Deutschland zusammen",
+        "description": "Unsere Expertendienste bei der Rekrutierung internationaler Talente zur Deckung des Arbeitskräftebedarfs in Deutschland.",
+        "section1": {
+          "title": "Rekrutierung",
+          "content": "Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Deutschland zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen. Diese Schritt-für-Schritt-Anleitung zeigt Ihnen, wie Sie Ihren Rekrutierungsprozess effektiv strukturieren, um qualifizierte Spezialisten aus dem Ausland erfolgreich zu gewinnen."
+        },
+        "section2": {
+          "title": "Prozessmanagement",
+          "content": "Wir verwalten den gesamten Rekrutierungsprozess einschließlich Kandidatensuche, Bewertung, Visumverfahren und Jobvermittlung."
+        },
+        "benefits": "Großer Kandidatenpool, qualitatives Matching und Prozessgarantie"
+      }
+    },
+    "common": {
+      "advantagesTitle": "Vorteile",
+      "processTitle": "Prozess",
+      "processDescription": "Sichere Ergebnisse mit Schritt-für-Schritt-Anleitung",
+      "step1Title": "1. Erstbewertung",
+      "step1Description": "Wir führen eine Situationsanalyse und Eignungsbewertung durch.",
+      "step2Title": "2. Dokumentenvorbereitung",
+      "step2Description": "Wir bereiten alle erforderlichen Dokumente professionell vor.",
+      "step3Title": "3. Antragsprozess",
+      "step3Description": "Wir verfolgen und verwalten Ihren Antrag.",
+      "step4Title": "4. Ergebnis und Nachverfolgung",
+      "step4Description": "Abschluss des Prozesses und Nachbetreuungsdienste.",
+      "ctaTitle": "Lassen Sie uns sofort beginnen",
+      "ctaDescription": "Kontaktieren Sie unser Expertenteam, um Ihren Prozess zu starten.",
+      "contactButton": "Kontakt aufnehmen",
+      "backButton": "Zurück"
+    }
+  },
   "nationalVisaProcess": {
     "hero": {
       "title": "Nationales Arbeitsvisum Antragsprozess",
@@ -660,5 +1024,242 @@
   },
   "stats": {
     "byNumbers": "In Zahlen"
+  },
+  "employer": {
+    "hero": {
+      "tag1": "Arbeitgeber",
+      "tag2": "Internationale Einstellung",
+      "title": "Stellen Sie Top-internationale zukunftsorientierte Talente ein",
+      "description": "Verbinden Sie sich mit qualifizierten Fachkräften weltweit. Wir handhaben internationale zukunftsorientierte Rekrutierung, Compliance und Onboarding, um globale Talente in Ihr Unternehmen zu bringen.",
+      "startHiring": "Mit der Einstellung beginnen",
+      "learnMore": "Mehr erfahren"
+    },
+    "benefits": {
+      "badge": "Für Arbeitgeber",
+      "title": "Warum internationale",
+      "subtitle": "zukunftsorientierte Talente einstellen?",
+      "description": "Erweitern Sie Ihre Belegschaft mit qualifizierten Fachkräften aus aller Welt und erschließen Sie beispiellose Wachstumschancen mit unseren bewährten Rekrutierungslösungen.",
+      "stats": {
+        "countries": "25+ Länder",
+        "hires": "5K+ Erfolgreiche Einstellungen",
+        "successRate": "98% Erfolgsquote"
+      },
+      "services": [
+        "Talentbeschaffung",
+        "Visa-Unterstützung",
+        "Compliance",
+        "Kandidatenauswahl",
+        "Einarbeitungsunterstützung",
+        "Branchenübergreifende Expertise",
+        "24/7 Support verfügbar"
+      ],
+      "tabs": {
+        "efficiency": "Effizienz",
+        "quality": "Qualität",
+        "support": "Support"
+      }
+    },
+    "services": {
+      "badge": "Arbeitgeber-Services",
+      "title": "Umfassende internationale Einstellungslösungen",
+      "items": [
+        {
+          "title": "Globale Talentbeschaffung",
+          "description": "Zugang zu qualifizierten Fachkräften aus 25+ Ländern mit unserem umfangreichen internationalen Netzwerk und verifizierten Kandidatendatenbank."
+        },
+        {
+          "title": "Umfassende Visum-Unterstützung",
+          "description": "End-to-End-Visa-Unterstützung einschließlich Dokumentenvorbereitung, Antragsberatung und Compliance-Management für nahtlose Einstellungen."
+        },
+        {
+          "title": "Schnellverfahren",
+          "description": "Beschleunigter Einstellungsprozess mit 98% Erfolgsquote, Reduzierung der Time-to-Hire und Gewährleistung schneller Platzierung qualifizierter Kandidaten."
+        }
+      ]
+    },
+    "process": {
+      "title": "Unser Einstellungsprozess",
+      "description": "Optimierter Prozess zur Suche und Einstellung der besten internationalen Talente",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Anforderungen definieren",
+          "description": "Besprechen Sie Ihre spezifischen Einstellungsbedürfnisse und Jobanforderungen"
+        },
+        {
+          "step": "02",
+          "title": "Kandidatenabgleich",
+          "description": "Finden und screenen Sie qualifizierte internationale Kandidaten"
+        },
+        {
+          "step": "03",
+          "title": "Bewerbungsgespräch",
+          "description": "Erleichtern Sie Interviews und Fähigkeitsbewertungen"
+        },
+        {
+          "step": "04",
+          "title": "Visum & Onboarding",
+          "description": "Handhaben Sie Visa-Prozesse und reibungsloses Onboarding"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Vertraut von führenden Unternehmen",
+      "description": "Unsere bewährte Erfolgsgeschichte spricht für sich",
+      "items": [
+        {
+          "number": "500+",
+          "label": "Betreute Unternehmen"
+        },
+        {
+          "number": "5K+",
+          "label": "Erfolgreiche Einstellungen"
+        },
+        {
+          "number": "25+",
+          "label": "Länder"
+        },
+        {
+          "number": "98%",
+          "label": "Kundenzufriedenheit"
+        }
+      ]
+    }
+  },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "Arbeitsuchender", 
+      "tag2": "Internationale Karriere",
+      "title": "Finden Sie Ihren Traumjob im Ausland mit uns",
+      "description": "internationale zukunftsorientierte Rekrutierungslösungen",
+      "startJourney": "Starten Sie Ihre Reise",
+      "viewServices": "Services anzeigen"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "Arbeitsuchende",
+        "opportunities": {
+          "label": "Möglichkeiten",
+          "title": "Premium-Job",
+          "subtitle": "Möglichkeiten Weltweit",
+          "description": "Zugang zu exklusiven, hochbezahlten internationalen Positionen bei Top-Unternehmen in über 25 Ländern.",
+          "stats": ["25+ Länder", "5K+ Job-Vermittlungen", "95% Erfolgsquote"],
+          "benefits": [
+            "Zugang zu Premium-Jobs",
+            "Verifizierte Arbeitgeber",
+            "Globales Netzwerk",
+            "Hohe Gehaltspakete"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5K+", "label": "Job-Vermittlungen" },
+            "stat2": { "value": "25+", "label": "Länder" }
+          }
+        },
+        "support": {
+          "label": "Unterstützung",
+          "title": "Umfassende",
+          "subtitle": "Karriere-Unterstützung",
+          "description": "Von der Bewerbung bis zum Umzug bieten wir umfassende Unterstützung in jedem Schritt.",
+          "stats": ["24/7 Support", "Expertenberatung", "98% Zufriedenheit"],
+          "benefits": [
+            "CV-Optimierung",
+            "Interview-Coaching",
+            "Visa-Hilfe",
+            "Umzugsunterstützung"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Support" },
+            "stat2": { "value": "98%", "label": "Zufriedenheit" }
+          }
+        },
+        "process": {
+          "label": "Prozess",
+          "title": "Optimierter",
+          "subtitle": "Bewerbungsprozess",
+          "description": "Unser effizienter Prozess bringt Sie schneller ins Ausland mit bewährten Ergebnissen und schneller Vermittlung.",
+          "stats": ["30 Tage Durchschnitt", "95% Erfolg", "Schnelle Bearbeitung"],
+          "benefits": [
+            "Schnelle Bearbeitung",
+            "Schritt-für-Schritt Anleitung",
+            "Dokumentenvorbereitung",
+            "Schnelle Ergebnisse"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Tage Durchschnitt" },
+            "stat2": { "value": "95%", "label": "Erfolgsquote" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "Arbeitsuchenden-Services",
+      "title": "Unsere Services für Arbeitsuchende",
+      "items": [
+        {
+          "title": "CV & Lebenslauf-Optimierung",
+          "description": "Professionelles CV-Schreiben und Optimierung für internationale Arbeitsmärkte"
+        },
+        {
+          "title": "Job-Matching",
+          "description": "Verbindung mit verifizierten Arbeitgebern, die Ihre spezifischen Fähigkeiten suchen"
+        },
+        {
+          "title": "Vorstellungsgespräch-Vorbereitung", 
+          "description": "Umfassendes Interview-Coaching für internationale Positionen"
+        },
+        {
+          "title": "Visa-Unterstützung",
+          "description": "Umfassende Arbeitsvisum-Antragsunterstützung und Dokumentation"
+        }
+      ]
+    },
+    "process": {
+      "title": "Wie es funktioniert",
+      "description": "Unser Arbeitsuchenden-Programm ist darauf ausgelegt, Ihnen zu helfen, Ihren Traumjob im Ausland zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für den Erfolg benötigen.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Profil-Bewertung",
+          "description": "Umfassende Fähigkeitsbewertung und Karriereziel-Analyse"
+        },
+        {
+          "step": "02",
+          "title": "Job-Matching",
+          "description": "Abgleich mit geeigneten internationalen Jobmöglichkeiten"
+        },
+        {
+          "step": "03",
+          "title": "Bewerbungsunterstützung",
+          "description": "Professionelle Bewerbungsvorbereitung und -einreichung"
+        },
+        {
+          "step": "04",
+          "title": "Visa-Bearbeitung",
+          "description": "Umfassende Arbeitsvisum-Antragstellung und Dokumentation"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Unsere Erfolgszahlen",
+      "description": "Bewährte Erfolgsgeschichte bei erfolgreichen Jobvermittlungen",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Erfolgsquote"
+        },
+        {
+          "number": "5K+",
+          "label": "Vermittelte Jobs"
+        },
+        {
+          "number": "25+",
+          "label": "Länder"
+        },
+        {
+          "number": "30",
+          "label": "Tage Durchschnitt"
+        }
+      ]
+    }
   }
 }

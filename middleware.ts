@@ -1,39 +1,54 @@
-import createMiddleware from "next-intl/middleware";
+import createMiddleware from 'next-intl/middleware';
 import { NextRequest, NextResponse } from 'next/server';
-import { geolocation } from '@vercel/functions';
 
-const locales = ['en', 'tr', 'de'];
+const locales = ['en', 'tr', 'de', 'nl', 'bg', 'hr', 'ro', 'sr'];
 const defaultLocale = 'en';
 
 function getLocaleFromRequest(request: NextRequest): string {
-  // 1. Vercel geo-location in production
-  if (process.env.NODE_ENV === 'production') {
-    const geo = geolocation(request);
-    const country = geo?.country?.toUpperCase();
+  const url = new URL(request.url);
+
+  // 1. ÖNCELİK: YERELDE TEST için URL parametresi
+  const overrideCountry = url.searchParams.get('country');
+  if (overrideCountry) {
+    const country = overrideCountry.toUpperCase();
+    console.log('🎯 URL Override detected:', country);
     if (country === 'TR') return 'tr';
-    if (country === 'DE' || country === 'AT' || country === 'CH') return 'de';
+    if (['DE', 'AT', 'CH'].includes(country)) return 'de';
+    if (country === 'NL') return 'nl';
+    if (country === 'BG') return 'bg';
+    if (country === 'HR') return 'hr';
+    if (country === 'RO') return 'ro';
+    if (['RS', 'ME'].includes(country)) return 'sr'; // Serbia and Montenegro
+    if (['US', 'GB', 'CA'].includes(country)) return 'en';
   }
 
-  // 2. Fallback to accept-language header
+  // 2. ÖNCELİK: CANLI ORTAM için Vercel coğrafi IP başlığı
+  const vercelCountry = request.headers.get('x-vercel-ip-country');
+  if (vercelCountry) {
+    const country = vercelCountry.toUpperCase();
+    console.log('🌍 Vercel Country detected:', country);
+    if (country === 'TR') return 'tr';
+    if (['DE', 'AT', 'CH'].includes(country)) return 'de';
+    if (country === 'NL') return 'nl';
+    if (country === 'BG') return 'bg';
+    if (country === 'HR') return 'hr';
+    if (country === 'RO') return 'ro';
+    if (['RS', 'ME'].includes(country)) return 'sr'; // Serbia and Montenegro
+  }
+
+  // 3. ÖNCELİK: Geri dönüş olarak tarayıcı dili
   const acceptLanguage = request.headers.get('accept-language') || '';
-  if (process.env.NODE_ENV === 'development') {
-    // In development, simulate geo-location from accept-language
-    if (acceptLanguage.includes('tr')) return 'tr';
-    if (acceptLanguage.includes('de')) return 'de';
-  }
-  
-  for (const lang of acceptLanguage.split(',')) {
-    const locale = lang.split(';')[0].trim().toLowerCase();
-    if (locales.includes(locale)) {
-      return locale;
-    }
-    const baseLocale = locale.split('-')[0];
-    if (locales.includes(baseLocale)) {
-      return baseLocale;
-    }
-  }
+  console.log('🗣️ Accept-Language:', acceptLanguage);
+  if (acceptLanguage.startsWith('tr')) return 'tr';
+  if (acceptLanguage.startsWith('de')) return 'de';
+  if (acceptLanguage.startsWith('nl')) return 'nl';
+  if (acceptLanguage.startsWith('bg')) return 'bg';
+  if (acceptLanguage.startsWith('hr')) return 'hr';
+  if (acceptLanguage.startsWith('ro')) return 'ro';
+  if (acceptLanguage.startsWith('sr')) return 'sr';
 
-  // 3. Return default locale
+  // 4. ÖNCELİK: Varsayılan dil
+  console.log('🔄 Falling back to default locale:', defaultLocale);
   return defaultLocale;
 }
 
@@ -46,37 +61,77 @@ const intlMiddleware = createMiddleware({
 export default function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   
-  console.log('🔀 Middleware - Processing pathname:', pathname);
-  
   // Skip locale detection for API routes and static files
   if (pathname.startsWith('/api') || 
       pathname.startsWith('/_next') || 
       pathname.includes('.') ||
       pathname.startsWith('/favicon')) {
-    console.log('🔀 Middleware - Skipping for:', pathname);
     return NextResponse.next();
   }
   
   // For the root path, redirect based on geo-detection
   if (pathname === '/') {
     const detectedLocale = getLocaleFromRequest(request);
-    console.log('🔀 Middleware - Redirecting root to locale:', detectedLocale);
-    return NextResponse.redirect(new URL(`/${detectedLocale}`, request.url));
+    console.log('🔀 Redirecting root to locale:', detectedLocale);
+    
+    const redirectUrl = new URL(`/${detectedLocale}`, request.url);
+    
+    // Preserve URL parameters
+    const overrideCountry = request.nextUrl.searchParams.get('country');
+    if (overrideCountry) {
+      redirectUrl.searchParams.set('country', overrideCountry);
+    }
+    
+    return NextResponse.redirect(redirectUrl);
   }
   
-  // For paths without locale prefix, redirect to default locale
+  // For paths without locale prefix, redirect to detected locale
   if (!locales.some(locale => pathname.startsWith(`/${locale}`))) {
     const detectedLocale = getLocaleFromRequest(request);
-    console.log('🔀 Middleware - Adding locale prefix to:', pathname, 'with locale:', detectedLocale);
-    return NextResponse.redirect(new URL(`/${detectedLocale}${pathname}`, request.url));
+    console.log('🔀 Adding locale prefix:', detectedLocale);
+    
+    const redirectUrl = new URL(`/${detectedLocale}${pathname}`, request.url);
+    
+    // Preserve URL parameters
+    const overrideCountry = request.nextUrl.searchParams.get('country');
+    if (overrideCountry) {
+      redirectUrl.searchParams.set('country', overrideCountry);
+    }
+    
+    return NextResponse.redirect(redirectUrl);
   }
   
-  // Let next-intl handle the locale routing
-  console.log('🔀 Middleware - Passing to intlMiddleware for:', pathname);
+  // Check for country override and redirect if locale doesn't match
+  const overrideCountry = request.nextUrl.searchParams.get('country');
+  if (overrideCountry) {
+    const country = overrideCountry.toUpperCase();
+    let expectedLocale = '';
+    
+    if (country === 'TR') expectedLocale = 'tr';
+    else if (['DE', 'AT', 'CH'].includes(country)) expectedLocale = 'de';
+    else if (country === 'NL') expectedLocale = 'nl';
+    else if (country === 'BG') expectedLocale = 'bg';
+    else if (country === 'HR') expectedLocale = 'hr';
+    else if (country === 'RO') expectedLocale = 'ro';
+    else if (['RS', 'ME'].includes(country)) expectedLocale = 'sr'; // Serbia and Montenegro
+    else if (['US', 'GB', 'CA'].includes(country)) expectedLocale = 'en';
+    
+    if (expectedLocale) {
+      const currentLocale = pathname.split('/')[1];
+      
+      if (currentLocale !== expectedLocale) {
+        console.log('🔄 Override redirect: from', currentLocale, 'to', expectedLocale);
+        const newUrl = new URL(`/${expectedLocale}`, request.url);
+        newUrl.searchParams.set('country', overrideCountry);
+        return NextResponse.redirect(newUrl);
+      }
+    }
+  }
+  
+  // Let next-intl handle the rest
   return intlMiddleware(request);
 }
 
 export const config = {
-  // Match only internationalized pathnames
-  matcher: ['/', '/(tr|de|en)/:path*', '/:path((?!api|_next/static|_next/image|favicon.ico).*)']
+  matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)'],
 };

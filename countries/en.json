@@ -1,33 +1,167 @@
 {
+  "metadata": {
+    "title": "ZovPersonal - International Future-Oriented Recruitment Agency",
+    "description": "Connecting qualified professionals with international employers. Future-oriented recruitment services for sustainable success in Germany, EU countries, and beyond.",
+    "keywords": "international recruitment, employer partnership, job placement, Germany jobs, EU employment, recruitment agency, zovpersonal"
+  },
   "nav": {
     "home": "Home",
     "services": "Services",
     "about": "About Us",
     "contact": "Contact",
-    "consultation": "Free Consultation"
+    "consultation": "Free Employer Partnership"
   },
   "hero": {
-    "title": "International Work Visa Consulting",
-    "subtitle": "Your Gateway to Working Abroad",
-    "description": "Expert guidance for obtaining work visas to Germany, EU countries, and beyond. Professional consultation services for individuals and businesses.",
-    "longDescription": "Build resilience, and rediscover your inner strength. Whether you're facing anxiety, trauma, relationship issues, or simply seeking clarity in your international career journey.",
+    "title": "International Future-Oriented Recruitment Agency (ZOV)",
+    "subtitle": "Your trusted partner for international career opportunities",
+    "description": "We connect qualified professionals with innovative companies worldwide. Future-oriented recruitment for sustainable success in Germany and the EU.",
+    "longDescription": "Your trusted partner connecting qualified professionals with international employers. Whether you're seeking support in the recruitment process or pursuing career opportunities abroad, achieve success with our expert team.",
     "cta": "Request A Call",
     "secondary_cta": "Learn More",
     "learnMore": "Learn More",
-    "tag1": "Gain Clarity",
-    "tag2": "Manage Stress"
+    "tag1": "Job Seeker",
+    "tag2": "Employer"
+  },
+  "acceleratedProcedure": {
+    "title": "Accelerated Skilled Worker Procedure",
+    "subtitle": "A special process developed to accelerate the immigration and recognition process for skilled workers coming from abroad. This process is designed to minimize bureaucratic barriers and expedite permits.",
+    "imageAlt": "Accelerated procedure process",
+    "employerInitiation": "Employer Initiation - The process is initiated and coordinated by the employer throughout",
+    "qualificationRecognition": "Qualification Recognition - Foreign qualifications are quickly assessed and recognized",
+    "comprehensiveSupport": "Comprehensive Support - Employer takes over most of the application process",
+    "reducedBureaucracy": "Reduced Bureaucracy - Fast results with maximum 3-month processing time",
+    "internationalRecruitment": "International Recruitment - Cooperation with specialized platforms like Jobsingermany.net"
+  },
+  "home": {
+    "carousel": {
+      "badge": "International Future-Oriented Recruitment",
+      "title": "International Future-Oriented Recruitment",
+      "description": "Our job seeker program is designed to help you find your dream job abroad. We provide the tools and resources you need to succeed.",
+      "cards": {
+        "recruitment": {
+          "category": "Talent Acquisition",
+          "title": "Global Recruitment Solutions"
+        },
+        "partnership": {
+          "category": "Employer Partnership",
+          "title": "Strategic Business Partnerships"
+        },
+        "visaprocess": {
+          "category": "Visa & Documentation",
+          "title": "Complete Visa Processing"
+        },
+        "support": {
+          "category": "24/7 Support",
+          "title": "Ongoing Client Support"
+        },
+        "healthcare": {
+          "category": "Healthcare Sector",
+          "title": "Medical Professionals Recruitment"
+        },
+        "technology": {
+          "category": "IT & Technology",
+          "title": "Tech Talent Solutions"
+        }
+      },
+      "content": {
+        "recruitment": {
+          "highlight": "Find the perfect talent match.",
+          "description": "Our advanced recruitment methodology connects you with qualified professionals from around the world. We streamline the entire hiring process from candidate sourcing to final placement.",
+          "features": [
+            {
+              "title": "Global Talent Pool",
+              "description": "Access to over 50,000 qualified professionals across multiple industries and countries."
+            },
+            {
+              "title": "Fast Placement",
+              "description": "Average placement time of 45 days with 95% candidate retention rate."
+            }
+          ]
+        },
+        "partnership": {
+          "highlight": "Build lasting business relationships.",
+          "description": "We create strategic partnerships between employers and international talent. Our comprehensive approach ensures sustainable growth and mutual success for all parties involved.",
+          "features": [
+            {
+              "title": "Partnership Management",
+              "description": "Dedicated account managers for ongoing relationship building and support."
+            },
+            {
+              "title": "Success Metrics",
+              "description": "Track performance with detailed analytics and regular partnership reviews."
+            }
+          ]
+        },
+        "visaprocess": {
+          "highlight": "Simplify complex visa procedures.",
+          "description": "Navigate international visa requirements with confidence. Our expert team handles all documentation, application processes, and legal compliance for seamless transitions.",
+          "features": [
+            {
+              "title": "Expert Documentation",
+              "description": "Professional preparation of all required documents with 100% compliance rate."
+            },
+            {
+              "title": "Legal Compliance",
+              "description": "Stay up-to-date with changing immigration laws and requirements."
+            }
+          ]
+        },
+        "support": {
+          "highlight": "Support that never stops.",
+          "description": "Our commitment extends beyond placement. We provide continuous support to ensure long-term success for both employers and employees throughout their journey.",
+          "features": [
+            {
+              "title": "24/7 Availability",
+              "description": "Round-the-clock support for urgent matters and ongoing assistance."
+            },
+            {
+              "title": "Integration Support",
+              "description": "Cultural integration and adaptation services for smooth transitions."
+            }
+          ]
+        },
+        "healthcare": {
+          "highlight": "Healthcare talent excellence.",
+          "description": "Specialized recruitment for healthcare professionals including doctors, nurses, therapists, and medical technicians. We understand the unique requirements of the healthcare sector.",
+          "features": [
+            {
+              "title": "Medical Licensing",
+              "description": "Assistance with medical license recognition and professional certification."
+            },
+            {
+              "title": "Skills Validation",
+              "description": "Comprehensive assessment of medical qualifications and practical skills."
+            }
+          ]
+        },
+        "technology": {
+          "highlight": "Power your tech transformation.",
+          "description": "Connect with top-tier IT professionals and technology experts. From software developers to data scientists, we source the talent that drives innovation.",
+          "features": [
+            {
+              "title": "Tech Expertise",
+              "description": "Specialists in AI, blockchain, cloud computing, and emerging technologies."
+            },
+            {
+              "title": "Rapid Deployment",
+              "description": "Quick placement solutions for urgent technology projects and roles."
+            }
+          ]
+        }
+      }
+    }
   },
   "about": {
     "hero": {
-      "title": "Democratising quality visa consultancy services",
-      "subtitle": "ZovPersonal provides professional visa consultancy to guide you towards your international career goals.",
+      "title": "International Future-Focused Recruitment Agency (ZOV)",
+      "subtitle": "ZovPersonal connects qualified professionals with Europe's leading companies through future-focused international recruitment processes.",
       "description1": "At ZovPersonal, we are dedicated to providing our customers with an unbeatable edge over delays, inefficiencies, and disorganisation through actionable insights and seamless collaboration. We'll stop at nothing to give you the tools you need to get every visa application across the finish line.",
       "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can help you operate better than ever before. We're all in this together because your success is our success. In our history as a company, we've never lost a customer, because when your projects succeed, so do we."
     },
     "stats": {
       "experience": {
         "number": "12+",
-        "label": "Years Experience"
+        "label": "Years Infrastructure"
       },
       "clients": {
         "number": "5K+",
@@ -44,9 +178,9 @@
     },
     "team": {
       "title": "The team",
-      "description1": "We started building ZovPersonal in 2019 and launched in 2022. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power visa consultancy innovation for the next hundred years.",
-      "description2": "Our experienced consultants understand each client's unique needs and provide personalized solutions. We are here to simplify the complexities of visa processes and make your application journey seamless.",
-      "description3": "Contact us for visa consultancy.",
+      "description1": "We started building ZovPersonal in 2019 and launched in 2022. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power recruitment and employer partnership innovation for the next hundred years.",
+      "description2": "Our experienced consultants understand each client's unique needs and provide personalized solutions. We are here to simplify the complexities of recruitment processes and make your employment journey seamless.",
+      "description3": "Contact us for employer partnership.",
       "cta": "Contact Us"
     },
     "company": {
@@ -62,8 +196,8 @@
     "partners": {
       "title": "Our partners",
       "partner1": {
-        "name": "Mehmet Yılmaz",
-        "role": "Visa Specialist"
+        "name": "Anna Schneider",
+        "role": "Recruitment Specialist"
       },
       "partner2": {
         "name": "Ayşe Demir",
@@ -78,11 +212,11 @@
         "role": "Client Relations"
       },
       "partner5": {
-        "name": "Emre Şahin",
+        "name": "Lukas Wagner",
         "role": "Operations Manager"
       }
     },
-    "description": "Guiding you towards your international career goals and simplifying visa processes to create opportunities for working in your dream country. With 15 years of experience, we provide trusted visa consulting services worldwide.",
+    "description": "Guiding you towards your international career goals and simplifying recruitment processes to create opportunities for working in your dream country. With 15 years of infrastructure, we provide trusted recruitment and employer partnership services worldwide.",
     "features": {
       "compassion": "Empathy and Understanding",
       "integrity": "Honesty and Reliability",
@@ -91,10 +225,10 @@
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Comprehensive visa and immigration solutions",
+    "subtitle": "Comprehensive recruitment and employer partnership solutions",
     "workVisa": {
-      "title": "Work Visa Applications",
-      "description": "Complete assistance with work visa applications for various countries including Germany, Austria, Netherlands, and more."
+      "title": "Recruitment Services",
+      "description": "Complete support and guidance for recruiting international professionals from various countries including Germany, Austria, Netherlands, and more."
     },
     "skillsAssessment": {
       "title": "Skills Assessment",
@@ -108,33 +242,52 @@
       "title": "Personal Consultation",
       "description": "One-on-one consultation sessions to understand your specific needs and career goals."
     },
+    "countries": {
+      "title": "We strengthen with the world's best recruitment and employer partnership teams.",
+      "subtitle": "From next-generation startups to established organizations.",
+      "countryNames": {
+        "germany": "Germany",
+        "austria": "Austria",
+        "netherlands": "Netherlands",
+        "switzerland": "Switzerland",
+        "belgium": "Belgium",
+        "luxembourg": "Luxembourg",
+        "denmark": "Denmark",
+        "romania": "Romania",
+        "croatia": "Croatia",
+        "bulgaria": "Bulgaria",
+        "sweden": "Sweden",
+        "finland": "Finland",
+        "serbia": "Serbia"
+      }
+    },
     "tabContent": {
       "workVisa": {
-        "title": "Apply. Prepare. Approve.",
-        "description": "We professionally prepare and track your work visa applications.",
-        "stat1": { "number": "95%", "label": "approval rate" },
+        "title": "Recruitment Process",
+        "description": "Recruiting international specialists offers tremendous opportunities to address the skills shortage in Germany. With our targeted and structured approach, we effectively organize your recruitment process to successfully attract qualified healthcare professionals from abroad.",
+        "stat1": { "number": "95%", "label": "successful recruitment" },
         "stat2": { "number": "30", "label": "days average time" },
-        "category": "Work Visa Applications"
+        "category": "Recruitment Process"
       },
       "documentation": {
-        "title": "Organize. Translate. Approve.",
-        "description": "We prepare all your documents to international standards and get them authenticated.",
+        "title": "Document Preparation Process",
+        "description": "Visa for recognition of foreign professional qualifications is aimed at skilled workers who want their professional qualifications acquired abroad to be recognized in Germany. We prepare your documents in accordance with German standards and facilitate the recognition process.",
         "stat1": { "number": "100%", "label": "document compliance" },
         "stat2": { "number": "48", "label": "hours ready" },
         "category": "Document Preparation"
       },
       "skillsAssessment": {
-        "title": "Analyze. Evaluate. Guide.",
-        "description": "We analyze your professional qualifications and match them with international job opportunities.",
-        "stat1": { "number": "85%", "label": "suitable position finding" },
+        "title": "Professional Qualification Assessment",
+        "description": "From recognition need assessment to special training plans, we provide comprehensive evaluation and guidance for recognition of your professional qualifications in accordance with German standards. We support the process with B1 level German language skills and proof of financial security.",
+        "stat1": { "number": "85%", "label": "successful recognition" },
         "stat2": { "number": "12", "label": "years experience" },
-        "category": "Skills Assessment"
+        "category": "Professional Qualification"
       }
     },
     "tabButtons": {
-      "workVisa": "Work Visa",
+      "workVisa": "Recruitment",
       "documentation": "Documentation",
-      "skillsAssessment": "Skills Assessment"
+      "skillsAssessment": "Professional Qualification"
     }
   },
   "professions": {
@@ -216,6 +369,9 @@
   },
   "contact": {
     "title": "Let's Talk With Us",
+    "jobSeeker": "Job Seeker",
+    "employer": "Employer",
+  
     "subtitle": "Whether you're ready to schedule your first consultation or just have questions, we'd love to hear from you.",
     "pageTitle": "Contact us",
     "pageSubtitle": "We're here to help with your visa consultation inquiries.",
@@ -228,11 +384,15 @@
       "follow": "Follow us",
       "inquiries": "Inquiries"
     },
+    "selectApplicantType": "Select Applicant Type",
     "namePlaceholder": "Name",
     "emailPlaceholder": "Email Address",
     "datePlaceholder": "Select Date",
     "messagePlaceholder": "Message",
     "submitButton": "Book Now",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully! We will get back to you soon.",
+    "errorMessage": "An error occurred while sending the message. Please try again.",
     "imageAlt": "Contact us for visa consulting",
     "phone": "Phone",
     "email": "Email",
@@ -269,7 +429,7 @@
       "about": "About",
       "contact": "Contact",
       "requiredDocuments": "Required Documents",
-      "applicationProcess": " National Visa Application Process",
+      "applicationProcess": "International Recruitment",
       "pricing": "Pricing",
       "additionalServices": "Additional Services",
       "nationalVisaSteps": "National Visa Steps (90+ Days)"
@@ -279,14 +439,15 @@
     "ourServices": "Resources",
     "email": "info@zovpersonal.com",
     "phone": "(Turkey) | +90 555 123 45 67 (Germany) | +49 30 12345678",
-    "address": "Istanbul, Turkey, Berlin, Germany",
+    "address": "Istanbul, Turkey, Brückstraße 59, 26725 Emden, Germany",
     "visa": {
       "requiredDocuments": "Required Documents",
       "applicationProcess": "Application Process",
       "pricing": "Pricing",
       "additionalServices": "Additional Services",
       "nationalVisaSteps": "National Visa Steps",
-      "professions": "Profession Process"
+      "professions": "Profession Process",
+      "businessProcess": "Business Process in Germany"
     },
     "social": {
       "instagram": {
@@ -305,7 +466,9 @@
     "contact": {
       "title": "Contact",
       "email": "Email",
-      "phone": "Phone"
+      "phone": "Phone",
+      "employer": "Employer",
+      "jobSeeker": "Job Seeker"
     },
     "services": {
       "workVisa": "Work Visa Applications",
@@ -482,10 +645,10 @@
     "title": "Why Choose Us?",
     "subtitle": "Our distinctive features in international visa consultancy",
     "category": "Visa Consultancy",
-    "description": "With 15+ years of experience, we are your trusted partner in achieving international career goals. We make a difference with our personalized approach and high success rate.",
+    "description": "With 15+ years of infrastructure, we are your trusted partner in achieving international career goals. We make a difference with our personalized approach and high success rate.",
     "feature1": {
       "title": "Expert Team",
-      "description": "We stand by you with our visa specialists and legal advisors with 15+ years of experience."
+      "description": "We stand by you with our visa specialists and legal advisors with 15+ years of infrastructure."
     },
     "feature2": {
       "title": "High Success Rate",
@@ -573,23 +736,23 @@
     "review1": {
       "title": "Excellent Service",
       "content": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process and kept me constantly informed.",
-      "name": "Dr. Ayşe Kaya",
+      "name": "Dr. Mehmet Kaya",
       "role": "Nurse - Germany",
       "text": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process.",
       "rating": 5
     },
     "review2": {
       "title": "Professional Approach",
-      "content": "Thanks to their professional approach and detailed guidance, I obtained my Netherlands work visa smoothly. The team is really knowledgeable and experienced.",
-      "name": "Engineer Mehmet Öz",
+      "content": "Thanks to their professional approach and detailed guidance, I obtained my Germany work visa smoothly. The team is really knowledgeable and experienced.",
+      "name": "Engineer Busra Oz",
       "role": "Software Developer - Netherlands",
-      "text": "Thanks to their professional approach and detailed guidance, I obtained my Netherlands work visa smoothly. Thank you ZovPersonal!",
+      "text": "Thanks to their professional approach and detailed guidance, I obtained my Germany work visa smoothly. Thank you ZovPersonal!",
       "rating": 5
     },
     "review3": {
       "title": "Process Simplified",
       "content": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything and provided step-by-step guidance.",
-      "name": "Teacher Fatma Demir",
+      "name": "Teacher Nicolaus Voss",
       "role": "Teacher - Canada",
       "text": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything.",
       "rating": 5
@@ -597,22 +760,22 @@
     "review4": {
       "title": "Reliable Partner",
       "content": "I chose ZovPersonal to get my work permit as a doctor in Germany. I made the right decision, the process progressed very quickly.",
-      "name": "Dr. Can Özkan",
-      "role": "Doctor - Germany",
+      "name": "Dr. Georgi Vasilev",
+      "role": "Doctor - Bulgaria",
       "rating": 5
     },
     "review5": {
       "title": "Excellent Result",
       "content": "I was very worried when applying for my Australia work visa. The ZovPersonal team reassured me and played a major role in achieving successful results.",
-      "name": "Architect Zeynep Yılmaz",
+      "name": "Architect Marko Balković",
       "role": "Architect - Australia",
       "rating": 5
     },
     "review6": {
       "title": "Fast and Effective",
-      "content": "When I found a job opportunity in Sweden, I had no idea about the visa process. Thanks to ZovPersonal, everything was resolved very quickly.",
-      "name": "Engineer Burak Kaya",
-      "role": "Electrical Engineer - Sweden",
+      "content": "When I found a job opportunity in Germany, I had no idea about the visa process. Thanks to ZovPersonal, everything was resolved very quickly.",
+      "name": "Engineer Andrei Popescu",
+      "role": "Electrical Engineer - Romania",
       "rating": 5
     }
   },
@@ -770,6 +933,224 @@
       "learnMore": "Learn More"
     }
   },
+  "businessProcess": {
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Employee Integration Processes",
+        "subtitle": "Comprehensive support for successful integration in Germany",
+        "description": "We offer specially designed integration programs for international employees to successfully integrate into Germany.",
+        "section1": {
+          "title": "Employee Integration",
+          "content": "After international employees successfully arrive in Germany, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company. Companies can make a significant contribution with targeted measures aimed at providing a smooth start for new professionals."
+        },
+        "section2": {
+          "title": "Support Services",
+          "content": "We provide comprehensive services including language training, cultural orientation, legal consultation, and social integration support."
+        },
+        "benefits": "Rapid adaptation, high job satisfaction, and long-term success"
+      },
+      "experiencedVisa": {
+        "title": "Visa for Experienced Professionals",
+        "subtitle": "Special visa program for qualified experienced specialists",
+        "description": "We offer accelerated visa processes and special opportunities for professionals with at least 2 years of professional experience.",
+        "section1": {
+          "title": "Visa for Experienced Professionals",
+          "content": "The visa for experienced professionals (Section 19c, Paragraph 2 of the Residence Act) is aimed at skilled workers who have at least two years of qualified professional experience in their field but do not have a formal university degree. The visa allows these skilled workers to work in Germany, especially in professions that are in high demand. This visa was introduced to meet the demand for skilled workers and strengthen the German labor market."
+        },
+        "section2": {
+          "title": "Application Process",
+          "content": "We provide professional guidance for the evaluation of your experience certificates, recognition of professional qualifications, and accelerated application processes."
+        },
+        "benefits": "Fast process, flexible conditions, and experience-oriented evaluation"
+      },
+      "acceleratedProcedure": {
+        "title": "Accelerated Skilled Worker Procedure",
+        "subtitle": "Fast and efficient visa application process",
+        "description": "We shorten your visa process with the accelerated procedure specially designed for skilled workers.",
+        "section1": {
+          "title": "What is the Accelerated Skilled Worker Procedure?",
+          "content": "The Accelerated Skilled Worker Procedure is a special process developed to accelerate the immigration and recognition process for skilled workers from abroad. Its primary purpose is to help companies bring urgently needed skilled workers to Germany faster and combat the skills shortage more effectively. This process is based on close cooperation between employers, immigration authorities and recognition institutions to minimize bureaucratic barriers and issue permits quickly."
+        },
+        "section2": {
+          "title": "Advantages",
+          "content": "We optimize your process with short waiting times, priority processing, and dedicated consultant assignment."
+        },
+        "benefits": "2-3 weeks process, priority processing, and guaranteed results"
+      },
+      "recruitment": {
+        "title": "International Recruitment Services",
+        "subtitle": "Connecting qualified professionals with Germany",
+        "description": "Our expert services in recruiting international talents to meet Germany's workforce needs.",
+        "section1": {
+          "title": "Recruitment",
+          "content": "Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Germany. However, for this process to be successful, companies need to adopt a targeted and structured approach. This step-by-step guide will show you how to effectively structure your recruitment process to successfully attract qualified specialists from abroad."
+        },
+        "section2": {
+          "title": "Process Management",
+          "content": "We manage the entire recruitment process including candidate sourcing, evaluation, visa processes, and job placement."
+        },
+        "benefits": "Large candidate pool, quality matching, and process guarantee"
+      }
+    },
+    "common": {
+      "advantagesTitle": "Advantages",
+      "processTitle": "Process",
+      "processDescription": "Secure results with step-by-step guidance",
+      "step1Title": "1. Initial Assessment",
+      "step1Description": "We conduct situation analysis and eligibility assessment.",
+      "step2Title": "2. Document Preparation",
+      "step2Description": "We professionally prepare all required documents.",
+      "step3Title": "3. Application Process",
+      "step3Description": "We track and manage your application.",
+      "step4Title": "4. Result and Follow-up",
+      "step4Description": "Process completion and follow-up services.",
+      "ctaTitle": "Let's Start Right Away",
+      "ctaDescription": "Contact our expert team to start your process.",
+      "contactButton": "Get in Touch",
+      "backButton": "Go Back"
+    },
+    "services": {
+      "services": [
+        "Talent Sourcing",
+        "Visa Support",
+        "Compliance",
+        "Candidate Screening",
+        "Onboarding Support",
+        "Multi-Industry Expertise",
+        "24/7 Support Available"
+      ],
+      "tabs": {
+        "efficiency": "Efficiency",
+        "quality": "Quality", 
+        "support": "Support"
+      }
+    }
+  },
+  "internationalRecruitment": {
+    "hero": {
+      "title": "International Future-Oriented Recruitment",
+      "description": "In the modern world, talent knows no boundaries. Discover the workforce of tomorrow today and strengthen your company with international talents."
+    },
+    "vision": {
+      "title": "Shaping the Future of Business",
+      "subtitle": "Human Resources in the Digital Age",
+      "description": "While technology rapidly evolves, the most important resource remains human. Discovering international talents and evaluating them in the right positions is the key to companies gaining competitive advantage.",
+      "features": [
+        {
+          "title": "AI-Powered Matching",
+          "description": "We match candidates and positions with perfect harmony using artificial intelligence algorithms."
+        },
+        {
+          "title": "Global Talent Pool",
+          "description": "With our extensive network of qualified professionals from 50+ countries, we find the talents you need."
+        },
+        {
+          "title": "Fast Hiring Process",
+          "description": "We complete hiring in 2-4 weeks by shortening traditional processes by 70%."
+        },
+        {
+          "title": "Cultural Integration",
+          "description": "We offer integration programs that ensure international employees adapt to your company culture."
+        }
+      ]
+    },
+    "trends": {
+      "title": "2025 Workforce Trends",
+      "subtitle": "Future-Predicting Strategies",
+      "items": [
+        {
+          "trend": "Hybrid Work Model",
+          "impact": "Talents transcending geographical boundaries",
+          "percentage": "89%",
+          "description": "Companies adopting hybrid work model"
+        },
+        {
+          "trend": "Digital Skills",
+          "impact": "Technology use in every position",
+          "percentage": "95%",
+          "description": "Job roles requiring digital skills"
+        },
+        {
+          "trend": "Diversity and Inclusion",
+          "impact": "Performance and innovation increase",
+          "percentage": "76%",
+          "description": "Achieving better financial results"
+        },
+        {
+          "trend": "Sustainability-Focused",
+          "impact": "Environmentally conscious employee preference",
+          "percentage": "73%",
+          "description": "Talents preferring sustainable companies"
+        }
+      ]
+    },
+    "methodology": {
+      "title": "Our Innovative Recruitment Methodology",
+      "subtitle": "Data-Driven Approach",
+      "steps": [
+        {
+          "phase": "1",
+          "title": "Needs Analysis",
+          "description": "We analyze your company's current and future needs in detail.",
+          "duration": "1-2 days",
+          "tools": ["AI Analytics", "Market Research", "Skill Mapping"]
+        },
+        {
+          "phase": "2", 
+          "title": "Talent Discovery",
+          "description": "We identify the most suitable candidates from our global database.",
+          "duration": "3-5 days",
+          "tools": ["Global Sourcing", "Social Recruiting", "Network Analysis"]
+        },
+        {
+          "phase": "3",
+          "title": "Assessment and Filtering",
+          "description": "We select the best candidates through a multi-stage assessment process.",
+          "duration": "1-2 weeks",
+          "tools": ["Technical Assessment", "Culture Fit Analysis", "Reference Check"]
+        },
+        {
+          "phase": "4",
+          "title": "Presentation and Integration",
+          "description": "We present selected candidates to you and manage the integration process.",
+          "duration": "1-3 weeks",
+          "tools": ["Interview Coordination", "Offer Management", "Onboarding Support"]
+        }
+      ]
+    },
+    "success": {
+      "title": "Success Stories",
+      "subtitle": "Our Success in Numbers",
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Successful Hires",
+          "period": "Last 12 months"
+        },
+        {
+          "number": "95%",
+          "label": "Customer Satisfaction",
+          "period": "Continuous"
+        },
+        {
+          "number": "2.5x",
+          "label": "Speed Increase",
+          "period": "Compared to traditional methods"
+        },
+        {
+          "number": "35+",
+          "label": "Country Reach",
+          "period": "Global network"
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "Discover the Future Workforce Today",
+      "description": "Start now to strengthen your company with international talents and gain competitive advantage.",
+      "primaryButton": "Free Consultation",
+      "secondaryButton": "Explore Success Stories"
+    }
+  },
   "nationalVisaProcess": {
     "hero": {
       "title": "National Work Visa Application Process",
@@ -824,5 +1205,242 @@
   },
   "stats": {
     "byNumbers": "By the Numbers"
+  },
+  "employer": {
+    "hero": {
+      "tag1": "Employer",
+      "tag2": "International Hiring",
+      "title": "Hire Top International Future-Oriented Talent",
+      "description": "Connect with skilled professionals worldwide. We handle international future-oriented recruitment, compliance, and onboarding to bring global talent to your company.",
+      "startHiring": "Start Hiring",
+      "learnMore": "Learn More"
+    },
+    "benefits": {
+      "badge": "For Employers",
+      "title": "Why Hire International",
+      "subtitle": "Future-Oriented Talent?",
+      "description": "Expand your workforce with qualified professionals from around the globe and unlock unprecedented growth opportunities with our proven recruitment solutions.",
+      "stats": {
+        "countries": "25+ Countries",
+        "hires": "5K+ Successful Hires",
+        "successRate": "98% Success Rate"
+      },
+      "services": [
+        "Talent Sourcing",
+        "Visa Support",
+        "Compliance",
+        "Candidate Screening",
+        "Onboarding Support",
+        "Multi-Industry Expertise",
+        "24/7 Support Available"
+      ],
+      "tabs": {
+        "efficiency": "Efficiency",
+        "quality": "Quality", 
+        "support": "Support"
+      }
+    },
+    "services": {
+      "badge": "Employer Services",
+      "title": "Complete International Hiring Solutions",
+      "items": [
+        {
+          "title": "Global Talent Sourcing",
+          "description": "Access qualified professionals from 25+ countries with our extensive international network and verified candidate database."
+        },
+        {
+          "title": "Complete Visa Support",
+          "description": "End-to-end visa assistance including document preparation, application guidance, and compliance management for seamless hiring."
+        },
+        {
+          "title": "Fast-Track Processing",
+          "description": "Accelerated hiring process with 98% success rate, reducing time-to-hire and ensuring quick placement of qualified candidates."
+        }
+      ]
+    },
+    "process": {
+      "title": "Our Hiring Process",
+      "description": "Streamlined process to find and hire the best international talent",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Define Requirements",
+          "description": "Discuss your specific hiring needs and job requirements"
+        },
+        {
+          "step": "02",
+          "title": "Candidate Matching", 
+          "description": "Find and screen qualified international candidates"
+        },
+        {
+          "step": "03",
+          "title": "Interview Process",
+          "description": "Facilitate interviews and skill assessments"
+        },
+        {
+          "step": "04",
+          "title": "Visa & Onboarding",
+          "description": "Handle visa processes and smooth onboarding"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Trusted by Leading Companies",
+      "description": "Our proven track record speaks for itself",
+      "items": [
+        {
+          "number": "500+",
+          "label": "Companies Served"
+        },
+        {
+          "number": "5K+",
+          "label": "Successful Hires"
+        },
+        {
+          "number": "25+",
+          "label": "Countries"
+        },
+        {
+          "number": "98%",
+          "label": "Client Satisfaction"
+        }
+      ]
+    }
+  },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "Job Seeker", 
+      "tag2": "International Career",
+      "title": "Find Your Dream Job Abroad with us",
+      "description": "international future-oriented recruitment solutions",
+      "startJourney": "Start Your Journey",
+      "viewServices": "View Services"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "Job Seekers",
+        "opportunities": {
+          "label": "Opportunities",
+          "title": "Premium Job",
+          "subtitle": "Opportunities Worldwide",
+          "description": "Access exclusive high-paying international positions with top companies across 25+ countries.",
+          "stats": ["25+ Countries", "5K+ Jobs Placed", "95% Success Rate"],
+          "benefits": [
+            "Access to Premium Jobs",
+            "Verified Employers",
+            "Global Network",
+            "High Salary Packages"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5K+", "label": "Jobs Placed" },
+            "stat2": { "value": "25+", "label": "Countries" }
+          }
+        },
+        "support": {
+          "label": "Support",
+          "title": "Complete",
+          "subtitle": "Career Support",
+          "description": "From application to relocation, we provide comprehensive support every step of the way.",
+          "stats": ["24/7 Support", "Expert Guidance", "98% Satisfaction"],
+          "benefits": [
+            "CV Optimization",
+            "Interview Coaching",
+            "Visa Assistance",
+            "Relocation Support"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Support" },
+            "stat2": { "value": "98%", "label": "Satisfaction" }
+          }
+        },
+        "process": {
+          "label": "Process",
+          "title": "Streamlined",
+          "subtitle": "Application Process",
+          "description": "Our efficient process gets you working abroad faster with proven results and quick placement.",
+          "stats": ["30 Days Avg", "95% Success", "Fast Processing"],
+          "benefits": [
+            "Fast Processing",
+            "Step-by-Step Guidance",
+            "Document Preparation",
+            "Quick Results"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Days Average" },
+            "stat2": { "value": "95%", "label": "Success Rate" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "Job Seeker Services",
+      "title": "Our Services for Job Seekers",
+      "items": [
+        {
+          "title": "CV & Resume Optimization",
+          "description": "Professional CV writing and optimization for international job markets"
+        },
+        {
+          "title": "Job Matching",
+          "description": "Connect with verified employers looking for your specific skills"
+        },
+        {
+          "title": "Interview Preparation", 
+          "description": "Comprehensive interview coaching for international positions"
+        },
+        {
+          "title": "Visa Assistance",
+          "description": "Complete work visa application support and documentation"
+        }
+      ]
+    },
+    "process": {
+      "title": "How It Works",
+      "description": "Our job seeker program is designed to help you find your dream job abroad. We provide you with the tools and resources you need to succeed.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Profile Assessment",
+          "description": "Complete skills evaluation and career goals analysis"
+        },
+        {
+          "step": "02",
+          "title": "Job Matching",
+          "description": "Match with suitable international job opportunities"
+        },
+        {
+          "step": "03",
+          "title": "Application Support",
+          "description": "Professional application preparation and submission"
+        },
+        {
+          "step": "04",
+          "title": "Visa Processing",
+          "description": "Complete work visa application and documentation"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Our Success Numbers",
+      "description": "Proven track record of successful job placements",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Success Rate"
+        },
+        {
+          "number": "5K+",
+          "label": "Jobs Placed"
+        },
+        {
+          "number": "25+",
+          "label": "Countries"
+        },
+        {
+          "number": "30",
+          "label": "Days Average"
+        }
+      ]
+    }
   }
 }

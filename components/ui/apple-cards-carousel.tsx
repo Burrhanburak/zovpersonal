@@ -5,7 +5,6 @@ import React, {
   useState,
   createContext,
   useContext,
-  JSX,
 } from "react";
 import {
   IconArrowNarrowLeft,
@@ -13,9 +12,10 @@ import {
   IconX,
 } from "@tabler/icons-react";
 import { cn } from "@/lib/utils";
-import { AnimatePresence, motion } from "motion/react";
+import { AnimatePresence, motion } from "framer-motion";
 import Image, { ImageProps } from "next/image";
-import { useOutsideClick } from "@/hook/use-outside-click";
+import { useOutsideClick } from "@/hook/use-outside-click"; 
+
 
 interface CarouselProps {
   items: JSX.Element[];
@@ -118,11 +118,11 @@ export const Carousel = ({ items, initialScroll = 0 }: CarouselProps) => {
                 animate={{
                   opacity: 1,
                   y: 0,
-                  transition: {
-                    duration: 0.5,
-                    delay: 0.2 * index,
-                    ease: "easeOut",
-                  },
+                }}
+                transition={{
+                  duration: 0.5,
+                  delay: 0.2 * index,
+                  ease: "easeOut",
                 }}
                 key={"card" + index}
                 className="rounded-3xl last:pr-[5%] md:last:pr-[33%]"
@@ -174,9 +174,20 @@ export const Card = ({
     }
 
     if (open) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "auto";
+      // Arka plan scroll'unu tamamen engelle
+      const scrollY = window.scrollY;
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${scrollY}px`;
+      document.body.style.width = '100%';
+      document.body.style.overflow = 'hidden';
+      
+      return () => {
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.width = '';
+        document.body.style.overflow = '';
+        window.scrollTo(0, scrollY);
+      };
     }
 
     window.addEventListener("keydown", onKeyDown);
@@ -196,44 +207,75 @@ export const Card = ({
 
   return (
     <>
-      <AnimatePresence>
-        {open && (
-          <div className="fixed inset-0 z-[9999] h-screen overflow-auto">
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              className="fixed inset-0 h-full w-full bg-black/80 backdrop-blur-lg"
-            />
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              ref={containerRef}
-              layoutId={layout ? `card-${card.title}` : undefined}
-              className="relative z-[10000] mx-auto my-10 h-fit max-w-5xl rounded-3xl bg-white p-4 font-sans md:p-10 dark:bg-neutral-900"
+              <AnimatePresence>
+          {open && (
+            <div 
+              className="fixed inset-0 z-50 bg-black/80 backdrop-blur-lg"
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                padding: '1rem',
+                overflow: 'hidden'
+              }}
+              onClick={handleClose}
+              onWheel={(e) => {
+                // Modal dışında wheel eventi engelle
+                e.preventDefault();
+              }}
             >
-              <button
-                className="sticky top-4 right-0 ml-auto flex h-8 w-8 items-center justify-center rounded-full bg-black dark:bg-white"
-                onClick={handleClose}
+              <motion.div
+                initial={{ opacity: 0, scale: 0.8, y: 100 }}
+                animate={{ opacity: 1, scale: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.8, y: 100 }}
+                ref={containerRef}
+                layoutId={layout ? `card-${card.title}` : undefined}
+                className="relative w-full max-w-5xl max-h-[90vh] bg-white rounded-3xl font-sans dark:bg-neutral-900 shadow-2xl"
+                style={{
+                  overflow: 'hidden',
+                  display: 'flex',
+                  flexDirection: 'column'
+                }}
+                onClick={(e) => e.stopPropagation()}
               >
-                <IconX className="h-6 w-6 text-neutral-100 dark:text-neutral-900" />
-              </button>
-              <motion.p
-                layoutId={layout ? `category-${card.title}` : undefined}
-                className="text-base font-medium text-black dark:text-white"
-              >
-                {card.category}
-              </motion.p>
-              <motion.p
-                layoutId={layout ? `title-${card.title}` : undefined}
-                className="mt-4 text-2xl font-semibold text-neutral-700 md:text-5xl dark:text-white"
-              >
-                {card.title}
-              </motion.p>
-              <div className="py-10">{card.content}</div>
-            </motion.div>
-          </div>
+                {/* Header with close button */}
+                <div className="flex justify-end p-4 border-b dark:border-neutral-700">
+                  <button
+                    className="flex h-8 w-8 items-center justify-center rounded-full bg-black dark:bg-white hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors"
+                    onClick={handleClose}
+                  >
+                    <IconX className="h-5 w-5 text-white dark:text-black" />
+                  </button>
+                </div>
+                
+                {/* Scrollable content */}
+                <div 
+                  className="flex-1 overflow-y-auto p-4 md:p-10 custom-scrollbar"
+                  style={{
+                    scrollbarWidth: 'thin',
+                    scrollbarColor: '#d1d5db #f3f4f6'
+                  }}
+                  onWheel={(e) => {
+                    // Modal içeriği scroll'una izin ver
+                    e.stopPropagation();
+                  }}
+                >
+                                <motion.p
+                    layoutId={layout ? `category-${card.title}` : undefined}
+                    className="text-base font-medium text-black dark:text-white"
+                  >
+                    {card.category}
+                  </motion.p>
+                  <motion.p
+                    layoutId={layout ? `title-${card.title}` : undefined}
+                    className="mt-4 text-2xl font-semibold text-neutral-700 md:text-5xl dark:text-white"
+                  >
+                    {card.title}
+                  </motion.p>
+                  <div className="py-10">{card.content}</div>
+                </div>
+              </motion.div>
+            </div>
         )}
       </AnimatePresence>
       <motion.button
@@ -279,12 +321,11 @@ export const BlurImage = ({
   return (
     <Image
       className={cn(
-        "transition duration-300",
-        isLoading ? "blur-sm" : "blur-0",
+        "h-full w-full transition duration-300",
         className,
       )}
       onLoad={() => setLoading(false)}
-      src={src}
+      src={src as string}
       width={width}
       height={height}
       alt={alt ? alt : "Background of a beautiful view"}

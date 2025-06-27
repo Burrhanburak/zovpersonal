@@ -10,6 +10,7 @@ const countryToLocale: Record<string, string> = {
   'GB': 'en',
   'CA': 'en',
   'AU': 'en',
+  'RS': 'sr',
 };
 
 export async function getLocaleFromGeo(): Promise<string> {
@@ -29,7 +30,7 @@ export async function getPreferredLocale(): Promise<string> {
     .map(lang => lang.split(';')[0].trim().toLowerCase());
   
   // Check if preferred language is supported
-  const supportedLocales = ['en', 'tr', 'de'];
+  const supportedLocales = ['en', 'tr', 'de', 'sr', 'ro', 'bg', 'hr', 'nl', 'sr'];
   for (const lang of languages) {
     if (supportedLocales.includes(lang)) {
       return lang;

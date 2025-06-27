@@ -5,6 +5,7 @@ import { ArrowRight, CheckCircle, Users, FileText, Briefcase, Globe, Hammer, Ute
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function ProfessionPage() {
   const t = useTranslations();
@@ -430,12 +431,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.construction.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.construction.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/construction`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/construction`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -444,12 +445,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.hospitality.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.hospitality.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/hospitality`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/hospitality`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -458,12 +459,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.logistics.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.logistics.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/logistics`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/logistics`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -472,12 +473,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.cleaning.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.cleaning.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/cleaning`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/cleaning`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -486,12 +487,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.office.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.office.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/office`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/office`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -500,129 +501,18 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.others.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.others.description')}</p>
             </div>
-            <a href={`/${locale}/profession-process/others`} className="flex items-center gap-2 text-sm font-medium">
+            <Link href={`/${locale}/profession-process/others`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
       </div>
     </section>
 
-    {/* Architecture Section */}
-    <section className="py-22 container mx-auto px-4">
-      <div className="container ">
-        <div className="mx-auto max-w-3xl text-center">
-          <div className="text-xs text-muted-foreground md:text-sm">{t('professionProcess.architectureSection.subtitle')}</div>
-          <h2 className="mt-4 mb-8 text-4xl font-semibold text-pretty md:text-6xl">{t('professionProcess.architectureSection.title')}</h2>
-          <p className="text-base text-muted-foreground md:text-lg">{t('professionProcess.architectureSection.description')}</p>
-        </div>
-        <div className="mt-8 grid gap-4 lg:grid-cols-3">
-          <a href="#" className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5 lg:col-span-2">
-            <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="https://images.unsplash.com/photo-1647517649469-ba454dc72896?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
-            <div className="flex h-full flex-col justify-between p-10">
-              <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-building2 lucide-building-2 size-5 text-background" aria-hidden="true">
-                  <path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"></path>
-                  <path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"></path>
-                  <path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"></path>
-                  <path d="M10 6h4"></path>
-                  <path d="M10 10h4"></path>
-                  <path d="M10 14h4"></path>
-                  <path d="M10 18h4"></path>
-                </svg>
-              </span>
-              <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.integration.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.integration.description')}</p>
-                <Button variant="secondary" size="sm" className="mt-3 text-xs">
-                  <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
-                    <ArrowRight className="w-3 h-3" />
-                  </span>
-                </Button>
-              </div>
-            </div>
-          </a>
-          <a href="#" className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5">
-            <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="https://images.unsplash.com/photo-1698516923132-b0236bc8f3ef?q=80&w=2022&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
-            <div className="flex h-full flex-col justify-between p-10">
-              <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-landmark size-5 text-background" aria-hidden="true">
-                  <line x1="3" x2="21" y1="22" y2="22"></line>
-                  <line x1="6" x2="6" y1="18" y2="11"></line>
-                  <line x1="10" x2="10" y1="18" y2="11"></line>
-                  <line x1="14" x2="14" y1="18" y2="11"></line>
-                  <line x1="18" x2="18" y1="18" y2="11"></line>
-                  <polygon points="12 2 20 7 4 7"></polygon>
-                </svg>
-              </span>
-              <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.experiencedVisa.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.experiencedVisa.description')}</p>
-                <Button variant="secondary" size="sm" className="mt-3 text-xs">
-                  <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
-                    <ArrowRight className="w-3 h-3" />
-                  </span>
-                </Button>
-              </div>
-            </div>
-          </a>
-          <a href="#" className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5">
-            <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="https://images.unsplash.com/photo-1586869871566-d8e41dd50318?q=80&w=1970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
-            <div className="flex h-full flex-col justify-between p-10">
-              <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-layout-grid size-5 text-background" aria-hidden="true">
-                  <rect width="7" height="7" x="3" y="3" rx="1"></rect>
-                  <rect width="7" height="7" x="14" y="3" rx="1"></rect>
-                  <rect width="7" height="7" x="14" y="14" rx="1"></rect>
-                  <rect width="7" height="7" x="3" y="14" rx="1"></rect>
-                </svg>
-              </span>
-              <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.acceleratedProcedures.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.acceleratedProcedures.description')}</p>
-                <Button variant="secondary" size="sm" className="mt-3 text-xs">
-                  <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
-                    <ArrowRight className="w-3 h-3" />
-                  </span>
-                </Button>
-              </div>
-            </div>
-          </a>
-          <a href="#" className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5 lg:col-span-2">
-            <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="https://images.unsplash.com/photo-1588742415209-69dbb64791b6?q=80&w=2014&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
-            <div className="flex h-full flex-col justify-between p-10">
-              <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-compass size-5 text-background" aria-hidden="true">
-                  <path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"></path>
-                  <circle cx="12" cy="12" r="10"></circle>
-                </svg>
-              </span>
-              <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.recruitment.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.recruitment.description')}</p>
-                <Button variant="secondary" size="sm" className="mt-3 text-xs">
-                  <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
-                    <ArrowRight className="w-3 h-3" />
-                  </span>
-                </Button>
-              </div>
-            </div>
-          </a>
-       
-        </div>
-      </div>
-    </section>
+  
 
 
     {/* Süreç Detayları */}

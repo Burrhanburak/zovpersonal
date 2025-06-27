@@ -1,45 +1,88 @@
 'use client';
 
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { Instagram, Twitter, Linkedin } from "lucide-react";
+import z from "zod";
+import { zodResolver } from '@hookform/resolvers/zod';
+import { useForm } from 'react-hook-form';
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "@/components/ui/form";
+
+const ContactFormSchema = z.object({
+  fullName: z.string().min(2, {
+    message: "Full name must be at least 2 characters.",
+  }),
+  email: z.string().email({
+    message: "Please enter a valid email address.",
+  }),
+  message: z.string().min(10, {
+    message: "Message must be at least 10 characters.",
+  }),
+});
 
 export default function ContactPage() {
   const t = useTranslations();
-  const [formData, setFormData] = useState({
-    fullName: '',
-    email: '',
-    company: '',
-    employees: '',
-    message: ''
+  const locale = useLocale();
+  const form = useForm<z.infer<typeof ContactFormSchema>>({
+    resolver: zodResolver(ContactFormSchema),
+    defaultValues: {
+      fullName: "",
+      
+      email: "",
+      message: "",
+    },
   });
-  const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+  
+  async function onSubmit(values: z.infer<typeof ContactFormSchema>) {
+    console.log('📝 Contact form submitted:', values);
     setIsSubmitting(true);
-    
-    // Simulate form submission
+    setSubmitStatus('idle');
+
     try {
-      await new Promise(resolve => setTimeout(resolve, 2000));
-      setFormData({ fullName: '', email: '', company: '', employees: '', message: '' });
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          name: values.fullName,
+          email: values.email,
+          message: values.message,
+          locale
+        }),
+      });
+
+      const result = await response.json();
+
+      if (response.ok) {
+        console.log('✅ Email sent successfully:', result);
+        setSubmitStatus('success');
+        form.reset(); // Clear form after successful submission
+      } else {
+        console.error('❌ Error sending email:', result);
+        setSubmitStatus('error');
+      }
     } catch (error) {
-      console.error('Form submission error:', error);
+      console.error('❌ Network error:', error);
+      setSubmitStatus('error');
     } finally {
       setIsSubmitting(false);
     }
-  };
-
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    setFormData(prev => ({
-      ...prev,
-      [e.target.name]: e.target.value
-    }));
-  };
+  }
 
   return (
     <section className="relative mx-2.5 mt-2.5 rounded-t-2xl rounded-b-[36px] bg-gradient-to-b from-amber-50 via-background to-background py-32 lg:mx-4 dark:from-amber-950">
@@ -55,17 +98,15 @@ export default function ContactPage() {
           <div>
             <h2 className="font-semibold">{t('contact.offices.istanbul')}</h2>
             <p className="mt-3 text-muted-foreground">
-              Levent Mahallesi<br />
-              Büyükdere Caddesi No:123<br />
-              Istanbul, Turkey
+              Online<br />
             </p>
           </div>
           
           <div>
             <h2 className="font-semibold">{t('contact.offices.berlin')}</h2>
             <p className="mt-3 text-muted-foreground">
-              Unter den Linden 77<br />
-              10117 Berlin<br />
+              Brückstraße 59, 
+              26725 Emden<br />
               Germany
             </p>
           </div>
@@ -74,7 +115,6 @@ export default function ContactPage() {
             <h2 className="font-semibold">{t('contact.sections.email')}</h2>
             <div className="mt-3">
               <div>
-              
                 <a 
                   href="mailto:info@zovpersonal.com" 
                   className="text-muted-foreground hover:text-foreground"
@@ -125,58 +165,97 @@ export default function ContactPage() {
         
         <div className="mx-auto text-center">
           <h2 className="text-lg font-semibold">{t('contact.sections.inquiries')}</h2>
-          <form className="mt-8 space-y-5 text-left" onSubmit={handleSubmit}>
-            <div className="space-y-2 text-center">
-              <Label htmlFor="fullName" className="block text-left">{t('contact.form.fullName')}</Label>
-              <Input
-                id="fullName"
+          
+          <Form {...form}>
+            <form className="mt-8 space-y-5 text-left" onSubmit={form.handleSubmit(onSubmit)}>
+              {/* Full Name Field */}
+              <FormField
+                control={form.control}
                 name="fullName"
-                value={formData.fullName}
-                onChange={handleChange}
-                placeholder={t('contact.form.placeholders.fullName')}
-                required
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>{t('contact.form.fullName')}</FormLabel>
+                    <FormControl>
+                      <Input
+                        placeholder={t('contact.form.placeholders.fullName')}
+                        {...field}
+                        className="h-12 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-medium placeholder:text-[rgb(28,39,6)]/50 focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
               />
-            </div>
-            
-            <div className="space-y-2 text-center">
-              <Label htmlFor="email" className="block text-left">{t('contact.form.email')}</Label>
-              <Input
-                type="email"
-                id="email"
+
+              {/* Email Field */}
+              <FormField
+                control={form.control}
                 name="email"
-                value={formData.email}
-                onChange={handleChange}
-                placeholder={t('contact.form.placeholders.email')}
-                required
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>{t('contact.form.email')}</FormLabel>
+                    <FormControl>
+                      <Input
+                        type="email"
+                        placeholder={t('contact.form.placeholders.email')}
+                        {...field}
+                        className="h-12 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-medium placeholder:text-[rgb(28,39,6)]/50 focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
               />
-            </div>
-            
-           
-           
-            
-            <div className="space-y-2 text-center">
-              <Label htmlFor="message" className="block text-left">{t('contact.form.message')}</Label>
-              <Textarea
-                id="message"
+
+              {/* Message Field */}
+              <FormField
+                control={form.control}
                 name="message"
-                value={formData.message}
-                onChange={handleChange}
-                placeholder={t('contact.form.placeholders.message')}
-                className="min-h-[120px] resize-none"
-                required
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>{t('contact.form.message')}</FormLabel>
+                    <FormControl>
+                      <Textarea
+                        placeholder={t('contact.form.placeholders.message')}
+                        {...field}
+                        className="min-h-[120px] bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-medium placeholder:text-[rgb(28,39,6)]/50 focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200 resize-none"
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
               />
-            </div>
-            
-            <div className="flex justify-end">
-              <Button 
-                type="submit" 
+
+              {/* Submit Button */}
+              <Button
+                type="submit"
                 disabled={isSubmitting}
-                className="h-10 rounded-md px-6"
+                className="w-full h-14 bg-[rgb(28,39,6)] hover:bg-[rgb(28,39,6)]/90 disabled:bg-[rgb(28,39,6)]/50 disabled:cursor-not-allowed text-white rounded-[60px] font-medium text-base transition-all duration-200 hover:scale-[1.02] disabled:hover:scale-100"
               >
-                {isSubmitting ? `${t('contact.form.submit')}...` : t('contact.form.submit')}
+                {isSubmitting ? (
+                  <div className="flex items-center gap-2">
+                    <div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
+                    {t('contact.sending') || 'Sending...'}
+                  </div>
+                ) : (
+                  t('contact.form.submit')
+                )}
               </Button>
-            </div>
-          </form>
+
+              {/* Status Messages */}
+              {submitStatus === 'success' && (
+                <div className="w-full p-4 bg-green-100 border border-green-300 rounded-[15px] text-green-700 text-center font-medium">
+                  ✅ {t('contact.successMessage') || 'Message sent successfully! We will get back to you soon.'}
+                </div>
+              )}
+
+              {submitStatus === 'error' && (
+                <div className="w-full p-4 bg-red-100 border border-red-300 rounded-[15px] text-red-700 text-center font-medium">
+                  ❌ {t('contact.errorMessage') || 'An error occurred while sending the message. Please try again.'}
+                </div>
+              )}
+            </form>
+          </Form>
         </div>
       </div>
     </section>

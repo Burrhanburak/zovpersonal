@@ -1,0 +1,1357 @@
+{
+  "metadata": {
+    "title": "ZovPersonal - Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti",
+    "description": "Pouzdani partner koji povezuje kvalifikovane profesionalce sa međunarodnim poslodavcima. Usluge zapošljavanja orijentisane ka budućnosti za Nemačku, EU zemlje i više.",
+    "keywords": "međunarodno zapošljavanje, partnerstvo sa poslodavcima, plasman posla, poslovi u Nemačkoj, zapošljavanje u EU, agencija za zapošljavanje, zovpersonal"
+  },
+  "nav": {
+      "home": "Početna",
+      "services": "Usluge",
+      "about": "O Nama",
+      "contact": "Kontakt",
+      "consultation": "Besplatno Partnerstvo sa Poslodavcima"
+    },
+    "hero": {
+      "title": "Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti (ZOV)",
+      "subtitle": "Vaš pouzdani partner za međunarodne karijerne prilike",
+      "description": "Povezujemo kvalifikovane profesionalce sa inovativnim kompanijama širom sveta. Zaposlenje orijentisano ka budućnosti za održivi uspeh u Nemačkoj i EU.",
+      "longDescription": "Vaš pouzdani partner koji povezuje kvalifikovane profesionalce sa međunarodnim poslodavcima. Bez obzira da li tražite podršku u procesu zapošljavanja ili težite karijeri u inostranstvu, ostvarite uspeh sa našim stručnim timom.",
+      "cta": "Zatražite Poziv",
+      "secondary_cta": "Saznajte Više",
+      "learnMore": "Saznajte Više",
+      "tag1": "Tražilac Posla",
+      "tag2": "Poslodavac"
+      },
+  "acceleratedProcedure": {
+    "title": "Ubrzana Procedura za Stručne Radnike",
+    "subtitle": "Poseban proces razvijen za ubrzavanje imigracionog i postupka priznavanja za stručne radnike iz inostranstva. Ovaj proces je osmišljen da minimizuje birokratske barijere i ubrza dozvole.",
+    "imageAlt": "Ubrzana procedura",
+    "employerInitiation": "Inicijativa Poslodavca - Proces pokreće i koordinira poslodavac",
+    "qualificationRecognition": "Priznavanje Kvalifikacija - Strane kvalifikacije se brzo procenjuju i priznaju",
+    "comprehensiveSupport": "Sveobuhvatna Podrška - Poslodavac preuzima većinu postupka prijave",
+    "reducedBureaucracy": "Smanjena Birokratija - Brzi rezultati sa maksimalno 3 meseca vremena obrade",
+    "internationalRecruitment": "Međunarodno Zapošljavanje - Saradnja sa specijalizovanim platformama kao što je Jobsingermany.net"
+  },
+  "home": {
+    "carousel": {
+      "badge": "Međunarodno zapošljavanje usmereno na budućnost",
+      "title": "Međunarodno zapošljavanje usmereno na budućnost",
+      "description": "Naš program za tražioce posla osmišljen je da vam pomogne da pronađete posao iz snova u inostranstvu. Pružamo alate i resurse potrebne za vaš uspeh.",
+        "cards": {
+          "recruitment": {
+            "category": "Privlačenje talenata",
+            "title": "Globalna rešenja za zapošljavanje"
+          },
+          "partnership": {
+            "category": "Partnerstvo sa poslodavcima",
+            "title": "Strateška poslovna partnerstva"
+          },
+          "visaprocess": {
+            "category": "Vize i dokumentacija",
+            "title": "Kompletna obrada viza"
+          },
+          "support": {
+            "category": "24/7 podrška",
+            "title": "Kontinuirana podrška klijentima"
+          },
+          "healthcare": {
+            "category": "Zdravstveni sektor",
+            "title": "Zapošljavanje medicinskih stručnjaka"
+          },
+          "technology": {
+            "category": "IT i tehnologija",
+            "title": "Rešenja za tehnološke talente"
+          }
+        },
+        "content": {
+          "recruitment": {
+            "highlight": "Pronađite savršeno poklapanje talenata.",
+            "description": "Naša napredna metodologija zapošljavanja vas povezuje sa kvalifikovanim stručnjacima iz celog sveta. Pojednostavljujemo ceo proces zapošljavanja od pretrage kandidata do konačnog zapošljavanja.",
+            "features": [
+              {
+                "title": "Globalni fond talenata",
+                "description": "Pristup preko 50.000 kvalifikovanih stručnjaka u različitim industrijama i zemljama."
+              },
+              {
+                "title": "Brzo zapošljavanje",
+                "description": "Prosečno vreme zapošljavanja od 45 dana sa 95% zadržavanjem kandidata."
+              }
+            ]
+          },
+          "partnership": {
+            "highlight": "Izgradite trajne poslovne odnose.",
+            "description": "Stvaramo strateška partnerstva između poslodavaca i međunarodnih talenata. Naš sveobuhvatan pristup obezbeđuje održiv rast i uzajamni uspeh za sve uključene strane.",
+            "features": [
+              {
+                "title": "Upravljanje partnerstvima",
+                "description": "Posvećeni upravljači naloga za kontinuirano izgradnju odnosa i podršku."
+              },
+              {
+                "title": "Metrike uspeha",
+                "description": "Praćenje performansi sa detaljnim analizama i redovnim pregledima partnerstva."
+              }
+            ]
+          },
+          "visaprocess": {
+            "highlight": "Pojednostavite složene procedure za vize.",
+            "description": "Navigirajte sa poverenjem kroz međunarodne zahteve za vize. Naš stručni tim rukuje svom dokumentacijom, procesima aplikacija i pravnim usklađenošću za besprekorne prelaze.",
+            "features": [
+              {
+                "title": "Stručna dokumentacija",
+                "description": "Profesionalna priprema svih potrebnih dokumenata sa 100% stopom usklađenosti."
+              },
+              {
+                "title": "Pravna usklađenost",
+                "description": "Budite u toku sa promenljivim imigracionim zakonima i zahtevima."
+              }
+            ]
+          },
+          "support": {
+            "highlight": "Podrška koja se nikad ne završava.",
+            "description": "Naša posvećenost se proteže van zapošljavanja. Pružamo kontinuiranu podršku za obezbeđivanje dugoročnog uspeha i za poslodavce i za zaposlene tokom njihovog putovanja.",
+            "features": [
+              {
+                "title": "24/7 dostupnost",
+                "description": "Podrška oko sata za hitne stvari i kontinuiranu pomoć."
+              },
+              {
+                "title": "Podrška za integraciju",
+                "description": "Kulturna integracija i usluge prilagođavanja za glatke prelaze."
+              }
+            ]
+          },
+          "healthcare": {
+            "highlight": "Izvrsnost u zdravstvenim talentima.",
+            "description": "Specijalizovano zapošljavanje za zdravstvene stručnjake uključujući lekare, medicinske sestre, terapeute i medicinske tehničare. Razumemo jedinstvene zahteve zdravstvenog sektora.",
+            "features": [
+              {
+                "title": "Medicinske licence",
+                "description": "Pomoć sa priznavanjem medicinskih licenci i profesionalnom sertifikacijom."
+              },
+              {
+                "title": "Validacija veština",
+                "description": "Sveobuhvatna procena medicinskih kvalifikacija i praktičnih veština."
+              }
+            ]
+          },
+          "technology": {
+            "highlight": "Osnažite svoju tehnološku transformaciju.",
+            "description": "Povežite se sa vrhunskim IT stručnjacima i tehnološkim ekspertima. Od programera do naučnika podataka, mi obezbeđujemo talente koji pokreću inovacije.",
+            "features": [
+              {
+                "title": "Tehnološka ekspertiza",
+                "description": "Stručnjaci u AI, blockchain, cloud computing i nastajućim tehnologijama."
+              },
+              {
+                "title": "Brza implementacija",
+                "description": "Brza rešenja za zapošljavanje za hitne tehnološke projekte i uloge."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "Međunarodna Agencija za Zaposlenje Fokusirana na Budućnost (ZOV)",
+        "subtitle": "ZovPersonal povezuje kvalifikovane profesionalce sa vodećim evropskim kompanijama kroz međunarodne procese zapošljavanja usmerene ka budućnosti.",
+        "description1": "U ZovPersonal-u, posvećeni smo pružanju našim klijentima neuporedive prednosti nad kašnjenjima, neefikasnostima i neorganizovanošću kroz korisne uvide i besprekorne saradnje. Nećemo se zaustaviti ni pred čim da vam pružimo alate potrebne za uspešno završavanje svake vize.",
+        "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo vam pomogli da radite bolje nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kao kompanija, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
+      },
+      "stats": {
+        "experience": {
+          "number": "12+",
+          "label": "Godina Infrastrukture"
+        },
+        "clients": {
+          "number": "5K+",
+          "label": "Uspešnih Klijenata"
+        },
+        "visas": {
+          "number": "10K+",
+          "label": "Odobrenih Viza"
+        },
+        "countries": {
+          "number": "25+",
+          "label": "Ciljne Zemlje"
+        }
+      },
+      "team": {
+        "title": "Tim",
+        "description1": "Počeli smo da gradimo ZovPersonal 2019. godine i pokrenuli smo ga 2022. godine. Svaki proces je dizajniran od temelja — bez tehničkog duga ili zastarelih sistema. Svrhovito smo napravljeni da pokrećemo inovacije u zapošljavanju i partnerstvu sa poslodavcima za narednih sto godina.",
+        "description2": "Naši iskusni konsultanti razumeju jedinstvene potrebe svakog klijenta i pružaju personalizovana rešenja. Ovde smo da pojednostavimo složenosti procesa zapošljavanja i učinimo vaše putovanje zaposlenja besprekorno.",
+        "description3": "Kontaktirajte nas za partnerstvo sa poslodavcima.",
+        "cta": "Kontaktirajte Nas"
+      },
+      "company": {
+        "description1": "U ZovPersonal-u, posvećeni smo transformaciji međunarodnih procesa viza i pružanju našim klijentima neuporedive prednosti nad kašnjenjima i neefikasnostima. Kroz korisne uvide i besprekorne saradnje, pružamo alate potrebne za uspeh svake aplikacije za vizu.",
+        "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo mogli pružiti bolju uslugu nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kompanije, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
+      },
+      "images": {
+        "teamWork": "Saradnja tima",
+        "officeSpace": "Kancelarijski prostor",
+        "consulting": "Konsultantske usluge",
+        "success": "Priče o uspehu"
+      },
+      "partners": {
+        "title": "Naši partneri",
+        "partner1": {
+          "name": "Anna Schneider",
+          "role": "Specijalista za zapošljavanje"
+        },
+        "partner2": {
+          "name": "Ayşe Demir",
+          "role": "Pravni savetnik"
+        },
+        "partner3": {
+          "name": "Ali Kaya",
+          "role": "Razvoj poslovanja"
+        },
+        "partner4": {
+          "name": "Fatma Öz",
+          "role": "Odnosi sa klijentima"
+        },
+        "partner5": {
+          "name": "Lukas Wagner",
+          "role": "Menadžer operacija"
+        }
+      },
+      "description": "Vodimo vas ka vašim međunarodnim karijernim ciljevima i pojednostavljujemo procese zapošljavanja kako bismo stvorili prilike za rad u vašoj zemlji iz snova. Sa 15 godina infrastrukture, pružamo pouzdane usluge zapošljavanja i partnerstva sa poslodavcima širom sveta.",
+      "features": {
+        "compassion": "Empatija i razumevanje",
+        "integrity": "Iskrenost i pouzdanost",
+        "mindGrowth": "Lični i profesionalni rast"
+      }
+    },
+    "services": {
+      "title": "Naše Usluge",
+      "subtitle": "Sveobuhvatna rešenja za zapošljavanje i partnerstvo sa poslodavcima",
+      "countries": {
+        "title": "Zemlje",
+        "subtitle": "Od start-ap kompanija nove generacije do utemeljenih organizacija.",
+        "countryNames": {
+          "germany": "Nemačka",
+          "austria": "Austrija",
+          "netherlands": "Holandija",
+          "switzerland": "Švajcarska",
+          "belgium": "Belgija",
+          "luxembourg": "Luksemburg",
+          "denmark": "Danska",
+          "romania": "Rumunija",
+          "croatia": "Hrvatska",
+          "bulgaria": "Bugarska",
+          "sweden": "Švedska",
+          "finland": "Finska",
+          "serbia": "Srbija"
+        }
+      },
+      "workVisa": {
+        "title": "Aplikacije za Radnu Viznu",
+        "description": "Potpuna pomoć u aplikacijama za radne vize za razne zemlje uključujući Nemačku, Austriju, Holandiju i druge."
+      },
+      "skillsAssessment": {
+        "title": "Procena Veština",
+        "description": "Profesionalna evaluacija vaših kvalifikacija i povezivanje sa međunarodnim poslovnim prilikama."
+      },
+      "documentation": {
+        "title": "Priprema Dokumentacije",
+        "description": "Stručna pomoć u pripremi dokumenata, prevodu i uslugama overe."
+      },
+      "consultation": {
+        "title": "Lične Konsultacije",
+        "description": "Individualne konsultacije kako bismo razumeli vaše specifične potrebe i karijerne ciljeve."
+      },
+      "tabContent": {
+        "workVisa": {
+          "title": "Korak po korak proces aplikacije za radnu vizu",
+          "description": "Profesionalno pripremamo i pratimo vaše aplikacije za radnu vizu.",
+          "stat1": { "number": "95%", "label": "stopa odobrenja" },
+          "stat2": { "number": "30", "label": "dana prosečno vreme" },
+          "category": "Aplikacije za Radnu Viznu"
+        },
+        "documentation": {
+          "title": "Proces pripreme dokumenata",
+          "description": "Pripremamo sve vaše dokumente po međunarodnim standardima i overavamo ih.",
+          "stat1": { "number": "100%", "label": "usklađenost dokumenata" },
+          "stat2": { "number": "48", "label": "sati spremno" },
+          "category": "Priprema Dokumentacije"
+        },
+        "skillsAssessment": {
+          "title": "Analiziraj. Evaluiraj. Vodi.",
+          "description": "Analiziramo vaše profesionalne kvalifikacije i povezujemo ih sa međunarodnim poslovnim prilikama.",
+          "stat1": { "number": "85%", "label": "pronalazak odgovarajuće pozicije" },
+          "stat2": { "number": "12", "label": "godina infrastrukture" },
+          "category": "Procena Veština"
+        }
+      },
+      "tabButtons": {
+        "workVisa": "Radna Viza",
+        "documentation": "Dokumentacija",
+        "skillsAssessment": "Procena Veština"
+      }
+    },
+    "professions": {
+      "title": "Profesionalne Kategorije",
+      "subtitle": "Specijalizovani smo za aplikacije viza za razne profesionalne oblasti",
+      "healthcare": {
+        "title": "Zdravstveni Radnici",
+        "description": "Medicinske sestre, doktori, terapeuti i drugi zdravstveni radnici",
+        "requirements": "Potrebni dokumenti i kvalifikacije"
+      },
+      "engineering": {
+        "title": "Inženjeri & IT",
+        "description": "Softverski programeri, inženjeri i tehnički specijalisti",
+        "requirements": "Tehničke kvalifikacione zahteve"
+      },
+      "skilled": {
+        "title": "Kvalifikovani Radnici",
+        "description": "Zanatski radnici, tehničari i kvalifikovani radnici",
+        "requirements": "Zahtevi za profesionalnu sertifikaciju"
+      },
+      "education": {
+        "title": "Obrazovanje & Istraživanje",
+        "description": "Nastavnici, istraživači i akademski profesionalci",
+        "requirements": "Zahtevi za akademske akreditive"
+      }
+    },
+    "documents": {
+      "title": "Potrebni Dokumenti",
+      "subtitle": "Osnovna dokumentacija za vašu aplikaciju za vizu",
+      "categories": {
+        "personal": {
+          "title": "Lični Dokumenti",
+          "description": "Pasoš sa najmanje 6 meseci važenja, identifikacioni dokumenti i papiri koji sadrže vaše lične informacije."
+        },
+        "education": {
+          "title": "Obrazovni Dokumenti",
+          "description": "Diplome, sertifikati i dokumenti o znanju jezika. Apostil može biti potreban za međunarodno priznavanje."
+        },
+        "professional": {
+          "title": "Profesionalni Dokumenti",
+          "description": "Pismo ponude posla, ugovor o zaposlenju, sertifikati o profesionalnim kvalifikacijama i dokumenti o iskustvu."
+        },
+        "medical": {
+          "title": "Medicinski & Pravni",
+          "description": "Medicinski izveštaj, provera kriminalne prošlosti, dokumenti o finansijskom statusu i vaše biometrijske fotografije."
+        }
+      },
+      "list": [
+        "Važeći pasoš sa najmanje 6 meseci važenja",
+        "Obrazovni sertifikati i diplome",
+        "Sertifikati o profesionalnim kvalifikacijama",
+        "Sertifikati o znanju jezika (nemački/engleski)",
+        "Pismo ponude posla ili ugovor o zaposlenju",
+        "Izveštaji o medicinskom pregledu",
+        "Provera kriminalne prošlosti",
+        "Dokaz o finansijskim sredstvima",
+        "Popunjeni obrasci za aplikaciju za vizu",
+        "Biometrijske fotografije"
+      ]
+    },
+    "process": {
+      "title": "Naš Proces Aplikacije za Viznu",
+      "subtitle": "Minimiziramo složenost upravljanja vašim složenim dokumentima sa našim alatima koji pojednostavljuju vaš proces aplikacije za vizu.",
+      "step1": {
+        "title": "Inicijalna Konsultacija i Procena",
+        "description": "Analiziramo vaš profil i ciljeve kako bismo razvili personalizovanu strategiju vize za vas.",
+        "alt": "Konsultacija za vizu"
+      },
+      "step2": {
+        "title": "Priprema i Pregled Dokumenata",
+        "description": "Pripremamo sve vaše dokumente po međunarodnim standardima i trenutno otkrivamo bilo kakve nedostatke.",
+        "alt": "Priprema dokumenata"
+      },
+      "step3": {
+        "title": "Aplikacija i Praćenje",
+        "description": "Sigurno podnosimo vašu aplikaciju i kontinuirano je pratimo do završetka.",
+        "alt": "Praćenje aplikacije"
+      }
+    },
+    "contact": {
+      "title": "Razgovarajmo",
+      "jobSeeker": "Tražilac Posla",
+      "employer": "Poslodavac",
+      "subtitle": "Bilo da ste spremni da zakazete svoju prvu konsultaciju ili samo imate pitanja, voleli bismo da vas čujemo.",
+      "pageTitle": "Kontaktirajte nas",
+      "pageSubtitle": "Ovde smo da pomognemo sa vašim upitima o viznim konsultacijama.",
+      "offices": {
+        "istanbul": "🇹🇷 Kancelarija u Istanbulu",
+        "berlin": "🇩🇪 Kancelarija u Berlinu"
+      },
+      "sections": {
+        "email": "Pošaljite nam e-mail",
+        "follow": "Pratite nas",
+        "inquiries": "Upiti"
+      },
+      "selectApplicantType": "Izaberite Tip Aplikanta",
+      "namePlaceholder": "Ime",
+      "emailPlaceholder": "E-mail Adresa",
+      "datePlaceholder": "Izaberite Datum",
+      "messagePlaceholder": "Poruka",
+      "submitButton": "Rezervišite Sada",
+      "sending": "Slanje...",
+      "successMessage": "Vaša poruka je uspešno poslana! Uskoro ćemo vam se javiti.",
+      "errorMessage": "Došlo je do greške prilikom slanja poruke. Molimo pokušajte ponovo.",
+      "imageAlt": "Kontaktirajte nas za vizne konsultacije",
+      "phone": "Telefon",
+      "email": "E-mail",
+      "address": "Adresa",
+      "form": {
+        "fullName": "Puno ime",
+        "email": "Poslovna e-mail adresa",
+        "message": "Vaša poruka",
+        "submit": "Pošalji",
+        "optional": "(opciono)",
+        "placeholders": {
+          "fullName": "Ime i prezime",
+          "email": "ja@mail.com",
+          "message": "Napišite svoju poruku"
+        }
+      }
+    },
+    "cta": {
+      "title": "Spremni da Započnete Svoju Međunarodnu Karijeru?",
+      "subtitle": "Dobijte besplatnu konsultaciju sa našim stručnim timom i napravite prvi korak ka poslu iz snova u inostranstvu.",
+      "button": "Dobijte Besplatnu Konsultaciju"
+    },
+    "footer": {
+      "ctaTitle": "Pametnije Konsultacije.\nIdite Napred sa Samopouzdanjem",
+      "ctaSubtitle": "Pristupite novoj eri sa hibridnim rešenjima, naprednim alatima i konsultantskim uslugama na nivou preduzeća.",
+      "ctaButton": "Započnite",
+      "ctaSecondary": "Pogledajte Naše Usluge",
+      "supportingText": "Vaš pouzdani partner za međunarodne vizne konsultacije i karijerno vođenje.",
+      "copyright": "Autorska prava ©2025. Sva prava zadržana.",
+      "links": {
+        "home": "Početna",
+        "services": "Usluge",
+        "about": "O Nama",
+        "contact": "Kontakt",
+        "requiredDocuments": "Potrebni Dokumenti",
+        "applicationProcess": "Proces Aplikacije za Nacionalnu Viznu",
+        "pricing": "Cene",
+        "additionalServices": "Dodatne Usluge",
+        "nationalVisaSteps": "Koraci za Nacionalnu Viznu (90+ Dana)"
+      },
+      "description": "Profesionalne međunarodne usluge viznih konsultacija za rad",
+      "quickLinks": "Brzi Linkovi",
+      "ourServices": "Resursi",
+      "email": "info@zovpersonal.com",
+      "phone": "(Turska) | +90 555 123 45 67 (Nemačka) | +49 30 12345678",
+      "address": "Istanbul, Turska, Brückstraße 59, 26725 Emden, Nemačka",
+      "visa": {
+        "requiredDocuments": "Potrebni Dokumenti",
+        "applicationProcess": "Međunarodno Regrutovanje",
+        "pricing": "Cene",
+        "additionalServices": "Dodatne Usluge",
+        "nationalVisaSteps": "Koraci za Nacionalnu Viznu",
+        "professions": "Proces Profesija",
+        "businessProcess": "Poslovni Procesi u Nemačkoj"
+      },
+      "social": {
+        "instagram": {
+          "url": "https://instagram.com/zovpersonal",
+          "alt": "Pratite nas na Instagramu"
+        },
+        "twitter": {
+          "url": "https://twitter.com/zovpersonal",
+          "alt": "Pratite nas na Twitteru"
+        },
+        "linkedin": {
+          "url": "https://linkedin.com/company/zovpersonal",
+          "alt": "Pratite nas na LinkedIn-u"
+        }
+      },
+      "contact": {
+        "title": "Kontakt",
+        "email": "E-mail",
+        "phone": "Telefon",
+        "employer": "Poslodavac",
+        "jobSeeker": "Tražilac Posla",
+        "selectApplicantType": "Izaberite Tip Kandidata"
+      },
+      "services": {
+        "workVisa": "Aplikacije za Radnu Viznu",
+        "skillsAssessment": "Procena Veština",
+        "documentation": "Priprema Dokumentacije",
+        "consultation": "Lične Konsultacije"
+      },
+      "legal": "Naše konsultantske usluge su samo u informativne svrhe i ne predstavljaju garancije. Procesi aplikacije za vizu su podložni propisima zemlje i rezultati mogu varirati. Molimo kontaktirajte naše stručne konsultante kako biste procenili vašu ličnu situaciju.",
+      "privacy": "Politika Privatnosti",
+      "terms": "Uslovi Korišćenja",
+      "rightsReserved": "Sva prava zadržana"
+    },
+    "privacyPolicy": {
+      "title": "Politika Privatnosti",
+      "subtitle": "ZovPersonal Konsultantske Usluge - Zaštita i Sigurnost Vaših Ličnih Podataka",
+      "sections": {
+        "intro": {
+          "title": "Naša Politika Privatnosti",
+          "content": "Kao ZovPersonal Consulting and Service Foreign Trade Inc., pokazujemo najviši nivo osetljivosti u pogledu sigurnosti vaših ličnih podataka. Ova politika privatnosti objašnjava kako prikupljamo, obrađujemo, štitimo i čuvamo vaše lične podatke kada koristite naše usluge.",
+          "kvkk": "Kao kontrolori podataka prema Zakonu o Zaštiti Ličnih Podataka br. 6698 (KVKK), obezbeđujemo potpunu usklađenost sa zakonodavstvom u obradi vaših ličnih podataka."
+        },
+        "dataCollection": {
+          "title": "Lični Podaci Koje Prikupljamo",
+          "identity": {
+            "title": "Identifikacija i Kontakt Informacije",
+            "items": ["Ime, prezime", "Datum i mesto rođenja", "Broj nacionalne identifikacije", "Informacije o pasošu", "Broj telefona", "E-mail adresa", "Informacije o adresi"]
+          },
+          "visa": {
+            "title": "Informacije o Aplikaciji za Viznu",
+            "items": ["Status obrazovanja", "Profesionalne informacije", "Status prihoda", "Istorija putovanja", "Porodični status", "Zdravstveni status (kada je potrebno)"]
+          },
+          "technical": {
+            "title": "Tehnički Podaci",
+            "items": ["IP adresa", "Informacije o pregledaču", "Informacije o uređaju", "Podaci o korišćenju veb-sajta"]
+          }
+        },
+        "processing": {
+          "title": "Svrhe Obrade Ličnih Podataka",
+          "description": "Vaši lični podaci se obrađuju za sledeće svrhe:",
+          "purposes": ["Sprovođenje procesa aplikacije za vizu", "Pružanje konsultantskih usluga", "Upravljanje odnosima sa klijentima", "Ispunjavanje zakonskih obaveza", "Poboljšanje kvaliteta usluge", "Statistička analiza", "Merenje zadovoljstva klijenata", "Preduzimanje bezbednosnih mera"]
+        },
+        "security": {
+          "title": "Sigurnost Podataka",
+          "description": "Preduzimamo sledeće tehničke i administrativne mere za sigurnost vaših ličnih podataka:",
+          "measures": ["Šifrovani prenos podataka sa SSL sertifikatom", "Sigurna serverska infrastruktura", "Kontrola pristupa i autorizacija", "Redovna ažuriranja bezbednosti", "Obuka osoblja i ugovori o poverljivosti", "Procedure za rezervnu kopiju i oporavak podataka", "24/7 nadzor bezbednosti"]
+        },
+        "rights": {
+          "title": "Prava Subjekata Podataka",
+          "description": "Imate sledeća prava prema KVKK:",
+          "list": {
+            "info": {
+              "title": "Pravo na Informacije",
+              "description": "Pravo da saznate da li se vaši lični podaci obrađuju"
+            },
+            "access": {
+              "title": "Pravo na Pristup",
+              "description": "Pravo da zahtevate informacije o vašim obrađenim ličnim podacima"
+            },
+            "rectification": {
+              "title": "Pravo na Ispravku",
+              "description": "Pravo da zahtevate ispravku netačnih ili nepotpunih podataka"
+            },
+            "erasure": {
+              "title": "Pravo na Brisanje",
+              "description": "Pravo da zahtevate brisanje vaših ličnih podataka"
+            },
+            "objection": {
+              "title": "Pravo na Prigovor",
+              "description": "Pravo da se usprotivite obradi podataka i zahtevate njeno prestanak"
+            },
+            "portability": {
+              "title": "Pravo na Prenosivost",
+              "description": "Pravo da zahtevate prenos vaših podataka drugom kontroloru podataka"
+            }
+          },
+          "howToUse": {
+            "title": "Kako Možete Ostvariti Svoja Prava?",
+            "description": "Možete koristiti sledeće kanale komunikacije da biste ostvarili gore navedena prava:",
+            "channels": ["E-mail: info@zovpersonal.com", "Pismena aplikacija: Ručna dostava ili pošta na adresu naše kompanije", "Online obrazac: Obrazac za aplikaciju na www.zovpersonal.com"]
+          }
+        },
+        "cookies": {
+          "title": "Kolačići",
+          "description": "Koristimo kolačiće na našem veb-sajtu kako bismo poboljšali korisničko iskustvo. Kolačići su male tekstualne datoteke koje se čuvaju u vašem veb pregledaču. Možete kontrolisati upotrebu kolačića iz postavki vašeg pregledača."
+        },
+        "contact": {
+          "title": "Kontakt",
+          "description": "Možete nas kontaktirati za pitanja o našoj politici privatnosti:",
+          "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+          "offices": {
+            "turkey": {
+              "title": "Kancelarija u Turskoj",
+              "address": "Adresa",
+              "phone": "Telefon",
+              "location": "Istanbul, Turska"
+            },
+            "germany": {
+              "title": "Kancelarija u Nemačkoj",
+              "address": "Adresa",
+              "phone": "Telefon",
+              "location": "Berlin, Nemačka"
+            }
+          }
+        }
+      }
+    },
+    "termsOfService": {
+      "title": "Uslovi Korišćenja",
+      "subtitle": "ZovPersonal Konsultantske Usluge - Bezbednosni Propisi i Zaštita Ličnih Podataka",
+      "sections": {
+        "securityRegulations": {
+          "title": "BEZBEDNOSNI PROPISI",
+          "intro": "Obaveštenje o Bezbednosnim Propisima koji obuhvataju stvari koje moraju biti poštovane i kojima se mora pridržavati od strane aplikanata koji posećuju ZovPersonal Centre za Aplikaciju za Viznu;",
+          "description": "U skladu sa bezbednosnim zahtevima nemačkih/italijanskih predstavništava, aplikanatima koji posećuju ZovPersonal kancelarije zabranjeno je da obavljaju sledeće radnje i donose i koriste navedene predmete u ZovPersonal kancelarijama:",
+          "prohibitedItems": [
+            "Mobilni telefoni, kamere, video kamere ili bilo koji drugi uređaji koji snimaju audio/video (mp3 čitači/plejeri, prenosni računari, uređaji za snimanje na baterije, itd.)",
+            "Svi vrsta zapaljivih (šibice, upaljači, gorivo i slični zapaljivi) i oštrih (makaze, oštrila za olovke, turpije, itd.) predmeta",
+            "Oružje ili predmeti slični oružju ili bilo koji eksplozivni materijali",
+            "Kućni ljubimci (zbog alergijskih osetljivosti)",
+            "Zapečaćene koverte ili paketi",
+            "Hrana i piće",
+            "Torbe ili koferi veći od kabinske veličine, ruksaci, aktovke ili torbe sa patentnim zatvaračem (Ako imate dosijee, možete zadržati samo dosijee koji sadrže tražene dokumente)"
+          ],
+          "disclaimer": "*Gore navedena lista nije ograničena na navedene.",
+          "additionalRules": [
+            "Bezbednosni čuvari i službenici kancelarije imaju pravo da zabrane sumnjive predmete i odbiju ulazak sumnjivim osobama u naše kancelarije. Bezbednosni čuvari imaju ovlašćenje da proveravaju torbu aplikanta u bilo kom trenutku tokom procesa aplikacije za vizu.",
+            "Iz bezbednosnih razloga, trećim stranama kao što su prijatelji, rođaci ili zaposleni na radnom mestu, osim aplikanta, zabranjen je ulazak u aplikacije za vizu (Ulazak u ZovPersonal kancelarije nije moguć osim za aplikanta i osobu koja će aplicirati po punomoćju). Samo 1 osoba će biti prihvaćena da prati aplikanate koji fizički trebaju pomoć drugog, imaju oštećenja sluha ili ne mogu čitati i pisati.",
+            "Aplikanatima je zabranjeno ulaziti u oblasti osim zajedničkih oblasti rezervisanih za aplikanate u našim kancelarijama (radne oblasti osoblja, toaleti, itd.).",
+            "ZovPersonal kancelarije nemaju mesto za čuvanje gore navedenih zabranjenih predmeta. ZovPersonal kancelarije takođe ne prihvataju depozite. Aplikanati se mole da izaberu alternativne načine da ne donose takve karakteristike i tipove predmeta sa sobom pre ulaska u centar.",
+            "ZovPersonal kancelarije se snimaju kamerama 24/7 zbog naše bezbednosne politike."
+          ],
+          "footer": "Poštovano vas obaveštavamo."
+        },
+        "dataProtection": {
+          "title": "OPŠTI TEKST INFORMACIJA O ZAŠTITI I OBRADI LIČNIH PODATAKA",
+          "intro": "Kao ZovPersonal Consulting and Service Foreign Trade Inc. (\"ZovPersonal\" ili \"Kompanija\"), pokazujemo maksimalnu osetljivost prema sigurnosti vaših ličnih podataka. Sa ovom svesti, pridajemo veliku važnost obradi i čuvanju ličnih podataka koji pripadaju fizičkim osobama sa kojima Kompanija interaguje u skladu sa Zakonom o Zaštiti Ličnih Podataka br. 6698 (\"Zakon\"), sekundarnim propisima (propisi, saopštenja, cirkulari) koji su stupili i koji će stupiti na snagu na osnovu Zakona, i obavezujućim odlukama koje je donelo i koje će doneti Odbor za Zaštitu Ličnih Podataka.",
+          "dataController": {
+            "title": "Informacije o Kontroloru Podataka",
+            "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., registrovan kod Trgovinskog Registra Istanbul, je Kontrolor Podataka u skladu sa Zakonom."
+          },
+          "processingPurposes": {
+            "title": "Svrhe Obrade Ličnih Podataka",
+            "content": "Vaši lični podaci se obrađuju od strane Kompanije za svrhe obavljanja neophodnih radova od strane poslovnih jedinica Kompanije i sprovođenja aktivnosti u tom pravcu za ispunjenje komercijalnih aktivnosti Kompanije u skladu sa zakonodavstvom i politikama Kompanije, određivanje, planiranje i implementaciju kratkoročnih, srednjoročnih i dugoročnih komercijalnih politika Kompanije, ispunjenje obaveza Kompanije koje proističu iz relevantnog zakonodavstva, upravljanje odnosima sa klijentima i procesima korporativne komunikacije, upravljanje procesima prodaje usluga, upravljanje procesima pozivnog centra, i obezbeđivanje komercijalne i pravne sigurnosti fizičkih i pravnih lica sa kojima Kompanija ima poslovne odnose, unutar granica specificiranih u Zakonu, u skladu sa zakonom, pravilima poštenja, i uvek u povezanoj, ograničenoj i proporcionalnoj meri sa ovim svrhama."
+          },
+          "dataTransfer": {
+            "title": "Prenos Ličnih Podataka",
+            "content": "Vaši lični podaci se prenose u okviru gore navedenih svrha, u skladu sa uslovima specificiranim u članovima 8 i 9 Zakona, prvenstveno zakonski ovlašćenim javnim institucijama, sudskim i administrativnim vlastima, privatnim pravnim licima i fizičkim licima dozvoljenim drugim zakonodavstvom, institucijama i organizacijama ovlašćenim da revidiraju Kompaniju, institucijama za plaćanje ugovorenim za ispunjenje plaćanja i finansijskih obaveza, poslovnim partnerima od kojih se primaju usluge ili sa kojima se sarađuje za ispunjenje usluga pruženih preko pozivnog centra i za sprovođenje i razvoj aktivnosti Kompanije, i samo kada je potrebno dobavljačima Kompanije, uz preduzimanje mera bezbednosti podataka specificiranih u Zakonu."
+          },
+          "collectionMethod": {
+            "title": "Metod i Pravni Osnov za Prikupljanje Ličnih Podataka",
+            "content": "Vaši lični podaci se prikupljaju od strane ovlašćenih jedinica i zaposlenih Kompanije putem automatskih i neautomatskih metoda, usmeno, pismeno ili elektronski. U ovom kontekstu, lični podaci u kategorijama identiteta, komunikacije, lokacije, pravne transakcije, transakcije klijenta, sigurnost transakcija, upravljanje rizicima, finansije se obrađuju na osnovu pravnih razloga obrade ličnih podataka koji pripadaju strankama ugovora koji su obavezni zbog direktne povezanosti sa uspostavljanjem ili izvršenjem ugovora prikazanih u drugom stavku člana 5 Zakona, obrade podataka koji su obavezni za kontrolora podataka da ispuni svoju zakonsku obavezu, koji su javno objavljeni od strane subjekta podataka, i obrade podataka koji su obavezni za legitimne interese Kompanije, pod uslovom da ne štete osnovnim pravima i slobodama subjekta podataka."
+          },
+          "dataSubjectRights": {
+            "title": "Prava Subjekata Podataka Prema Zakonu",
+            "intro": "Možete se obratiti ZovPersonal-u u bilo kom trenutku da:",
+            "rights": [
+              "Saznate da li se vaši lični podaci obrađuju",
+              "Zatražite informacije o tome ako su vaši lični podaci obrađeni",
+              "Saznate svrhu obrade vaših ličnih podataka i da li se koriste u skladu sa njihovom svrhom",
+              "Znate treće strane kojima su vaši lični podaci preneti u zemlji ili inostranstvu",
+              "Zatražite ispravku nepotpunih ili netačno obrađenih ličnih podataka",
+              "Zatražite brisanje ili uništenje ličnih podataka u okviru uslova predviđenih u članu 7 Zakona",
+              "Zatražite da se operacije izvršene u skladu sa podstavovima (d) i (e) člana 11 Zakona obaveste trećim stranama kojima su vaši lični podaci preneti",
+              "Usprotivite se pojavi rezultata protiv vas kroz analizu vaših obrađenih podataka isključivo kroz automatizovane sisteme",
+              "Zatražite nadoknadu štete u slučaju da pretrpite štetu zbog nezakonite obrade vaših ličnih podataka"
+            ],
+            "applicationProcess": "Možete zahtevati da ostvarite svoja prava. Možete podneti svoje zahteve u vezi sa vašim pravima i primenom Zakona popunjavanjem obrasca za aplikaciju koji možete dobiti sa https://zovpersonal.com/ i slanjem na adresu kompanije putem notara, preporučenom poštom sa povratnicom ili ličnom aplikacijom u obliku vlažnog potpisa, ili potpisivanjem obrasca za aplikaciju koji ste popunili elektronski sa vašim mobilnim potpisom ili sigurnim elektronskim potpisom, a zatim slanjem na info@zovpersonal.com koristeći vašu KEP adresu ili e-mail adresu već registrovanu u sistemu za beleženje podataka Kompanije.",
+            "fees": "ZovPersonal će odgovoriti na zahteve u ovom obimu besplatno do deset stranica ako je odgovor u pisanom obliku; odgovoriće naplaćujući naknadu za svaku stranicu preko deset stranica po transakciji. Ako se odgovor na aplikaciju daje na mediju za snimanje kao što je CD ili fleš memorija, naknada koju može zahtevati Kompanija ne može preći trošak medija za snimanje."
+          }
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Zašto Izabrati Nas?",
+      "subtitle": "Naše karakteristične osobine u međunarodnim viznim konsultacijama",
+      "category": "Vizne Konsultacije",
+      "description": "Sa 15+ godina infrastrukture, mi smo vaš pouzdani partner u ostvarivanju međunarodnih karijernih ciljeva. Pravimo razliku sa našim personalizovanim pristupom i visokom stopom uspeha.",
+      "feature1": {
+        "title": "Stručni Tim",
+        "description": "Stojimo uz vas sa našim viznim specijalistima i pravnim savetnicima sa 15+ godina infrastrukture."
+      },
+      "feature2": {
+        "title": "Visoka Stopa Uspeha",
+        "description": "Ostvarili smo snove hiljadama klijenata sa našom stopom uspeha od 95%."
+      },
+      "feature3": {
+        "title": "Personalizovana Usluga",
+        "description": "Razvijamo prilagođena rešenja za jedinstvenu situaciju svakog klijenta."
+      },
+      "feature4": {
+        "title": "24/7 Podrška",
+        "description": "Pružamo neprekidnu podršku i ažurne informacije tokom procesa."
+      },
+      "slides": {
+        "personalizedCare": {
+          "title": "Personalizovana Nega",
+          "description": "Razvijamo prilagođena rešenja razumevajući jedinstvene potrebe svakog klijenta."
+        },
+        "experiencedProfessionals": {
+          "title": "Iskusni Profesionalci",
+          "description": "Pružamo pouzdane konsultantske usluge sa našim timom stručnjaka u svojoj oblasti."
+        },
+        "holisticApproach": {
+          "title": "Holistički Pristup",
+          "description": "Sveobuhvatno se bavimo svim fazama vašeg viznog procesa."
+        },
+        "supportiveEnvironment": {
+          "title": "Podržavajuće Okruženje",
+          "description": "Možete primiti konsultantske usluge u sigurnom i udobnom okruženju."
+        },
+        "healthcareRecruitment": {
+          "title": "Zaposlenje u Zdravstvenom Sektoru",
+          "description": "Zapošljavanje međunarodnih specijalista nudi ogromne prilike za rešavanje nedostatka veština u Nemačkoj. Sa našim ciljanim i struktuiranim pristupom, efikasno struktuiramo vaš proces zapošljavanja kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva. Kreiramo atraktivne oglase za poslove koji privlače međunarodne profesionalce sa jasnim opisima poslova, transparentnošću plata i sveobuhvatnim uslugama podrške."
+        },
+        "livingInGermany": {
+          "title": "Život u Nemačkoj",
+          "description": "Nemačka je poznata po svojoj snažnoj ekonomiji, kulturi i visokom kvalitetu života. Pružamo sveobuhvatan vodič za život u Nemačkoj od prvih koraka u svakodnevnom životu do uspešne integracije u društvo. Nudimo detaljne informacije o pronalaženju smeštaja, nemačkoj kulturi i tradicijama, učenju jezika, zdravstvenom sistemu i svakodnevnom životu. Vodimo vas kroz sve, od važnih vrednosti kao što su tačnost i red do tradicionalnih proslava kao što su Božić i Oktoberfest."
+        },
+        "experiencedProfessionalsVisa": {
+          "title": "Viza za Iskusne Profesionalce",
+          "description": "Viza za iskusne profesionalce je namenjena kvalifikovanim radnicima sa najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti. Sa ovom vizom, možete raditi u profesijama sa velikom potražnjom u Nemačkoj. Možete aplicirati ako ispunjavate zahteve kao što su kvalifikovano profesionalno iskustvo, uslovi minimalne plate, ponuda posla i znanje jezika. Podržavamo vaš proces aplikacije sa minimalnom godišnjom platom od 40.770 € i nivoom znanja nemačkog jezika B1."
+        },
+        "vocationalTrainingVisa": {
+          "title": "Viza za Stručno Osposobljavanje",
+          "description": "Viza za završetak stručnog osposobljavanja je namenjena pojedincima koji žele da završe dualni program stručnog osposobljavanja u priznatoj profesiji stručnog osposobljavanja u Nemačkoj. Ovaj program kombinuje teorijsko znanje koje se predaje u stručnoj školi sa praktičnim osposobljavanjem u kompaniji, nudeći mladima priliku da završe kvalifikovano osposobljavanje u nemačkim stručnim osposobljavanjima i naknadno steknu dugoročne perspektive na nemačkom tržištu rada."
+        },
+        "qualificationRecognitionVisa": {
+          "title": "Viza za Priznavanje Kvalifikacija",
+          "description": "Viza za priznavanje stranih profesionalnih kvalifikacija je namenjena kvalifikovanim radnicima koji žele da njihove profesionalne kvalifikacije stečene u inostranstvu budu priznate u Nemačkoj. Pružamo dugoročne mogućnosti zaposlenja u Nemačkoj dovodeći vaše kvalifikacije na nemačke standarde. Sa ovom vizom koja vam omogućava da živite u Nemačkoj tokom procesa priznavanja i preduzimate mere profesionalne adaptacije, podržavamo vas u ispunjavanju zahteva nivoa nemačkog jezika B1 i minimalne mesečne finansijske sigurnosti od 947 €."
+        }
+      }
+    },
+    "approach": {
+      "title": "Naša Filozofija Usluge",
+      "subtitle": "Kako upravljamo vašim procesom aplikacije za vizu",
+      "holisticApproach": "Sa holističkim pristupom, stojimo uz vas u svakoj fazi vašeg viznog procesa.",
+      "personalizedCare": "Sa našim personalizovanim pristupom nege, zadovoljavamo posebne potrebe svakog klijenta.",
+      "compassionateProfessionals": "Naši empatični specijalisti vas podržavaju tokom procesa.",
+      "flexibleScheduling": "Služimo vam u pogodnim vremenima sa našim fleksibilnim sistemom zakazivanja.",
+      "confidentialSpace": "Možete deliti svoje lične informacije u privatnom i sigurnom okruženju.",
+      "imageAlt": "Naš pristup viznim konsultacijama",
+      "step1": {
+        "title": "Analiza i Planiranje",
+        "description": "Detaljno analiziramo vašu ličnu situaciju i određujemo najprikladniju strategiju vize."
+      },
+      "step2": {
+        "title": "Priprema Dokumenata",
+        "description": "Pripremamo i pregledamo sve vaše dokumente prema međunarodnim standardima."
+      },
+      "step3": {
+        "title": "Aplikacija i Praćenje",
+        "description": "Podnosimo vašu aplikaciju i kontinuirano je pratimo do završetka."
+      },
+      "step4": {
+        "title": "Uspeh i Podrška",
+        "description": "Nastavljamo da vas vodimo kroz proces naseljavanja čak i nakon dobijanja vize."
+      }
+    },
+    "reviews": {
+      "title": "Recenzije Klijenata",
+      "subtitle": {
+        "line1": "Iskustva i mišljenja",
+        "line2": "naših uspešnih klijenata"
+      },
+      "review1": {
+        "title": "Odlična Usluga",
+        "content": "Zahvaljujući ZovPersonal-u, moj san da radim kao medicinska sestra u Nemačkoj se ostvario. Bili su sa mnom u svakom koraku tokom procesa i stalno me informisali.",
+        "name": "Dr. Mehmet Kaya",
+        "role": "Medicinska Sestra - Nemačka",
+        "text": "Zahvaljujući ZovPersonal-u, moj san da radim kao medicinska sestra u Nemačkoj se ostvario. Bili su sa mnom u svakom koraku tokom procesa.",
+        "rating": 5
+      },
+      "review2": {
+        "title": "Profesionalni Pristup",
+        "content": "Zahvaljujući njihovom profesionalnom pristupu i detaljnom vođenju, dobio sam svoju radnu vizu za Nemačku bez problema. Tim je zaista upućen i iskusan.",
+        "name": "Inženjer Busra Oz",
+        "role": "Softverski Programer - Holandija",
+        "text": "Zahvaljujući njihovom profesionalnom pristupu i detaljnom vođenju, dobio sam svoju radnu vizu za Nemačku bez problema. Hvala ZovPersonal!",
+        "rating": 5
+      },
+      "review3": {
+        "title": "Pojednostavljen Proces",
+        "content": "Kada sam aplicirao za svoju obrazovnu vizu za Kanadu, izgledalo je veoma složeno. ZovPersonal je sve pojednostavio i pružio vođenje korak po korak.",
+        "name": "Nastavnik Nicolaus Voss",
+        "role": "Nastavnik - Kanada",
+        "text": "Kada sam aplicirao za svoju obrazovnu vizu za Kanadu, izgledalo je veoma složeno. ZovPersonal je sve pojednostavio.",
+        "rating": 5
+      },
+      "review4": {
+        "title": "Pouzdan Partner",
+        "content": "Izabrao sam ZovPersonal da dobijem svoju radnu dozvolu kao doktor u Nemačkoj. Doneo sam pravu odluku, proces je napredovao veoma brzo.",
+        "name": "Dr. Georgi Vasilev",
+        "role": "Doktor - Bugarska",
+        "rating": 5
+      },
+      "review5": {
+        "title": "Odličan Rezultat",
+        "content": "Bio sam veoma zabrinut kada sam aplicirao za svoju radnu vizu za Australiju. Tim ZovPersonal-a me je uverio i igrao glavnu ulogu u postizanju uspešnih rezultata.",
+        "name": "Arhitekta Marko Balković",
+        "role": "Arhitekta - Australija",
+        "rating": 5
+      },
+      "review6": {
+        "title": "Brzo i Efikasno",
+        "content": "Kada sam našao poslovnu priliku u Nemačkoj, nisam imao pojma o procesu vize. Zahvaljujući ZovPersonal-u, sve je rešeno veoma brzo.",
+        "name": "Inženjer Andrei Popescu",
+        "role": "Elektro Inženjer - Rumunija",
+        "rating": 5
+      }
+    },
+    "faq": {
+      "title": "Često Postavljana Pitanja",
+      "subtitle": "Odgovaramo na sve što vas zanima o viznim i imigracionim procesima. Pronađite svoj put do vaše zemlje iz snova sa našim stručnim timom.",
+      "question1": "Za koje zemlje pružate vizne konsultacije?",
+      "answer1": "Pružamo sveobuhvatne usluge viznih konsultacija za Nemačku, Australiju, Kanadu, SAD, Veliku Britaniju, Holandiju i mnoge EU zemlje. Kreiramo prilagođena rešenja za jedinstvene zahteve svake zemlje.",
+      "question2": "Koliko dugo traje proces aplikacije za vizu?",
+      "answer2": "Trajanje varira po zemlji i tipu vize, obično u rasponu od 2-6 meseci. Potpuna priprema dokumenata i praćenje ispravnih procedura ubrzava proces.",
+      "question3": "Šta radite ako je aplikacija odbijena?",
+      "answer3": "U slučaju odbijanja, analiziramo razloge i razvijamo novu strategiju. Ako je potrebno, rukovodimo procesima žalbe i pripremamo nove aplikacije nakon rešavanja nedostataka. Nastavljamo da podržavamo naše klijente tokom procesa.",
+      "question4": "Koje su vaše naknade za usluge?",
+      "answer4": "Naše naknade variraju prema tipu usluge i složenosti. Inicijalna konsultacija je besplatna. Kontaktirajte nas za detaljne cene i personalizovane ponude na osnovu vaših specifičnih potreba.",
+      "question5": "Na kojim jezicima treba da budu pripremljeni moji dokumenti?",
+      "answer5": "Dokumenti moraju biti prevedeni na zvanični jezik ciljne zemlje. Takođe pružamo usluge overenog prevoda za nemački, engleski i druge potrebne jezike."
+    },
+    "internationalRecruitment": {
+    "hero": {
+      "title": "Međunarodno Buduće-Orijentisano Regrutovanje",
+      "description": "U modernom svetu talenti ne poznaju granice. Otkrijte radnu snagu sutrašnjice danas i ojačajte svoju kompaniju međunarodnim talentima."
+    },
+    "vision": {
+      "title": "Oblikovanje Budućnosti Poslovanja",
+      "subtitle": "Ljudski Resursi u Digitalnom Dobu",
+      "description": "Dok se tehnologija brzo razvija, najvažniji resurs ostaje čovek.",
+      "features": [
+        {"title": "AI-Pokretano Uparivanje", "description": "Uparujemo kandidate i pozicije koristeći algoritme veštačke inteligencije."},
+        {"title": "Globalni Bazen Talenata", "description": "Sa našom mrežom od 50+ zemalja pronalazimo talente koje trebate."},
+        {"title": "Brz Proces Regrutovanja", "description": "Završavamo regrutovanje u 2-4 nedelje."},
+        {"title": "Kulturna Integracija", "description": "Nudimo programe integracije za međunarodne zaposlene."}
+      ]
+    },
+    "trends": {
+      "title": "2025 Trendovi Radne Snage",
+      "subtitle": "Strategije Predviđanja Budućnosti",
+      "items": [
+        {"trend": "Hibridni Radni Model", "impact": "Talenti prelaze geografske granice", "percentage": "89%", "description": "Kompanije usvajaju hibridne radne modele"},
+        {"trend": "Digitalne Veštine", "impact": "Korišćenje tehnologije u svakoj poziciji", "percentage": "95%", "description": "Radne uloge zahtevaju digitalne veštine"},
+        {"trend": "Raznolikost i Uključivanje", "impact": "Povećanje performansi i inovacija", "percentage": "76%", "description": "Postizanje boljih finansijskih rezultata"},
+        {"trend": "Fokus na Održivost", "impact": "Ekološki svesne preferencije zaposlenih", "percentage": "73%", "description": "Talenti preferiraju održive kompanije"}
+      ]
+    },
+    "methodology": {
+      "title": "Naša Inovativna Metodologija Regrutovanja",
+      "subtitle": "Pristup Zasnovan na Podacima",
+      "steps": [
+        {"phase": "1", "title": "Analiza Potreba", "description": "Analiziramo trenutne i buduće potrebe vaše kompanije.", "duration": "1-2 dana", "tools": ["AI Analitika", "Istraživanje tržišta", "Mapiranje veština"]},
+        {"phase": "2", "title": "Otkrivanje Talenata", "description": "Identifikujemo najprikladnije kandidate.", "duration": "3-5 dana", "tools": ["Globalno pronalaženje", "Društveno regrutovanje", "Analiza mreže"]},
+        {"phase": "3", "title": "Procena i Filtriranje", "description": "Biramo najbolje kandidate.", "duration": "1-2 nedelje", "tools": ["Tehnička procena", "Analiza kulturne prikladnosti", "Provera referenci"]},
+        {"phase": "4", "title": "Prezentacija i Integracija", "description": "Predstavljamo kandidate i upravljamo procesom integracije.", "duration": "1-3 nedelje", "tools": ["Koordinacija intervjua", "Upravljanje ponudama", "Podrška za uvođenje"]}
+      ]
+    },
+    "success": {
+      "title": "Priče o Uspеhu",
+      "subtitle": "Naš Uspeh u Brojevima",
+      "stats": [
+        {"number": "500+", "label": "Uspešna Regrutovanja", "period": "Poslednjih 12 meseci"},
+        {"number": "95%", "label": "Zadovoljstvo Klijenata", "period": "Kontinuirano"},
+        {"number": "2.5x", "label": "Povećanje Brzine", "period": "U odnosu na tradicionalne metode"},
+        {"number": "35+", "label": "Doseg Zemalja", "period": "Globalna mreža"}
+      ]
+    },
+    "callToAction": {
+      "title": "Otkrijte Radnu Snagu Budućnosti Danas",
+      "description": "Počnite sada da jačate svoju kompaniju međunarodnim talentima.",
+      "primaryButton": "Besplatna Konsultacija",
+      "secondaryButton": "Istražite Priče o Uspеhu"
+    }
+  },
+  "professionProcess": {
+      "hero": {
+        "title": "Nacionalna Viza Nemačke - Profesije i Proces",
+        "subtitle": "Vaš proces aplikacije za nacionalnu vizu za rad u zdravstvenom sektoru Nemačke"
+      },
+      "navigation": {
+        "previousSlide": "Prethodni slajd",
+        "nextSlide": "Sledeći slajd"
+      },
+      "carousel": {
+        "doctor": {
+          "status": "Viza za Doktore",
+          "title": "Nacionalna Viza Nemačke za Doktore",
+          "description": "Pružamo sveobuhvatno vođenje vize i upravljanje procesom za diplomce medicine koji žele da rade kao doktori u Nemačkoj. Profesionalna podrška u procesima priznavanja diplome i jezičkih ispita.",
+          "button": "Saznajte više"
+        },
+        "nurse": {
+          "status": "Viza za Medicinske Sestre",
+          "title": "Profesionalna Podrška za Medicinske Sestre",
+          "description": "Stručno vođenje za diplomce sestrinstva u procesima radne dozvole i nacionalne vize u Nemačkoj. Potpuna podrška u procesima priznavanja profesionalne kompetencije i znanja jezika.",
+          "button": "Saznajte više"
+        },
+        "caregiver": {
+          "status": "Starački Dom",
+          "title": "Nega i Specijalisti za Staracku Negu",
+          "description": "Sveobuhvatne vizne konsultacije za profesionalce koji žele da rade u sektoru staracke nege. Povezivanje sa centrima za negu u Nemačkoj i podrška u plasmanu poslova.",
+          "button": "Saznajte više"
+        },
+        "healthTechnician": {
+          "status": "Plasman u Bolnicu",
+          "title": "Zdravstveni Tehničari i Pomoćno Osoblje",
+          "description": "Procesi viza za Nemačku za medicinske tehničare, laboratorijske specijaliste i ostalo pomoćno osoblje u zdravstvu. Sveobuhvatna usluga sa profesionalnom sertifikacijom i podrškom u pronalaženju posla.",
+          "button": "Saznajte više"
+        },
+        "healthExpert": {
+          "status": "Program Specijalizacije",
+          "title": "Zdravstveni Specijalisti i Terapeuti",
+          "description": "Mogućnosti rada u Nemačkoj za fizioterapeute, psihologe, dijetetičare i ostale zdravstvene specijaliste. Specijalizovane vizne konsultacije i procesi profesionalnog priznavanja za vašu oblast stručnosti.",
+          "button": "Saznajte više"
+        }
+      },
+      "otherProfessions": {
+        "title": "Usluge Nacionalne Vize za Ostale Profesionalne Grupe",
+        "construction": {
+          "title": "Građevinski Sektor",
+          "description": "Specijalne vizne konsultacije za one koji žele da rade u građevinskom i građevinskom sektoru. Pozicije vodoinstalatera, električara, stolara i ostalog tehničkog osoblja."
+        },
+        "hospitality": {
+          "title": "Hotel & Restoran",
+          "description": "Karijerne prilike u turizmu i gastronomskom sektoru. Procesi viza za konobare, kuvara, hotelsko osoblje i ostale pozicije u uslužnom sektoru."
+        },
+        "logistics": {
+          "title": "Logistika & Transport",
+          "description": "Mogućnosti rada u vozačkom i logističkom sektoru. Pozicije vozača kamiona, rukovaoca viljuškara i skladišnog osoblja."
+        },
+        "cleaning": {
+          "title": "Čišćenje & Higijena",
+          "description": "Mogućnosti zaposlenja u sektoru usluga čišćenja. Osoblje za industrijsko čišćenje, čišćenje bolnica i čišćenje kancelarija."
+        },
+        "office": {
+          "title": "Kancelarija & Upravljanje",
+          "description": "Kancelarijski radnici i pozicije upravljanja. Računovodstvo, ljudski resursi, sekretarijat i ostalo kancelarijsko osoblje."
+        },
+        "others": {
+          "title": "Ostale Profesije",
+          "description": "Specijalne konsultantske usluge za poljoprivredu, proizvodnju, prodaju i ostale profesionalne grupe. Odgovarajući procesi viza za svaku profesiju."
+        },
+        "learnMore": "Saznajte više"
+      },
+      "process": {
+        "tabs": {
+          "jobSearch": "Proces Traženja Posla",
+          "visaApplication": "Aplikacija za Viznu",
+          "companyAgreements": "Ugovori sa Kompanijama"
+        },
+        "content": {
+          "jobSearch": {
+            "title": "Pronalaženje Posla u Nemačkoj",
+            "subtitle": "Fokusirano na Zdravstveni Sektor",
+            "description": "Pružamo profesionalno vođenje u procesu traženja posla u zdravstvenom sektoru. Zahvaljujući našoj snažnoj mreži sa bolnicama i zdravstvenim institucijama u Nemačkoj, pomažemo vam da pronađete pozicije koje su vam odgovarajuće.",
+            "detail": "Sa vama smo tokom celog procesa od pripreme CV-a do intervjua.",
+            "footer": "Imamo usluge karijernog savetovanja specifične za vašu profesiju i poslovne prilike."
+          },
+          "visaApplication": {
+            "title": "Nacionalna Radna Viza",
+            "subtitle": "Proces Aplikacije",
+            "description": "Upravljamo svim koracima za vas u procesu aplikacije za nacionalnu radnu vizu za Nemačku. Profesionalna podrška od pripreme dokumenata do zakazivanja termina.",
+            "detail": "Pripremamo sve neophodne dokumente ispravno kako bismo ubrzali proces odobrenja vize.",
+            "footer": "Možete sa sigurnošću aplicirati za vizu sa našom visokom stopom uspeha."
+          },
+          "companyAgreements": {
+            "title": "Partnerske Kompanije",
+            "subtitle": "Garancija Posla",
+            "description": "Zahvaljujući našim posebnim ugovorima sa 150+ partnerskih bolnica i zdravstvenih institucija u Nemačkoj, nudimo vam direktne poslovne prilike.",
+            "detail": "Nakon primanja ponude posla, vaš proces vize napreduje mnogo brže i sigurnije.",
+            "footer": "Možete planirati dugoročnu karijeru sa našim partnerskim kompanijama."
+          }
+        }
+      },
+      "about": {
+        "title": "Drugačija vrsta konsultacija.",
+        "description": "Nudimo sveobuhvatne usluge za ostvarivanje vaših međunarodnih karijernih ciljeva u zdravstvenom sektoru.",
+        "statsTitle": "Po Brojevima",
+        "stats": {
+          "experience": "Godine Iskustva",
+          "healthPersonnel": "Zdravstveno Osoblje",
+          "successRate": "Stopa Uspeha",
+          "partners": "Partnerske Organizacije"
+        },
+        "content": {
+          "paragraph1": "Zdravstveni sektor se stalno menja i razvija. Potreba za zdravstvenim osobljem u Nemačkoj raste svakog dana. Sada je pravo vreme da iskoristite ovu priliku.",
+          "highlight": "Rad u Nemačkoj nije samo san. Mi ga činimo stvarnošću za vas.",
+          "paragraph2": "Naš tim, koji radi u ovom sektoru godinama, suočio se sa svim izazovima u procesima naseljavanja zdravstvenog osoblja u Nemačkoj. Tradicionalne metode nisu dovoljne. Nudimo sveobuhvatnu konsultantsku uslugu specijalno dizajniranu za zdravstveno osoblje."
+        }
+      },
+      "architectureSection": {
+        "subtitle": "Sve što trebate znati",
+        "title": "Proces rada u Nemačkoj",
+        "description": "Nemačka je poznata po svojoj snažnoj ekonomiji, kulturi i visokom kvalitetu života. Međutim, za imigrante, selidba u Nemačku znači više od samo nove karijere; to je početak novog života u novom okruženju.",
+        "cards": {
+          "integration": {
+            "title": "Integracija Zaposlenih",
+            "description": "Nakon što međunarodni zaposleni uspešno stignu u Nemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se osiguralo da se novi zaposleni osećaju ugodno u svom novom okruženju, već i da bi se obezbedila dugoročna posvećenost kompaniji."
+          },
+          "experiencedVisa": {
+            "title": "Viza za Iskusne Profesionalce",
+            "description": "Šta je viza za iskusne profesionalce? Viza za iskusne profesionalce (Član 19c Zakona o Boravku, Stav 2) je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu."
+          },
+          "acceleratedProcedures": {
+            "title": "Ubrzani Postupci",
+            "description": "Šta je ubrzani postupak za kvalifikovane radnike? Ubrzani Postupak za Kvalifikovane Radnike je poseban proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva."
+          },
+          "recruitment": {
+            "title": "Zapošljavanje",
+            "description": "Korak po korak. Zapošljavanje međunarodnih specijalista nudi ogromnu priliku za rešavanje nedostatka veština u Nemačkoj. Međutim, da bi ovaj proces bio uspešan, kompanije moraju usvojiti ciljani i struktuirani pristup."
+          }
+        },
+        "learnMore": "Saznajte Više"
+      }
+    },
+    "nationalVisaProcess": {
+      "hero": {
+        "title": "Proces Aplikacije za Nacionalnu Radnu Viznu",
+        "description": "Nacionalna radna viza daje pravo ulaska u Nemačku za dugoročne boravke u svrhe rada. U zavisnosti od vrste rada, viza se izdaje sa periodom važenja do jedne godine. Nakon ulaska u zemlju, obično morate aplicirati za domaću boravišnu dozvolu. Ovaj tip vize je važeći samo za specifične pozicije posla i ne daje slobodu kretanja u Šengenskom prostoru."
+      },
+      "appointmentSystem": {
+        "title": "Sistem Zakazivanja",
+        "description": "Termini se daju kroz nacionalni sistem zakazivanja",
+        "ourService": "Naša Usluga:",
+        "serviceDescription": "Obrađujemo procedure zakazivanja za vas. Pravim neophodne termine i sprovodim procedure. Traženi dokumenti će biti zatraženi od vas i organizovani, zatim pratimo proces."
+      },
+      "preparation": {
+        "title": "Priprema",
+        "description": "Koristite online sistem zakazivanja za nacionalne vize da biste saznali o vašoj svrsi boravka i dokumentima koje morate podneti. Registrujte se na listi čekanja za zakazivanje za vašu svrhu boravka kroz online sistem zakazivanja uz naknadu."
+      },
+      "application": {
+        "title": "Aplikacija",
+        "description1": "Zbog uključenosti nemačkih unutrašnjih vlasti u proces, obrada dokumenata obično traje do tri meseca (ili duže u nekim slučajevima). Ako vam je potreban pasoš tokom procesa evaluacije vaše aplikacije, možete kontaktirati relevantno odeljenje za vizu navodeći broj vaše aplikacije u vašoj potpisanoj pismenoj peticiji.",
+        "description2": "Naknada za uslugu mora biti plaćena. Nakon što su vaši otisci prstiju uzeti, vaš pasoš i potrebni dokumenti se primaju od strane odeljenja za vize za proces evaluacije."
+      },
+      "afterEvaluation": {
+        "title": "Nakon Evaluacije",
+        "description": "Odmah nakon završetka procesa evaluacije aplikacija, vaš pasoš vam se vraća u koverti zajedno sa nekim originalnim dokumentima koje ste podneli, bilo u njihovim kancelarijama ili direktno poštom."
+      },
+      "note": {
+        "label": "Napomena:",
+        "text": "Cene su po osobi, a proces varira prema vrsti dosijea i dokumenata i tipu vize."
+      },
+      "processingTimes": {
+        "title": "Vremena Obrade",
+        "importantInfo": {
+          "title": "Važne Informacije",
+          "description": "Pre apliciranja, molimo planirajte vreme čekanja na termin i vreme potrebno za povratak vašeg pasoša."
+        },
+        "decisionAuthority": {
+          "title": "Nadležnost za Odluku",
+          "description": "Odluka o odobravanju ili odbijanju aplikacije donosi se samo od strane Stranih Predstavništava."
+        },
+        "holidayEffect": {
+          "title": "Efekat Praznika",
+          "description": "Vremena obrade mogu varirati zbog turskih i nemačkih zvaničnih praznika. Stoga preporučujemo apliciranje za vizu u ranijem datumu."
+        },
+        "applicationTracking": {
+          "title": "Praćenje Aplikacije",
+          "description": "Možete pratiti u kojoj fazi je vaša aplikacija kontaktiranjem nas."
+        }
+      }
+    },
+    "businessProcess": {
+      "slugPages": {
+        "employeeIntegration": {
+          "title": "Procesi Integracije Zaposlenih",
+          "subtitle": "Sveobuhvatna podrška za uspešnu integraciju u Nemačkoj",
+          "description": "Nudimo specijalno dizajnirane programe integracije za međunarodne zaposlene da se uspešno integrišu u Nemačku.",
+          "section1": {
+            "title": "Integracija Zaposlenih",
+            "content": "Nakon što međunarodni zaposleni uspešno stignu u Nemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da se osigura da se novi zaposleni osećaju ugodno u svojoj novoj sredini, već i da se osigura dugoročno angažovanje u kompaniji. Kompanije mogu dati značajan doprinos ciljanim merama koje imaju za cilj da pružaju glatk početak novim profesionalcima."
+          },
+          "section2": {
+            "title": "Usluge Podrške",
+            "content": "Pružamo sveobuhvatne usluge uključujući obuku jezika, kulturnu orijentaciju, pravno savetovanje i podršku za socijalnu integraciju."
+          },
+          "benefits": "Brza adaptacija, visoko zadovoljstvo poslom i dugoročni uspeh"
+        },
+                 "experiencedVisa": {
+           "title": "Viza za Iskusne Profesionalce",
+           "subtitle": "Za kvalifikovane radnike sa najmanje dve godine iskustva",
+           "description": "Viza za iskusne profesionalce je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu.",
+           "section1": {
+             "title": "Viza za Iskusne Profesionalce",
+             "content": "Viza za iskusne profesionalce (Član 19c Zakona o Boravku, Stav 2) je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu. Viza omogućava ovim kvalifikovanim radnicima da rade u Nemačkoj, posebno u profesijama sa velikom potražnjom. Ova viza je uvedena da zadovolji potrebu za kvalifikovanim radnicima i ojača njemačko tržište rada."
+           },
+          "section2": {
+            "title": "Aplikacijski Procesi",
+            "content": "Pružamo podršku kroz ceo proces aplikacije uključujući procenu kvalifikacija, pripremu dokumenata i praćenje aplikacije."
+          },
+          "benefits": "Brza integracija na tržište rada, konkurentne plate i dugoročne perspektive"
+        },
+                 "acceleratedProcedure": {
+           "title": "Ubrzana Procedura za Kvalifikovane Radnike",
+           "subtitle": "Ubrzani proces za hitne potrebe kompanija",
+           "description": "Ubrzana procedura za kvalifikovane radnike je specijalni proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva.",
+           "section1": {
+             "title": "Ubrzana Procedura",
+             "content": "Ubrzana Procedura za Kvalifikovane Radnike je specijalni proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva. Njen primarni cilj je da pomogne kompanijama da brže dovedu potrebne kvalifikovane radnike u Nemačku i efikasnije se bore protiv nedostatka veština. Ovaj proces se zasniva na bliskoj saradnji između poslodavaca, imigracionih vlasti i institucija za priznavanje kako bi se birokratske prepreke svele na minimum i dozvole brzo izdale."
+           },
+          "section2": {
+            "title": "Prednosti Procedure",
+            "content": "Značajno skraćeno vreme obrade, prioritetno razmatranje aplikacija i smanjena birokratija."
+          },
+          "benefits": "Brža obrada, manje birokratije i veća verovatnoća odobrenja"
+        },
+        "recruitment": {
+          "title": "Proces Zapošljavanja",
+          "subtitle": "Strukturirani pristup zapošljavanju međunarodnih stručnjaka",
+          "description": "Zapošljavanje međunarodnih stručnjaka pruža ogromnu priliku za rešavanje nedostatka veština u Nemačkoj.",
+                     "section1": {
+             "title": "Zapošljavanje",
+             "content": "Zapošljavanje međunarodnih stručnjaka predstavlja ogromnu priliku za rešavanje nedostatka veština u Nemačkoj. Međutim, da bi ovaj proces bio uspešan, kompanije moraju da usvoje ciljani i strukturiran pristup. Ovaj vodič korak po korak će vam pokazati kako da efikasno strukturirate svoj proces zapošljavanja kako biste uspešno privukli kvalifikovane stručnjake iz inostranstva."
+           },
+          "section2": {
+            "title": "Strategije Zapošljavanja",
+            "content": "Razvijamo personalizovane strategije zapošljavanja za svaku kompaniju uključujući profilisanje kandidata, proces selekcije i integraciju."
+          },
+          "benefits": "Pristup globalnom kadru, smanjeni troškovi zapošljavanja i poboljšana konkurentnost"
+        }
+      },
+      "common": {
+        "advantagesTitle": "Prednosti",
+        "processTitle": "Proces",
+        "processDescription": "Sigurni rezultati sa korak-po-korak vođenjem",
+        "step1Title": "1. Početna Procena",
+        "step1Description": "Sprovodimo analizu situacije i procenu pogodnosti.",
+        "step2Title": "2. Priprema Dokumenata",
+        "step2Description": "Profesionalno pripremamo sve potrebne dokumente.",
+        "step3Title": "3. Proces Aplikacije",
+        "step3Description": "Pratimo i upravljamo vašom aplikacijom.",
+        "step4Title": "4. Rezultat i Praćenje",
+        "step4Description": "Završetak procesa i usluge naknadne podrške.",
+        "ctaTitle": "Počnimo odmah",
+        "ctaDescription": "Kontaktirajte naš stručni tim da započnete svoj proces.",
+        "contactButton": "Kontaktirajte nas",
+        "backButton": "Nazad"
+      }
+    },
+    "navigation": {
+      "previousSlide": "Prethodni slajd",
+      "nextSlide": "Sledeći slajd"
+    },
+    "stats": {
+      "byNumbers": "Po Brojevima"
+    },
+    "employer": {
+      "hero": {
+        "tag1": "Послодавац",
+        "tag2": "Међународно запошљавање",
+        "title": "Запослите врхунске међународне таленте усмерене на будућност",
+        "description": "Повежите се са квалификованим професионалцима широм света. Ми управљамо међународним регрутовањем усмереним на будућност, усклађеност и увођење како бисмо довели глобалне таленте у вашу компанију.",
+        "startHiring": "Почните са запошљавањем",
+        "learnMore": "Сазнајте више"
+      },
+      "benefits": {
+        "badge": "За послодавце",
+        "title": "Зашто запослити међународне",
+        "subtitle": "таленте усмерене на будућност?",
+        "description": "Проширите своју радну снагу квалификованим професионалцима из целог света и откључајте невиђене могућности раста нашим доказаним решењима за регрутовање.",
+        "stats": {
+          "countries": "25+ земаља",
+          "hires": "5К+ успешних запошљавања",
+          "successRate": "98% стопа успеха"
+        },
+        "services": [
+          "Проналажење талената",
+          "Подршка за визе",
+          "Усклађеност",
+          "Преглед кандидата",
+          "Подршка за увођење",
+          "Стручност у више индустрија",
+          "24/7 подршка доступна"
+        ],
+        "tabs": {
+          "efficiency": "Ефикасност",
+          "quality": "Квалитет", 
+          "support": "Подршка"
+        }
+      },
+      "services": {
+        "badge": "Услуге за послодавце",
+        "title": "Свеобухватна међународна решења за запошљавање",
+        "items": [
+          {
+            "title": "Глобално проналажење талената",
+            "description": "Приступ квалификованим професионалцима из 25+ земаља са нашом опсежном међународном мрежом и верификованом базом података кандидата."
+          },
+          {
+            "title": "Свеобухватна подршка за визе",
+            "description": "Помоћ од почетка до краја за визе укључујући припрему докумената, водич за пријаву и управљање усклађеност за беспрекорно запошљавање."
+          },
+          {
+            "title": "Убрзана обрада",
+            "description": "Убрзани процес запошљавања са 98% стопом успеха, смањује време запошљавања и обезбеђује брзо постављање квалификованих кандидата."
+          }
+        ]
+      },
+      "process": {
+        "title": "Наш процес запошљавања",
+        "description": "Оптимизован процес за проналажење и запошљавање најбољих међународних талената",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Дефинишите захтеве",
+            "description": "Расправите своје специфичне потребе за запошљавање и захтеве посла"
+          },
+          {
+            "step": "02",
+            "title": "Усклађивање кандидата",
+            "description": "Пронађите и прегледајте квалификоване међународне кандидате"
+          },
+          {
+            "step": "03",
+            "title": "Процес интервјуа",
+            "description": "Олакшајте интервјуе и процене вештина"
+          },
+          {
+            "step": "04",
+            "title": "Виза и увођење",
+            "description": "Управљајте процесима виза и глатко увођење"
+          }
+        ]
+      },
+      "stats": {
+        "title": "Верују нам водеће компаније",
+        "description": "Наш доказан успех говори сам за себе",
+        "items": [
+          {
+            "number": "500+",
+            "label": "Опслужених компанија"
+          },
+          {
+            "number": "5К+",
+            "label": "Успешних запошљавања"
+          },
+          {
+            "number": "25+",
+            "label": "Земаља"
+          },
+          {
+            "number": "98%",
+            "label": "Задовољство клијената"
+          }
+        ]
+      }
+    },
+  "jobSeeker": {
+    "hero": {
+      "tag1": "Тражилац посла", 
+      "tag2": "Међународна каријера",
+      "title": "Пронађите посао из снова у иностранству са нама",
+      "description": "међународна будуће усмерена решења за запошљавање",
+      "startJourney": "Започните своје путовање",
+      "viewServices": "Погледајте услуге"
+    },
+    "benefits": {
+      "tabs": {
+        "badge": "Тражиоци посла",
+        "opportunities": {
+          "label": "Прилике",
+          "title": "Премијум Посао",
+          "subtitle": "Прилике Широм Света",
+          "description": "Приступ ексклузивним високоплаћеним међународним позицијама у врхунским компанијама у 25+ земаља.",
+          "stats": ["25+ Земаља", "5К+ Пласираних Послова", "95% Успешност"],
+          "benefits": [
+            "Приступ Премијум Пословима",
+            "Проверени Послодавци",
+            "Глобална Мрежа",
+            "Високи Пакети Плата"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "5К+", "label": "Пласирани Послови" },
+            "stat2": { "value": "25+", "label": "Земаља" }
+          }
+        },
+        "support": {
+          "label": "Подршка",
+          "title": "Свеобухватна",
+          "subtitle": "Каријерна Подршка",
+          "description": "Од пријаве до пресељења, пружамо свеобухватну подршку у сваком кораку.",
+          "stats": ["24/7 Подршка", "Стручно Вођство", "98% Задовољство"],
+          "benefits": [
+            "ЦВ Оптимизација",
+            "Интервју Коучинг",
+            "Виза Помоћ",
+            "Подршка Пресељења"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "24/7", "label": "Подршка" },
+            "stat2": { "value": "98%", "label": "Задовољство" }
+          }
+        },
+        "process": {
+          "label": "Процес",
+          "title": "Поједностављен",
+          "subtitle": "Процес Пријаве",
+          "description": "Наш ефикасан процес вас брже доводи до рада у иностранству са доказаним резултатима.",
+          "stats": ["30 Дана Просек", "95% Успех", "Брза Обрада"],
+          "benefits": [
+            "Брза Обрада",
+            "Корак-по-Корак Вођство",
+            "Припрема Докумената",
+            "Брзи Резултати"
+          ],
+          "overlayStats": {
+            "stat1": { "value": "30", "label": "Дана Просек" },
+            "stat2": { "value": "95%", "label": "Стопа Успеха" }
+          }
+        }
+      }
+    },
+    "services": {
+      "badge": "Услуге за тражиоце посла",
+      "title": "Наше услуге за тражиоце посла",
+      "items": [
+        {
+          "title": "CV и резиме оптимизација",
+          "description": "Професионално писање CV-а и оптимизација за међународна тржишта рада"
+        },
+        {
+          "title": "Упаривање послова",
+          "description": "Повезивање са верификованим послодавцима који траже ваше специфичне вештине"
+        },
+        {
+          "title": "Припрема за интервју", 
+          "description": "Свеобухватно коучинг за интервју за међународне позиције"
+        },
+        {
+          "title": "Помоћ за визу",
+          "description": "Потпуна подршка за пријаву радне визе и документација"
+        }
+      ]
+    },
+    "process": {
+      "title": "Како функционише",
+      "description": "Наш програм за тражиоце посла је дизајниран да вам помогне да пронађете посао из снова у иностранству. Пружамо вам алате и ресурсе потребне за успех.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Процена профила",
+          "description": "Свеобухватна процена вештина и анализа циљева каријере"
+        },
+        {
+          "step": "02",
+          "title": "Упаривање послова",
+          "description": "Упаривање са погодним међународним могућностима за посао"
+        },
+        {
+          "step": "03",
+          "title": "Подршка за пријаву",
+          "description": "Професионална припрема и подношење пријаве"
+        },
+        {
+          "step": "04",
+          "title": "Обрада визе",
+          "description": "Потпуна пријава радне визе и документација"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Наши бројеви успеха",
+      "description": "Доказана историја успешниh постављања на послове",
+      "items": [
+        {
+          "number": "95%",
+          "label": "Стопа успеха"
+        },
+        {
+          "number": "5К+",
+          "label": "Постављени послови"
+        },
+        {
+          "number": "25+",
+          "label": "Земље"
+        },
+        {
+          "number": "30",
+          "label": "Дана у просеку"
+        }
+      ]
+    }
+  }
+}

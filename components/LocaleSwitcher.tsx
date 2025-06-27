@@ -9,14 +9,25 @@ import { cn } from '@/lib/utils';
 const localeNames = {
   en: 'EN',
   tr: 'TR',
-  de: 'DE'
+  de: 'DE',
+  nl: 'NL', // Hollanda (Dutch)
+  bg: 'BG', // Bulgaristan (Bulgarian)
+  hr: 'HR', // Hırvatistan (Croatian)
+  ro: 'RO',// Romanya (Romanian)
+  sr: 'SR'  // Sırbıstan (Serbian)
 };
 
 const localeFlags = {
   en: '🇺🇸',
   tr: '🇹🇷',
-  de: '🇩🇪'
+  de: '🇩🇪',
+  nl: '🇳🇱', // Hollanda bayrağı
+  bg: '🇧🇬', // Bulgaristan bayrağı
+  hr: '🇭🇷', // Hırvatistan bayrağı
+  ro: '🇷🇴',  // Romanya bayrağı
+  sr: '🇷🇸'  // Sırbıstan bayrağı
 };
+
 
 export default function LocaleSwitcher({ isScrolled = false }: { isScrolled?: boolean }) {
   const router = useRouter();

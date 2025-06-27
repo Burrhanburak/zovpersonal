@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
@@ -34,6 +34,8 @@ const formSchema = z.object({
     message: "Please enter a valid email address.",
   }),
   date: z.date().optional(),
+  userType: z.enum(["job_seeker", "employer"]).optional(),
+  languageSupport: z.enum(["turkish", "german", "english"]).optional(),
   message: z.string().min(10, {
     message: "Message must be at least 10 characters.",
   }),
@@ -41,7 +43,12 @@ const formSchema = z.object({
 
 export default function ContactSection() {
   const t = useTranslations('contact');
+  const locale = useLocale();
   const [datePickerOpen, setDatePickerOpen] = useState(false);
+  const [userTypeOpen, setUserTypeOpen] = useState(false);
+  const [languageSupportOpen, setLanguageSupportOpen] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -49,13 +56,45 @@ export default function ContactSection() {
       name: "",
       email: "",
       date: undefined,
+      userType: undefined,
+      languageSupport: undefined,
       message: "",
     },
   });
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
-    console.log(values);
-    // Handle form submission here
+  async function onSubmit(values: z.infer<typeof formSchema>) {
+    console.log('📝 Form submitted:', values);
+    setIsSubmitting(true);
+    setSubmitStatus('idle');
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          ...values,
+          locale
+        }),
+      });
+
+      const result = await response.json();
+
+      if (response.ok) {
+        console.log('✅ Email sent successfully:', result);
+        setSubmitStatus('success');
+        form.reset(); // Clear form after successful submission
+      } else {
+        console.error('❌ Error sending email:', result);
+        setSubmitStatus('error');
+      }
+    } catch (error) {
+      console.error('❌ Network error:', error);
+      setSubmitStatus('error');
+    } finally {
+      setIsSubmitting(false);
+    }
   }
 
   return (
@@ -81,6 +120,9 @@ export default function ContactSection() {
             <Form {...form}>
               <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 w-full">
                 {/* Name Field */}
+               
+              
+               
                 <FormField
                   control={form.control}
                   name="name"
@@ -155,6 +197,56 @@ export default function ContactSection() {
                   )}
                 />
 
+                {/* User Type Field */}
+                <FormField
+                  control={form.control}
+                  name="userType"
+                  render={({ field }) => (
+                    <FormItem>
+                      <FormControl>
+                        <Popover open={userTypeOpen} onOpenChange={setUserTypeOpen}>
+                          <PopoverTrigger asChild>
+                            <Button
+                              variant="outline"
+                              className="h-14 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-satoshi-medium justify-between hover:bg-[#f0f1f2] focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
+                            >
+                              {field.value === "job_seeker" ? t('jobSeeker') : 
+                               field.value === "employer" ? t('employer') : 
+                               t('selectApplicantType')}
+                              <ChevronDownIcon className="h-4 w-4 opacity-50" />
+                            </Button>
+                          </PopoverTrigger>
+                          <PopoverContent className="w-full overflow-hidden p-0" align="start">
+                            <div className="flex flex-col">
+                              <button
+                                type="button"
+                                className="px-4 py-3 text-left hover:bg-gray-100 transition-colors text-[rgb(28,39,6)] font-satoshi-medium"
+                                onClick={() => {
+                                  field.onChange("job_seeker");
+                                  setUserTypeOpen(false);
+                                }}
+                              >
+                                {t('jobSeeker')}
+                              </button>
+                              <button
+                                type="button"
+                                className="px-4 py-3 text-left hover:bg-gray-100 transition-colors text-[rgb(28,39,6)] font-satoshi-medium"
+                                onClick={() => {
+                                  field.onChange("employer");
+                                  setUserTypeOpen(false);
+                                }}
+                              >
+                                {t('employer')}
+                              </button>
+                            </div>
+                          </PopoverContent>
+                        </Popover>
+                      </FormControl>
+                      <FormMessage />
+                    </FormItem>
+                  )}
+                />
+
                 {/* Message Field */}
                 <FormField
                   control={form.control}
@@ -176,10 +268,31 @@ export default function ContactSection() {
                 {/* Submit Button */}
                 <Button
                   type="submit"
-                  className="w-full h-14 bg-[rgb(28,39,6)] hover:bg-[rgb(28,39,6)]/90 text-white rounded-[60px] font-satoshi-medium text-base transition-all duration-200 hover:scale-[1.02]"
+                  disabled={isSubmitting}
+                  className="w-full h-14 bg-[rgb(28,39,6)] hover:bg-[rgb(28,39,6)]/90 disabled:bg-[rgb(28,39,6)]/50 disabled:cursor-not-allowed text-white rounded-[60px] font-satoshi-medium text-base transition-all duration-200 hover:scale-[1.02] disabled:hover:scale-100"
                 >
-                  {t('submitButton')}
+                  {isSubmitting ? (
+                    <div className="flex items-center gap-2">
+                      <div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
+                      {t('sending') || 'Sending...'}
+                    </div>
+                  ) : (
+                    t('submitButton')
+                  )}
                 </Button>
+
+                {/* Status Messages */}
+                {submitStatus === 'success' && (
+                  <div className="w-full p-4 bg-green-100 border border-green-300 rounded-[15px] text-green-700 text-center font-satoshi-medium">
+                    ✅ {t('successMessage') || 'Message sent successfully! We will get back to you soon.'}
+                  </div>
+                )}
+
+                {submitStatus === 'error' && (
+                  <div className="w-full p-4 bg-red-100 border border-red-300 rounded-[15px] text-red-700 text-center font-satoshi-medium">
+                    ❌ {t('errorMessage') || 'An error occurred while sending the message. Please try again.'}
+                  </div>
+                )}
               </form>
             </Form>
           </div>

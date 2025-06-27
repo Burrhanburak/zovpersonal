@@ -3,13 +3,14 @@ import Link from "next/link";
 import { Tag } from "@/components/ui/tag";
 import Image from "next/image";
 import AboutSection from "@/components/AboutSection";
-import { AppleCardsCarouselDemo } from "@/components/sliderSection";
 import ServiceSection from "@/components/ServiceSection";
 import ApproachSection from "@/components/ApproachSection";
 import ReviewSection from "@/components/ReviewSection";
 import FAQSection from "@/components/FAQSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import GeoDebugger from "@/components/GeoDebug";
+import { AppleCardsCarouselDemo } from "@/components/Slidehome";
 
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
@@ -96,18 +97,30 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
             <div className="flex-1 flex flex-col gap-3">
               {/* Tags */}
               <div className="flex flex-wrap gap-3 mb-3">
+                <Link href={`/${locale}/job-seeker`}>
                 <Tag>
                   {t('hero.tag1')}
                 </Tag>
+                </Link>
+               
+                <Link href={`/${locale}/employer`}>
                 <Tag>
                   {t('hero.tag2')}
                 </Tag>
+                </Link>
               </div>
               
               {/* Main Title */}
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
                 {t('hero.title')}
               </h1>
+              
+              {/* Subtitle */}
+              {t('hero.subtitle') && (
+                <h2 className="text-lg md:text-xl text-gray-200 mt-4 font-medium">
+                  {t('hero.subtitle')}
+                </h2>
+              )}
             </div>
 
             {/* Right Side */}
@@ -138,10 +151,13 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
+{/* <GeoDebugger/> */}
       {/* About Section */}
       <AboutSection />
 
+    
       <AppleCardsCarouselDemo />
+    
 
       {/* New Modern Services Section */}
       <ServiceSection />

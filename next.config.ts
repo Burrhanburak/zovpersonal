@@ -23,7 +23,7 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
-        source: '/:locale(en|tr|de)/:path*',
+        source: '/:locale(en|tr|de|nl|bg|hr|ro)/:path*',
         headers: [
           {
             key: 'X-Locale',

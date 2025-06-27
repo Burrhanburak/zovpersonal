@@ -80,18 +80,10 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     loading="lazy" 
                     fill
                     className="object-cover" 
-                    src="/zovpersonal.webp" 
+                    src="/yapboz.png" 
                   />
                 </div>
-                <div className="relative aspect-[2/1.5] overflow-hidden rounded-2xl">
-                  <Image 
-                    alt={t('images.officeSpace')} 
-                    loading="lazy" 
-                    fill
-                    className="object-cover" 
-                    src="/zovpersonal.webp" 
-                  />
-                </div>
+            
               </div>
               <div className="flex-1 space-y-4 text-lg md:space-y-6">
                 <h2 className="text-primary text-4xl">{t('team.title')}</h2>
@@ -123,10 +115,10 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     loading="lazy" 
                     fill
                     className="object-cover" 
-                    src="/zovpersonal.webp" 
+                    src="/ekip.png" 
                   />
                 </div>
-                <div className="relative aspect-[2/1.5] overflow-hidden rounded-2xl">
+                {/* <div className="relative aspect-[2/1.5] overflow-hidden rounded-2xl">
                   <Image 
                     alt={t('images.success')} 
                     loading="lazy" 
@@ -134,7 +126,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     className="object-cover" 
                     src="/zovpersonal.webp" 
                   />
-                </div>
+                </div> */}
               </div>
             </div>
           </section>
@@ -156,7 +148,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/zovpersonal.webp" 
+                    src="/vize-uzmani.png" 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner1.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner1.role')}</p>
@@ -168,23 +160,12 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/zovpersonal.webp" 
+                    src="/hukuk-danısmanıi.png" 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner2.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner2.role')}</p>
                 </div>
-                <div className="">
-                  <Image 
-                    alt={t('partners.partner3.name')} 
-                    loading="lazy" 
-                    width={120} 
-                    height={120} 
-                    className="object-cover rounded-lg" 
-                    src="/zovpersonal.webp" 
-                  />
-                  <h3 className="mt-3 font-semibold">{t('partners.partner3.name')}</h3>
-                  <p className="text-muted-foreground">{t('partners.partner3.role')}</p>
-                </div>
+         
                 <div className="">
                   <Image 
                     alt={t('partners.partner4.name')} 
@@ -192,7 +173,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/zovpersonal.webp" 
+                    src="/müsteri-iliskilerii.png" 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner4.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner4.role')}</p>
@@ -204,7 +185,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/zovpersonal.webp" 
+                    src="/operasyon-muıdur.png" 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner5.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner5.role')}</p>

@@ -11,7 +11,7 @@ export default function WhatsAppWidget() {
   const [expanded, setExpanded] = useState(false);
   const [showBadge, setShowBadge] = useState(true);
   const [message, setMessage] = useState('');
-  const [locale, setLocale] = useState<Locale>('tr');
+  const [locale, setLocale] = useState<Locale>('en');
 
   useEffect(() => {
     // Get current locale

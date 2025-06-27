@@ -24,28 +24,28 @@ function FeatureCard({ text, Icon }: FeatureCardProps) {
 }
 
 export default function ApproachSection() {
-  const t = useTranslations('approach');
+  const t = useTranslations('acceleratedProcedure');
 
   const features = [
     {
-      text: t('holisticApproach'),
-      Icon: Heart
-    },
-    {
-      text: t('confidentialSpace'),
-      Icon: Shield
-    },
-    {
-      text: t('personalizedCare'),
+      text: t('employerInitiation'),
       Icon: UserCheck
     },
     {
-      text: t('compassionateProfessionals'),
-      Icon: MessageSquare
+      text: t('qualificationRecognition'),
+      Icon: Shield
     },
     {
-      text: t('flexibleScheduling'),
+      text: t('comprehensiveSupport'),
+      Icon: Heart
+    },
+    {
+      text: t('reducedBureaucracy'),
       Icon: Clock
+    },
+    {
+      text: t('internationalRecruitment'),
+      Icon: MessageSquare
     }
   ];
 
@@ -83,7 +83,7 @@ export default function ApproachSection() {
           {/* Right Column - Image */}
           <div className="w-full lg:w-1/2 lg:max-w-[450px] h-[400px] md:h-[500px] lg:h-[600px] relative rounded-[24px] overflow-hidden order-first lg:order-last">
             <Image
-              src="/hizmet.png"
+              src="/hızlandırılmıs-proredur.png"
               alt={t('imageAlt')}
               fill
               className="object-cover"

@@ -104,8 +104,11 @@ export default function Footer() {
                 </h3>
                 <div className="flex flex-col gap-4">
                   {[
+                    { label: t('contact.employer'), href: `/${locale}/employer` },
+                    { label: t('contact.jobSeeker'), href: `/${locale}/job-seeker` },
+                    { label: t('visa.businessProcess'), href: `/${locale}/business-process-in-germany` },
                     { label: t('visa.professions'), href: `/${locale}/profession-process` },
-                    { label: t('visa.applicationProcess'), href: `/${locale}/national-visa-application-process` },
+                    { label: t('visa.applicationProcess'), href: `/${locale}/international-recruitment` },
                   ].map((link, index) => (
                     <Link
                       key={index}
