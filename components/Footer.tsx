@@ -6,7 +6,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useParams } from 'next/navigation';
 import { Logo } from '@/components/logo';
-import { ArrowUpRight, Instagram, Twitter, Linkedin, Eye } from 'lucide-react';
+import { ArrowUpRight, Instagram, Twitter, Linkedin, Eye, Facebook } from 'lucide-react';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -147,7 +147,7 @@ export default function Footer() {
           <div className="w-full flex flex-col gap-6">
             {/* Legal Text */}
             <div className="text-white/80 text-sm leading-[129%] text-left max-w-2xl">
-              <p className="break-words">{t('legal')}</p>
+              {/* <p className="break-words">{t('legal')}</p> */}
             </div>
             
             {/* Copyright and Legal Links */}
@@ -184,15 +184,11 @@ export default function Footer() {
                     alt: "Instagram"
                   },
                   { 
-                    href: t('social.twitter.url'), 
-                    icon: Twitter,
-                    alt: "Twitter"
+                      href: t('social.facebook.url'), 
+                    icon: Facebook,
+                    alt: "facebook"
                   },
-                  { 
-                    href: t('social.linkedin.url'), 
-                    icon: Linkedin,
-                    alt: "LinkedIn"
-                  }
+                
                 ].map((social, index) => {
                   const IconComponent = social.icon;
                   return (

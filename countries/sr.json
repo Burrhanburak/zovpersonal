@@ -28,9 +28,9 @@
     "imageAlt": "Ubrzana procedura",
     "employerInitiation": "Inicijativa Poslodavca - Proces pokreće i koordinira poslodavac",
     "qualificationRecognition": "Priznavanje Kvalifikacija - Strane kvalifikacije se brzo procenjuju i priznaju",
-    "comprehensiveSupport": "Sveobuhvatna Podrška - Poslodavac preuzima većinu postupka prijave",
-    "reducedBureaucracy": "Smanjena Birokratija - Brzi rezultati sa maksimalno 3 meseca vremena obrade",
-    "internationalRecruitment": "Međunarodno Zapošljavanje - Saradnja sa specijalizovanim platformama kao što je Jobsingermany.net"
+    "comprehensiveSupport": "Sveobuhvatna Podrška - Poslodavac preuzima veći deo procesa prijave",
+    "reducedBureaucracy": "Smanjena Birokratija - Brzi rezultati",
+    "internationalRecruitment": "Jezički zahtevi"
   },
   "home": {
     "carousel": {
@@ -58,9 +58,9 @@
             "category": "Zdravstveni sektor",
             "title": "Zapošljavanje medicinskih stručnjaka"
           },
-          "technology": {
-            "category": "IT i tehnologija",
-            "title": "Rešenja za tehnološke talente"
+          "construction": {
+            "category": "Građevinski i graditeljski sektor",
+            "title": "Stručnjaci u građevinskom i graditeljskom sektoru"
           }
         },
         "content": {
@@ -134,17 +134,17 @@
               }
             ]
           },
-          "technology": {
-            "highlight": "Osnažite svoju tehnološku transformaciju.",
-            "description": "Povežite se sa vrhunskim IT stručnjacima i tehnološkim ekspertima. Od programera do naučnika podataka, mi obezbeđujemo talente koji pokreću inovacije.",
+          "construction": {
+            "highlight": "Specijalizovana radna snaga u građevinskom sektoru.",
+            "description": "Posebno dizajnirano za majstore, tehničare, arhitekte, inženjere, maltere, molere i građevinske stručnjake. Velika potražnja za kvalifikovanom radnom snagom u nemačkom građevinskom sektoru dovela je do posebnih propisa koji olakšavaju ulazak stranih stručnjaka u ovu industriju.",
             "features": [
               {
-                "title": "Tehnološka ekspertiza",
-                "description": "Stručnjaci u AI, blockchain, cloud computing i nastajućim tehnologijama."
+                "title": "Jezički zahtevi",
+                "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama."
               },
               {
-                "title": "Brza implementacija",
-                "description": "Brza rešenja za zapošljavanje za hitne tehnološke projekte i uloge."
+                "title": "Brz početak rada",
+                "description": "Brzo raspoređivanje za hitne potrebe u građevinskim projektima."
               }
             ]
           }
@@ -159,10 +159,9 @@
         "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo vam pomogli da radite bolje nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kao kompanija, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
       },
       "stats": {
-        "experience": {
-          "number": "12+",
-          "label": "Godina Infrastrukture"
-        },
+        "experience": "15+",
+        "experienceLabel": "Godina iskustva",
+        "satisfaction": "95%",
         "clients": {
           "number": "5K+",
           "label": "Uspešnih Klijenata"
@@ -221,11 +220,12 @@
         "compassion": "Empatija i razumevanje",
         "integrity": "Iskrenost i pouzdanost",
         "mindGrowth": "Lični i profesionalni rast"
-      }
+      },
+      "mission": "Naša misija je da osnažimo kvalifikovane profesionalce da uspeju u svojim karijerama povezujući ih sa prilikama u Nemačkoj."
     },
     "services": {
       "title": "Naše Usluge",
-      "subtitle": "Sveobuhvatna rešenja za zapošljavanje i partnerstvo sa poslodavcima",
+      "subtitle": "Povezujemo talentovane profesionalce sa vodećim kompanijama u Nemačkoj.",
       "countries": {
         "title": "Zemlje",
         "subtitle": "Od start-ap kompanija nove generacije do utemeljenih organizacija.",
@@ -246,19 +246,19 @@
         }
       },
       "workVisa": {
-        "title": "Aplikacije za Radnu Viznu",
-        "description": "Potpuna pomoć u aplikacijama za radne vize za razne zemlje uključujući Nemačku, Austriju, Holandiju i druge."
+        "title": "Pomoć oko radne vize",
+        "description": "Potpuna podrška i vođenje u regrutovanju međunarodnih stručnjaka iz različitih zemalja, uključujući Srbiju, Bugarsku, Hrvatsku, Rumuniju, Holandiju i Tursku."
       },
       "skillsAssessment": {
-        "title": "Procena Veština",
-        "description": "Profesionalna evaluacija vaših kvalifikacija i povezivanje sa međunarodnim poslovnim prilikama."
+        "title": "Procena veština",
+        "description": "Profesionalna procena vaših kvalifikacija i usklađivanje sa međunarodnim poslovnim prilikama."
       },
       "documentation": {
-        "title": "Priprema Dokumentacije",
-        "description": "Stručna pomoć u pripremi dokumenata, prevodu i uslugama overe."
+        "title": "Jezički Zahtevi",
+        "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama."
       },
       "consultation": {
-        "title": "Lične Konsultacije",
+        "title": "Lične konsultacije",
         "description": "Individualne konsultacije kako bismo razumeli vaše specifične potrebe i karijerne ciljeve."
       },
       "tabContent": {
@@ -452,18 +452,14 @@
           "url": "https://instagram.com/zovpersonal",
           "alt": "Pratite nas na Instagramu"
         },
-        "twitter": {
-          "url": "https://twitter.com/zovpersonal",
-          "alt": "Pratite nas na Twitteru"
-        },
-        "linkedin": {
-          "url": "https://linkedin.com/company/zovpersonal",
-          "alt": "Pratite nas na LinkedIn-u"
+        "facebook": {
+          "url": "https://facebook.com/zovpersonal",
+          "alt": "Pratite nas na Facebooku"
         }
       },
       "contact": {
         "title": "Kontakt",
-        "email": "E-mail",
+        "email": "Email",
         "phone": "Telefon",
         "employer": "Poslodavac",
         "jobSeeker": "Tražilac Posla",
@@ -779,18 +775,30 @@
       }
     },
     "faq": {
-      "title": "Često Postavljana Pitanja",
-      "subtitle": "Odgovaramo na sve što vas zanima o viznim i imigracionim procesima. Pronađite svoj put do vaše zemlje iz snova sa našim stručnim timom.",
-      "question1": "Za koje zemlje pružate vizne konsultacije?",
-      "answer1": "Pružamo sveobuhvatne usluge viznih konsultacija za Nemačku, Australiju, Kanadu, SAD, Veliku Britaniju, Holandiju i mnoge EU zemlje. Kreiramo prilagođena rešenja za jedinstvene zahteve svake zemlje.",
-      "question2": "Koliko dugo traje proces aplikacije za vizu?",
-      "answer2": "Trajanje varira po zemlji i tipu vize, obično u rasponu od 2-6 meseci. Potpuna priprema dokumenata i praćenje ispravnih procedura ubrzava proces.",
-      "question3": "Šta radite ako je aplikacija odbijena?",
-      "answer3": "U slučaju odbijanja, analiziramo razloge i razvijamo novu strategiju. Ako je potrebno, rukovodimo procesima žalbe i pripremamo nove aplikacije nakon rešavanja nedostataka. Nastavljamo da podržavamo naše klijente tokom procesa.",
-      "question4": "Koje su vaše naknade za usluge?",
-      "answer4": "Naše naknade variraju prema tipu usluge i složenosti. Inicijalna konsultacija je besplatna. Kontaktirajte nas za detaljne cene i personalizovane ponude na osnovu vaših specifičnih potreba.",
-      "question5": "Na kojim jezicima treba da budu pripremljeni moji dokumenti?",
-      "answer5": "Dokumenti moraju biti prevedeni na zvanični jezik ciljne zemlje. Takođe pružamo usluge overenog prevoda za nemački, engleski i druge potrebne jezike."
+      "title": "Često postavljana pitanja",
+      "description": "Međunarodno zapošljavanje orijentisano na budućnost",
+      "items": [
+        {
+          "question": "U kojim zemljama ZOV Personal pruža usluge?",
+          "answer": "Nudimo usluge zapošljavanja i partnerstva sa poslodavcima u mnogim zemljama, prvenstveno u Srbiji, Rumuniji, Hrvatskoj, Bugarskoj, Holandiji i Turskoj."
+        },
+        {
+          "question": "Kako funkcioniše proces prijave?",
+          "answer": "Trajanje varira u zavisnosti od zemlje i vrste vize, obično u rasponu od 2-6 meseci. Kompletna priprema dokumenata i poštovanje ispravnih procedura ubrzavaju proces."
+        },
+        {
+          "question": "Šta radite ako je prijava odbijena?",
+          "answer": "U slučaju odbijanja, analiziramo razloge i razvijamo novu strategiju. Ako je potrebno, vodimo žalbene postupke i pripremamo novu prijavu nakon otklanjanja nedostataka. Nastavljamo da podržavamo naše klijente tokom celog procesa."
+        },
+        {
+          "question": "Koje su vaše naknade za usluge?",
+          "answer": "Naše naknade variraju u zavisnosti od vrste i složenosti usluge. Početno savetovanje je besplatno. Za detaljne informacije o cenama, možete nas kontaktirati za personalizovanu ponudu."
+        },
+        {
+          "question": "Na kojim jezicima treba da budu pripremljeni moji dokumenti?",
+          "answer": "Vaši dokumenti moraju biti prevedeni na zvanični jezik ciljne zemlje. Takođe nudimo usluge overenog prevoda. Zadovoljavamo vaše potrebe za prevodom na nemački, engleski i druge jezike."
+        }
+      ]
     },
     "internationalRecruitment": {
     "hero": {
@@ -947,12 +955,26 @@
       "about": {
         "title": "Drugačija vrsta konsultacija.",
         "description": "Nudimo sveobuhvatne usluge za ostvarivanje vaših međunarodnih karijernih ciljeva u zdravstvenom sektoru.",
-        "statsTitle": "Po Brojevima",
+        "statsTitle": "U brojkama",
         "stats": {
-          "experience": "Godine Iskustva",
-          "healthPersonnel": "Zdravstveno Osoblje",
-          "successRate": "Stopa Uspeha",
-          "partners": "Partnerske Organizacije"
+          "experience": {
+            "number": "15+",
+            "label": "Godina iskustva"
+          },
+          "satisfaction": "95%",
+          "healthPersonnel": "Medicinsko osoblje",
+          "clients": {
+            "number": "5K+",
+            "label": "Uspešnih Klijenata"
+          },
+          "visas": {
+            "number": "10K+",
+            "label": "Odobrenih Viza"
+          },
+          "countries": {
+            "number": "25+",
+            "label": "Ciljne Zemlje"
+          }
         },
         "content": {
           "paragraph1": "Zdravstveni sektor se stalno menja i razvija. Potreba za zdravstvenim osobljem u Nemačkoj raste svakog dana. Sada je pravo vreme da iskoristite ovu priliku.",

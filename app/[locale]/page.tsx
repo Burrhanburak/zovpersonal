@@ -11,7 +11,7 @@ import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import GeoDebugger from "@/components/GeoDebug";
 import { AppleCardsCarouselDemo } from "@/components/Slidehome";
-
+import FindingWork from "@/components/finding-work";
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -98,13 +98,13 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
               {/* Tags */}
               <div className="flex flex-wrap gap-3 mb-3">
                 <Link href={`/${locale}/job-seeker`}>
-                <Tag>
+                <Tag size="lg" variant="glass">
                   {t('hero.tag1')}
                 </Tag>
                 </Link>
                
                 <Link href={`/${locale}/employer`}>
-                <Tag>
+                <Tag size="lg" variant="glass" className="">
                   {t('hero.tag2')}
                 </Tag>
                 </Link>
@@ -165,8 +165,62 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
       {/* New Modern Approach Section */}
       <ApproachSection />
 
+      <FindingWork />
+
+      <section className="py-10 container mx-auto max-w-5xl px-4">
+      <section className="relative container max-w-5xl py-10 md:py-12 lg:py-15">
+        <div>
+          <h1 className="text-4xl font-semibold tracking-tight md:text-5xl lg:text-6xl">
+            {t('professionProcess.about.title')}
+          </h1>
+          <p className="mt-4 max-w-2xl text-2xl text-muted-foreground md:text-3xl">
+            {t('professionProcess.about.description')}
+          </p>
+        </div>
+        <div className="absolute inset-0 z-[-1] -translate-y-1/2 blur-[100px] will-change-transform">
+          <div className="absolute top-0 right-0 h-[400px] w-[800px] -translate-x-1/5 rounded-full bg-gradient-to-r from-blue-500/25 to-green-500/25"></div>
+          <div className="absolute top-0 right-0 size-[400px] rounded-full bg-gradient-to-r from-purple-500/10 to-pink-500/10"></div>
+        </div>
+      </section>
+      
+      <section className="container max-w-5xl border-y py-5">
+        <h2 className="font-mono text-sm font-semibold tracking-widest text-accent-foreground">{t('professionProcess.about.statsTitle')}</h2>
+        <div className="mt-6 grid grid-cols-2 gap-8 md:grid-cols-4">
+          <div>
+            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">15+</h3>
+            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.experience')}</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">2.5K</h3>
+            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.healthPersonnel')}</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">95%</h3>
+            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.successRate')}</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">150+</h3>
+            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.partners')}</p>
+          </div>
+        </div>
+      </section>
+      
+      <section className="container max-w-5xl py-10 md:py-12 lg:py-15">
+        <div className="max-w-2xl space-y-5 md:space-y-8 lg:space-y-10">
+          <p className="text-lg">
+            {t('professionProcess.about.content.paragraph1')}
+          </p>
+          <h2 className="text-2xl font-medium tracking-tight md:text-3xl">
+            {t('professionProcess.about.content.highlight')}
+          </h2>
+          <p className="text-lg">
+            {t('professionProcess.about.content.paragraph2')}
+          </p>
+        </div>
+      </section>
+    </section>
       {/* Reviews Section */}
-      <ReviewSection />
+      {/* <ReviewSection /> */}
 
       {/* FAQ Section */}
       <FAQSection />

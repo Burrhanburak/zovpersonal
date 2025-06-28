@@ -12,7 +12,7 @@
     "consultation": "Free Employer Partnership"
   },
   "hero": {
-    "title": "International Future-Oriented Recruitment Agency (ZOV)",
+    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
     "subtitle": "Your trusted partner for international career opportunities",
     "description": "We connect qualified professionals with innovative companies worldwide. Future-oriented recruitment for sustainable success in Germany and the EU.",
     "longDescription": "Your trusted partner connecting qualified professionals with international employers. Whether you're seeking support in the recruitment process or pursuing career opportunities abroad, achieve success with our expert team.",
@@ -29,8 +29,8 @@
     "employerInitiation": "Employer Initiation - The process is initiated and coordinated by the employer throughout",
     "qualificationRecognition": "Qualification Recognition - Foreign qualifications are quickly assessed and recognized",
     "comprehensiveSupport": "Comprehensive Support - Employer takes over most of the application process",
-    "reducedBureaucracy": "Reduced Bureaucracy - Fast results with maximum 3-month processing time",
-    "internationalRecruitment": "International Recruitment - Cooperation with specialized platforms like Jobsingermany.net"
+    "reducedBureaucracy": "Reduced Bureaucracy - Fast results",
+    "internationalRecruitment": "Language Requirements"
   },
   "home": {
     "carousel": {
@@ -48,7 +48,7 @@
         },
         "visaprocess": {
           "category": "Visa & Documentation",
-          "title": "Complete Visa Processing"
+          "title": "Complete Visa Processing Support"
         },
         "support": {
           "category": "24/7 Support",
@@ -58,9 +58,9 @@
           "category": "Healthcare Sector",
           "title": "Medical Professionals Recruitment"
         },
-        "technology": {
-          "category": "IT & Technology",
-          "title": "Tech Talent Solutions"
+        "construction": {
+          "category": "Construction and Building Sector",
+          "title": "Construction and Building Sector Specialists"
         }
       },
       "content": {
@@ -74,7 +74,7 @@
             },
             {
               "title": "Fast Placement",
-              "description": "Average placement time of 45 days with 95% candidate retention rate."
+              "description": "Fast and efficient placement process with high candidate satisfaction."
             }
           ]
         },
@@ -94,7 +94,7 @@
         },
         "visaprocess": {
           "highlight": "Simplify complex visa procedures.",
-          "description": "Navigate international visa requirements with confidence. Our expert team handles all documentation, application processes, and legal compliance for seamless transitions.",
+          "description": "Navigate international visa requirements with confidence. Our expert team handles all documentation, application processes, and legal compliance for seamless transitions. We guide you properly and support you throughout your processes.",
           "features": [
             {
               "title": "Expert Documentation",
@@ -122,7 +122,7 @@
         },
         "healthcare": {
           "highlight": "Healthcare talent excellence.",
-          "description": "Specialized recruitment for healthcare professionals including doctors, nurses, therapists, and medical technicians. We understand the unique requirements of the healthcare sector.",
+          "description": "Specialized recruitment for healthcare professionals including doctors, caregivers, home elderly care and care services nurses, therapists, and medical technicians. We understand the unique requirements of the healthcare sector.",
           "features": [
             {
               "title": "Medical Licensing",
@@ -134,17 +134,17 @@
             }
           ]
         },
-        "technology": {
-          "highlight": "Power your tech transformation.",
-          "description": "Connect with top-tier IT professionals and technology experts. From software developers to data scientists, we source the talent that drives innovation.",
+        "construction": {
+          "highlight": "Specialized workforce in the construction sector.",
+          "description": "Specially designed for masters, technicians, architects, engineers, plasterers, painters, and building experts. The high demand for qualified labor in the German construction sector has led to special regulations that facilitate the entry of foreign specialists into this industry.",
           "features": [
             {
-              "title": "Tech Expertise",
-              "description": "Specialists in AI, blockchain, cloud computing, and emerging technologies."
+              "title": "Language Requirements",
+              "description": "B1 level German and professional skill certificates."
             },
             {
-              "title": "Rapid Deployment",
-              "description": "Quick placement solutions for urgent technology projects and roles."
+              "title": "Quick Start to Work",
+              "description": "Fast placement for urgent needs in construction projects."
             }
           ]
         }
@@ -160,9 +160,10 @@
     },
     "stats": {
       "experience": {
-        "number": "12+",
-        "label": "Years Infrastructure"
+        "number": "15+",
+        "label": "Years of Experience"
       },
+      "satisfaction": "95%",
       "clients": {
         "number": "5K+",
         "label": "Successful Clients"
@@ -224,19 +225,19 @@
     }
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "Comprehensive recruitment and employer partnership solutions",
+    "title": "Advance Your Career Globally",
+    "subtitle": "Connecting talented professionals with leading companies in Germany.",
     "workVisa": {
-      "title": "Recruitment Services",
-      "description": "Complete support and guidance for recruiting international professionals from various countries including Germany, Austria, Netherlands, and more."
+      "title": "Work Visa Assistance",
+      "description": "Full support and guidance in recruiting international specialists from various countries, including Serbia, Bulgaria, Croatia, Romania, the Netherlands, and Turkey."
     },
     "skillsAssessment": {
       "title": "Skills Assessment",
       "description": "Professional evaluation of your qualifications and matching with international job opportunities."
     },
     "documentation": {
-      "title": "Document Preparation",
-      "description": "Expert help with document preparation, translation, and authentication services."
+      "title": "Language Requirements",
+      "description": "B1 German level and professional skill certificates."
     },
     "consultation": {
       "title": "Personal Consultation",
@@ -278,9 +279,9 @@
       },
       "skillsAssessment": {
         "title": "Professional Qualification Assessment",
-        "description": "From recognition need assessment to special training plans, we provide comprehensive evaluation and guidance for recognition of your professional qualifications in accordance with German standards. We support the process with B1 level German language skills and proof of financial security.",
-        "stat1": { "number": "85%", "label": "successful recognition" },
-        "stat2": { "number": "12", "label": "years experience" },
+        "description": "From assessing the need for recognition to a tailored training plan, we provide comprehensive evaluation and guidance to ensure your professional qualifications are recognized according to German standards. We support the process with B1 level German language skills and proof of financial security.",
+        "stat1": { "number": "85%", "label": "successful recognitions" },
+        "stat2": { "number": "15", "label": "years of infrastructure" },
         "category": "Professional Qualification"
       }
     },
@@ -454,13 +455,9 @@
         "url": "https://instagram.com/zovpersonal",
         "alt": "Follow us on Instagram"
       },
-      "twitter": {
-        "url": "https://twitter.com/zovpersonal",
-        "alt": "Follow us on Twitter"
-      },
-      "linkedin": {
-        "url": "https://linkedin.com/company/zovpersonal",
-        "alt": "Follow us on LinkedIn"
+      "facebook": {
+        "url": "https://facebook.com/zovpersonal",
+        "alt": "Follow us on Facebook"
       }
     },
     "contact": {
@@ -781,19 +778,32 @@
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "subtitle": "We answer everything you wonder about visa and immigration processes. Find your path to your dream country with our expert team.",
-    "question1": "Which countries do you provide visa consulting for?",
-    "answer1": "We provide comprehensive visa consulting services for Germany, Australia, Canada, USA, UK, Netherlands, and many EU countries. We create tailored solutions for each country's unique requirements.",
-    "question2": "How long does the visa application process take?",
-    "answer2": "Duration varies by country and visa type, typically ranging from 2-6 months. Complete preparation of documents and following correct procedures accelerates the process.",
-    "question3": "What do you do if the application is rejected?",
-    "answer3": "In case of rejection, we analyze the reasons and develop a new strategy. If necessary, we handle appeal processes and prepare new applications after addressing deficiencies. We continue supporting our clients throughout the process.",
-    "question4": "What are your service fees?",
-    "answer4": "Our fees vary according to service type and complexity. Initial consultation is free. Contact us for detailed pricing and personalized quotes based on your specific needs.",
-    "question5": "In which languages should my documents be prepared?",
-    "answer5": "Documents must be translated into the official language of the target country. We also provide certified translation services for German, English, and other required languages."
+    "description": "International Future-Oriented Recruitment",
+    "items": [
+      {
+        "question": "In which countries does ZOV Personal provide services?",
+        "answer": "We offer recruitment and employer partnership services in many countries, primarily in Serbia, Romania, Croatia, Bulgaria, the Netherlands, and Turkey."
+      },
+      {
+        "question": "How does the application process work?",
+        "answer": "The duration varies depending on the country and visa type, typically ranging from 2-6 months. Complete document preparation and following the correct procedures expedite the process."
+      },
+      {
+        "question": "What do you do if the application is rejected?",
+        "answer": "In case of rejection, we analyze the reasons and develop a new strategy. If necessary, we manage appeal processes and prepare a new application after addressing the shortcomings. We continue to support our clients throughout the process."
+      },
+      {
+        "question": "What are your service fees?",
+        "answer": "Our fees vary depending on the type and complexity of the service. The initial consultation is free. For detailed pricing information, you can contact us for a personalized offer."
+      },
+      {
+        "question": "In which languages should my documents be prepared?",
+        "answer": "Your documents must be translated into the official language of the target country. We also offer certified translation services. We meet your translation needs in German, English, and other languages."
+      }
+    ]
   },
   "professionProcess": {
+    "title": "Professional Process",
     "hero": {
       "title": "Germany National Visa - Professions and Process",
       "subtitle": "Your national visa application process to work in Germany's healthcare sector"
@@ -877,11 +887,11 @@
           "footer": "We have career counseling services specific to your profession and job opportunities."
         },
         "visaApplication": {
-          "title": "National Work Visa",
+          "title": "Application Process Support",
           "subtitle": "Application Process",
-          "description": "We manage all steps for you in the Germany national work visa application process. Professional support from document preparation to appointment scheduling.",
-          "detail": "We prepare all necessary documents correctly to expedite the visa approval process.",
-          "footer": "You can confidently apply for your visa with our high success rate."
+          "description": "We provide information and guidance on your German national work visa application process. By supporting you throughout the process, we help you track your application more easily.",
+          "detail": "We inform you about what to consider when preparing your documents and scheduling an appointment.",
+          "footer": "Contact us for more information about the process."
         },
         "companyAgreements": {
           "title": "Partner Companies",

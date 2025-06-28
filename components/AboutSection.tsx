@@ -60,7 +60,7 @@ export default function AboutSection() {
       id="about-section"
     >
       <div 
-        className="bg-[#d5dec5] rounded-[20px] sm:rounded-[30px] flex flex-col lg:flex-row items-start justify-center gap-6 lg:gap-[10px] min-h-[400px] sm:min-h-[500px] lg:h-[692px] overflow-hidden p-6 sm:p-12 lg:p-[70px] relative w-full max-w-[1200px] will-change-transform"
+        className="bg-[#d5dec5] rounded-[20px] sm:rounded-[30px] flex flex-col lg:flex-row items-center justify-center gap-6 lg:gap-[40px] min-h-[400px] sm:min-h-[500px] lg:h-[920px] overflow-hidden p-6 sm:p-12 lg:p-[70px] relative w-full will-change-transform"
         style={{
           alignContent: 'flex-start',
           flexWrap: 'nowrap'

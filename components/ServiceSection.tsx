@@ -3,24 +3,19 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
+import { FileText, UserSearch, FileCheck, MessageSquareQuote } from 'lucide-react';
 
 interface ServiceCardProps {
-  icon: string;
+  icon: React.ElementType;
   title: string;
   description: string;
 }
 
-function ServiceCard({ icon, title, description }: ServiceCardProps) {
+function ServiceCard({ icon: Icon, title, description }: ServiceCardProps) {
   return (
     <div className="bg-[rgb(248,250,242)] rounded-2xl p-6 flex flex-col gap-4 w-full h-full">
-      <div className="w-[52px] h-[52px] relative flex-shrink-0">
-        <Image
-          src={icon}
-          alt={title}
-          width={52}
-          height={52}
-          className="w-full h-full object-cover"
-        />
+      <div className="w-[52px] h-[52px] relative flex-shrink-0 bg-white rounded-lg flex items-center justify-center">
+        <Icon className="w-8 h-8 text-neutral-600" />
       </div>
       <div className="flex flex-col gap-2">
         <h5 className="text-left font-semibold text-[rgb(28,39,6)] text-lg">
@@ -39,22 +34,22 @@ export default function ServiceSection() {
 
   const services = [
     {
-      icon: "https://framerusercontent.com/images/ugycgoOkv3p1p1LgDNQKUj0DMw.svg",
+      icon: FileText,
       title: t('workVisa.title'),
       description: t('workVisa.description')
     },
     {
-      icon: "https://framerusercontent.com/images/wcJdPBWrhic7UC9lCPXawWPP6OM.svg",
+      icon: UserSearch,
       title: t('skillsAssessment.title'),
       description: t('skillsAssessment.description')
     },
     {
-      icon: "https://framerusercontent.com/images/hkvMklMx6UMQAP554YRJlGFEC38.svg",
+      icon: FileCheck,
       title: t('documentation.title'),
       description: t('documentation.description')
     },
     {
-      icon: "https://framerusercontent.com/images/nvcIvRkMNCueCZAw3q3pHxc3mc4.svg",
+      icon: MessageSquareQuote,
       title: t('consultation.title'),
       description: t('consultation.description')
     }

@@ -12,7 +12,7 @@
     "consultation": "ücretsiz iş veren ortaklığı"
   },
   "hero": {
-    "title": "Uluslararası İşe Alım ve İş Veren Ortaklığı",
+    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
     "subtitle": "Yurtdışında Çalışmanın Kapısı",
           "description": "Almanya, AB ülkeleri ve daha fazlası için nitelikli personel istihdamında uzman rehberlik. Bireyler ve işletmeler için profesyonel işe alım hizmetleri.",
     "longDescription": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. İster işe alım sürecinizde destek arıyor olun, ister yurt dışında kariyer fırsatları peşinde olun, uzman ekibimizle başarıya ulaşın.",
@@ -28,9 +28,9 @@
     "imageAlt": "Hızlandırılmış prosedür süreci",
     "employerInitiation": "İşveren Başlatması - Süreç işveren tarafından başlatılır ve tüm süreç boyunca koordine edilir",
     "qualificationRecognition": "Niteliklerin Tanınması - Yurt dışında edinilen nitelikler hızla değerlendirilir ve tanınır",
-    "comprehensiveSupport": "Kapsamlı Destek - İşveren başvuru sürecinin büyük kısmını üstlenir",
-    "reducedBureaucracy": "Azaltılmış Bürokrasi - En fazla 3 aylık işlem süresi ile hızlı sonuç",
-    "internationalRecruitment": "Uluslararası İşe Alım - Jobsingermany.net gibi uzman platformlarla işbirliği"
+    "comprehensiveSupport": "Kapsamlı Destek - Başvuru sürecinin büyük bir kısmını işveren üstlenir",
+    "reducedBureaucracy": "Azaltılmış Bürokrasi - Hızlı sonuçlar",
+    "internationalRecruitment": "Dil Gereksinimleri"
   },
   "home": {
     "carousel": {
@@ -48,7 +48,7 @@
         },
         "visaprocess": {
           "category": "Vize ve Belgelendirme",
-          "title": "Kapsamlı Vize İşlemleri"
+          "title": "Kapsamlı Vize İşlemleri Desteği"
         },
         "support": {
           "category": "7/24 Destek",
@@ -58,9 +58,9 @@
           "category": "Sağlık Sektörü",
           "title": "Tıbbi Uzman İşe Alım"
         },
-        "technology": {
-          "category": "BT ve Teknoloji",
-          "title": "Teknoloji Yetenek Çözümleri"
+        "construction": {
+          "category": "İnşaat ve Yapı Sektörü",
+          "title": "İnşaat ve Yapı Sektörü Uzmanları"
         }
       },
       "content": {
@@ -74,7 +74,7 @@
             },
             {
               "title": "Hızlı Yerleştirme",
-              "description": "Ortalama 45 günde yerleştirme ve %95 aday tutma oranı."
+              "description": "Hızlı ve etkili yerleştirme süreci ile yüksek aday memnuniyeti."
             }
           ]
         },
@@ -94,7 +94,7 @@
         },
         "visaprocess": {
           "highlight": "Karmaşık vize işlemlerini basitleştirin.",
-          "description": "Uluslararası vize gereksinimlerinde güvenle ilerleyin. Uzman ekibimiz sorunsuz geçişler için tüm belgelendirme, başvuru süreçleri ve yasal uyumluluğu yönetir.",
+          "description": "Uluslararası vize gereksinimlerinde güvenle ilerleyin. Uzman ekibimiz sorunsuz geçişler için tüm belgelendirme, başvuru süreçleri ve yasal uyumluluğu yönetir. Sizleri doğru şekilde yönlendirir ve süreçlerinizde destek oluyoruz.",
           "features": [
             {
               "title": "Uzman Belgelendirme",
@@ -122,7 +122,7 @@
         },
         "healthcare": {
           "highlight": "Sağlık yetenek mükemmelliği.",
-          "description": "Doktorlar, hemşireler, terapistler ve tıbbi teknisyenler dahil sağlık uzmanları için özel işe alım. Sağlık sektörünün benzersiz gereksinimlerini anlıyoruz.",
+          "description": "Doktorlar, bakıcılar, evde yaşlı bakımı ve bakım hizmetleri hemşireler, terapistler ve tıbbi teknisyenler dahil sağlık uzmanları için özel işe alım. Sağlık sektörünün benzersiz gereksinimlerini anlıyoruz.",
           "features": [
             {
               "title": "Tıbbi Lisanslama",
@@ -134,17 +134,17 @@
             }
           ]
         },
-        "technology": {
-          "highlight": "Teknoloji dönüşümünüzü güçlendirin.",
-          "description": "En üst düzey BT uzmanları ve teknoloji uzmanlarıyla bağlantı kurun. Yazılım geliştiricilerden veri bilimcilerine kadar, inovasyonu yönlendiren yetenekleri buluyoruz.",
+        "construction": {
+          "highlight": "İnşaat sektöründe uzman iş gücü.",
+          "description": "Usta, tekniker, mimar, mühendisler, sıvacı, boyacı ve yapı uzmanları için özel olarak tasarlanmıştır. Almanya'da inşaat sektöründe nitelikli işgücüne olan yüksek talep, yabancı uzmanların bu sektöre girişini kolaylaştıran özel düzenlemeleri beraberinde getirmiştir.",
           "features": [
             {
-              "title": "Teknoloji Uzmanlığı",
-              "description": "AI, blockchain, bulut bilişim ve gelişmekte olan teknolojilerde uzmanlar."
+              "title": "Dil Gereksinimleri",
+              "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları."
             },
             {
-              "title": "Hızlı Konuşlandırma",
-              "description": "Acil teknoloji projeleri ve rolleri için hızlı yerleştirme çözümleri."
+              "title": "Hızlı İş Başlangıcı",
+              "description": "İnşaat projelerinde acil ihtiyaçlar için hızlı yerleştirme."
             }
           ]
         }
@@ -160,8 +160,8 @@
     },
     "stats": {
       "experience": {
-        "number": "12+",
-        "label": "Yıllık altyapı"
+        "number": "15+",
+        "label": "Yıllık Deneyim"
       },
       "clients": {
         "number": "5K+",
@@ -224,19 +224,19 @@
     }
   },
   "services": {
-    "title": "Hizmetlerimiz",
-    "subtitle": "Kapsamlı işe alım ve iş veren ortaklığı çözümleri",
+    "title": "Kariyerinizi Küresel Ölçekte İlerletin",
+    "subtitle": "Yetenekli profesyonelleri Almanya'daki lider şirketlerle buluşturuyoruz.",
     "workVisa": {
-      "title": "İşe Alım Hizmetleri",
-      "description": "Almanya, Avusturya, Hollanda ve daha fazlası dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
+      "title": "Çalışma Vizesi Yardımı",
+      "description": "Sırbistan, Bulgaristan, Hırvatistan, Romanya, Hollanda ve Türkiye dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
     },
     "skillsAssessment": {
-      "title": "Yetenek Değerlendirmesi",
-      "description": "Niteliklerinizin profesyonel değerlendirmesi ve uluslararası iş fırsatlarıyla eşleştirme."
+      "title": "Beceri Değerlendirmesi",
+      "description": "Niteliklerinizin profesyonel değerlendirilmesi ve uluslararası iş fırsatlarıyla eşleştirilmesi."
     },
     "documentation": {
-      "title": "Belge Hazırlama",
-      "description": "Belge hazırlama, çeviri ve onaylatma hizmetlerinde uzman yardım."
+      "title": "Dil Gereksinimleri",
+      "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları."
     },
     "consultation": {
       "title": "Kişisel Danışmanlık",
@@ -280,7 +280,7 @@
         "title": "Mesleki Yeterlilik Değerlendirmesi",
         "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. B1 seviyesinde Almanca dil becerileri ve mali güvenlik kanıtı ile süreci destekliyoruz.",
         "stat1": { "number": "85%", "label": "başarılı tanınma" },
-        "stat2": { "number": "12", "label": "yıl deneyim" },
+        "stat2": { "number": "15", "label": "yıllık altyapı" },
         "category": "Mesleki Yeterlilik"
       }
     },
@@ -438,20 +438,16 @@
       "additionalServices": "Ek Hizmetlerimiz",
       "nationalVisaSteps": "Ulusal Vize Adımları",
       "professions": "Meslek Grupları ve Süreçleri",
-      "businessProcess": "Almanya'ya giriş süreci"
+      "businessProcess": "Almanya'da İş Süreci"
     },
     "social": {
       "instagram": {
         "url": "https://instagram.com/zovpersonal",
-        "alt": "Instagram'da bizi takip edin"
+        "alt": "Bizi Instagram'da takip edin"
       },
-      "twitter": {
-        "url": "https://twitter.com/zovpersonal",
-        "alt": "Twitter'da bizi takip edin"
-      },
-      "linkedin": {
-        "url": "https://linkedin.com/zovpersonal",
-        "alt": "LinkedIn'de bizi takip edin"
+      "facebook": {
+        "url": "https://facebook.com/zovpersonal",
+        "alt": "Bizi Facebook'ta takip edin"
       }
     },
     "contact": {
@@ -777,18 +773,30 @@
     }
   },
   "faq": {
-    "title": "Sık Sorulan Sorular",
-    "subtitle": "Vize ve göçmenlik süreçleri hakkında merak ettiğiniz her şeyi yanıtlıyoruz. Uzman ekibimizle hayalinizdeki ülkeye giden yolu bulun.",
-    "question1": "Hangi ülkeler için işe alım ve iş veren ortaklığı veriyorsunuz?",
-    "answer1": "Almanya, Avustralya, Kanada, ABD, İngiltere, Hollanda ve birçok AB ülkesi için kapsamlı işe alım ve iş veren ortaklığı hizmeti sunuyoruz. Her ülkenin kendine özgü gereksinimlerine uygun çözümler üretiyoruz.",
-    "question2": "Vize başvuru süreci ne kadar sürer?",
-    "answer2": "Süre, ülkeye ve vize türüne göre değişir. Genellikle 2-6 ay arasında değişmektedir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır.",
-    "question3": "Başvuru reddedilirse ne yapıyorsunuz?",
-    "answer3": "Red durumunda sebepleri analiz ederek yeni bir strateji geliştiririz. Gerekirse itiraz süreçlerini yönetir, eksikleri gidererek yeniden başvuru hazırlarız. Müşterilerimize süreç boyunca destek olmaya devam ederiz.",
-    "question4": "Hizmet ücretleriniz nedir?",
-    "answer4": "Ücretlerimiz hizmet türüne ve karmaşıklığına göre değişmektedir. İlk danışmanlık ücretsizdir. Detaylı fiyat bilgisi için bizimle iletişime geçerek kişiselleştirilmiş teklif alabilirsiniz.",
-    "question5": "Belgelerim hangi dillerde hazırlanmalı?",
-    "answer5": "Belgeleriniz hedef ülkenin resmi diline çevrilmelidir. Yeminli tercüme hizmeti de sunuyoruz. Almanca, İngilizce ve diğer dillerdeki çeviri ihtiyaçlarınızı karşılıyoruz."
+    "title": "Sıkça Sorulan Sorular",
+    "description": "Uluslararası Gelecek Odaklı İşe Alım süreçlerinde destek veriyoruz.",
+    "items": [
+      {
+        "question": "ZOV Personal hangi ülkelerde hizmet vermektedir?",
+        "answer": "Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda ve Türkiye olmak üzere birçok ülkede işe alım ve işveren ortaklığı hizmetleri sunuyoruz."
+      },
+      {
+        "question": "Başvuru süreci nasıl işliyor?",
+        "answer": "Süre, ülkeye ve vize türüne göre değişir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır."
+      },
+      {
+        "question": "Başvuru reddedilirse ne yapıyorsunuz?",
+        "answer": "Red durumunda sebepleri analiz ederek yeni bir strateji geliştiririz. Gerekirse itiraz süreçlerini yönetir, eksikleri gidererek yeniden başvuru hazırlarız. Müşterilerimize süreç boyunca destek olmaya devam ederiz."
+      },
+      {
+        "question": "Almanya'da çalışan entegrasyonu nasıl işliyor?",
+        "answer": "Uluslararası çalışanlar Almanya'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar."
+      },
+      {
+        "question": "Almanya'daki yükümlülükler nelerdir?",
+        "answer": "Almanya'ya göç eden vasıflı işçiler, çalışma hayatlarına ve günlük yaşamlarına sorunsuz bir başlangıç sağlamak için yerine getirilmesi gereken bir dizi yükümlülüğe tabidir."
+      }
+    ]
   },
   "professionProcess": {
     "hero": {
@@ -874,11 +882,11 @@
           "footer": "Mesleğinize özel iş fırsatları ve kariyer danışmanlığı hizmetimiz mevcuttur."
         },
         "visaApplication": {
-          "title": "Ulusal Çalışma Vizesi",
+          "title": "Başvuru Süreci Desteği",
           "subtitle": "Başvuru Süreci",
-          "description": "Almanya ulusal çalışma vizesi başvuru sürecinde tüm adımları sizin için yönetiyoruz. Evrak hazırlığından randevu alımına kadar profesyonel destek.",
-          "detail": "Vize onay sürecini hızlandırmak için gerekli tüm belgeleri doğru şekilde hazırlıyoruz.",
-          "footer": "Yüksek başarı oranımızla güvenle vize başvurunuzu yapabilirsiniz."
+          "description": "Almanya ulusal çalışma vizesi başvuru sürecinizde bilgilendirme ve yönlendirme sağlıyoruz. Süreç boyunca size destek olarak, başvurunuzu daha kolay takip etmenize yardımcı oluyoruz.",
+          "detail": "Belgelerinizi hazırlarken ve randevu alırken dikkat etmeniz gerekenler konusunda sizi bilgilendiriyoruz.",
+          "footer": "Süreç hakkında daha fazla bilgi için bize ulaşın."
         },
         "companyAgreements": {
           "title": "Partner Şirketler",

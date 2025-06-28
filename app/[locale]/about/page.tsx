@@ -136,7 +136,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
             <div className="text-muted-foreground relative h-px w-full container max-w-5xl scale-x-115">
               <div className="h-px w-full bg-[repeating-linear-gradient(90deg,transparent,transparent_4px,currentColor_4px,currentColor_10px)] [mask-image:linear-gradient(90deg,transparent,black_25%,black_75%,transparent)]"></div>
             </div>
-            <section className="container max-w-5xl py-12">
+            {/* <section className="container max-w-5xl py-12">
               <h2 className="text-primary text-4xl font-medium tracking-wide">
                 {t('partners.title')}
               </h2>
@@ -191,7 +191,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                   <p className="text-muted-foreground">{t('partners.partner5.role')}</p>
                 </div>
               </div>
-            </section>
+            </section> */}
           </div>
         </div>
       </div>

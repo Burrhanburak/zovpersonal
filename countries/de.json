@@ -12,7 +12,7 @@
     "consultation": "Kostenlose Arbeitgeberpartnerschaft"
   },
   "hero": {
-    "title": "Internationale Zukunftsorientierte Personalvermittlung (ZOV)",
+    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
     "subtitle": "Ihr vertrauensvoller Partner für internationale Karrierechancen",
     "description": "Wir verbinden qualifizierte Fachkräfte mit innovativen Unternehmen weltweit. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland und der EU.",
     "longDescription": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Egal, ob Sie Unterstützung beim Rekrutierungsprozess suchen oder Karrieremöglichkeiten im Ausland verfolgen - erreichen Sie Erfolg mit unserem Expertenteam.",
@@ -29,8 +29,8 @@
     "employerInitiation": "Arbeitgeber-Initiative - Das Verfahren wird vom Arbeitgeber eingeleitet und durchgehend koordiniert",
     "qualificationRecognition": "Qualifikationsanerkennung - Ausländische Qualifikationen werden schnell bewertet und anerkannt",
     "comprehensiveSupport": "Umfassende Unterstützung - Arbeitgeber übernimmt den Großteil des Antragsverfahrens",
-    "reducedBureaucracy": "Reduzierte Bürokratie - Schnelle Ergebnisse mit maximal 3-monatiger Bearbeitungszeit",
-    "internationalRecruitment": "Internationale Rekrutierung - Zusammenarbeit mit spezialisierten Plattformen wie Jobsingermany.net"
+    "reducedBureaucracy": "Reduzierte Bürokratie - Schnelle Ergebnisse",
+    "internationalRecruitment": "Sprachanforderungen"
   },
   "home": {
     "carousel": {
@@ -48,7 +48,7 @@
         },
         "visaprocess": {
           "category": "Visa & Dokumentation",
-          "title": "Komplette Visa-Bearbeitung"
+          "title": "Komplette Visa-Bearbeitungsunterstützung"
         },
         "support": {
           "category": "24/7 Unterstützung",
@@ -58,9 +58,9 @@
           "category": "Gesundheitswesen",
           "title": "Medizinische Fachkräfte Rekrutierung"
         },
-        "technology": {
-          "category": "IT & Technologie",
-          "title": "Tech-Talent-Lösungen"
+        "construction": {
+          "category": "Bau- und Baugewerbe",
+          "title": "Fachkräfte im Bau- und Baugewerbe"
         }
       },
       "content": {
@@ -74,7 +74,7 @@
             },
             {
               "title": "Schnelle Platzierung",
-              "description": "Durchschnittliche Platzierungszeit von 45 Tagen mit 95% Kandidatenretention."
+              "description": "Schneller und effizienter Vermittlungsprozess mit hoher Kandidatenzufriedenheit."
             }
           ]
         },
@@ -94,7 +94,7 @@
         },
         "visaprocess": {
           "highlight": "Vereinfachen Sie komplexe Visa-Verfahren.",
-          "description": "Navigieren Sie mit Vertrauen durch internationale Visa-Anforderungen. Unser Expertenteam übernimmt alle Dokumentation, Antragsverfahren und rechtliche Compliance für nahtlose Übergänge.",
+          "description": "Navigieren Sie mit Vertrauen durch internationale Visa-Anforderungen. Unser Expertenteam übernimmt alle Dokumentation, Antragsverfahren und rechtliche Compliance für nahtlose Übergänge. Wir leiten Sie richtig und unterstützen Sie während Ihrer Prozesse.",
           "features": [
             {
               "title": "Expertendokumentation",
@@ -122,7 +122,7 @@
         },
         "healthcare": {
           "highlight": "Gesundheitswesen Talent-Exzellenz.",
-          "description": "Spezialisierte Rekrutierung für Gesundheitsfachkräfte einschließlich Ärzte, Krankenpfleger, Therapeuten und medizinische Techniker. Wir verstehen die einzigartigen Anforderungen des Gesundheitssektors.",
+          "description": "Spezialisierte Rekrutierung für Gesundheitsfachkräfte einschließlich Ärzte, Pflegekräfte, häusliche Altenpflege und Pflegedienste Krankenpfleger, Therapeuten und medizinische Techniker. Wir verstehen die einzigartigen Anforderungen des Gesundheitssektors.",
           "features": [
             {
               "title": "Medizinische Lizenzierung",
@@ -134,17 +134,17 @@
             }
           ]
         },
-        "technology": {
-          "highlight": "Stärken Sie Ihre Tech-Transformation.",
-          "description": "Vernetzen Sie sich mit erstklassigen IT-Fachkräften und Technologie-Experten. Von Softwareentwicklern bis zu Datenwissenschaftlern - wir beschaffen die Talente, die Innovation vorantreiben.",
+        "construction": {
+          "highlight": "Spezialisierte Arbeitskräfte im Bausektor.",
+          "description": "Speziell für Meister, Techniker, Architekten, Ingenieure, Stuckateure, Maler und Bauexperten konzipiert. Die hohe Nachfrage nach qualifizierten Arbeitskräften im deutschen Bausektor hat zu Sonderregelungen geführt, die ausländischen Fachkräften den Einstieg in diese Branche erleichtern.",
           "features": [
             {
-              "title": "Tech-Expertise",
-              "description": "Spezialisten in AI, Blockchain, Cloud Computing und aufkommenden Technologien."
+              "title": "Sprachanforderungen",
+              "description": "Deutschkenntnisse auf B1-Niveau und berufliche Fähigkeitszeugnisse."
             },
             {
-              "title": "Schnelle Bereitstellung",
-              "description": "Schnelle Platzierungslösungen für dringende Technologieprojekte und -rollen."
+              "title": "Schneller Arbeitsbeginn",
+              "description": "Schnelle Vermittlung für dringende Bedürfnisse bei Bauprojekten."
             }
           ]
         }
@@ -160,8 +160,8 @@
     },
     "stats": {
       "experience": {
-        "number": "12+",
-        "label": "Jahre Infrastruktur"
+        "number": "15+",
+        "label": "Jahre Erfahrung"
       },
       "clients": {
         "number": "5K+",
@@ -174,7 +174,9 @@
       "countries": {
         "number": "25+",
         "label": "Zielländer"
-      }
+      },
+      "mission": "Unsere Mission ist es, qualifizierte Fachkräfte zu befähigen, ihre Karriere erfolgreich zu gestalten, indem wir sie mit Möglichkeiten in Deutschland verbinden.",
+      "satisfaction": "95%"
     },
     "team": {
       "title": "Das Team",
@@ -224,19 +226,19 @@
     }
   },
   "services": {
-    "title": "Unsere Dienstleistungen",
-    "subtitle": "Umfassende Personalvermittlungs- und Arbeitgeberpartnerschaftslösungen",
+    "title": "Ihre Karriere weltweit voranbringen",
+    "subtitle": "Wir verbinden talentierte Fachkräfte mit führenden Unternehmen in Deutschland.",
     "workVisa": {
-      "title": "Rekrutierungsdienstleistungen",
-      "description": "Vollständige Unterstützung und Beratung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern einschließlich Deutschland, Österreich, Niederlande und mehr."
+      "title": "Unterstützung bei Arbeitsvisa",
+      "description": "Volle Unterstützung und Anleitung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern, darunter Serbien, Bulgarien, Kroatien, Rumänien, die Niederlande und die Türkei."
     },
     "skillsAssessment": {
-      "title": "Qualifikationsbewertung",
-      "description": "Professionelle Bewertung Ihrer Qualifikationen und Matching mit internationalen Jobmöglichkeiten."
+      "title": "Kompetenzbewertung",
+      "description": "Professionelle Bewertung Ihrer Qualifikationen und Abgleich mit internationalen Stellenangeboten."
     },
     "documentation": {
-      "title": "Dokumentenvorbereitung",
-      "description": "Expertenunterstützung bei der Dokumentenvorbereitung, Übersetzung und Beglaubigungsdiensten."
+      "title": "Sprachanforderungen",
+      "description": "B1-Deutschniveau und berufliche Fähigkeitszeugnisse."
     },
     "consultation": {
       "title": "Persönliche Beratung",
@@ -280,8 +282,8 @@
         "title": "Berufsqualifikationsbewertung",
         "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit deutschen Sprachkenntnissen auf B1-Niveau und Nachweis der finanziellen Sicherheit.",
         "stat1": { "number": "85%", "label": "erfolgreiche Anerkennung" },
-        "stat2": { "number": "12", "label": "Jahre Erfahrung" },
-        "category": "Berufsqualifikation"
+        "stat2": { "number": "15", "label": "Jahre Infrastruktur" },
+        "category": "Berufliche Qualifikation"
       }
     },
     "tabButtons": {
@@ -556,17 +558,29 @@
   },
   "faq": {
     "title": "Häufig gestellte Fragen",
-    "subtitle": "Wir beantworten alles, was Sie über Visa- und Einwanderungsverfahren wissen möchten. Finden Sie mit unserem Expertenteam den Weg zu Ihrem Traumland.",
-    "question1": "Für welche Länder bieten Sie Visaberatung an?",
-    "answer1": "Wir bieten umfassende Visaberatungsdienstleistungen für Deutschland, Australien, Kanada, USA, Großbritannien, Niederlande und viele EU-Länder an. Wir entwickeln maßgeschneiderte Lösungen für die einzigartigen Anforderungen jedes Landes.",
-    "question2": "Wie lange dauert der Visaantragsprozess?",
-    "answer2": "Die Dauer variiert je nach Land und Visatyp, normalerweise zwischen 2-6 Monaten. Eine vollständige Vorbereitung der Dokumente und das Befolgen korrekter Verfahren beschleunigt den Prozess.",
-    "question3": "Was tun Sie, wenn der Antrag abgelehnt wird?",
-    "answer3": "Bei einer Ablehnung analysieren wir die Gründe und entwickeln eine neue Strategie. Falls erforderlich, führen wir Berufungsverfahren durch und bereiten neue Anträge vor, nachdem Mängel behoben wurden. Wir unterstützen unsere Kunden während des gesamten Prozesses.",
-    "question4": "Wie hoch sind Ihre Servicegebühren?",
-    "answer4": "Unsere Gebühren variieren je nach Serviceart und Komplexität. Die Erstberatung ist kostenlos. Kontaktieren Sie uns für detaillierte Preise und personalisierte Angebote basierend auf Ihren spezifischen Bedürfnissen.",
-    "question5": "In welchen Sprachen sollten meine Dokumente vorbereitet werden?",
-    "answer5": "Dokumente müssen in die Amtssprache des Ziellandes übersetzt werden. Wir bieten auch beglaubigte Übersetzungsdienstleistungen für Deutsch, Englisch und andere erforderliche Sprachen an."
+    "description": "Internationale zukunftsorientierte Personalvermittlung",
+    "items": [
+      {
+        "question": "In welchen Ländern bietet ZOV Personal Dienstleistungen an?",
+        "answer": "Wir bieten Personalbeschaffungs- und Arbeitgeberpartnerschaftsdienste in vielen Ländern an, hauptsächlich in Serbien, Rumänien, Kroatien, Bulgarien, den Niederlanden und der Türkei."
+      },
+      {
+        "question": "Wie läuft das Bewerbungsverfahren ab?",
+        "answer": "Die Dauer variiert je nach Land und Visumtyp und beträgt in der Regel 2-6 Monate. Eine vollständige Vorbereitung der Unterlagen und die Einhaltung der korrekten Verfahren beschleunigen den Prozess."
+      },
+      {
+        "question": "Was tun Sie, wenn der Antrag abgelehnt wird?",
+        "answer": "Im Falle einer Ablehnung analysieren wir die Gründe und entwickeln eine neue Strategie. Bei Bedarf leiten wir Berufungsverfahren ein und bereiten nach Behebung der Mängel einen neuen Antrag vor. Wir unterstützen unsere Kunden während des gesamten Prozesses."
+      },
+      {
+        "question": "Was sind Ihre Servicegebühren?",
+        "answer": "Unsere Gebühren variieren je nach Art und Komplexität der Dienstleistung. Die Erstberatung ist kostenlos. Für detaillierte Preisinformationen können Sie uns für ein personalisiertes Angebot kontaktieren."
+      },
+      {
+        "question": "In welchen Sprachen sollten meine Dokumente vorbereitet werden?",
+        "answer": "Ihre Dokumente müssen in die Amtssprache des Ziellandes übersetzt werden. Wir bieten auch beglaubigte Übersetzungsdienste an. Wir decken Ihren Übersetzungsbedarf in Deutsch, Englisch und anderen Sprachen."
+      }
+    ]
   },
   "footer": {
     "ctaTitle": "Intelligentere Beratung.\nSicher voranschreiten",
@@ -599,13 +613,9 @@
         "url": "https://instagram.com/zovpersonal",
         "alt": "Folgen Sie uns auf Instagram"
       },
-      "twitter": {
-        "url": "https://twitter.com/zovpersonal",
-        "alt": "Folgen Sie uns auf Twitter"
-      },
-      "linkedin": {
-        "url": "https://linkedin.com/zovpersonal",
-        "alt": "Folgen Sie uns auf LinkedIn"
+      "facebook": {
+        "url": "https://facebook.com/zovpersonal",
+        "alt": "Folgen Sie uns auf Facebook"
       }
     },
     "contact": {
@@ -837,11 +847,11 @@
           "footer": "Wir haben Karriereberatungsdienste speziell für Ihren Beruf und Jobmöglichkeiten."
         },
         "visaApplication": {
-          "title": "Nationales Arbeitsvisum",
+          "title": "Unterstützung im Bewerbungsprozess",
           "subtitle": "Antragsprozess",
-          "description": "Wir verwalten alle Schritte für Sie im deutschen nationalen Arbeitsvisumantragsprozess. Professionelle Unterstützung von der Dokumentenvorbereitung bis zur Terminvereinbarung.",
-          "detail": "Wir bereiten alle notwendigen Dokumente korrekt vor, um den Visumgenehmigungsprozess zu beschleunigen.",
-          "footer": "Sie können mit unserer hohen Erfolgsquote vertrauensvoll Ihren Visumantrag stellen."
+          "description": "Wir bieten Informationen und Orientierungshilfen für Ihr Antragsverfahren für ein deutsches nationales Arbeitsvisum. Indem wir Sie während des gesamten Prozesses unterstützen, helfen wir Ihnen, Ihren Antrag leichter zu verfolgen.",
+          "detail": "Wir informieren Sie darüber, was Sie bei der Vorbereitung Ihrer Unterlagen und der Vereinbarung eines Termins beachten müssen.",
+          "footer": "Kontaktieren Sie uns für weitere Informationen zum Prozess."
         },
         "companyAgreements": {
           "title": "Partnerunternehmen",

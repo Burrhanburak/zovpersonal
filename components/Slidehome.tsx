@@ -90,13 +90,13 @@ const data = (t: any) => [
   {
     category: t("home.carousel.cards.healthcare.category"),
     title: t("home.carousel.cards.healthcare.title"),
-    src: "/doctor-two.png",
+    src: "/hemsire-two.png",
     content: <DummyContent t={t} contentKey="healthcare" />,
   },
   {
-    category: t("home.carousel.cards.technology.category"),
-    title: t("home.carousel.cards.technology.title"),
-    src: "/IT.png",
-    content: <DummyContent t={t} contentKey="technology" />,
+    category: t("home.carousel.cards.construction.category"),
+    title: t("home.carousel.cards.construction.title"),
+    src: "/insaat.png",
+    content: <DummyContent t={t} contentKey="construction" />,
   },
 ];

@@ -24,13 +24,13 @@
   },
   "acceleratedProcedure": {
     "title": "Versnelde Vakbekwame Werker Procedure",
-    "subtitle": "Een speciaal proces ontwikkeld om het immigratie- en erkenningsproces voor geschoolde arbeiders uit het buitenland te versnellen. Dit proces is ontworpen om bureaucratische belemmeringen te minimaliseren en vergunningen te versnellen.",
+    "subtitle": "Een speciaal proces ontwikkeld om het immigratie- en erkenningsproces voor geschoolde arbeiders uit het buitenland te versnelen. Dit proces is ontworpen om bureaucratische belemmeringen te minimaliseren en vergunningen te versnellen.",
     "imageAlt": "Versneld procedure proces",
     "employerInitiation": "Werkgever Initiatief - Het proces wordt geïnitieerd en gecoördineerd door de werkgever",
     "qualificationRecognition": "Kwalificatie Erkenning - Buitenlandse kwalificaties worden snel beoordeeld en erkend",
     "comprehensiveSupport": "Uitgebreide Ondersteuning - Werkgever neemt het grootste deel van het aanvraagproces over",
-    "reducedBureaucracy": "Verminderde Bureaucratie - Snelle resultaten met maximaal 3 maanden verwerkingstijd",
-    "internationalRecruitment": "Internationale Werving - Samenwerking met gespecialiseerde platforms zoals Jobsingermany.net"
+    "reducedBureaucracy": "Verminderde Bureaucratie - Snelle resultaten",
+    "internationalRecruitment": "Taalvereisten"
   },
   "home": {
     "carousel": {
@@ -58,9 +58,9 @@
           "category": "Zorgverlening Sector",
           "title": "Medische Professionals Werving"
         },
-        "technology": {
-          "category": "IT & Technologie",
-          "title": "Tech Talent Oplossingen"
+        "construction": {
+          "category": "Bouw- en constructiesector",
+          "title": "Specialisten in de bouw- en constructiesector"
         }
       },
       "content": {
@@ -134,17 +134,17 @@
             }
           ]
         },
-        "technology": {
-          "highlight": "Versterk uw tech transformatie.",
-          "description": "Verbind met eersteklas IT professionals en technologie experts. Van softwareontwikkelaars tot datawetenschappers, we leveren het talent dat innovatie drijft.",
+        "construction": {
+          "highlight": "Gespecialiseerde arbeidskrachten in de bouwsector.",
+          "description": "Speciaal ontworpen voor meesters, technici, architecten, ingenieurs, stukadoors, schilders en bouwexperts. De grote vraag naar gekwalificeerd personeel in de Duitse bouwsector heeft geleid tot speciale regelingen die de toegang voor buitenlandse specialisten tot deze industrie vergemakkelijken.",
           "features": [
             {
-              "title": "Tech Expertise",
-              "description": "Specialisten in AI, blockchain, cloud computing en opkomende technologieën."
+              "title": "Taalvereisten",
+              "description": "B1-niveau Duits en certificaten van beroepsvaardigheid."
             },
             {
-              "title": "Snelle Implementatie",
-              "description": "Snelle plaatsingsoplossingen voor urgente technologieprojecten en rollen."
+              "title": "Snelle start van het werk",
+              "description": "Snelle plaatsing voor dringende behoeften in bouwprojecten."
             }
           ]
         }
@@ -225,21 +225,21 @@
   },
   "services": {
     "title": "Onze Diensten",
-    "subtitle": "Uitgebreide werving en werkgeverspartnerschap oplossingen",
+    "subtitle": "Wij verbinden getalenteerde professionals met toonaangevende bedrijven in Duitsland.",
     "workVisa": {
-      "title": "Werving Diensten",
-      "description": "Complete ondersteuning en begeleiding bij het werven van internationale professionals uit verschillende landen, waaronder Duitsland, Oostenrijk, Nederland en meer."
+      "title": "Hulp bij werkvisa",
+      "description": "Volledige ondersteuning en begeleiding bij het werven van internationale specialisten uit diverse landen, waaronder Servië, Bulgarije, Kroatië, Roemenië, Nederland en Turkije."
     },
     "skillsAssessment": {
       "title": "Vaardigheidsbeoordeling",
-      "description": "Professionele evaluatie van uw kwalificaties en matching met internationale banenkansen."
+      "description": "Professionele evaluatie van uw kwalificaties en matching met internationale carrièremogelijkheden."
     },
     "documentation": {
-      "title": "Documentvoorbereiding",
-      "description": "Deskundige hulp bij documentvoorbereiding, vertaling en authenticatiediensten."
+      "title": "Taalvereisten",
+      "description": "B1-niveau Duits en certificaten van beroepsvaardigheid."
     },
     "consultation": {
-      "title": "Persoonlijk Consult",
+      "title": "Persoonlijk Advies",
       "description": "Een-op-een consultsessies om uw specifieke behoeften en carrièredoelen te begrijpen."
     },
     "countries": {
@@ -279,8 +279,8 @@
       "skillsAssessment": {
         "title": "Beroepskwalificatie Beoordeling",
         "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met Duitse taalvaardigheden op B1-niveau en bewijs van financiële zekerheid.",
-        "stat1": { "number": "85%", "label": "succesvolle erkenning" },
-        "stat2": { "number": "12", "label": "jaren ervaring" },
+        "stat1": { "number": "85%", "label": "succesvolle erkenningen" },
+        "stat2": { "number": "15", "label": "jaar infrastructuur" },
         "category": "Beroepskwalificatie"
       }
     },
@@ -445,20 +445,16 @@
       "additionalServices": "Extra Diensten",
       "nationalVisaSteps": "Nationaal Visum Stappen",
       "professions": "Beroepsproces",
-      "businessProcess": "Business-Prozess in Deutschland"
+      "businessProcess": "Bedrijfsproces in Duitsland"
     },
     "social": {
       "instagram": {
         "url": "https://instagram.com/zovpersonal",
         "alt": "Volg ons op Instagram"
       },
-      "twitter": {
-        "url": "https://twitter.com/zovpersonal",
-        "alt": "Volg ons op Twitter"
-      },
-      "linkedin": {
-        "url": "https://linkedin.com/company/zovpersonal",
-        "alt": "Volg ons op LinkedIn"
+      "facebook": {
+        "url": "https://facebook.com/zovpersonal",
+        "alt": "Volg ons op Facebook"
       }
     },
     "contact": {
@@ -490,7 +486,7 @@
         "kvkk": "Als gegevensbeheerders onder de Wet op de Bescherming van Persoonsgegevens Nr. 6698 (KVKK) zorgen we voor volledige naleving van de wetgeving bij de verwerking van uw persoonsgegevens."
       },
       "dataCollection": {
-        "title": "Persoonsgegevens Die We Verzamelen",
+        "title": "Persoonlijke Gegevens Die We Verzamelen",
         "identity": {
           "title": "Identiteits- en Contactinformatie",
           "items": ["Naam, achternaam", "Geboortedatum en -plaats", "Nationaal ID-nummer", "Paspoortinformatie", "Telefoonnummer", "E-mailadres", "Adresinformatie"]
@@ -779,30 +775,51 @@
     }
   },
   "faq": {
-    "title": "Veelgestelde Vragen",
-    "subtitle": "We beantwoorden alles wat u wilt weten over visum- en immigratieprocessen. Vind uw weg naar uw droomland met ons deskundige team.",
-    "question1": "Voor welke landen bieden jullie visumadvies?",
-    "answer1": "We bieden uitgebreide visumadviesdiensten voor Duitsland, Australië, Canada, de VS, het VK, Nederland en vele EU-landen. We creëren op maat gemaakte oplossingen voor de unieke vereisten van elk land.",
-    "question2": "Hoe lang duurt het visumaanvraagproces?",
-    "answer2": "De duur varieert per land en visumtype, meestal tussen de 2-6 maanden. Volledige voorbereiding van documenten en het volgen van de juiste procedures versnelt het proces.",
-    "question3": "Wat doen jullie als de aanvraag wordt afgewezen?",
-    "answer3": "Bij afwijzing analyseren we de redenen en ontwikkelen we een nieuwe strategie. Indien nodig behandelen we beroepsprocedures en bereiden we nieuwe aanvragen voor na het aanpakken van tekortkomingen. We blijven onze klanten gedurende het hele proces ondersteunen.",
-    "question4": "Wat zijn jullie servicekosten?",
-    "answer4": "Onze kosten variëren afhankelijk van het type dienst en de complexiteit. Het eerste consult is gratis. Neem contact met ons op voor gedetailleerde prijzen en gepersonaliseerde offertes op basis van uw specifieke behoeften.",
-    "question5": "In welke talen moeten mijn documenten worden voorbereid?",
-    "answer5": "Documenten moeten worden vertaald in de officiële taal van het doelland. We bieden ook gecertificeerde vertaaldiensten voor Duits, Engels en andere vereiste talen."
+    "title": "Veelgestelde vragen",
+    "description": "Uluslararası Gelecek Odaklı İşe Alım",
+    "items": [
+      {
+        "question": "Hangi ülkelerde ZOV Personal hizmet veriyor?",
+        "answer": "Biz, özellikle Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda ve Türkiye'de işveren ve işveren ortaklığı hizmetleri sunuyoruz."
+      },
+      {
+        "question": "Başvuru süreci nasıl işliyor?",
+        "answer": "Süre, ülkeye ve vize türüne göre değişir, genellikle 2-6 ay arasında değişmektedir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır."
+      },
+      {
+        "question": "Başvuru reddedilirse ne yapıyoruz?",
+        "answer": "Reddedilme durumunda, sebepleri analiz ediyoruz ve yeni bir strateji geliştiriyoruz. Gerekirse, işlemleri yönetiyoruz ve eksiklikleri gidermek için yeni bir başvuru hazırlıyoruz. Tüm süreç boyunca müşterilerimizi destekliyoruz."
+      },
+      {
+        "question": "Hizmet ücretleri ne kadar?",
+        "answer": "Ücretler, hizmet türü ve karmaşıklığına göre değişir. İlk danışmanlık ücretsizdir. Detaylı fiyat bilgisi için, özel bir teklif almak için bizimle iletişime geçebilirsiniz."
+      },
+      {
+        "question": "Belgelerim hangi dillerde hazırlanmalı?",
+        "answer": "Belgeleriniz, hedef ülkenin resmi diline çevrilmelidir. Ayrıca, beyannamalı çeviri hizmetleri de sunuyoruz. Biz, Almanca, İngilizce ve diğer dillerdeki çevirmeniz için ihtiyaçlarınıza cevap veriyoruz."
+      }
+    ]
   },
   "internationalRecruitment": {
     "hero": {
-      "title": "Internationale Toekomstgerichte Werving",
-      "description": "In de moderne wereld kennen talenten geen grenzen. Ontdek de arbeidskrachten van morgen vandaag en versterk uw bedrijf met internationale talenten."
+      "title": "Uluslararası Gelecek Odaklı İşe Alım",
+      "description": "Modern dünyada yetenekler uluslararası sınırları aşar. Yarının iş gücünü bugün keşfedin ve uluslararası yeteneklerle kuruluşunuzu güçlendirin."
     },
     "vision": {
-      "title": "De Toekomst van het Bedrijfsleven Vormgeven",
-      "subtitle": "Human Resources in het Digitale Tijdperk",
-      "description": "Terwijl technologie zich snel ontwikkelt, blijft de belangrijkste bron de mens. Het ontdekken van internationale talenten en het evalueren ervan in de juiste posities is de sleutel voor bedrijven om concurrentievoordeel te behalen.",
+      "title": "İş Dünyasının Geleceğini Şekillendirme",
+      "subtitle": "İnsan Kaynakları Dijital Dönemde",
+      "description": "Teknoloji hızla gelişirken, en önemli kaynak insandır. Uluslararası yetenekleri keşfetme ve doğru pozisyonlarda değerlendirme, işletmelerin rekabet avantajı elde etmesi için anahtardır.",
       "features": [
         {
+          "title": "Yapay Zeka Destekli Eşleştirme",
+          "description": "Yapay zeka algoritmalarını kullanarak adayları ve pozisyonları mükemmel uyumla eşleştiriyoruz."
+        },
+        {
+          "title": "Dünya Çapında Yetenek Havuzu",
+          "description": "50'den fazla ülkeden nitelendirilmiş profesyonelleri bulmak için geniş ağımızla yetenekleri buluyoruz."
+        },
+        {
+          "title": "Hızlı İşe Alma Süreci",
           "title": "AI-Aangedreven Matching",
           "description": "We matchen kandidaten en posities met perfecte harmonie met behulp van kunstmatige intelligentie-algoritmen."
         },
@@ -918,144 +935,8 @@
     }
   },
   "professionProcess": {
-    "hero": {
-      "title": "Duits Nationaal Visum - Beroepen en Proces",
-      "subtitle": "Uw nationaal visumaanvraagproces om te werken in de gezondheidszorgsector in Duitsland"
-    },
-    "navigation": {
-      "previousSlide": "Vorige dia",
-      "nextSlide": "Volgende dia"
-    },
-    "carousel": {
-      "doctor": {
-        "status": "Artsenvisum",
-        "title": "Duits Nationaal Visum voor Artsen",
-        "description": "We bieden uitgebreide visumbegeleiding en procesbeheer voor afgestudeerden in de geneeskunde die als arts in Duitsland willen werken. Professionele ondersteuning bij diplomawaardering en taalexamenprocessen.",
-        "button": "Meer informatie"
-      },
-      "nurse": {
-        "status": "Verpleegkundigenvisum",
-        "title": "Professionele Ondersteuning voor Verpleegkundigen",
-        "description": "Deskundige begeleiding voor afgestudeerden in de verpleegkunde bij werkvergunning en nationaal visumprocessen in Duitsland. Volledige ondersteuning bij erkenning van professionele competentie en taalvaardigheidsprocessen.",
-        "button": "Meer informatie"
-      },
-      "caregiver": {
-        "status": "Ouderenzorg",
-        "title": "Verzorgers en Ouderenzorgspecialisten",
-        "description": "Uitgebreide visumadvies voor professionals die willen werken in de ouderenzorgsector. Verbinding met zorgcentra in Duitsland en ondersteuning bij werkplaatsing.",
-        "button": "Meer informatie"
-      },
-      "healthTechnician": {
-        "status": "Ziekenhuisplaatsing",
-        "title": "Gezondheidstechnici en Ondersteunend Personeel",
-        "description": "Duitse visumprocessen voor medische technici, laboratoriumspecialisten en ander ondersteunend personeel in de gezondheidszorg. Uitgebreide service met professionele certificering en ondersteuning bij het vinden van werk.",
-        "button": "Meer informatie"
-      },
-      "healthExpert": {
-        "status": "Specialisatieprogramma",
-        "title": "Gezondheidsspecialisten en Therapeuten",
-        "description": "Werkmogelijkheden in Duitsland voor fysiotherapeuten, psychologen, diëtisten en andere gezondheidsspecialisten. Gespecialiseerde visumadvies en professionele erkenningsprocessen voor uw expertisegebied.",
-        "button": "Meer informatie"
-      }
-    },
-    "otherProfessions": {
-      "title": "Nationaal Visumdiensten voor Andere Professionele Groepen",
-      "construction": {
-        "title": "Bouwsector",
-        "description": "Speciale visumadvies voor degenen die willen werken in de bouw- en constructiesector. Loodgieter, elektricien, timmerman en andere technische personeelsfuncties."
-      },
-      "hospitality": {
-        "title": "Hotel & Restaurant",
-        "description": "Carrièremogelijkheden in de toerisme- en gastronomiesector. Visumprocessen voor ober, chef-kok, hotelpersoneel en andere functies in de dienstensector."
-      },
-      "logistics": {
-        "title": "Logistiek & Transport",
-        "description": "Werkmogelijkheden in de rij- en logistieksector. Vrachtwagenchauffeur, heftruckchauffeur en magazijnpersoneelsfuncties."
-      },
-      "cleaning": {
-        "title": "Schoonmaak & Hygiëne",
-        "description": "Werkgelegenheidskansen in de schoonmaakdiensten sector. Industriële reiniging, ziekenhuisreiniging en kantoorreinigingspersoneel."
-      },
-      "office": {
-        "title": "Kantoor & Management",
-        "description": "Kantoormedewerkers en managementfuncties. Boekhouding, human resources, secretariaat en ander kantoowerkpersoneel."
-      },
-      "others": {
-        "title": "Andere Beroepen",
-        "description": "Speciale adviesdiensten voor landbouw, productie, verkoop en andere professionele groepen. Geschikte visumprocessen voor elk beroep."
-      },
-      "learnMore": "Meer informatie"
-    },
-    "process": {
-      "tabs": {
-        "jobSearch": "Werkzoekproces",
-        "visaApplication": "Visumaanvraag",
-        "companyAgreements": "Bedrijfsovereenkomsten"
-      },
-      "content": {
-        "jobSearch": {
-          "title": "Werk Vinden in Duitsland",
-          "subtitle": "Gefocust op de Gezondheidszorgsector",
-          "description": "We bieden professionele begeleiding in het werkzoekproces in de gezondheidszorgsector. Dankzij ons sterke netwerk met ziekenhuizen en gezondheidszorginstellingen in Duitsland helpen we u geschikte posities te vinden.",
-          "detail": "We zijn bij u tijdens het hele proces, van CV-voorbereiding tot sollicitatiegesprek.",
-          "footer": "We hebben loopbaanbegeleidingsdiensten specifiek voor uw beroep en banenkansen."
-        },
-        "visaApplication": {
-          "title": "Nationaal Werkvisum",
-          "subtitle": "Aanvraagproces",
-          "description": "We beheren alle stappen voor u in het Duitse nationale werkvisum aanvraagproces. Professionele ondersteuning van documentvoorbereiding tot afspraakplanning.",
-          "detail": "We bereiden alle benodigde documenten correct voor om het visumgoedkeuringsproces te versnellen.",
-          "footer": "U kunt met vertrouwen uw visum aanvragen met ons hoge succespercentage."
-        },
-        "companyAgreements": {
-          "title": "Partnerbedrijven",
-          "subtitle": "Baangarantie",
-          "description": "Dankzij onze speciale overeenkomsten met meer dan 150 partnerziekenhuizen en gezondheidszorginstellingen in Duitsland bieden we u directe banenkansen.",
-          "detail": "Na ontvangst van een baanaanbod verloopt uw visumproces veel sneller en veiliger.",
-          "footer": "U kunt langetermijn carrièreplanning maken met onze partnerbedrijven."
-        }
-      }
-    },
-    "about": {
-      "title": "Een ander soort advies.",
-      "description": "We bieden uitgebreide diensten om uw internationale carrièredoelen in de gezondheidszorgsector te bereiken.",
-      "statsTitle": "In Cijfers",
-      "stats": {
-        "experience": "Jaren Ervaring",
-        "healthPersonnel": "Gezondheidspersoneel",
-        "successRate": "Succespercentage",
-        "partners": "Partnerorganisaties"
-      },
-      "content": {
-        "paragraph1": "De gezondheidszorgsector verandert en ontwikkelt voortdurend. De behoefte aan gezondheidszorgpersoneel in Duitsland neemt elke dag toe. Nu is het juiste moment om deze kans te grijpen.",
-        "highlight": "Werken in Duitsland is niet slechts een droom. Wij maken het werkelijkheid voor u.",
-        "paragraph2": "Ons team, dat jarenlang in deze sector heeft gewerkt, heeft alle uitdagingen in de vestigingsprocessen van gezondheidszorgpersoneel in Duitsland onder ogen gezien. Traditionele methoden zijn niet voldoende. We bieden een uitgebreide adviesdienst speciaal ontworpen voor gezondheidszorgpersoneel."
-      }
-    },
-    "architectureSection": {
-      "subtitle": "Alles wat u moet weten",
-      "title": "Werkproces in Duitsland",
-      "description": "Duitsland staat bekend om zijn sterke economie, cultuur en hoge levenskwaliteit. Echter, voor immigranten betekent verhuizen naar Duitsland meer dan alleen een nieuwe carrière; het is het begin van een nieuw leven in een nieuwe omgeving.",
-      "cards": {
-        "integration": {
-          "title": "Integratie van Werknemers",
-          "description": "Nadat internationale werknemers succesvol Duitsland hebben bereikt, begint het cruciale proces van integratie. Goede integratie is belangrijk, niet alleen om ervoor te zorgen dat nieuwe werknemers zich comfortabel voelen in hun nieuwe omgeving, maar ook om langetermijnverbintenis aan het bedrijf te waarborgen."
-        },
-        "experiencedVisa": {
-          "title": "Visum voor Ervaren Professionals",
-          "description": "Wat is een visum voor ervaren professionals? Het visum voor ervaren professionals (Sectie 19c van de Verblijfswet, Paragraaf 2) is gericht op geschoolde werknemers die minstens twee jaar gekwalificeerde professionele ervaring hebben in hun vakgebied maar geen formele universitaire graad hebben."
-        },
-        "acceleratedProcedures": {
-          "title": "Versnelde Procedures",
-          "description": "Wat is de versnelde procedure voor geschoolde werknemers? De Versnelde Procedure voor Geschoolde Werknemers is een speciaal proces dat is ontwikkeld om het immigratie- en erkenningsproces voor geschoolde werknemers uit het buitenland te versnellen."
-        },
-        "recruitment": {
-          "title": "Werving",
-          "description": "Stap voor stap. Het werven van internationale specialisten biedt een enorme kans om het tekort aan vaardigheden in Duitsland aan te pakken. Echter, om dit proces succesvol te maken, moeten bedrijven een gerichte en gestructureerde aanpak aannemen."
-        }
-      },
-      "learnMore": "Meer Informatie"
-    }
+    "title": "Beroepsproces",
+    "subtitle": "Uw nationaal visumaanvraagproces om te werken in de gezondheidszorgsector in Duitsland"
   },
   "businessProcess": {
     "slugPages": {

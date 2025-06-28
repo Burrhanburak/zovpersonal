@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { Instagram, Twitter, Linkedin } from "lucide-react";
+import { Instagram, Twitter, Linkedin, Facebook } from "lucide-react";
 import z from "zod";
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useForm } from 'react-hook-form';
@@ -137,23 +137,15 @@ export default function ContactPage() {
               >
                 <Instagram className="size-5" />
               </a>
+             
               <a 
-                href={t('footer.social.twitter.url')} 
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-muted-foreground hover:text-foreground"
-                aria-label="Twitter"
-              >
-                <Twitter className="size-5" />
-              </a>
-              <a 
-                href={t('footer.social.linkedin.url')} 
+                href={t('footer.social.facebook.url')} 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground"
                 aria-label="LinkedIn"
               >
-                <Linkedin className="size-5" />
+                <Facebook className="size-5" />
               </a>
             </div>
           </div>

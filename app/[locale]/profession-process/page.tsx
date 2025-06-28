@@ -610,7 +610,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
         <h2 className="font-mono text-sm font-semibold tracking-widest text-accent-foreground">{t('professionProcess.about.statsTitle')}</h2>
         <div className="mt-6 grid grid-cols-2 gap-8 md:grid-cols-4">
           <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">12+</h3>
+            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">15+</h3>
             <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.experience')}</p>
           </div>
           <div>

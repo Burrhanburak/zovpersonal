@@ -28,9 +28,9 @@
     "imageAlt": "Proces accelerat",
     "employerInitiation": "Inițiativa Angajatorului - Procesul este inițiat și coordonat de angajator",
     "qualificationRecognition": "Recunoașterea Calificărilor - Calificările străine sunt evaluate și recunoscute rapid",
-    "comprehensiveSupport": "Suport Cuprinzător - Angajatorul preia cea mai mare parte a procesului de aplicare",
-    "reducedBureaucracy": "Birocracie Redusă - Rezultate rapide cu maximum 3 luni timp de procesare",
-    "internationalRecruitment": "Recrutare Internațională - Cooperare cu platforme specializate ca Jobsingermany.net"
+    "comprehensiveSupport": "Suport Complet - Angajatorul preia cea mai mare parte a procesului de aplicare",
+    "reducedBureaucracy": "Birocrație Redusă - Rezultate rapide",
+    "internationalRecruitment": "Cerințe lingvistice"
   },
   "home": {
     "carousel": {
@@ -58,9 +58,9 @@
           "category": "Sectorul Sanitar",
           "title": "Recrutarea Profesioniștilor Medicali"
         },
-        "technology": {
-          "category": "IT și Tehnologie",
-          "title": "Soluții pentru Talente Tehnologice"
+        "construction": {
+          "category": "Sectorul construcțiilor și clădirilor",
+          "title": "Specialiști în sectorul construcțiilor și clădirilor"
         }
       },
       "content": {
@@ -134,17 +134,17 @@
             }
           ]
         },
-        "technology": {
-          "highlight": "Stimulați-vă transformarea tehnologică.",
-          "description": "Conectați-vă cu profesioniști IT de top și experți în tehnologie. De la dezvoltatori de software la oameni de știință de date, procurăm talentele care conduc inovația.",
+        "construction": {
+          "highlight": "Forță de muncă specializată în sectorul construcțiilor.",
+          "description": "Conceput special pentru maiștri, tehnicieni, arhitecți, ingineri, tencuitori, zugravi și experți în construcții. Cererea mare de forță de muncă calificată în sectorul construcțiilor din Germania a dus la reglementări speciale care facilitează intrarea specialiștilor străini în această industrie.",
           "features": [
             {
-              "title": "Expertiză Tehnologică",
-              "description": "Specialiști în AI, blockchain, cloud computing și tehnologii emergente."
+              "title": "Cerințe lingvistice",
+              "description": "Nivel B1 de germană și certificate de competențe profesionale."
             },
             {
-              "title": "Implementare Rapidă",
-              "description": "Soluții rapide de plasare pentru proiecte și roluri tehnologice urgente."
+              "title": "Începerea rapidă a muncii",
+              "description": "Plasare rapidă pentru nevoi urgente în proiecte de construcții."
             }
           ]
         }
@@ -224,22 +224,22 @@
     }
   },
   "services": {
-    "title": "Serviciile Noastre",
-    "subtitle": "Soluții complete pentru recrutare și parteneriat cu angajatorii",
+    "title": "Serviciile noastre",
+    "subtitle": "Conectăm profesioniști talentați cu companii de top din Germania.",
     "workVisa": {
-      "title": "Servicii de Recrutare",
-      "description": "Sprijin complet și îndrumări în recrutarea profesioniștilor internaționali din diverse țări, inclusiv Germania, Austria, Olanda și multe altele."
+      "title": "Asistență pentru viză de muncă",
+      "description": "Sprijin complet și îndrumare în recrutarea specialiștilor internaționali din diverse țări, inclusiv Serbia, Bulgaria, Croația, România, Olanda și Turcia."
     },
     "skillsAssessment": {
-      "title": "Evaluarea Abilităților",
-      "description": "Evaluare profesională a calificărilor dvs. și potrivire cu oportunități de muncă internaționale."
+      "title": "Evaluarea Competențelor",
+      "description": "Evaluarea profesională a calificărilor dumneavoastră și potrivirea cu oportunitățile de angajare internaționale."
     },
     "documentation": {
-      "title": "Pregătirea Documentelor",
-      "description": "Ajutor expert cu pregătirea documentelor, traducere și servicii de autentificare."
+      "title": "Cerințe lingvistice",
+      "description": "Nivel B1 de germană și certificate de competențe profesionale."
     },
     "consultation": {
-      "title": "Consultație Personală",
+      "title": "Consultanță Personală",
       "description": "Sesiuni de consultație unu-la-unu pentru a înțelege nevoile dvs. specifice și obiectivele de carieră."
     },
     "countries": {
@@ -445,20 +445,16 @@
       "additionalServices": "Servicii Suplimentare",
       "nationalVisaSteps": "Pașii Vizei Naționale",
       "professions": "Procesul Profesional",
-      "businessProcess": "Business-Prozess in Deutschland"
+      "businessProcess": "Procesul de afaceri în Germania"
     },
     "social": {
       "instagram": {
         "url": "https://instagram.com/zovpersonal",
         "alt": "Urmărește-ne pe Instagram"
       },
-      "twitter": {
-        "url": "https://twitter.com/zovpersonal",
-        "alt": "Urmărește-ne pe Twitter"
-      },
-      "linkedin": {
-        "url": "https://linkedin.com/company/zovpersonal",
-        "alt": "Urmărește-ne pe LinkedIn"
+      "facebook": {
+        "url": "https://facebook.com/zovpersonal",
+        "alt": "Urmărește-ne pe Facebook"
       }
     },
     "contact": {
@@ -779,18 +775,30 @@
     }
   },
   "faq": {
-    "title": "Întrebări Frecvente",
-    "subtitle": "Răspundem la tot ce te interesează despre procesele de viză și imigrare. Găsește-ți drumul către țara visurilor tale cu echipa noastră de experți.",
-    "question1": "Pentru ce țări oferiți consultanță pentru vize?",
-    "answer1": "Oferim servicii complete de consultanță pentru vize pentru Germania, Australia, Canada, SUA, Marea Britanie, Olanda și multe țări din UE. Creăm soluții personalizate pentru cerințele unice ale fiecărei țări.",
-    "question2": "Cât durează procesul de cerere de viză?",
-    "answer2": "Durata variază în funcție de țară și tipul de viză, de obicei între 2-6 luni. Pregătirea completă a documentelor și urmarea procedurilor corecte accelerează procesul.",
-    "question3": "Ce faceți dacă cererea este respinsă?",
-    "answer3": "În caz de respingere, analizăm motivele și dezvoltăm o nouă strategie. Dacă este necesar, gestionăm procesele de apel și pregătim noi cereri după ce abordăm deficiențele. Continuăm să susținem clienții noștri pe tot parcursul procesului.",
-    "question4": "Care sunt taxele pentru serviciile voastre?",
-    "answer4": "Taxele noastre variază în funcție de tipul de serviciu și complexitate. Consultația inițială este gratuită. Contactați-ne pentru prețuri detaliate și oferte personalizate bazate pe nevoile tale specifice.",
-    "question5": "În ce limbi trebuie pregătite documentele mele?",
-    "answer5": "Documentele trebuie traduse în limba oficială a țării țintă. Oferim, de asemenea, servicii de traducere certificată pentru germană, engleză și alte limbi necesare."
+    "title": "Întrebări frecvente",
+    "description": "Recrutare internațională orientată spre viitor",
+    "items": [
+      {
+        "question": "În ce țări oferă servicii ZOV Personal?",
+        "answer": "Oferim servicii de recrutare și parteneriat cu angajatorii în multe țări, în principal în Serbia, România, Croația, Bulgaria, Olanda și Turcia."
+      },
+      {
+        "question": "Cum funcționează procesul de aplicare?",
+        "answer": "Durata variază în funcție de țară și tipul de viză, de obicei între 2-6 luni. Pregătirea completă a documentelor și respectarea procedurilor corecte accelerează procesul."
+      },
+      {
+        "question": "Ce faceți dacă cererea este respinsă?",
+        "answer": "În caz de respingere, analizăm motivele și dezvoltăm o nouă strategie. Dacă este necesar, gestionăm procesele de apel și pregătim o nouă cerere după remedierea deficiențelor. Continuăm să sprijinim clienții noștri pe parcursul întregului proces."
+      },
+      {
+        "question": "Care sunt taxele dumneavoastră de serviciu?",
+        "answer": "Taxele noastre variază în funcție de tipul și complexitatea serviciului. Consultanța inițială este gratuită. Pentru informații detaliate despre prețuri, ne puteți contacta pentru o ofertă personalizată."
+      },
+      {
+        "question": "În ce limbi ar trebui să fie pregătite documentele mele?",
+        "answer": "Documentele dumneavoastră trebuie să fie traduse în limba oficială a țării de destinație. Oferim și servicii de traducere autorizată. Răspundem nevoilor dumneavoastră de traducere în germană, engleză și alte limbi."
+      }
+    ]
   },
   "internationalRecruitment": {
     "hero": {
@@ -847,7 +855,7 @@
   },
   "professionProcess": {
     "hero": {
-      "title": "Viza Națională Germană - Profesii și Proces",
+      "title": "Proces profesional",
       "subtitle": "Procesul tău de cerere de viză națională pentru a lucra în sectorul sănătății din Germania"
     },
     "navigation": {
@@ -949,7 +957,11 @@
       "description": "Oferim servicii complete pentru a-ți atinge obiectivele de carieră internaționale în sectorul sănătății.",
       "statsTitle": "În Cifre",
       "stats": {
-        "experience": "Ani de Experiență",
+        "experience": {
+          "number": "15+",
+          "label": "Ani de experiență"
+        },
+        "satisfaction": "95%",
         "healthPersonnel": "Personal Medical",
         "successRate": "Rată de Succes",
         "partners": "Organizații Partenere"
