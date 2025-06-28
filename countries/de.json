@@ -39,8 +39,8 @@
       "description": "Unser Jobsucherprogramm ist darauf ausgelegt, Ihnen dabei zu helfen, Ihren Traumjob im Ausland zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für Ihren Erfolg benötigen.",
       "cards": {
         "recruitment": {
-          "category": "Talentakquise",
-          "title": "Globale Rekrutierungslösungen"
+          "category": "Gastgewerbe & Reinigung",
+          "title": "Personal für Hotel und Reinigung"
         },
         "partnership": {
           "category": "Arbeitgeberpartnerschaft",
@@ -65,16 +65,16 @@
       },
       "content": {
         "recruitment": {
-          "highlight": "Finden Sie das perfekte Talent-Match.",
-          "description": "Unsere fortschrittliche Rekrutierungsmethodik verbindet Sie mit qualifizierten Fachkräften aus der ganzen Welt. Wir optimieren den gesamten Einstellungsprozess von der Kandidatensuche bis zur finalen Platzierung.",
+          "highlight": "Exzellenz im Service.",
+          "description": "Wir vermitteln qualifiziertes Personal für die Bereiche Hotel, Gastronomie und Reinigung und sichern hohe Service- und Hygienestandards.",
           "features": [
             {
-              "title": "Globaler Talentpool",
-              "description": "Zugang zu über 50.000 qualifizierten Fachkräften in verschiedenen Branchen und Ländern."
+              "title": "Geprüftes Personal",
+              "description": "Zugang zu geprüften und geschulten Fachkräften für das Gastgewerbe."
             },
             {
-              "title": "Schnelle Platzierung",
-              "description": "Schneller und effizienter Vermittlungsprozess mit hoher Kandidatenzufriedenheit."
+              "title": "Flexible Lösungen",
+              "description": "Bedarfsgerechte Personalvermittlung für kurz- und langfristige Einsätze."
             }
           ]
         },
@@ -1065,9 +1065,54 @@
         "24/7 Support verfügbar"
       ],
       "tabs": {
-        "efficiency": "Effizienz",
-        "quality": "Qualität",
-        "support": "Support"
+        "efficiency": {
+          "label": "Effizienz",
+          "title": "Optimierter",
+          "subtitle": "Einstellungsprozess",
+          "description": "Unser optimierter Prozess reduziert die Einstellungszeit um 30 % und verbindet Sie schneller als je zuvor mit qualifizierten Kandidaten.",
+          "stats": [
+            "Globale Talentbeschaffung",
+            "Beschleunigte Visabearbeitung",
+            "Reduzierter Verwaltungsaufwand",
+            "Branchenübergreifende Expertise"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Reduzierung der Einstellungszeit" },
+            "stat2": { "label": "Schnellere Vermittlungen" }
+          }
+        },
+        "quality": {
+          "label": "Qualität",
+          "title": "Hochkarätige",
+          "subtitle": "Talente",
+          "description": "Greifen Sie auf einen Pool von über 5.000 verifizierten Fachkräften zu und halten Sie eine Erfolgsquote von 98 % bei der Vermittlung von Kandidaten.",
+          "stats": [
+            "Geprüftes Fachkräfte-Netzwerk",
+            "Umfassende Kompetenzbewertung",
+            "Branchenspezifische Expertise",
+            "Fokus auf langfristige Bindung"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Erfolgsquote" },
+            "stat2": { "label": "Erfolgreiche Einstellungen" }
+          }
+        },
+        "support": {
+          "label": "Support",
+          "title": "End-to-End",
+          "subtitle": "Partner-Support",
+          "description": "Wir bieten rund um die Uhr Unterstützung und kümmern uns um alles von der Compliance bis zur Einarbeitung für eine nahtlose Integration.",
+          "stats": [
+            "24/7 dedizierter Support",
+            "Vollständiges Compliance-Management",
+            "Nahtlose Einarbeitungsunterstützung",
+            "Kontinuierliche Betreuung nach der Einstellung"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Dedizierter Support" },
+            "stat2": { "label": "Kundenzufriedenheit" }
+          }
+        }
       }
     },
     "services": {

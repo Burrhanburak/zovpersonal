@@ -39,8 +39,8 @@
       "description": "Our job seeker program is designed to help you find your dream job abroad. We provide the tools and resources you need to succeed.",
       "cards": {
         "recruitment": {
-          "category": "Talent Acquisition",
-          "title": "Global Recruitment Solutions"
+          "category": "Hospitality & Cleaning",
+          "title": "Hotel and Cleaning Staff"
         },
         "partnership": {
           "category": "Employer Partnership",
@@ -65,16 +65,16 @@
       },
       "content": {
         "recruitment": {
-          "highlight": "Find the perfect talent match.",
-          "description": "Our advanced recruitment methodology connects you with qualified professionals from around the world. We streamline the entire hiring process from candidate sourcing to final placement.",
+          "highlight": "Excellence in Service.",
+          "description": "We provide qualified personnel for the hotel, restaurant, and cleaning sectors, ensuring high standards of service and hygiene.",
           "features": [
             {
-              "title": "Global Talent Pool",
-              "description": "Access to over 50,000 qualified professionals across multiple industries and countries."
+              "title": "Vetted Staff",
+              "description": "Access to vetted and trained professionals for the hospitality industry."
             },
             {
-              "title": "Fast Placement",
-              "description": "Fast and efficient placement process with high candidate satisfaction."
+              "title": "Flexible Solutions",
+              "description": "On-demand staffing for both short-term and long-term needs."
             }
           ]
         },
@@ -1031,9 +1031,54 @@
         "24/7 Support Available"
       ],
       "tabs": {
-        "efficiency": "Efficiency",
-        "quality": "Quality", 
-        "support": "Support"
+        "efficiency": {
+          "label": "Efficiency",
+          "title": "Streamlined",
+          "subtitle": "Hiring Process",
+          "description": "Our optimized process reduces time-to-hire by 30%, connecting you with qualified candidates faster than ever.",
+          "stats": [
+            "Global Talent Sourcing",
+            "Accelerated Visa Processing",
+            "Reduced Administrative Burden",
+            "Cross-Industry Expertise"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Time-to-Hire Reduction" },
+            "stat2": { "label": "Faster Placements" }
+          }
+        },
+        "quality": {
+          "label": "Quality",
+          "title": "High-Caliber",
+          "subtitle": "Talent",
+          "description": "Access a pool of 5K+ verified professionals and maintain a 98% success rate in matching candidates to roles.",
+          "stats": [
+            "Vetted Professional Network",
+            "Comprehensive Skill Assessment",
+            "Industry-Specific Expertise",
+            "Long-Term Retention Focus"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Success Rate" },
+            "stat2": { "label": "Successful Hires" }
+          }
+        },
+        "support": {
+          "label": "Support",
+          "title": "End-to-End",
+          "subtitle": "Partner Support",
+          "description": "We provide 24/7 assistance, handling everything from compliance to onboarding for a seamless integration.",
+          "stats": [
+            "24/7 Dedicated Support",
+            "Full-Cycle Compliance Management",
+            "Seamless Onboarding Assistance",
+            "Continuous Post-Placement Support"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Dedicated Support" },
+            "stat2": { "label": "Client Satisfaction" }
+          }
+        }
       }
     }
   },
@@ -1238,17 +1283,62 @@
       },
       "services": [
         "Talent Sourcing",
-        "Visa Support",
+        "Visa Assistance",
         "Compliance",
         "Candidate Screening",
         "Onboarding Support",
-        "Multi-Industry Expertise",
+        "Cross-Industry Expertise",
         "24/7 Support Available"
       ],
       "tabs": {
-        "efficiency": "Efficiency",
-        "quality": "Quality", 
-        "support": "Support"
+        "efficiency": {
+          "label": "Efficiency",
+          "title": "Streamlined",
+          "subtitle": "Hiring Process",
+          "description": "Our optimized process reduces time-to-hire by 30%, connecting you with qualified candidates faster than ever.",
+          "stats": [
+            "Global Talent Sourcing",
+            "Accelerated Visa Processing",
+            "Reduced Administrative Burden",
+            "Cross-Industry Expertise"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Time-to-Hire Reduction" },
+            "stat2": { "label": "Faster Placements" }
+          }
+        },
+        "quality": {
+          "label": "Quality",
+          "title": "High-Caliber",
+          "subtitle": "Talent",
+          "description": "Access a pool of 5K+ verified professionals and maintain a 98% success rate in matching candidates to roles.",
+          "stats": [
+            "Vetted Professional Network",
+            "Comprehensive Skill Assessment",
+            "Industry-Specific Expertise",
+            "Long-Term Retention Focus"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Success Rate" },
+            "stat2": { "label": "Successful Hires" }
+          }
+        },
+        "support": {
+          "label": "Support",
+          "title": "End-to-End",
+          "subtitle": "Partner Support",
+          "description": "We provide 24/7 assistance, handling everything from compliance to onboarding for a seamless integration.",
+          "stats": [
+            "24/7 Dedicated Support",
+            "Full-Cycle Compliance Management",
+            "Seamless Onboarding Assistance",
+            "Continuous Post-Placement Support"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Dedicated Support" },
+            "stat2": { "label": "Client Satisfaction" }
+          }
+        }
       }
     },
     "services": {

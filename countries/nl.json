@@ -39,8 +39,8 @@
       "description": "Ons werkzoekersprogramma is ontworpen om u te helpen uw droombaan in het buitenland te vinden. Wij bieden de tools en middelen die u nodig heeft om te slagen.",
       "cards": {
         "recruitment": {
-          "category": "Talent Acquisitie",
-          "title": "Wereldwijde Wervingsoplossingen"
+          "category": "Horeca & Schoonmaak",
+          "title": "Hotel- en Schoonmaakpersoneel"
         },
         "partnership": {
           "category": "Werkgeverspartnerschap",
@@ -65,16 +65,16 @@
       },
       "content": {
         "recruitment": {
-          "highlight": "Vind de perfecte talent match.",
-          "description": "Onze geavanceerde wervingsmethodologie verbindt u met gekwalificeerde professionals van over de hele wereld. We stroomlijnen het gehele aanwervingsproces van kandidatenonderzoek tot eindplaatsing.",
+          "highlight": "Uitmuntendheid in Service.",
+          "description": "Wij leveren gekwalificeerd personeel voor de hotel-, restaurant- en schoonmaaksector, en garanderen hoge normen van service en hygiëne.",
           "features": [
             {
-              "title": "Wereldwijde Talentpool",
-              "description": "Toegang tot meer dan 50.000 gekwalificeerde professionals in verschillende sectoren en landen."
+              "title": "Gevestigd Personeel",
+              "description": "Toegang tot doorgelicht en opgeleid personeel voor de horeca."
             },
             {
-              "title": "Snelle Plaatsing",
-              "description": "Gemiddelde plaatsingstijd van 45 dagen met 95% kandidaatretentie."
+              "title": "Flexibele Oplossingen",
+              "description": "Personeel op aanvraag voor zowel korte als lange termijn behoeften."
             }
           ]
         },
@@ -1223,21 +1223,71 @@
       "description": "Breid uw personeel uit met gekwalificeerde professionals van over de hele wereld en ontsluit ongekende groeimogelijkheden met onze bewezen wervingsoplossingen.",
       "stats": {
         "countries": "25+ Landen",
-        "hires": "5K+ Succesvolle Wervingen",
-        "successRate": "98% Succespercentage"
+        "hires": "5K+ succesvolle aanwervingen",
+        "successRate": "98% slagingspercentage"
       },
       "services": [
-        "Talentbeschafffing",
-        "Visum Ondersteuning",
-        "Compliance",
+        "Talent Sourcing",
+        "Visumassistentie",
+        "Naleving",
         "Kandidaat Screening",
-        "Onboarding Ondersteuning",
-        "Multi-Industrie Expertise",
-        "24/7 Ondersteuning Beschikbaar"
-      ]
+        "Ondersteuning bij onboarding",
+        "Cross-sectorale expertise",
+        "24/7 ondersteuning beschikbaar"
+      ],
+      "tabs": {
+        "efficiency": {
+          "label": "Efficiëntie",
+          "title": "Gestroomlijnd",
+          "subtitle": "Wervingsproces",
+          "description": "Ons geoptimaliseerde proces verkort de tijd tot aanwerving met 30%, waardoor u sneller dan ooit in contact komt met gekwalificeerde kandidaten.",
+          "stats": [
+            "Wereldwijde talentenjacht",
+            "Versnelde visumverwerking",
+            "Minder administratieve lasten",
+            "Cross-sectorale expertise"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Verkorting van de aanwervingstijd" },
+            "stat2": { "label": "Snellere plaatsingen" }
+          }
+        },
+        "quality": {
+          "label": "Kwaliteit",
+          "title": "Hoog kaliber",
+          "subtitle": "Talent",
+          "description": "Krijg toegang tot een pool van 5K+ geverifieerde professionals en handhaaf een slagingspercentage van 98% bij het matchen van kandidaten met functies.",
+          "stats": [
+            "Geverifieerd professioneel netwerk",
+            "Uitgebreide vaardigheidsbeoordeling",
+            "Industriespecifieke expertise",
+            "Focus op langetermijnbehoud"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Slagingspercentage" },
+            "stat2": { "label": "Succesvolle aanwervingen" }
+          }
+        },
+        "support": {
+          "label": "Ondersteuning",
+          "title": "End-to-end",
+          "subtitle": "Partnerondersteuning",
+          "description": "Wij bieden 24/7 assistentie en regelen alles van naleving tot onboarding voor een naadloze integratie.",
+          "stats": [
+            "24/7 toegewijde ondersteuning",
+            "Volledig cyclusbeheer van naleving",
+            "Naadloze onboarding-assistentie",
+            "Continue ondersteuning na plaatsing"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Toegewijde ondersteuning" },
+            "stat2": { "label": "Klanttevredenheid" }
+          }
+        }
+      }
     },
     "services": {
-      "badge": "Werkgever Services",
+      "badge": "Diensten voor werkgevers",
       "title": "Uitgebreide Internationale Wervingsoplossingen",
       "items": [
         {

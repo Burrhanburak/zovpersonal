@@ -39,8 +39,8 @@
       "description": "İş arayan programımız yurtdışında hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
       "cards": {
         "recruitment": {
-          "category": "Yetenek Bulma",
-          "title": "Küresel İşe Alım Çözümleri"
+          "category": "Ağırlama ve Temizlik",
+          "title": "Otel ve Temizlik Personeli"
         },
         "partnership": {
           "category": "İş Veren Ortaklığı",
@@ -65,16 +65,16 @@
       },
       "content": {
         "recruitment": {
-          "highlight": "Mükemmel yetenek eşleşmesi bulun.",
-          "description": "Gelişmiş işe alım metodolojimiz sizi dünyanın dört bir yanından nitelikli profesyonellerle buluşturur. Aday araştırmasından son yerleştirmeye kadar tüm işe alım sürecini kolaylaştırıyoruz.",
+          "highlight": "Hizmette Mükemmellik.",
+          "description": "Otel, restoran ve temizlik sektörleri için nitelikli personel temin ederek yüksek hizmet ve hijyen standartları sağlıyoruz.",
           "features": [
             {
-              "title": "Küresel Yetenek Havuzu",
-              "description": "Birden fazla sektör ve ülkede 50.000'den fazla nitelikli profesyonele erişim."
+              "title": "Onaylanmış Personel",
+              "description": "Ağırlama endüstrisi için denetlenmiş ve eğitimli profesyonellere erişim."
             },
             {
-              "title": "Hızlı Yerleştirme",
-              "description": "Hızlı ve etkili yerleştirme süreci ile yüksek aday memnuniyeti."
+              "title": "Esnek Çözümler",
+              "description": "Hem kısa hem de uzun vadeli ihtiyaçlar için isteğe bağlı personel temini."
             }
           ]
         },
@@ -1213,25 +1213,70 @@
       "stats": {
         "countries": "25+ Ülke",
         "hires": "5K+ Başarılı İşe Alım",
-        "successRate": "98% Başarı Oranı"
+        "successRate": "%98 Başarı Oranı"
       },
       "services": [
-        "Yetenek Bulma",
+        "Yetenek Tedariği",
         "Vize Desteği",
-        "Uyum Sağlama",
-        "Aday Değerlendirmesi",
+        "Uygunluk",
+        "Aday Değerlendirme",
         "İşe Başlatma Desteği",
-        "Çok Sektörlü Uzmanlık",
+        "Sektörler Arası Uzmanlık",
         "7/24 Destek Mevcut"
       ],
       "tabs": {
-        "efficiency": "Verimlilik",
-        "quality": "Kalite", 
-        "support": "Destek"
+        "efficiency": {
+          "label": "Verimlilik",
+          "title": "Optimize Edilmiş",
+          "subtitle": "İşe Alım Süreci",
+          "description": "Optimize edilmiş sürecimiz, işe alım süresini %30 azaltarak sizi nitelikli adaylarla her zamankinden daha hızlı bir şekilde buluşturur.",
+          "stats": [
+            "Küresel Yetenek Tedariği",
+            "Hızlandırılmış Vize İşlemleri",
+            "Azaltılmış İdari Yük",
+            "Sektörler Arası Uzmanlık"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "İşe Alım Süresinde Azalma" },
+            "stat2": { "label": "Daha Hızlı Yerleştirmeler" }
+          }
+        },
+        "quality": {
+          "label": "Kalite",
+          "title": "Yüksek Kalibreli",
+          "subtitle": "Yetenek",
+          "description": "5K+ doğrulanmış profesyonelden oluşan bir havuza erişin ve adayları rollerle eşleştirmede %98'lik bir başarı oranını koruyun.",
+          "stats": [
+            "Denetlenmiş Profesyonel Ağı",
+            "Kapsamlı Beceri Değerlendirmesi",
+            "Sektöre Özgü Uzmanlık",
+            "Uzun Vadeli Elde Tutma Odaklı"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Başarı Oranı" },
+            "stat2": { "label": "Başarılı İşe Alımlar" }
+          }
+        },
+        "support": {
+          "label": "Destek",
+          "title": "Uçtan Uca",
+          "subtitle": "Ortak Desteği",
+          "description": "Sorunsuz bir entegrasyon için uyumluluktan işe alıma kadar her şeyi ele alarak 7/24 destek sağlıyoruz.",
+          "stats": [
+            "7/24 Özel Destek",
+            "Tam Döngü Uyumluluk Yönetimi",
+            "Sorunsuz İşe Alım Yardımı",
+            "Yerleştirme Sonrası Sürekli Destek"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Özel Destek" },
+            "stat2": { "label": "Müşteri Memnuniyeti" }
+          }
+        }
       }
     },
     "services": {
-      "badge": "İş Veren Hizmetleri",
+      "badge": "İşveren Hizmetleri",
       "title": "Kapsamlı Uluslararası İşe Alım Çözümleri",
       "items": [
         {

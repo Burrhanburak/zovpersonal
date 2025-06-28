@@ -4,6 +4,7 @@ import Image from "next/image";
 import { Tag } from "@/components/ui/tag";
 import ContactSection from "@/components/ContactSection";
 import IndustriesCarousel from "../../../components/IndustriesCarousel";
+import EmployerBenefitsTabs from "@/components/EmployerBenefitsTabs";
 
 export default async function EmployerPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -13,7 +14,7 @@ export default async function EmployerPage({ params }: { params: Promise<{ local
     <>
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-cente py-32" id="employer-hero">
-        <div className="absolute inset-0 rounded-2xl">
+        <div className="absolute inset-0 ">
           <Image
             src="/isarayanıi.png"
             alt="Employer Background"
@@ -21,12 +22,12 @@ export default async function EmployerPage({ params }: { params: Promise<{ local
             height={1080}
             sizes="100vw"
             priority
-            className="w-full h-full object-cover rounded-2xl"
+            className="w-full h-full object-cover "
           />
         </div>
         
         <div 
-          className="absolute inset-0 z-[1] rounded-2xl"
+          className="absolute inset-0 z-[1] "
           style={{
             background: 'linear-gradient(179.98deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.8) 80%)'
           }}
@@ -67,92 +68,7 @@ export default async function EmployerPage({ params }: { params: Promise<{ local
       </section>
 
       {/* Benefits Section */}
-      <section className="py-32 mx-auto container">
-        <div className="container">
-          <div className="flex-col grid grid-cols-1 gap-8 rounded-2xl border border-border p-4 lg:grid-cols-2 lg:p-8 xl:gap-20">
-            <div className="flex flex-col-reverse justify-between gap-8 lg:flex-col">
-              <div>
-                {/* Active Tab Content */}
-                <div className="flex-1 outline-none flex animate-in flex-col gap-6 duration-300 fade-in">
-                  <span className="text-xs text-muted-foreground uppercase">{t("employer.benefits.badge")}</span>
-                  <div className="flex flex-col gap-4">
-                    <h2 className="text-3xl font-medium">
-                      {t("employer.benefits.title")}<br />
-                      <span className="text-muted-foreground">{t("employer.benefits.subtitle")}</span>
-                    </h2>
-                    <p className="text-muted-foreground">
-                      {t("employer.benefits.description")}
-                    </p>
-                  </div>
-                  
-                  {/* Stats */}
-                  <div className="mt-6 flex flex-wrap gap-2">
-                    <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">{t("employer.benefits.stats.countries")}</span>
-                    <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">{t("employer.benefits.stats.hires")}</span>
-                    <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">{t("employer.benefits.stats.successRate")}</span>
-                  </div>
-
-                  {/* Services List */}
-                  <div className="flex flex-col gap-3 mt-6">
-                    {t.raw("employer.benefits.services").map((service: string, index: number) => (
-                      <div key={index}>
-                        <div className="flex items-center gap-2 text-muted-foreground">
-                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-auto w-4" aria-hidden="true">
-                            <path d="m9 12 2 2 4-4"></path>
-                            <path d="M21 12c.552 0 1-.448 1-1s-.448-1-1-1-1 .448-1 1 .448 1 1 1"></path>
-                            <path d="M3 12c.552 0 1-.448 1-1s-.448-1-1-1-1 .448-1 1 .448 1 1 1"></path>
-                          </svg>
-                          {service}
-                        </div>
-                        <div className="bg-border shrink-0 h-px w-full mt-2"></div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </div>
-              
-                             {/* Tab Buttons */}
-               <div className="bg-muted text-muted-foreground inline-flex w-fit items-center justify-center mx-auto h-12 rounded-full p-2 lg:mx-0">
-                 <button className="bg-background text-foreground shadow-sm inline-flex flex-1 items-center justify-center gap-1.5 border border-transparent text-sm font-medium whitespace-nowrap transition-[color,box-shadow] focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 h-full rounded-full px-4 py-2">
-                   {t("employer.benefits.tabs.efficiency")}
-                 </button>
-                 <button className="text-muted-foreground inline-flex flex-1 items-center justify-center gap-1.5 border border-transparent text-sm font-medium whitespace-nowrap transition-[color,box-shadow] focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 h-full rounded-full px-4 py-2 hover:text-foreground">
-                   {t("employer.benefits.tabs.quality")}
-                 </button>
-                 <button className="text-muted-foreground inline-flex flex-1 items-center justify-center gap-1.5 border border-transparent text-sm font-medium whitespace-nowrap transition-[color,box-shadow] focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 h-full rounded-full px-4 py-2 hover:text-foreground">
-                   {t("employer.benefits.tabs.support")}
-                 </button>
-               </div>
-            </div>
-            
-            {/* Image Section */}
-            <div>
-              <div className="flex-1 outline-none animate-in duration-300 fade-in">
-                <div className="relative">
-                  <Image
-                    src="/is-veren-two.png"
-                    alt="Employer Benefits"
-                    width={600}
-                    height={440}
-                    className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]"
-                  />
-                  <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-[rgb(28,39,6)]/80 via-transparent to-transparent"></div>
-                                     <div className="absolute bottom-0 left-0 flex flex-col justify-center gap-8 p-6 text-white">
-                     <div className="flex flex-col gap-1.5">
-                       <p className="text-4xl font-medium lg:text-5xl">98%</p>
-                       <p className="font-medium">{t("employer.benefits.stats.successRate").replace("98% ", "")}</p>
-                     </div>
-                     <div className="flex flex-col gap-1.5">
-                       <p className="text-4xl font-medium lg:text-5xl">5K+</p>
-                       <p className="font-medium">{t("employer.benefits.stats.hires").replace("5K+ ", "")}</p>
-                     </div>
-                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <EmployerBenefitsTabs />
 
       {/* Industries Section */}
       <IndustriesCarousel />

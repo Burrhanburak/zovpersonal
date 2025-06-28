@@ -39,8 +39,8 @@
       "description": "Naš program za tražitelje posla dizajniran je da vam pomogne pronaći posao iz snova u inozemstvu. Pružamo alate i resurse potrebne za vaš uspjeh.",
         "cards": {
           "recruitment": {
-            "category": "Privlačenje Talenata",
-            "title": "Globalna Rješenja za Zapošljavanje"
+            "category": "Ugostiteljstvo i čišćenje",
+            "title": "Osoblje za hotele i čišćenje"
           },
           "partnership": {
             "category": "Partnerstvo s Poslodavcima",
@@ -65,16 +65,16 @@
         },
         "content": {
           "recruitment": {
-            "highlight": "Pronađite savršeno podudaranje talenata.",
-            "description": "Naša napredna metodologija zapošljavanja povezuje vas s kvalificiranim stručnjacima iz cijelog svijeta. Pojednostavljujemo cijeli proces zapošljavanja od traženja kandidata do konačnog zapošljavanja.",
+            "highlight": "Izvrsnost u usluzi.",
+            "description": "Pružamo kvalificirano osoblje za hotelski, restoranski i sektor čišćenja, osiguravajući visoke standarde usluge i higijene.",
             "features": [
               {
-                "title": "Globalni Skup Talenata",
-                "description": "Pristup s više od 50.000 kvalificiranih stručnjaka u različitim industrijama i zemljama."
+                "title": "Provjereno osoblje",
+                "description": "Pristup provjerenim i obučenim profesionalcima za ugostiteljsku industriju."
               },
               {
-                "title": "Brzo Zapošljavanje",
-                "description": "Brz i učinkovit proces zapošljavanja s visokim zadovoljstvom kandidata."
+                "title": "Fleksibilna rješenja",
+                "description": "Zapošljavanje na zahtjev za kratkoročne i dugoročne potrebe."
               }
             ]
           },
@@ -890,17 +890,62 @@
       },
       "services": [
         "Pronalaženje talenata",
-        "Podrška za vize",
+        "Pomoć pri dobivanju vize",
         "Usklađenost",
-        "Pregled kandidata",
-        "Podrška za uvođenje",
+        "Provjera kandidata",
+        "Podrška pri uvođenju u posao",
         "Stručnost u više industrija",
-        "24/7 podrška dostupna"
+        "Podrška dostupna 24/7"
       ],
       "tabs": {
-        "efficiency": "Učinkovitost",
-        "quality": "Kvaliteta",
-        "support": "Podrška"
+        "efficiency": {
+          "label": "Efikasnost",
+          "title": "Optimiziran",
+          "subtitle": "Proces zapošljavanja",
+          "description": "Naš optimizirani proces smanjuje vrijeme potrebno za zapošljavanje za 30%, povezujući vas s kvalificiranim kandidatima brže nego ikad.",
+          "stats": [
+            "Globalno pronalaženje talenata",
+            "Ubrzana obrada viza",
+            "Smanjeno administrativno opterećenje",
+            "Stručnost u više industrija"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Smanjenje vremena za zapošljavanje" },
+            "stat2": { "label": "Brža zapošljavanja" }
+          }
+        },
+        "quality": {
+          "label": "Kvaliteta",
+          "title": "Visokokvalitetni",
+          "subtitle": "Talent",
+          "description": "Pristupite bazi od 5K+ provjerenih stručnjaka i održavajte stopu uspjeha od 98% u spajanju kandidata s radnim mjestima.",
+          "stats": [
+            "Provjerena mreža stručnjaka",
+            "Sveobuhvatna procjena vještina",
+            "Stručnost specifična za industriju",
+            "Fokus na dugoročno zadržavanje"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Stopa uspjeha" },
+            "stat2": { "label": "Uspješna zapošljavanja" }
+          }
+        },
+        "support": {
+          "label": "Podrška",
+          "title": "Sveobuhvatna",
+          "subtitle": "Partnerska podrška",
+          "description": "Pružamo podršku 24/7, baveći se svime, od usklađenosti do uvođenja u posao, za besprijekornu integraciju.",
+          "stats": [
+            "24/7 posvećena podrška",
+            "Upravljanje usklađenošću u punom ciklusu",
+            "Besprijekorna pomoć pri uvođenju u posao",
+            "Kontinuirana podrška nakon zapošljavanja"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Posvećena podrška" },
+            "stat2": { "label": "Zadovoljstvo klijenata" }
+          }
+        }
       }
     },
     "services": {

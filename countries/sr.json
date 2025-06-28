@@ -39,8 +39,8 @@
       "description": "Naš program za tražioce posla osmišljen je da vam pomogne da pronađete posao iz snova u inostranstvu. Pružamo alate i resurse potrebne za vaš uspeh.",
         "cards": {
           "recruitment": {
-            "category": "Privlačenje talenata",
-            "title": "Globalna rešenja za zapošljavanje"
+            "category": "Ugostiteljstvo i čišćenje",
+            "title": "Osoblje za hotele i čišćenje"
           },
           "partnership": {
             "category": "Partnerstvo sa poslodavcima",
@@ -65,16 +65,16 @@
         },
         "content": {
           "recruitment": {
-            "highlight": "Pronađite savršeno poklapanje talenata.",
-            "description": "Naša napredna metodologija zapošljavanja vas povezuje sa kvalifikovanim stručnjacima iz celog sveta. Pojednostavljujemo ceo proces zapošljavanja od pretrage kandidata do konačnog zapošljavanja.",
+            "highlight": "Izvrsnost u usluzi.",
+            "description": "Pružamo kvalifikovano osoblje za hotelski, restoranski i sektor čišćenja, osiguravajući visoke standarde usluge i higijene.",
             "features": [
               {
-                "title": "Globalni fond talenata",
-                "description": "Pristup preko 50.000 kvalifikovanih stručnjaka u različitim industrijama i zemljama."
+                "title": "Provereno osoblje",
+                "description": "Pristup proverenim i obučenim profesionalcima za ugostiteljsku industriju."
               },
               {
-                "title": "Brzo zapošljavanje",
-                "description": "Prosečno vreme zapošljavanja od 45 dana sa 95% zadržavanjem kandidata."
+                "title": "Fleksibilna rešenja",
+                "description": "Zapošljavanje na zahtev za kratkoročne i dugoročne potrebe."
               }
             ]
           },
@@ -1144,26 +1144,71 @@
         "description": "Проширите своју радну снагу квалификованим професионалцима из целог света и откључајте невиђене могућности раста нашим доказаним решењима за регрутовање.",
         "stats": {
           "countries": "25+ земаља",
-          "hires": "5К+ успешних запошљавања",
-          "successRate": "98% стопа успеха"
+          "hires": "5K+ uspešnih zapošljavanja",
+          "successRate": "98% stopa uspeha"
         },
         "services": [
-          "Проналажење талената",
-          "Подршка за визе",
-          "Усклађеност",
-          "Преглед кандидата",
-          "Подршка за увођење",
-          "Стручност у више индустрија",
-          "24/7 подршка доступна"
+          "Pronalaženje talenata",
+          "Pomoć oko vize",
+          "Usklađenost",
+          "Provera kandidata",
+          "Podrška pri zapošljavanju",
+          "Međusektorska stručnost",
+          "Podrška dostupna 24/7"
         ],
         "tabs": {
-          "efficiency": "Ефикасност",
-          "quality": "Квалитет", 
-          "support": "Подршка"
+          "efficiency": {
+            "label": "Efikasnost",
+            "title": "Pojednostavljen",
+            "subtitle": "Proces zapošljavanja",
+            "description": "Naš optimizovani proces smanjuje vreme do zapošljavanja za 30%, povezujući vas sa kvalifikovanim kandidatima brže nego ikada.",
+            "stats": [
+              "Globalno pronalaženje talenata",
+              "Ubrzana obrada vize",
+              "Smanjeno administrativno opterećenje",
+              "Međusektorska stručnost"
+            ],
+            "overlayStats": {
+              "stat1": { "label": "Smanjenje vremena do zapošljavanja" },
+              "stat2": { "label": "Brže zapošljavanje" }
+            }
+          },
+          "quality": {
+            "label": "Kvalitet",
+            "title": "Visokog kalibra",
+            "subtitle": "Talenat",
+            "description": "Pristupite bazi od 5K+ proverenih stručnjaka i održavajte stopu uspeha od 98% u spajanju kandidata sa pozicijama.",
+            "stats": [
+              "Proverena profesionalna mreža",
+              "Sveobuhvatna procena veština",
+              "Stručnost specifična za industriju",
+              "Fokus na dugoročno zadržavanje"
+            ],
+            "overlayStats": {
+              "stat1": { "label": "Stopa uspeha" },
+              "stat2": { "label": "Uspešna zapošljavanja" }
+            }
+          },
+          "support": {
+            "label": "Podrška",
+            "title": "Sveobuhvatna",
+            "subtitle": "Partnerska podrška",
+            "description": "Pružamo podršku 24/7, baveći se svime, od usklađenosti do uvođenja u posao, za besprekornu integraciju.",
+            "stats": [
+              "Podrška posvećena 24/7",
+              "Upravljanje usklađenošću u punom ciklusu",
+              "Besprikorna pomoć pri zapošljavanju",
+              "Kontinuirana podrška nakon zapošljavanja"
+            ],
+            "overlayStats": {
+              "stat1": { "label": "Posvećena podrška" },
+              "stat2": { "label": "Zadovoljstvo klijenata" }
+            }
+          }
         }
       },
       "services": {
-        "badge": "Услуге за послодавце",
+        "badge": "Usluge za poslodavce",
         "title": "Свеобухватна међународна решења за запошљавање",
         "items": [
           {

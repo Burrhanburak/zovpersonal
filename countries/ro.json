@@ -39,8 +39,8 @@
       "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să vă ajute să găsiți jobul visurilor voastre în străinătate. Oferim instrumentele și resursele de care aveți nevoie pentru a reuși.",
       "cards": {
         "recruitment": {
-          "category": "Achiziția de Talente",
-          "title": "Soluții Globale de Recrutare"
+          "category": "Ospitalitate și curățenie",
+          "title": "Personal hotelier și de curățenie"
         },
         "partnership": {
           "category": "Parteneriat cu Angajatorii",
@@ -65,16 +65,16 @@
       },
       "content": {
         "recruitment": {
-          "highlight": "Găsiți potrivirea perfectă a talentelor.",
-          "description": "Metodologia noastră avansată de recrutare vă conectează cu profesioniști calificați din întreaga lume. Simplificăm întregul proces de angajare de la căutarea candidaților până la plasarea finală.",
+          "highlight": "Excelență în servicii.",
+          "description": "Oferim personal calificat pentru sectoarele hotelier, restaurante și curățenie, asigurând standarde înalte de servicii și igienă.",
           "features": [
             {
-              "title": "Pool Global de Talente",
-              "description": "Acces la peste 50.000 de profesioniști calificați în multiple industrii și țări."
+              "title": "Personal verificat",
+              "description": "Acces la profesioniști verificați și instruiți pentru industria ospitalității."
             },
             {
-              "title": "Plasare Rapidă",
-              "description": "Timp mediu de plasare de 45 de zile cu o rată de retenție a candidaților de 95%."
+              "title": "Soluții flexibile",
+              "description": "Personal la cerere atât pentru nevoi pe termen scurt, cât și pe termen lung."
             }
           ]
         },
@@ -1146,14 +1146,64 @@
         "successRate": "98% rată de succes"
       },
       "services": [
-        "Căutarea talentelor",
-        "Suport pentru vize",
+        "Aprovizionare cu talente",
+        "Asistență pentru viză",
         "Conformitate",
-        "Selecția candidaților",
-        "Suport pentru integrare",
-        "Expertiză multi-industrială",
-        "Suport 24/7 disponibil"
-      ]
+        "Selectarea candidaților",
+        "Asistență la integrare",
+        "Expertiză inter-industrială",
+        "Asistență disponibilă 24/7"
+      ],
+      "tabs": {
+        "efficiency": {
+          "label": "Eficiență",
+          "title": "Simplificat",
+          "subtitle": "Procesul de angajare",
+          "description": "Procesul nostru optimizat reduce timpul de angajare cu 30%, conectându-vă cu candidați calificați mai repede ca niciodată.",
+          "stats": [
+            "Aprovizionare globală cu talente",
+            "Procesare accelerată a vizei",
+            "Reducerea poverii administrative",
+            "Expertiză inter-industrială"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Reducerea timpului de angajare" },
+            "stat2": { "label": "Plasări mai rapide" }
+          }
+        },
+        "quality": {
+          "label": "Calitate",
+          "title": "Calibru înalt",
+          "subtitle": "Talent",
+          "description": "Accesați o bază de 5K+ profesioniști verificați și mențineți o rată de succes de 98% în potrivirea candidaților cu rolurile.",
+          "stats": [
+            "Rețea profesională verificată",
+            "Evaluare cuprinzătoare a competențelor",
+            "Expertiză specifică industriei",
+            "Focalizare pe retenția pe termen lung"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Rata de succes" },
+            "stat2": { "label": "Angajări de succes" }
+          }
+        },
+        "support": {
+          "label": "Asistență",
+          "title": "De la un capăt la altul",
+          "subtitle": "Asistență pentru parteneri",
+          "description": "Oferim asistență 24/7, ocupându-ne de tot, de la conformitate la integrare, pentru o integrare perfectă.",
+          "stats": [
+            "Asistență dedicată 24/7",
+            "Gestionarea completă a conformității",
+            "Asistență la integrare fără probleme",
+            "Asistență continuă post-plasare"
+          ],
+          "overlayStats": {
+            "stat1": { "label": "Asistență dedicată" },
+            "stat2": { "label": "Satisfacția clientului" }
+          }
+        }
+      }
     },
     "services": {
       "badge": "Servicii pentru angajatori",
