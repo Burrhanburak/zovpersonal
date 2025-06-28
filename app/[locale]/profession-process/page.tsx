@@ -431,12 +431,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.construction.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.construction.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/construction`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/construction`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -445,12 +445,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.hospitality.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.hospitality.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/hospitality`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/hospitality`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -459,12 +459,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.logistics.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.logistics.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/logistics`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/logistics`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -473,12 +473,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.cleaning.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.cleaning.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/cleaning`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/cleaning`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -487,12 +487,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.office.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.office.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/office`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/office`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
           
           <div className="flex flex-col gap-10 rounded-lg border bg-background p-8">
@@ -501,12 +501,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
               <h3 className="mt-6 mb-2 font-medium">{t('professionProcess.otherProfessions.others.title')}</h3>
               <p className="text-sm text-muted-foreground">{t('professionProcess.otherProfessions.others.description')}</p>
             </div>
-            <Link href={`/${locale}/profession-process/others`} className="flex items-center gap-2 text-sm font-medium">
+            {/* <Link href={`/${locale}/profession-process/others`} className="flex items-center gap-2 text-sm font-medium">
               {t('professionProcess.otherProfessions.learnMore')}
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chevron-right w-4">
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

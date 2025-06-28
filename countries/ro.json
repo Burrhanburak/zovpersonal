@@ -818,7 +818,7 @@
       ]
     },
     "trends": {
-      "title": "Tendințe 2025 ale Forței de Muncă",
+      "title": "Tendințe ale Forței de Muncă",
       "subtitle": "Strategii de Predicție a Viitorului",
       "items": [
         {"trend": "Model de Lucru Hibrid", "impact": "Talentele depășesc granițele geografice", "percentage": "89%", "description": "Companiile adoptă modele de lucru hibride"},
@@ -1069,6 +1069,32 @@
       "ctaDescription": "Contactează echipa noastră de experți pentru a-ți începe procesul.",
       "contactButton": "Intră în contact",
       "backButton": "Înapoi"
+    },
+    "entryGuide": {
+      "imageAlt": "Servicii de consultanță pentru vize",
+      "title": "Ghid de intrare în Germania",
+      "preparation": {
+        "title": "1. Pregătirea și colectarea informațiilor",
+        "content": "Ca ZOV Personal, oferim consultanță completă cu privire la cerințele și pașii necesari înainte de a intra în Germania. Echipa noastră de experți oferă informații detaliate despre opțiunile de viză și condițiile prealabile aferente, oferind îndrumare personalizată."
+      },
+      "partnership": {
+        "title": "2. Parteneriat cu angajatorii și sprijin pentru găsirea unui loc de muncă",
+        "content": "Datorită rețelei extinse de angajatori a ZOV Personal, stabilim legături directe cu companii de încredere din Germania. În cadrul programului nostru de parteneriat cu angajatorii, acoperim:",
+        "items": [
+          "Găsirea de posturi potrivite pentru calificările dumneavoastră",
+          "Negocieri ale contractului de muncă",
+          "Coordonarea procesului de viză cu angajatorul",
+          "Gestionarea procedurilor de obținere a permisului de muncă"
+        ]
+      },
+      "advantage": {
+        "title": "Avantajul ZOV Personal",
+        "content": "Cu un proces de pregătire cuprinzător, nu există obstacole în calea unui început de succes în Germania. Echipa experimentată a ZOV Personal oferă sprijin profesional la fiecare pas, de la aplicarea pentru viză până la începerea jobului. Pășiți cu încredere în viața profesională din Germania cu rețeaua noastră de parteneriate cu angajatori și consultanță de specialitate."
+      },
+      "cta": {
+        "ready": "Sunteți gata să începeți călătoria în Germania?",
+        "contact": "Contactați ZOV Personal acum pentru a începe procesul de viză și a vă planifica cariera în Germania!"
+      }
     }
   },
   "nationalVisaProcess": {

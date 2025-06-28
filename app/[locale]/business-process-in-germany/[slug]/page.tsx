@@ -135,77 +135,7 @@ const BusinessProcessSlugPage = () => {
                         <div className="h-px w-full bg-[repeating-linear-gradient(90deg,transparent,transparent_4px,currentColor_4px,currentColor_10px)] [mask-image:linear-gradient(90deg,transparent,black_25%,black_75%,transparent)]"></div>
                     </div>
                     
-                    <div className="mx-auto">
-                        <div className="dark:bg-gray-800 rounded-lg p-6 shadow-sm border">
-                            <h2 className="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">
-                                {content.section2Title}
-                            </h2>
-                            
-                            <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                                {content.section2Content}
-                            </p>
-                            
-                            <div className="space-y-6">
-                                <div>
-                                    <h3 className="text-lg font-semibold mb-3 text-gray-900 dark:text-white">
-                                        {t('businessProcess.common.step1Title')}
-                                    </h3>
-                                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                                        {t('businessProcess.common.step1Description')}
-                                    </p>
-                                </div>
-                                
-                                <div>
-                                    <h3 className="text-lg font-semibold mb-3 text-gray-900 dark:text-white">
-                                        {t('businessProcess.common.step2Title')}
-                                    </h3>
-                                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                                        {t('businessProcess.common.step2Description')}
-                                    </p>
-                                </div>
-                                
-                                <div>
-                                    <h3 className="text-lg font-semibold mb-3 text-gray-900 dark:text-white">
-                                        {t('businessProcess.common.step3Title')}
-                                    </h3>
-                                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                                        {t('businessProcess.common.step3Description')}
-                                    </p>
-                                </div>
-                                
-                                <div>
-                                    <h3 className="text-lg font-semibold mb-3 text-gray-900 dark:text-white">
-                                        {t('businessProcess.common.step4Title')}
-                                    </h3>
-                                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                                        {t('businessProcess.common.step4Description')}
-                                    </p>
-                                </div>
-                            </div>
-                            
-                            {/* CTA Section */}
-                            <div className="mt-8 p-6 bg-primary/10 rounded-lg border border-primary/20">
-                                <h3 className="text-lg font-semibold mb-3 text-primary">
-                                    {t('businessProcess.common.ctaTitle')}
-                                </h3>
-                                <p className="text-gray-700 dark:text-gray-300 mb-4">
-                                    {t('businessProcess.common.ctaDescription')}
-                                </p>
-                                <div className="flex gap-4 flex-wrap">
-                                    <Link href={`/${locale}/contact`}>
-                                        <button className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow-sm hover:bg-primary/90 h-10 px-6 py-2">
-                                            {t('businessProcess.common.contactButton')}
-                                        </button>
-                                    </Link>
-                                    <Link href={`/${locale}/business-process-in-germany`}>
-                                        <button className="inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input hover:bg-accent hover:text-accent-foreground px-4 py-2 h-10 gap-2">
-                                            {t('businessProcess.common.backButton')}
-                                        </button>
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   
                 </div>
             </section>
         </div>

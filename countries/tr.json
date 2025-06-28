@@ -940,9 +940,35 @@
     }
   },
   "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Vize danışmanlığı hizmetleri",
+      "title": "Almanya'ya Giriş Rehberi",
+      "preparation": {
+        "title": "1. Hazırlık ve Bilgi Toplama",
+        "content": "ZOV Personal olarak, Almanya'ya girmeden önce gereklilikler ve gerekli adımlar hakkında kapsamlı danışmanlık sağlıyoruz. Uzman ekibimiz, vize seçeneklerine ve ilgili ön koşullara dair detaylı bilgi sunar ve kişiselleştirilmiş rehberlik hizmeti verir."
+      },
+      "partnership": {
+        "title": "2. İşveren Ortaklığı ve İş Bulma Desteği",
+        "content": "ZOV Personal'ın geniş işveren ağı sayesinde, Almanya'daki güvenilir şirketlerle doğrudan bağlantı kuruyoruz. İşveren ortaklık programımız kapsamında:",
+        "items": [
+          "Niteliklerinize uygun iş pozisyonları bulma",
+          "İş sözleşmesi müzakereleri",
+          "İşveren ile vize süreci koordinasyonu",
+          "Çalışma izni prosedürlerinin yönetimi"
+        ]
+      },
+      "advantage": {
+        "title": "ZOV Personal Avantajı",
+        "content": "Kapsamlı hazırlık süreciyle Almanya'daki başarılı başlangıcınızın önünde hiçbir engel kalmaz. ZOV Personal'ın deneyimli ekibi, vize başvurunuzdan işe başlamanıza kadar her adımda profesyonel destek sağlar. İşveren ortaklık ağımız ve uzman danışmanlığımızla Almanya'daki profesyonel hayatınıza güvenle adım atın."
+      },
+      "cta": {
+        "ready": "Almanya yolculuğunuza başlamaya hazır mısınız?",
+        "contact": "ZOV Personal ile vize sürecinizi başlatmak ve Almanya'daki kariyerinizi planlamak için hemen iletişime geçin!"
+      }
+    },
     "slugPages": {
       "employeeIntegration": {
-        "title": "Çalışan Entegrasyonu Süreçleri",
+        "title": "Çalışan Entegrasyon Süreçleri",
         "subtitle": "Almanya'da başarılı entegrasyon için kapsamlı destek",
         "description": "Uluslararası çalışanların Almanya'ya başarıyla uyum sağlaması için özel olarak tasarlanmış entegrasyon programları sunuyoruz.",
         "section1": {
@@ -1045,7 +1071,7 @@
       ]
     },
     "trends": {
-      "title": "2025 İşgücü Trendleri",
+      "title": "İşgücü Trendleri",
       "subtitle": "Geleceği Öngören Stratejiler",
       "items": [
         {

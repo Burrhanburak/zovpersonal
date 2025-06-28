@@ -820,7 +820,7 @@
       ]
     },
     "trends": {
-      "title": "2025 Trendovi Radne Snage",
+      "title": "Trendovi Radne Snage",
       "subtitle": "Strategije Predviđanja Budućnosti",
       "items": [
         {"trend": "Hibridni Radni Model", "impact": "Talenti prelaze geografske granice", "percentage": "89%", "description": "Kompanije usvajaju hibridne radne modele"},
@@ -1409,5 +1409,108 @@
         }
       ]
     }
+  },
+  "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Usluge viznog savetovanja",
+      "title": "Vodič za ulazak u Nemačku",
+      "preparation": {
+        "title": "1. Priprema i prikupljanje informacija",
+        "content": "Kao ZOV Personal, pružamo sveobuhvatno savetovanje o zahtevima i neophodnim koracima pre ulaska u Nemačku. Naš stručni tim nudi detaljne informacije o opcijama za vize i povezanim preduslovima, pružajući personalizovano vođenje."
+      },
+      "partnership": {
+        "title": "2. Partnerstvo sa poslodavcima i podrška u pronalaženju posla",
+        "content": "Zahvaljujući širokoj mreži poslodavaca ZOV Personal-a, uspostavljamo direktne veze sa pouzdanim kompanijama u Nemačkoj. U okviru našeg programa partnerstva sa poslodavcima, pokrivamo:",
+        "items": [
+          "Pronalaženje radnih pozicija pogodnih za vaše kvalifikacije",
+          "Pregovori o ugovoru o radu",
+          "Koordinacija procesa vize sa poslodavcem",
+          "Upravljanje procedurama za radnu dozvolu"
+        ]
+      },
+      "advantage": {
+        "title": "Prednost ZOV Personal-a",
+        "content": "Sa sveobuhvatnim procesom pripreme, nema prepreka za vaš uspešan početak u Nemačkoj. Iskusni tim ZOV Personal-a pruža profesionalnu podršku na svakom koraku, od vaše prijave za vizu do početka rada. Zakoračite samouvereno u svoj profesionalni život u Nemačkoj uz našu partnersku mrežu poslodavaca i stručno savetovanje."
+      },
+      "cta": {
+        "ready": "Da li ste spremni da započnete svoje putovanje u Nemačku?",
+        "contact": "Kontaktirajte ZOV Personal sada da biste započeli proces vize i planirali svoju karijeru u Nemačkoj!"
+      }
+    },
+    "slugPages": {
+      "employeeIntegration": {
+        "title": "Procesi Integracije Zaposlenih",
+        "subtitle": "Sveobuhvatna podrška za uspešnu integraciju u Nemačkoj",
+        "description": "Nudimo specijalno dizajnirane programe integracije za međunarodne zaposlene da se uspešno integrišu u Nemačku.",
+        "section1": {
+          "title": "Integracija Zaposlenih",
+          "content": "Nakon što međunarodni zaposleni uspešno stignu u Nemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da se osigura da se novi zaposleni osećaju ugodno u svojoj novoj sredini, već i da se osigura dugoročno angažovanje u kompaniji. Kompanije mogu dati značajan doprinos ciljanim merama koje imaju za cilj da pružaju glatk početak novim profesionalcima."
+        },
+        "section2": {
+          "title": "Usluge Podrške",
+          "content": "Pružamo sveobuhvatne usluge uključujući obuku jezika, kulturnu orijentaciju, pravno savetovanje i podršku za socijalnu integraciju."
+        },
+        "benefits": "Brza adaptacija, visoko zadovoljstvo poslom i dugoročni uspeh"
+      },
+      "experiencedVisa": {
+        "title": "Viza za Iskusne Profesionalce",
+        "subtitle": "Za kvalifikovane radnike sa najmanje dve godine iskustva",
+        "description": "Viza za iskusne profesionalce je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu.",
+        "section1": {
+          "title": "Viza za Iskusne Profesionalce",
+          "content": "Viza za iskusne profesionalce (Član 19c Zakona o Boravku, Stav 2) je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu. Viza omogućava ovim kvalifikovanim radnicima da rade u Nemačkoj, posebno u profesijama sa velikom potražnjom. Ova viza je uvedena da zadovolji potrebu za kvalifikovanim radnicima i ojača njemačko tržište rada."
+        },
+        "section2": {
+          "title": "Aplikacijski Procesi",
+          "content": "Pružamo podršku kroz ceo proces aplikacije uključujući procenu kvalifikacija, pripremu dokumenata i praćenje aplikacije."
+        },
+        "benefits": "Brza integracija na tržište rada, konkurentne plate i dugoročne perspektive"
+      },
+      "acceleratedProcedure": {
+        "title": "Ubrzana Procedura za Kvalifikovane Radnike",
+        "subtitle": "Ubrzani proces za hitne potrebe kompanija",
+        "description": "Ubrzana procedura za kvalifikovane radnike je specijalni proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva.",
+        "section1": {
+          "title": "Ubrzana Procedura",
+          "content": "Ubrzana Procedura za Kvalifikovane Radnike je specijalni proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva. Njen primarni cilj je da pomogne kompanijama da brže dovedu potrebne kvalifikovane radnike u Nemačku i efikasnije se bore protiv nedostatka veština. Ovaj proces se zasniva na bliskoj saradnji između poslodavaca, imigracionih vlasti i institucija za priznavanje kako bi se birokratske prepreke svele na minimum i dozvole brzo izdale."
+        },
+        "section2": {
+          "title": "Prednosti Procedure",
+          "content": "Značajno skraćeno vreme obrade, prioritetno razmatranje aplikacija i smanjena birokratija."
+        },
+        "benefits": "Brža obrada, manje birokratije i veća verovatnoća odobrenja"
+      },
+      "recruitment": {
+        "title": "Proces Zapošljavanja",
+        "subtitle": "Strukturirani pristup zapošljavanju međunarodnih stručnjaka",
+        "description": "Zapošljavanje međunarodnih stručnjaka pruža ogromnu priliku za rešavanje nedostatka veština u Nemačkoj.",
+                     "section1": {
+             "title": "Zapošljavanje",
+             "content": "Zapošljavanje međunarodnih stručnjaka predstavlja ogromnu priliku za rešavanje nedostatka veština u Nemačkoj. Međutim, da bi ovaj proces bio uspešan, kompanije moraju da usvoje ciljani i strukturiran pristup. Ovaj vodič korak po korak će vam pokazati kako da efikasno strukturirate svoj proces zapošljavanja kako biste uspešno privukli kvalifikovane stručnjake iz inostranstva."
+           },
+          "section2": {
+            "title": "Strategije Zapošljavanja",
+            "content": "Razvijamo personalizovane strategije zapošljavanja za svaku kompaniju uključujući profilisanje kandidata, proces selekcije i integraciju."
+          },
+          "benefits": "Pristup globalnom kadru, smanjeni troškovi zapošljavanja i poboljšana konkurentnost"
+        }
+      }
+    },
+    "common": {
+      "advantagesTitle": "Prednosti",
+      "processTitle": "Proces",
+      "processDescription": "Sigurni rezultati sa korak-po-korak vođenjem",
+      "step1Title": "1. Početna Procena",
+      "step1Description": "Sprovodimo analizu situacije i procenu pogodnosti.",
+      "step2Title": "2. Priprema Dokumenata",
+      "step2Description": "Profesionalno pripremamo sve potrebne dokumente.",
+      "step3Title": "3. Proces Aplikacije",
+      "step3Description": "Pratimo i upravljamo vašom aplikacijom.",
+      "step4Title": "4. Rezultat i Praćenje",
+      "step4Description": "Završetak procesa i usluge naknadne podrške.",
+      "ctaTitle": "Počnimo odmah",
+      "ctaDescription": "Kontaktirajte naš stručni tim da započnete svoj proces.",
+      "contactButton": "Kontaktirajte nas",
+      "backButton": "Nazad"
+    }
   }
-}

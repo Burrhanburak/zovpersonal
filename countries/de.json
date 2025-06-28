@@ -668,7 +668,7 @@
       ]
     },
     "trends": {
-      "title": "2025 Arbeitsmarkttrends",
+      "title": "Arbeitsmarkttrends",
       "subtitle": "Zukunftsprognostizierende Strategien",
       "items": [
         {
@@ -905,6 +905,32 @@
     }
   },
   "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Visa-Beratungsdienste",
+      "title": "Einreiseführer für Deutschland",
+      "preparation": {
+        "title": "1. Vorbereitung und Informationssammlung",
+        "content": "Als ZOV Personal bieten wir umfassende Beratung zu den Anforderungen und notwendigen Schritten vor der Einreise nach Deutschland. Unser Expertenteam liefert detaillierte Informationen zu Visaoptionen und den damit verbundenen Voraussetzungen und bietet eine personalisierte Betreuung."
+      },
+      "partnership": {
+        "title": "2. Arbeitgeberpartnerschaft und Unterstützung bei der Jobsuche",
+        "content": "Dank des breiten Arbeitgebernetzwerks von ZOV Personal stellen wir direkte Verbindungen zu zuverlässigen Unternehmen in Deutschland her. Im Rahmen unseres Arbeitgeberpartnerschaftsprogramms:",
+        "items": [
+          "Finden von passenden Stellen für Ihre Qualifikationen",
+          "Verhandlungen von Arbeitsverträgen",
+          "Koordination des Visumprozesses mit dem Arbeitgeber",
+          "Verwaltung der Arbeitserlaubnisverfahren"
+        ]
+      },
+      "advantage": {
+        "title": "Der ZOV Personal Vorteil",
+        "content": "Mit einem umfassenden Vorbereitungsprozess steht einem erfolgreichen Start in Deutschland nichts mehr im Wege. Das erfahrene Team von ZOV Personal bietet professionelle Unterstützung bei jedem Schritt, von Ihrem Visumantrag bis zum Arbeitsbeginn. Treten Sie mit unserem Arbeitgeber-Partnernetzwerk und unserer fachkundigen Beratung selbstbewusst in Ihr Berufsleben in Deutschland ein."
+      },
+      "cta": {
+        "ready": "Sind Sie bereit, Ihre Reise nach Deutschland zu beginnen?",
+        "contact": "Kontaktieren Sie ZOV Personal jetzt, um Ihren Visumsprozess zu starten und Ihre Karriere in Deutschland zu planen!"
+      }
+    },
     "slugPages": {
       "employeeIntegration": {
         "title": "Mitarbeiterintegrationsprozesse",
@@ -945,8 +971,7 @@
         "section2": {
           "title": "Vorteile",
           "content": "Wir optimieren Ihren Prozess mit kurzen Wartezeiten, Prioritätsbearbeitung und spezieller Beraterbetreuung."
-        },
-        "benefits": "2-3 Wochen Prozess, Prioritätsbearbeitung und garantiertes Ergebnis"
+        }
       },
       "recruitment": {
         "title": "Internationale Rekrutierungsdienstleistungen",

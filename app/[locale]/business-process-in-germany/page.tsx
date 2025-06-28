@@ -3,14 +3,12 @@ import React from 'react'
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowRight, CheckCircle, Users, FileText, Briefcase, Globe, Hammer, UtensilsCrossed, Wrench, Car } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { useRouter } from "next/navigation";
 import Link from "next/link";
-import Image from 'next/image';
 
 const BusinessProcessInGermany = () => {
-  const t = useTranslations();
+  const t = useTranslations('businessProcess');
+  const tProfession = useTranslations('professionProcess');
  
-const router = useRouter();
 const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 'de'
   return (  
     <div className=''>
@@ -20,7 +18,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
       <div className="container  mx-auto px-4">
       <div className="relative h-[300px] md:h-[400px] lg:h-[500px] w-full overflow-hidden rounded-2xl lg:rounded-3xl shadow-lg">
                 <img 
-                  alt="Vize danışmanlığı hizmetleri" 
+                  alt={t('entryGuide.imageAlt')}
                   className="w-full h-full object-cover object-center" 
                   src="/almanya-yapboz.png" 
                 />
@@ -31,108 +29,49 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
             <div className=" dark:bg-gray-800 rounded-lg p-8 shadow-sm ">
 
               <h2 className="text-3xl font-semibold mb-6 text-gray-900 dark:text-white">
-              Almanya'ya Giriş Rehberi
+              {t('entryGuide.title')}
               </h2>
               
               <div className="space-y-6">
                 <div>
                   <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  1. Hazırlık ve Bilgi Toplama
+                  {t('entryGuide.preparation.title')}
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  ZOV Personal olarak, Almanya'ya girmeden önce gereklilikler ve gerekli adımlar hakkında kapsamlı danışmanlık sağlıyoruz. Uzman ekibimiz, vize seçeneklerine ve ilgili ön koşullara dair detaylı bilgi sunar ve kişiselleştirilmiş rehberlik hizmeti verir.
+                  {t('entryGuide.preparation.content')}
                   </p>
                 </div>
 
                 <div>
                   <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  2. Doğru Vize Seçimi ve Başvuru Süreci
+                  {t('entryGuide.partnership.title')}
                   </h3>
                   <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  Mesleki yeterliliklerinize ve planlanan faaliyetinize göre en uygun vizeyi belirliyoruz. ZOV Personal'ın deneyimli danışmanları, aşağıdaki vize türleri konusunda uzman rehberlik sağlar:
+                  {t('entryGuide.partnership.content')}
                   </p>
                   <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 mb-4 ml-4">
-                    <li><strong>AB Mavi Kart:</strong> Üniversite mezunu ve belirli bir asgari ücrete sahip, yüksek nitelikli profesyoneller için</li>
-                    <li><strong>Kalifiye İşçi Vizesi:</strong> Almanya'da eğitimi tanınmış kalifiye uzmanlar için</li>
-                    <li><strong>İş Arama Vizesi:</strong> Almanya'ya gelip yerel olarak iş aramak isteyen vasıflı işçiler için</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  3. Belge Hazırlama ve Değerlendirme
-                  </h3>
-                  <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  ZOV Personal'ın dokümantasyon uzmanları, vize başvurunuz için gerekli tüm belgelerin eksiksiz hazırlanmasını sağlar:
-                  </p>
-                  <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 mb-4 ml-4">
-                    <li>Geçerli pasaport kontrolü ve gereklilik analizi</li>
-                    <li>Vize başvuru formunun profesyonel hazırlanması</li>
-                    <li>Biyometrik fotoğraf standartlarına uygunluk kontrolü</li>
-                    <li>Mesleki yeterliliklerin belgelendirilmesi ve çevirisi</li>
-                    <li>İş teklifi ve sözleşme düzenlemeleri</li>
-                    <li>Mali durumun belgelendirilmesi</li>
-                    <li>Sağlık sigortası koordinasyonu</li>
-                    <li>Gerekli dil seviyesi sertifikasyonu</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  4. İşveren Ortaklığı ve İş Bulma Desteği
-                  </h3>
-                  <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  ZOV Personal'ın geniş işveren ağı sayesinde, Almanya'daki güvenilir şirketlerle doğrudan bağlantı kuruyoruz. İşveren ortaklık programımız kapsamında:
-                  </p>
-                  <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 mb-4 ml-4">
-                    <li>Niteliklerinize uygun iş pozisyonları bulma</li>
-                    <li>İş sözleşmesi müzakereleri</li>
-                    <li>İşveren ile vize süreci koordinasyonu</li>
-                    <li>Çalışma izni prosedürlerinin yönetimi</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  5. Elçilik İşlemleri ve Randevu Yönetimi
-                  </h3>
-                  <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  ZOV Personal, Alman elçiliği ve konsolosluklarındaki tüm işlemlerinizi koordine eder. Size en yakın yetkili makamı belirleyerek randevu süreçlerini yönetir ve başvuru sürecinizi takip ederiz.
-                  </p>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                  6. Almanya'ya Varış ve Entegrasyon Desteği
-                  </h3>
-                  <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  Vize onayından sonra Almanya'ya varışınızda da yanınızdayız:
-                  </p>
-                  <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 mb-4 ml-4">
-                    <li>İkamet kayıt işlemlerinin tamamlanması</li>
-                    <li>Oturma izni başvuru sürecinin yönetimi</li>
-                    <li>Banka hesabı açma desteği</li>
-                    <li>Sağlık sigortası düzenlemeleri</li>
-                    <li>Konut bulma yardımı</li>
-                    <li>İlk iş günü adaptasyon desteği</li>
+                    <li>{t('entryGuide.partnership.items.0')}</li>
+                    <li>{t('entryGuide.partnership.items.1')}</li>
+                    <li>{t('entryGuide.partnership.items.2')}</li>
+                    <li>{t('entryGuide.partnership.items.3')}</li>
                   </ul>
                 </div>
 
                 <div className="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6 mt-6">
                   <h4 className="text-lg font-semibold mb-3 text-blue-900 dark:text-blue-100">
-                  ZOV Personal Avantajı
+                  {t('entryGuide.advantage.title')}
                   </h4>
                   <p className="text-blue-800 dark:text-blue-200 leading-relaxed">
-                  Kapsamlı hazırlık süreciyle Almanya'daki başarılı başlangıcınızın önünde hiçbir engel kalmaz. ZOV Personal'ın deneyimli ekibi, vize başvurunuzdan işe başlamanıza kadar her adımda profesyonel destek sağlar. İşveren ortaklık ağımız ve uzman danışmanlığımızla Almanya'daki profesyonel hayatınıza güvenle adım atın.
+                  {t('entryGuide.advantage.content')}
                   </p>
                 </div>
 
                 <div className="text-center mt-8">
                   <p className="text-lg font-medium text-gray-900 dark:text-white mb-4">
-                  Almanya yolculuğunuza başlamaya hazır mısınız?
+                  {t('entryGuide.cta.ready')}
                   </p>
                   <p className="text-gray-700 dark:text-gray-300">
-                  ZOV Personal ile vize sürecinizi başlatmak ve Almanya'daki kariyerinizi planlamak için hemen iletişime geçin!
+                  {t('entryGuide.cta.contact')}
                   </p>
                 </div>
               </div>
@@ -145,9 +84,9 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
       <section className="py-22 container mx-auto px-4">
       <div className="container ">
         <div className="mx-auto max-w-3xl text-center">
-          <div className="text-xs text-muted-foreground md:text-sm">{t('professionProcess.architectureSection.subtitle')}</div>
-          <h2 className="mt-4 mb-8 text-4xl font-semibold text-pretty md:text-6xl">{t('professionProcess.architectureSection.title')}</h2>
-          <p className="text-base text-muted-foreground md:text-lg">{t('professionProcess.architectureSection.description')}</p>
+          <div className="text-xs text-muted-foreground md:text-sm">{tProfession('architectureSection.subtitle')}</div>
+          <h2 className="mt-4 mb-8 text-4xl font-semibold text-pretty md:text-6xl">{tProfession('architectureSection.title')}</h2>
+          <p className="text-base text-muted-foreground md:text-lg">{tProfession('architectureSection.description')}</p>
         </div>
         <div className="mt-8 grid gap-4 lg:grid-cols-3">
           <Link href={`/${locale}/business-process-in-germany/employee-integration`} className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5 lg:col-span-2">
@@ -166,11 +105,11 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                 </svg>
               </span>
               <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.integration.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.integration.description')}</p>
+                <h3 className="font-medium text-background">{tProfession('architectureSection.cards.integration.title')}</h3>
+                <p className="mt-2 text-background/70">{tProfession('architectureSection.cards.integration.description')}</p>
                 <Button variant="secondary" size="sm" className="mt-3 text-xs">
                   <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
+                    {tProfession('architectureSection.learnMore')}
                     <ArrowRight className="w-3 h-3" />
                   </span>
                 </Button>
@@ -192,11 +131,11 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                 </svg>
               </span>
               <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.experiencedVisa.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.experiencedVisa.description')}</p>
+                <h3 className="font-medium text-background">{tProfession('architectureSection.cards.experiencedVisa.title')}</h3>
+                <p className="mt-2 text-background/70">{tProfession('architectureSection.cards.experiencedVisa.description')}</p>
                 <Button variant="secondary" size="sm" className="mt-3 text-xs">
                   <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
+                    {tProfession('architectureSection.learnMore')}
                     <ArrowRight className="w-3 h-3" />
                   </span>
                 </Button>
@@ -216,11 +155,11 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                 </svg>
               </span>
               <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.acceleratedProcedures.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.acceleratedProcedures.description')}</p>
+                <h3 className="font-medium text-background">{tProfession('architectureSection.cards.acceleratedProcedures.title')}</h3>
+                <p className="mt-2 text-background/70">{tProfession('architectureSection.cards.acceleratedProcedures.description')}</p>
                 <Button variant="secondary" size="sm" className="mt-3 text-xs">
                   <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
+                    {tProfession('architectureSection.learnMore')}
                     <ArrowRight className="w-3 h-3" />
                   </span>
                 </Button>
@@ -238,11 +177,11 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                 </svg>
               </span>
               <div>
-                <h3 className="font-medium text-background">{t('professionProcess.architectureSection.cards.recruitment.title')}</h3>
-                <p className="mt-2 text-background/70">{t('professionProcess.architectureSection.cards.recruitment.description')}</p>
+                <h3 className="font-medium text-background">{tProfession('architectureSection.cards.recruitment.title')}</h3>
+                <p className="mt-2 text-background/70">{tProfession('architectureSection.cards.recruitment.description')}</p>
                 <Button variant="secondary" size="sm" className="mt-3 text-xs">
                   <span className="flex items-center gap-1">
-                    {t('professionProcess.architectureSection.learnMore')}
+                    {tProfession('architectureSection.learnMore')}
                     <ArrowRight className="w-3 h-3" />
                   </span>
                 </Button>

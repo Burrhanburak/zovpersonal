@@ -47,7 +47,7 @@ const IndustriesCarousel = () => {
 
   return (
     <section className="overflow-hidden py-20">
-      <div className="container mx-auto">
+      <div className="container mx-auto px-4 md:px-8">
         <div className="relative" role="region" aria-roledescription="carousel" data-slot="carousel">
           <div className="grid gap-8 md:gap-4 lg:grid-cols-2 [&>div[data-slot=carousel-content]]:overflow-visible [&>div[data-slot=carousel-content]]:[clip-path:inset(-100vw_-100vw_-100vw_0)]">
             <div>

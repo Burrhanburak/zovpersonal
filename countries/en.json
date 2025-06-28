@@ -945,6 +945,32 @@
     }
   },
   "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Visa consultancy services",
+      "title": "Entry Guide to Germany",
+      "preparation": {
+        "title": "1. Preparation and Information Gathering",
+        "content": "As ZOV Personal, we provide comprehensive consultancy on the requirements and necessary steps before entering Germany. Our expert team offers detailed information on visa options and related prerequisites, providing personalized guidance."
+      },
+      "partnership": {
+        "title": "2. Employer Partnership and Job-Finding Support",
+        "content": "Thanks to ZOV Personal's extensive employer network, we establish direct connections with reliable companies in Germany. Within our employer partnership program, we cover:",
+        "items": [
+          "Finding job positions suitable for your qualifications",
+          "Job contract negotiations",
+          "Coordination of the visa process with the employer",
+          "Management of work permit procedures"
+        ]
+      },
+      "advantage": {
+        "title": "The ZOV Personal Advantage",
+        "content": "With a comprehensive preparation process, there are no obstacles to your successful start in Germany. ZOV Personal's experienced team provides professional support at every step, from your visa application to starting your job. Step confidently into your professional life in Germany with our employer partnership network and expert consultancy."
+      },
+      "cta": {
+        "ready": "Are you ready to start your journey to Germany?",
+        "contact": "Contact ZOV Personal now to start your visa process and plan your career in Germany!"
+      }
+    },
     "slugPages": {
       "employeeIntegration": {
         "title": "Employee Integration Processes",
@@ -984,9 +1010,8 @@
         },
         "section2": {
           "title": "Advantages",
-          "content": "We optimize your process with short waiting times, priority processing, and dedicated consultant assignment."
-        },
-        "benefits": "2-3 weeks process, priority processing, and guaranteed results"
+          "content": "We optimize your process with short waiting times, priority processing, and special consultant appointments."
+        }
       },
       "recruitment": {
         "title": "International Recruitment Services",
@@ -999,8 +1024,7 @@
         "section2": {
           "title": "Process Management",
           "content": "We manage the entire recruitment process including candidate sourcing, evaluation, visa processes, and job placement."
-        },
-        "benefits": "Large candidate pool, quality matching, and process guarantee"
+        }
       }
     },
     "common": {
@@ -1111,7 +1135,7 @@
       ]
     },
     "trends": {
-      "title": "2025 Workforce Trends",
+      "title": "Workforce Trends",
       "subtitle": "Future-Predicting Strategies",
       "items": [
         {

@@ -106,8 +106,8 @@ export default async function JobSeekerPage({ params }: { params: Promise<{ loca
       </section>
 
       {/* Process Section */}
-      <section className="py-20 bg-gray-50 rounded-2xl p-20 my-10 mx-3  ">
-        <div className="max-w-[1200px] mx-auto px-4 md:px-8">
+      <section className="py-20 bg-gray-50 rounded-2xl  my-10 mx-3  ">
+        <div className="max-w-[1200px] mx-auto  md:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
               {t("jobSeeker.process.title")}

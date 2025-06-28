@@ -839,7 +839,7 @@
       ]
     },
     "trends": {
-      "title": "2025 Arbeidsmarkttrends",
+      "title": "Arbeidsmarkttrends",
       "subtitle": "Toekomstvoorspellende Strategieën",
       "items": [
         {
@@ -1076,9 +1076,35 @@
     }
   },
   "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Visumadviesdiensten",
+      "title": "Gids voor toegang tot Duitsland",
+      "preparation": {
+        "title": "1. Voorbereiding en informatieverzameling",
+        "content": "Als ZOV Personal bieden wij uitgebreid advies over de vereisten en noodzakelijke stappen voordat u Duitsland binnenkomt. Ons deskundige team biedt gedetailleerde informatie over visumopties en gerelateerde voorwaarden, en biedt persoonlijke begeleiding."
+      },
+      "partnership": {
+        "title": "2. Werkgeverspartnerschap en ondersteuning bij het vinden van een baan",
+        "content": "Dankzij het uitgebreide werkgeversnetwerk van ZOV Personal leggen wij directe contacten met betrouwbare bedrijven in Duitsland. Binnen ons werkgeverspartnerschapsprogramma behandelen wij:",
+        "items": [
+          "Het vinden van functies die passen bij uw kwalificaties",
+          "Onderhandelingen over arbeidsovereenkomsten",
+          "Coördinatie van het visumproces met de werkgever",
+          "Beheer van de procedures voor een werkvergunning"
+        ]
+      },
+      "advantage": {
+        "title": "Het ZOV Personal Voordeel",
+        "content": "Met een uitgebreid voorbereidingsproces zijn er geen belemmeringen voor uw succesvolle start in Duitsland. Het ervaren team van ZOV Personal biedt professionele ondersteuning bij elke stap, van uw visumaanvraag tot het starten van uw baan. Stap vol vertrouwen uw professionele leven in Duitsland binnen met ons werkgeverspartnerschapsnetwerk en deskundig advies."
+      },
+      "cta": {
+        "ready": "Bent u klaar om uw reis naar Duitsland te beginnen?",
+        "contact": "Neem nu contact op met ZOV Personal om uw visumproces te starten en uw carrière in Duitsland te plannen!"
+      }
+    },
     "slugPages": {
       "employeeIntegration": {
-        "title": "Werknemersintegratieprocessen",
+        "title": "Integratieprocessen voor werknemers",
         "subtitle": "Uitgebreide ondersteuning voor succesvolle integratie in Duitsland",
         "description": "We bieden speciaal ontworpen integratieprogramma's voor internationale werknemers om succesvol te integreren in Duitsland.",
         "section1": {

@@ -501,7 +501,7 @@
       ]
     },
     "trends": {
-      "title": "Trendovi radne snage 2025.",
+      "title": "Trendovi radne snage",
       "subtitle": "Strategije koje predviđaju budućnost",
       "items": [
         {
@@ -738,11 +738,37 @@
     }
   },
   "businessProcess": {
+    "entryGuide": {
+      "imageAlt": "Usluge savjetovanja za vize",
+      "title": "Vodič za ulazak u Njemačku",
+      "preparation": {
+        "title": "1. Priprema i prikupljanje informacija",
+        "content": "Kao ZOV Personal, pružamo sveobuhvatno savjetovanje o zahtjevima i potrebnim koracima prije ulaska u Njemačku. Naš stručni tim nudi detaljne informacije o opcijama viza i povezanim preduvjetima, pružajući personalizirane smjernice."
+      },
+      "partnership": {
+        "title": "2. Partnerstvo s poslodavcima i podrška pri pronalaženju posla",
+        "content": "Zahvaljujući širokoj mreži poslodavaca ZOV Personala, uspostavljamo izravne veze s pouzdanim tvrtkama u Njemačkoj. U sklopu našeg programa partnerstva s poslodavcima pokrivamo:",
+        "items": [
+          "Pronalaženje radnih mjesta prikladnih za vaše kvalifikacije",
+          "Pregovori o ugovoru o radu",
+          "Koordinacija procesa vize s poslodavcem",
+          "Upravljanje postupcima za radnu dozvolu"
+        ]
+      },
+      "advantage": {
+        "title": "Prednost ZOV Personala",
+        "content": "Sveobuhvatnim postupkom pripreme nema prepreka za vaš uspješan početak u Njemačkoj. Iskusni tim ZOV Personala pruža stručnu podršku na svakom koraku, od vaše prijave za vizu do početka rada. Zakoračite samouvjereno u svoj profesionalni život u Njemačkoj uz našu partnersku mrežu poslodavaca i stručno savjetovanje."
+      },
+      "cta": {
+        "ready": "Jeste li spremni započeti svoje putovanje u Njemačku?",
+        "contact": "Kontaktirajte ZOV Personal sada kako biste započeli proces vize i planirali svoju karijeru u Njemačkoj!"
+      }
+    },
     "slugPages": {
       "employeeIntegration": {
         "title": "Procesi integracije zaposlenika",
         "subtitle": "Sveobuhvatna podrška za uspješnu integraciju u Njemačkoj",
-        "description": "Nudimo posebno dizajnirane integracijske programe za međunarodne zaposlenike kako bi se uspješno integrirali u Njemačku.",
+        "description": "Nudimo posebno dizajnirane integracijske programe za međunarodne zaposlenike kako bi se uspješno integrirali u Njemačkoj.",
         "section1": {
           "title": "Integracija zaposlenika",
           "content": "Nakon što međunarodni zaposlenici uspješno stignu u Njemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se novi zaposlenici osjećali ugodno u svom novom okruženju, već i da bi se osigurala dugoročna predanost tvrtki. Tvrtke mogu dati značajan doprinos ciljanim mjerama usmjerenim na osiguravanje glatkog početka za nove stručnjake."
@@ -777,9 +803,8 @@
         },
         "section2": {
           "title": "Prednosti",
-          "content": "Optimiziramo vaš proces s kratkim vremenima čekanja, prioritetnom obradom i dodjelom namjenskog savjetnika."
-        },
-        "benefits": "Proces od 2-3 tjedna, prioritetna obrada i zajamčeni rezultati"
+          "content": "Optimiziramo vaš proces kratkim vremenima čekanja, prioritetnom obradom i imenovanjem posebnog savjetnika."
+        }
       },
       "recruitment": {
         "title": "Međunarodne usluge zapošljavanja",

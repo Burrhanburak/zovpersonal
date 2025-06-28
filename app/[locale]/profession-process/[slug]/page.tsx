@@ -7,12 +7,12 @@ import { notFound } from 'next/navigation';
 // Profession data mapping
 const professionData = {
   doctor: {
-    title: "Doktorlar için Almanya Ulusal Vizesi",
-    titleEn: "Germany National Visa for Doctors",
-    titleDe: "Deutschland Nationales Visum für Ärzte",
-    description: "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı vize rehberliği ve süreç yönetimi sunuyoruz.",
-    descriptionEn: "Comprehensive visa guidance and process management for medical graduates who want to work as doctors in Germany.",
-    descriptionDe: "Umfassende Visa-Beratung und Prozessmanagement für Medizinabsolventen, die als Ärzte in Deutschland arbeiten möchten.",
+    title: "Doktorlar için Almanya Süreci",
+    titleEn: "Germany Process for Doctors",
+    titleDe: "Deutschland Prozess für Ärzte",
+    description: "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı süreç rehberliği ve yönetimi sunuyoruz.",
+    descriptionEn: "Comprehensive process guidance and management for medical graduates who want to work as doctors in Germany.",
+    descriptionDe: "Umfassende Prozessberatung und -management für Medizinabsolventen, die als Ärzte in Deutschland arbeiten möchten.",
     image: "/doctor.png",
     author: "Dr. Busra Oz",
     authorEn: "Dr. Busra Oz",
@@ -22,12 +22,12 @@ const professionData = {
     dateDe: "vor 2 Tagen"
   },
   nurse: {
-    title: "Hemşirelik Vizesi",
-    titleEn: "Nursing Visa",
-    titleDe: "Pflegevisa",
-    description: "Almanya'da hemşire olarak çalışmak isteyen profesyoneller için kapsamlı vize rehberliği ve süreç yönetimi sunuyoruz.",
-    descriptionEn: "Comprehensive visa guidance and process management for professionals who want to work as nurses in Germany.",
-    descriptionDe: "Umfassende Visa-Beratung und Prozessmanagement für Fachkräfte, die als Krankenschwestern in Deutschland arbeiten möchten.",
+    title: "Hemşirelik Süreci",
+    titleEn: "Nursing Process",
+    titleDe: "Pflegeprozess",
+    description: "Almanya'da hemşire olarak çalışmak isteyen profesyoneller için kapsamlı süreç rehberliği ve yönetimi sunuyoruz.",
+    descriptionEn: "Comprehensive process guidance and management for professionals who want to work as nurses in Germany.",
+    descriptionDe: "Umfassende Prozessberatung und -management für Fachkräfte, die als Krankenschwestern in Deutschland arbeiten möchten.",
     image: "/nurse.png",
     author: "Hemşire Ayşe Yılmaz",
     authorEn: "Nurse Ayşe Yılmaz",
@@ -37,12 +37,12 @@ const professionData = {
     dateDe: "vor 3 Tagen"
   },
   caregiver: {
-    title: "Bakıcılar ve Yaşlı Bakım Uzmanları",
-    titleEn: "Caregivers and Elderly Care Specialists",
-    titleDe: "Betreuer und Altenpflege-Spezialisten",
-    description: "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı vize danışmanlığı.",
-    descriptionEn: "Comprehensive visa consultancy for professionals who want to work in the elderly care sector.",
-    descriptionDe: "Umfassende Visa-Beratung für Fachkräfte, die im Altenpflegebereich arbeiten möchten.",
+    title: "Bakıcılar ve Yaşlı Bakım Uzmanları Süreci",
+    titleEn: "Caregivers and Elderly Care Specialists Process",
+    titleDe: "Prozess für Betreuer und Altenpflege-Spezialisten",
+    description: "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı süreç danışmanlığı.",
+    descriptionEn: "Comprehensive process consultancy for professionals who want to work in the elderly care sector.",
+    descriptionDe: "Umfassende Prozessberatung für Fachkräfte, die im Altenpflegebereich arbeiten möchten.",
     image: "/hastabakıcı.png",
     author: "Bakım Uzmanı Fatma Demir",
     authorEn: "Care Specialist Fatma Demir",
@@ -52,12 +52,12 @@ const professionData = {
     dateDe: "vor 1 Woche"
   },
   "health-technician": {
-    title: "Sağlık Teknisyenleri ve Yardımcı Personel",
-    titleEn: "Health Technicians and Support Staff",
-    titleDe: "Gesundheitstechniker und Hilfspersonal",
-    description: "Tıbbi teknisyen, laboratuvar uzmanı ve diğer sağlık yardımcı personeli için Almanya vize süreçleri.",
-    descriptionEn: "Germany visa processes for medical technicians, laboratory specialists and other health auxiliary personnel.",
-    descriptionDe: "Deutschland-Visaverfahren für Medizintechniker, Laborspezialisten und anderes Gesundheitshilfspersonal.",
+    title: "Sağlık Teknisyenleri ve Yardımcı Personel Süreci",
+    titleEn: "Health Technicians and Support Staff Process",
+    titleDe: "Prozess für Gesundheitstechniker und Hilfspersonal",
+    description: "Tıbbi teknisyen, laboratuvar uzmanı ve diğer sağlık yardımcı personeli için Almanya süreçleri.",
+    descriptionEn: "Germany processes for medical technicians, laboratory specialists and other health auxiliary personnel.",
+    descriptionDe: "Deutschland-Prozesse für Medizintechniker, Laborspezialisten und anderes Gesundheitshilfspersonal.",
     image: "/saglıkteknik.webp",
     author: "Lab Uzmanı Ali Kaya",
     authorEn: "Lab Specialist Ali Kaya",
@@ -67,9 +67,9 @@ const professionData = {
     dateDe: "vor 5 Tagen"
   },
   therapist: {
-    title: "Sağlık Uzmanları ve Terapistler",
-    titleEn: "Health Specialists and Therapists",
-    titleDe: "Gesundheitsspezialisten und Therapeuten",
+    title: "Sağlık Uzmanları ve Terapistler Süreci",
+    titleEn: "Health Specialists and Therapists Process",
+    titleDe: "Prozess für Gesundheitsspezialisten und Therapeuten",
     description: "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları.",
     descriptionEn: "Work opportunities in Germany for physiotherapists, psychologists, dietitians and other health specialists.",
     descriptionDe: "Arbeitsmöglichkeiten in Deutschland für Physiotherapeuten, Psychologen, Ernährungsberater und andere Gesundheitsspezialisten.",
@@ -82,9 +82,9 @@ const professionData = {
     dateDe: "vor 4 Tagen"
   },
   "health-expert": {
-    title: "Sağlık Uzmanları ve Terapistler",
-    titleEn: "Health Specialists and Therapists",
-    titleDe: "Gesundheitsspezialisten und Therapeuten",
+    title: "Sağlık Uzmanları ve Terapistler Süreci",
+    titleEn: "Health Specialists and Therapists Process",
+    titleDe: "Prozess für Gesundheitsspezialisten und Therapeuten",
     description: "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları.",
     descriptionEn: "Work opportunities in Germany for physiotherapists, psychologists, dietitians and other health specialists.",
     descriptionDe: "Arbeitsmöglichkeiten in Deutschland für Physiotherapeuten, Psychologen, Ernährungsberater und andere Gesundheitsspezialisten.",
@@ -98,12 +98,12 @@ const professionData = {
   },
   // Yeni Meslek Kategorileri
   construction: {
-    title: "İnşaat ve Yapı Sektörü Uzmanları",
-    titleEn: "Construction and Building Industry Specialists",
-    titleDe: "Bau- und Bauwirtschaftsspezialisten",
-    description: "İnşaat sektöründe çalışmak isteyen usta, tekniker ve mühendisler için kapsamlı vize rehberliği.",
-    descriptionEn: "Comprehensive visa guidance for masters, technicians and engineers who want to work in the construction sector.",
-    descriptionDe: "Umfassende Visa-Beratung für Meister, Techniker und Ingenieure, die im Bausektor arbeiten möchten.",
+    title: "İnşaat ve Yapı Sektörü Uzmanları Süreci",
+    titleEn: "Construction and Building Industry Specialists Process",
+    titleDe: "Prozess für Bau- und Bauwirtschaftsspezialisten",
+    description: "İnşaat sektöründe çalışmak isteyen usta, tekniker ve mühendisler için kapsamlı süreç rehberliği.",
+    descriptionEn: "Comprehensive process guidance for masters, technicians and engineers who want to work in the construction sector.",
+    descriptionDe: "Umfassende Prozessberatung für Meister, Techniker und Ingenieure, die im Bausektor arbeiten möchten.",
     image: "/insaat.png",
     author: "İnş. Müh. Mehmet Çelik",
     authorEn: "Civil Eng. Mehmet Çelik",
@@ -113,12 +113,12 @@ const professionData = {
     dateDe: "vor 1 Tag"
   },
   hospitality: {
-    title: "Otelcilik ve Turizm Sektörü",
-    titleEn: "Hotel and Tourism Industry",
-    titleDe: "Hotel- und Tourismusbranche",
-    description: "Otel, restoran ve turizm sektöründe çalışmak isteyen profesyoneller için vize danışmanlığı.",
-    descriptionEn: "Visa consultancy for professionals who want to work in the hotel, restaurant and tourism sector.",
-    descriptionDe: "Visa-Beratung für Fachkräfte, die im Hotel-, Restaurant- und Tourismussektor arbeiten möchten.",
+    title: "Otelcilik ve Turizm Sektörü Süreci",
+    titleEn: "Hotel and Tourism Industry Process",
+    titleDe: "Prozess für Hotel- und Tourismusbranche",
+    description: "Otel, restoran ve turizm sektöründe çalışmak isteyen profesyoneller için süreç danışmanlığı.",
+    descriptionEn: "Process consultancy for professionals who want to work in the hotel, restaurant and tourism sector.",
+    descriptionDe: "Prozessberatung für Fachkräfte, die im Hotel-, Restaurant- und Tourismussektor arbeiten möchten.",
     image: "/ekip.png",
     author: "Otel Uzmanı Ayşen Yıldız",
     authorEn: "Hotel Specialist Ayşen Yıldız",
@@ -128,12 +128,12 @@ const professionData = {
     dateDe: "vor 3 Tagen"
   },
   logistics: {
-    title: "Lojistik ve Ulaştırma Sektörü",
-    titleEn: "Logistics and Transportation Industry",
-    titleDe: "Logistik- und Transportbranche",
-    description: "Lojistik, kargo ve ulaştırma sektöründe çalışmak isteyen profesyoneller için vize süreçleri.",
-    descriptionEn: "Visa processes for professionals who want to work in logistics, cargo and transportation sector.",
-    descriptionDe: "Visa-Verfahren für Fachkräfte, die im Logistik-, Fracht- und Transportsektor arbeiten möchten.",
+    title: "Lojistik ve Ulaştırma Sektörü Süreci",
+    titleEn: "Logistics and Transportation Industry Process",
+    titleDe: "Prozess für Logistik- und Transportbranche",
+    description: "Lojistik, kargo ve ulaştırma sektöründe çalışmak isteyen profesyoneller için süreçler.",
+    descriptionEn: "Processes for professionals who want to work in logistics, cargo and transportation sector.",
+    descriptionDe: "Verfahren für Fachkräfte, die im Logistik-, Fracht- und Transportsektor arbeiten möchten.",
     image: "/almanya.png",
     author: "Lojistik Uzmanı Kemal Arslan",
     authorEn: "Logistics Specialist Kemal Arslan",
@@ -143,12 +143,12 @@ const professionData = {
     dateDe: "vor 2 Tagen"
   },
   cleaning: {
-    title: "Temizlik ve Bakım Hizmetleri",
-    titleEn: "Cleaning and Maintenance Services",
-    titleDe: "Reinigungs- und Wartungsdienste",
-    description: "Temizlik, bahçıvanlık ve bakım hizmetleri sektöründe çalışmak isteyenler için vize rehberliği.",
-    descriptionEn: "Visa guidance for those who want to work in cleaning, gardening and maintenance services sector.",
-    descriptionDe: "Visa-Beratung für diejenigen, die im Bereich Reinigung, Gartenbau und Wartungsdienste arbeiten möchten.",
+    title: "Temizlik ve Bakım Hizmetleri Süreci",
+    titleEn: "Cleaning and Maintenance Services Process",
+    titleDe: "Prozess für Reinigungs- und Wartungsdienste",
+    description: "Temizlik, bahçıvanlık ve bakım hizmetleri sektöründe çalışmak isteyenler için süreç rehberliği.",
+    descriptionEn: "Process guidance for those who want to work in cleaning, gardening and maintenance services sector.",
+    descriptionDe: "Prozessberatung für diejenigen, die im Bereich Reinigung, Gartenbau und Wartungsdienste arbeiten möchten.",
     image: "/zovpersonal.png",
     author: "Hizmet Uzmanı Emine Kaya",
     authorEn: "Service Specialist Emine Kaya",
@@ -158,12 +158,12 @@ const professionData = {
     dateDe: "vor 4 Tagen"
   },
   office: {
-    title: "Ofis İşleri ve İdari Personel",
-    titleEn: "Office Work and Administrative Staff",
-    titleDe: "Büroarbeit und Verwaltungspersonal",
-    description: "Büro işleri, muhasebe ve idari pozisyonlarda çalışmak isteyen profesyoneller için vize danışmanlığı.",
-    descriptionEn: "Visa consultancy for professionals who want to work in office work, accounting and administrative positions.",
-    descriptionDe: "Visa-Beratung für Fachkräfte, die in Büroarbeit, Buchhaltung und Verwaltungspositionen arbeiten möchten.",
+    title: "Ofis İşleri ve İdari Personel Süreci",
+    titleEn: "Office Work and Administrative Staff Process",
+    titleDe: "Prozess für Büroarbeit und Verwaltungspersonal",
+    description: "Büro işleri, muhasebe ve idari pozisyonlarda çalışmak isteyen profesyoneller için süreç danışmanlığı.",
+    descriptionEn: "Process consultancy for professionals who want to work in office work, accounting and administrative positions.",
+    descriptionDe: "Prozessberatung für Fachkräfte, die in Büroarbeit, Buchhaltung und Verwaltungspositionen arbeiten möchten.",
     image: "/is-alim-onei.png",
     author: "İdari Uzman Selma Öztürk",
     authorEn: "Administrative Specialist Selma Öztürk",
@@ -173,12 +173,12 @@ const professionData = {
     dateDe: "vor 6 Tagen"
   },
   others: {
-    title: "Diğer Meslek Grupları",
-    titleEn: "Other Professional Groups",
-    titleDe: "Andere Berufsgruppen",
-    description: "Listelenmemiş diğer meslek dallarında çalışmak isteyen profesyoneller için özel vize danışmanlığı.",
-    descriptionEn: "Special visa consultancy for professionals who want to work in other unlisted professions.",
-    descriptionDe: "Spezielle Visa-Beratung für Fachkräfte, die in anderen nicht aufgeführten Berufen arbeiten möchten.",
+    title: "Diğer Meslek Grupları Süreci",
+    titleEn: "Other Professional Groups Process",
+    titleDe: "Prozess für Andere Berufsgruppen",
+    description: "Listelenmemiş diğer meslek dallarında çalışmak isteyen profesyoneller için özel süreç danışmanlığı.",
+    descriptionEn: "Special process consultancy for professionals who want to work in other unlisted professions.",
+    descriptionDe: "Spezielle Prozessberatung für Fachkräfte, die in anderen nicht aufgeführten Berufen arbeiten möchten.",
     image: "/zovpersonaltwo.png",
     author: "Genel Uzman Ahmet Şahin",
     authorEn: "General Specialist Ahmet Şahin",
@@ -261,31 +261,31 @@ export default function Page() {
             <section id="section1" className="prose dark:prose-invert my-8">
               <h2 className="text-2xl font-bold mb-4">
                 {slug === 'nurse' 
-                  ? (isTurkish ? 'Hemşirelik Vizesi Nedir?' : isGerman ? 'Was ist ein Pflegevisa?' : 'What is a Nursing Visa?')
+                  ? (isTurkish ? 'Hemşirelik Süreci Nedir?' : isGerman ? 'Was ist ein Pflegeprozess?' : 'What is a Nursing Process?')
                   : slug === 'doctor'
-                  ? (isTurkish ? 'Hekim Vizesi Nedir?' : isGerman ? 'Was ist ein Arztvisa?' : 'What is a Doctor Visa?')
+                  ? (isTurkish ? 'Hekim Süreci Nedir?' : isGerman ? 'Was ist ein Arztprozess?' : 'What is a Doctor Process?')
                   : slug === 'physiotherapist'
-                  ? (isTurkish ? 'Fizyoterapist Vizesi Nedir?' : isGerman ? 'Was ist ein Physiotherapeuten-Visa?' : 'What is a Physiotherapist Visa?')
+                  ? (isTurkish ? 'Fizyoterapist Süreci Nedir?' : isGerman ? 'Was ist ein Physiotherapeuten-Prozess?' : 'What is a Physiotherapist Process?')
                   : slug === 'healthtech'
-                  ? (isTurkish ? 'Sağlık Teknisyeni Vizesi Nedir?' : isGerman ? 'Was ist ein Gesundheitstechniker-Visa?' : 'What is a Health Technician Visa?')
+                  ? (isTurkish ? 'Sağlık Teknisyeni Süreci Nedir?' : isGerman ? 'Was ist ein Gesundheitstechniker-Prozess?' : 'What is a Health Technician Process?')
                   : slug === 'construction'
-                  ? (isTurkish ? 'İnşaat Sektörü Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Bausektor-Arbeitsvisa?' : 'What is a Construction Sector Work Visa?')
+                  ? (isTurkish ? 'İnşaat Sektörü Çalışma Süreci Nedir?' : isGerman ? 'Was ist ein Bausektor-Arbeitsprozess?' : 'What is a Construction Sector Work Process?')
                   : slug === 'caregiver'
-                  ? (isTurkish ? 'Bakıcı Vizesi Nedir?' : isGerman ? 'Was ist ein Betreuervisa?' : 'What is a Caregiver Visa?')
+                  ? (isTurkish ? 'Bakıcı Süreci Nedir?' : isGerman ? 'Was ist ein Betreuervorgang?' : 'What is a Caregiver Process?')
                   : slug === 'health-technician'
-                  ? (isTurkish ? 'Sağlık Teknisyeni Vizesi Nedir?' : isGerman ? 'Was ist ein Gesundheitstechniker-Visa?' : 'What is a Health Technician Visa?')
+                  ? (isTurkish ? 'Sağlık Teknisyeni Süreci Nedir?' : isGerman ? 'Was ist ein Gesundheitstechniker-Prozess?' : 'What is a Health Technician Process?')
                   : (slug === 'therapist' || slug === 'health-expert')
-                  ? (isTurkish ? 'Sağlık Uzmanı Vizesi Nedir?' : isGerman ? 'Was ist ein Gesundheitsspezialist-Visa?' : 'What is a Health Specialist Visa?')
+                  ? (isTurkish ? 'Sağlık Uzmanı Süreci Nedir?' : isGerman ? 'Was ist ein Gesundheitsspezialist-Prozess?' : 'What is a Health Specialist Process?')
                   : slug === 'hospitality'
-                  ? (isTurkish ? 'Otelcilik ve Turizm Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Hotel- und Tourismus-Arbeitsvisa?' : 'What is a Hospitality and Tourism Work Visa?')
+                  ? (isTurkish ? 'Otelcilik ve Turizm Süreci Nedir?' : isGerman ? 'Was ist ein Hotel- und Tourismus-Arbeitsprozess?' : 'What is a Hospitality and Tourism Work Process?')
                   : slug === 'logistics'
-                  ? (isTurkish ? 'Lojistik ve Ulaştırma Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Logistik- und Transport-Arbeitsvisa?' : 'What is a Logistics and Transportation Work Visa?')
+                  ? (isTurkish ? 'Lojistik ve Ulaştırma Süreci Nedir?' : isGerman ? 'Was ist ein Logistik- und Transport-Arbeitsprozess?' : 'What is a Logistics and Transportation Work Process?')
                   : slug === 'cleaning'
-                  ? (isTurkish ? 'Temizlik ve Bakım Hizmetleri Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Reinigungs- und Wartungsdienst-Arbeitsvisa?' : 'What is a Cleaning and Maintenance Services Work Visa?')
+                  ? (isTurkish ? 'Temizlik ve Bakım Hizmetleri Süreci Nedir?' : isGerman ? 'Was ist ein Reinigungs- und Wartungsdienst-Arbeitsprozess?' : 'What is a Cleaning and Maintenance Services Work Process?')
                   : slug === 'office'
-                  ? (isTurkish ? 'Ofis İşleri Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Büroarbeits-Arbeitsvisa?' : 'What is an Office Work Visa?')
+                  ? (isTurkish ? 'Ofis İşleri Çalışma Süreci Nedir?' : isGerman ? 'Was ist ein Büroarbeits-Arbeitsprozess?' : 'What is an Office Work Process?')
                   : slug === 'others'
-                  ? (isTurkish ? 'Diğer Meslek Grupları Çalışma Vizesi Nedir?' : isGerman ? 'Was ist ein Arbeitsvisa für andere Berufsgruppen?' : 'What is a Work Visa for Other Professional Groups?')
+                  ? (isTurkish ? 'Diğer Meslek Grupları Süreci Nedir?' : isGerman ? 'Was ist ein Arbeitsprozess für andere Berufsgruppen?' : 'What is a Work Process for Other Professional Groups?')
                   : (isTurkish ? 'Hizmet Detayları ve Süreç' : isGerman ? 'Service-Details und Prozess' : 'Service Details and Process')
                 }
               </h2>
@@ -294,15 +294,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Hemşirelik vizesi, Almanya\'da çalışmak isteyen hemşirelik alanındaki profesyonellere yöneliktir. Nitelikli hemşirelik personeline olan talep Almanya\'da özellikle yüksektir, bu nedenle yabancı hemşirelik personelinin girişini ve istihdamını kolaylaştırmak için özel düzenlemeler ve basitleştirmeler getirilmiştir.'
+                      ? 'Hemşirelik süreci, Almanya\'da çalışmak isteyen hemşirelik alanındaki profesyonellere yöneliktir. Nitelikli hemşirelik personeline olan talep Almanya\'da özellikle yüksektir, bu nedenle yabancı hemşirelik personelinin girişini ve istihdamını kolaylaştırmak için özel düzenlemeler ve basitleştirmeler getirilmiştir.'
                       : isGerman 
-                      ? 'Das Pflegevisa richtet sich an Fachkräfte im Pflegebereich, die in Deutschland arbeiten möchten. Die Nachfrage nach qualifiziertem Pflegepersonal ist in Deutschland besonders hoch, daher wurden spezielle Regelungen und Vereinfachungen eingeführt, um die Einreise und Beschäftigung ausländischer Pflegekräfte zu erleichtern.'
-                      : 'The nursing visa is aimed at professionals in the nursing field who want to work in Germany. The demand for qualified nursing staff is particularly high in Germany, therefore special regulations and simplifications have been introduced to facilitate the entry and employment of foreign nursing personnel.'
+                      ? 'Das Pflegeprozess richtet sich an Fachkräfte im Pflegebereich, die in Deutschland arbeiten möchten. Die Nachfrage nach qualifiziertem Pflegepersonal ist in Deutschland besonders hoch, daher wurden spezielle Regelungen und Vereinfachungen eingeführt, um die Einreise und Beschäftigung ausländischer Pflegekräfte zu erleichtern.'
+                      : 'The nursing process is aimed at professionals in the nursing field who want to work in Germany. The demand for qualified nursing staff is particularly high in Germany, therefore special regulations and simplifications have been introduced to facilitate the entry and employment of foreign nursing personnel.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Hemşirelik Vizesinin Faydaları' : isGerman ? 'Vorteile des Pflegevisas' : 'Benefits of the Nursing Visa'}
+                    {isTurkish ? 'Hemşirelik Sürecinin Faydaları' : isGerman ? 'Vorteile des Pflegeprozesses' : 'Benefits of the Nursing Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -339,15 +339,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Hekim vizesi, Almanya\'da doktor olarak çalışmak isteyen tıp fakültesi mezunları için özel olarak tasarlanmıştır. Almanya\'da doktor açığı nedeniyle, yabancı hekimlerin girişini ve istihdamını kolaylaştıran özel düzenlemeler bulunmaktadır.'
+                      ? 'Hekim süreci, Almanya\'da doktor olarak çalışmak isteyen tıp fakültesi mezunları için özel olarak tasarlanmıştır. Almanya\'da doktor açığı nedeniyle, yabancı hekimlerin girişini ve istihdamını kolaylaştıran özel düzenlemeler bulunmaktadır.'
                       : isGerman 
-                      ? 'Das Arztvisa ist speziell für Medizinabsolventen gedacht, die als Ärzte in Deutschland arbeiten möchten. Aufgrund des Ärztemangels in Deutschland gibt es spezielle Regelungen, die die Einreise und Beschäftigung ausländischer Ärzte erleichtern.'
-                      : 'The doctor visa is specially designed for medical school graduates who want to work as doctors in Germany. Due to the shortage of doctors in Germany, there are special regulations that facilitate the entry and employment of foreign doctors.'
+                      ? 'Das Arztprozess ist speziell für Medizinabsolventen gedacht, die als Ärzte in Deutschland arbeiten möchten. Aufgrund des Ärztemangels in Deutschland gibt es spezielle Regelungen, die die Einreise und Beschäftigung ausländischer Ärzte erleichtern.'
+                      : 'The doctor process is specially designed for medical school graduates who want to work as doctors in Germany. Due to the shortage of doctors in Germany, there are special regulations that facilitate the entry and employment of foreign doctors.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Hekim Vizesinin Faydaları' : isGerman ? 'Vorteile des Arztvisas' : 'Benefits of the Doctor Visa'}
+                    {isTurkish ? 'Hekim Sürecinin Faydaları' : isGerman ? 'Vorteile des Arztprozesses' : 'Benefits of the Doctor Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -384,15 +384,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'İnşaat sektörü çalışma vizesi, Almanya\'da inşaat sektöründe çalışmak isteyen usta, tekniker, mimar ve mühendisler için özel olarak tasarlanmıştır. Almanya\'da inşaat sektöründe nitelikli işgücüne olan yüksek talep, yabancı uzmanların bu sektöre girişini kolaylaştıran özel düzenlemeleri beraberinde getirmiştir.'
+                      ? 'İnşaat sektöründe çalışma süreci, Almanya\'da inşaat sektöründe çalışmak isteyen usta, tekniker, mimar ve mühendisler için özel olarak tasarlanmıştır. Almanya\'da inşaat sektöründe nitelikli işgücüne olan yüksek talep, yabancı uzmanların bu sektöre girişini kolaylaştıran özel düzenlemeleri beraberinde getirmiştir.'
                       : isGerman 
-                      ? 'Das Bausektor-Arbeitsvisa ist speziell für Meister, Techniker, Architekten und Ingenieure gedacht, die in der deutschen Baubranche arbeiten möchten. Die hohe Nachfrage nach qualifizierten Arbeitskräften im deutschen Bausektor hat spezielle Regelungen mit sich gebracht, die den Eintritt ausländischer Experten in diesen Sektor erleichtern.'
-                      : 'The construction sector work visa is specially designed for masters, technicians, architects and engineers who want to work in the German construction sector. The high demand for qualified labor in the German construction sector has brought about special regulations that facilitate the entry of foreign experts into this sector.'
+                      ? 'Das Bausektor-Arbeitsprozess ist speziell für Meister, Techniker, Architekten und Ingenieure gedacht, die in der deutschen Baubranche arbeiten möchten. Die hohe Nachfrage nach qualifizierten Arbeitskräften im deutschen Bausektor hat spezielle Regelungen mit sich gebracht, die den Eintritt ausländischer Experten in diesen Sektor erleichtern.'
+                      : 'The construction sector work process is specially designed for masters, technicians, architects and engineers who want to work in the German construction sector. The high demand for qualified labor in the German construction sector has brought about special regulations that facilitate the entry of foreign experts into this sector.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'İnşaat Sektörü Çalışma Vizesinin Faydaları' : isGerman ? 'Vorteile des Bausektor-Arbeitsvisas' : 'Benefits of the Construction Sector Work Visa'}
+                    {isTurkish ? 'İnşaat Sektörü Çalışma Sürecinin Faydaları' : isGerman ? 'Vorteile des Bausektor-Arbeitsprozesses' : 'Benefits of the Construction Sector Work Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -429,15 +429,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Otelcilik ve turizm çalışma vizesi, Almanya\'da otel, restoran, turizm ve misafirperverlik sektöründe çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın turizm ve hizmet sektöründeki gelişimi ile bu alandaki personel ihtiyacı sürekli artmaktadır.'
+                      ? 'Otelcilik ve turizm süreci, Almanya\'da otel, restoran, turizm ve misafirperverlik sektöründe çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın turizm ve hizmet sektöründeki gelişimi ile bu alandaki personel ihtiyacı sürekli artmaktadır.'
                       : isGerman 
-                      ? 'Das Hotel- und Tourismus-Arbeitsvisa ist speziell für Fachkräfte gedacht, die im Hotel-, Restaurant-, Tourismus- und Gastgewerbesektor in Deutschland arbeiten möchten. Mit der Entwicklung des Tourismus- und Dienstleistungssektors in Deutschland steigt der Personalbedarf in diesem Bereich kontinuierlich.'
-                      : 'The hospitality and tourism work visa is specially designed for professionals who want to work in the hotel, restaurant, tourism and hospitality sector in Germany. With the development of the tourism and service sector in Germany, the personnel need in this field is constantly increasing.'
+                      ? 'Das Hotel- und Tourismus-Arbeitsprozess ist speziell für Fachkräfte gedacht, die im Hotel-, Restaurant-, Tourismus- und Gastgewerbesektor in Deutschland arbeiten möchten. Mit der Entwicklung des Tourismus- und Dienstleistungssektors in Deutschland steigt der Personalbedarf in diesem Bereich kontinuierlich.'
+                      : 'The hospitality and tourism work process is specially designed for professionals who want to work in the hotel, restaurant, tourism and hospitality sector in Germany. With the development of the tourism and service sector in Germany, the personnel need in this field is constantly increasing.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Otelcilik ve Turizm Çalışma Vizesinin Faydaları' : isGerman ? 'Vorteile des Hotel- und Tourismus-Arbeitsvisas' : 'Benefits of the Hospitality and Tourism Work Visa'}
+                    {isTurkish ? 'Otelcilik ve Turizm Sürecinin Faydaları' : isGerman ? 'Vorteile des Hotel- und Tourismus-Arbeitsprozesses' : 'Benefits of the Hospitality and Tourism Work Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -474,15 +474,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Lojistik ve ulaştırma çalışma vizesi, Almanya\'da lojistik, kargo, nakliye ve ulaştırma sektöründe çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın Avrupa\'nın lojistik merkezi konumunda olması, bu sektörde sürekli artan iş imkanları yaratmaktadır.'
+                      ? 'Lojistik ve ulaştırma süreci, Almanya\'da lojistik, kargo, nakliye ve ulaştırma sektöründe çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın Avrupa\'nın lojistik merkezi konumunda olması, bu sektörde sürekli artan iş imkanları yaratmaktadır.'
                       : isGerman 
-                      ? 'Das Logistik- und Transport-Arbeitsvisa ist speziell für Fachkräfte gedacht, die im Logistik-, Fracht-, Transport- und Speditionssektor in Deutschland arbeiten möchten. Deutschlands Position als Logistikzentrum Europas schafft kontinuierlich steigende Arbeitsmöglichkeiten in diesem Sektor.'
-                      : 'The logistics and transportation work visa is specially designed for professionals who want to work in the logistics, cargo, freight and transportation sector in Germany. Germany\'s position as the logistics center of Europe creates continuously increasing job opportunities in this sector.'
+                      ? 'Das Logistik- und Transport-Arbeitsprozess ist speziell für Fachkräfte gedacht, die im Logistik-, Fracht-, Transport- und Speditionssektor in Deutschland arbeiten möchten. Deutschlands Position als Logistikzentrum Europas schafft kontinuierlich steigende Arbeitsmöglichkeiten in diesem Sektor.'
+                      : 'The logistics and transportation work process is specially designed for professionals who want to work in the logistics, cargo, freight and transportation sector in Germany. Germany\'s position as the logistics center of Europe creates continuously increasing job opportunities in this sector.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Lojistik ve Ulaştırma Çalışma Vizesinin Faydaları' : isGerman ? 'Vorteile des Logistik- und Transport-Arbeitsvisas' : 'Benefits of the Logistics and Transportation Work Visa'}
+                    {isTurkish ? 'Lojistik ve Ulaştırma Sürecinin Faydaları' : isGerman ? 'Vorteile des Logistik- und Transport-Arbeitsprozesses' : 'Benefits of the Logistics and Transportation Work Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -519,15 +519,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Temizlik ve bakım hizmetleri çalışma vizesi, Almanya\'da temizlik, bahçıvanlık, bakım ve destek hizmetleri sektöründe çalışmak isteyenler için özel olarak tasarlanmıştır. Bu sektör, Almanya\'da istikrarlı iş imkanları ve güvenli çalışma ortamı sunan önemli bir alan olarak öne çıkmaktadır.'
+                      ? 'Temizlik ve bakım hizmetleri süreci, Almanya\'da temizlik, bahçıvanlık, bakım ve destek hizmetleri sektöründe çalışmak isteyenler için özel olarak tasarlanmıştır. Bu sektör, Almanya\'da istikrarlı iş imkanları ve güvenli çalışma ortamı sunan önemli bir alan olarak öne çıkmaktadır.'
                       : isGerman 
-                      ? 'Das Reinigungs- und Wartungsdienst-Arbeitsvisa ist speziell für diejenigen gedacht, die im Bereich Reinigung, Gartenbau, Wartung und Unterstützungsdienste in Deutschland arbeiten möchten. Dieser Sektor zeichnet sich als wichtiger Bereich aus, der stabile Arbeitsmöglichkeiten und ein sicheres Arbeitsumfeld in Deutschland bietet.'
-                      : 'The cleaning and maintenance services work visa is specially designed for those who want to work in the cleaning, gardening, maintenance and support services sector in Germany. This sector stands out as an important area that offers stable job opportunities and a safe working environment in Germany.'
+                      ? 'Das Reinigungs- und Wartungsdienst-Arbeitsprozess ist speziell für diejenigen gedacht, die im Bereich Reinigung, Gartenbau, Wartung und Unterstützungsdienste in Deutschland arbeiten möchten. Dieser Sektor zeichnet sich als wichtiger Bereich aus, der stabile Arbeitsmöglichkeiten und ein sicheres Arbeitsumfeld in Deutschland bietet.'
+                      : 'The cleaning and maintenance services work process is specially designed for those who want to work in the cleaning, gardening, maintenance and support services sector in Germany. This sector stands out as an important area that offers stable job opportunities and a safe working environment in Germany.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Temizlik ve Bakım Hizmetleri Çalışma Vizesinin Faydaları' : isGerman ? 'Vorteile des Reinigungs- und Wartungsdienst-Arbeitsvisas' : 'Benefits of the Cleaning and Maintenance Services Work Visa'}
+                    {isTurkish ? 'Temizlik ve Bakım Hizmetleri Sürecinin Faydaları' : isGerman ? 'Vorteile des Reinigungs- und Wartungsdienst-Arbeitsprozesses' : 'Benefits of the Cleaning and Maintenance Services Work Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -564,15 +564,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Ofis işleri çalışma vizesi, Almanya\'da büro çalışanı, muhasebeci, sekreter, idari personel ve yönetici pozisyonlarında çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın dijitalleşen iş dünyası, bu alanda yeni kariyer fırsatları yaratmaktadır.'
+                      ? 'Ofis işleri çalışma süreci, Almanya\'da büro çalışanı, muhasebeci, sekreter, idari personel ve yönetici pozisyonlarında çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın dijitalleşen iş dünyası, bu alanda yeni kariyer fırsatları yaratmaktadır.'
                       : isGerman 
-                      ? 'Das Büroarbeits-Arbeitsvisa ist speziell für Fachkräfte gedacht, die in Deutschland als Büroangestellte, Buchhalter, Sekretäre, Verwaltungspersonal und Führungskräfte arbeiten möchten. Deutschlands sich digitalisierende Geschäftswelt schafft neue Karrieremöglichkeiten in diesem Bereich.'
-                      : 'The office work visa is specially designed for professionals who want to work in Germany as office workers, accountants, secretaries, administrative staff and managers. Germany\'s digitalizing business world creates new career opportunities in this field.'
+                      ? 'Das Büroarbeits-Arbeitsprozess ist speziell für Fachkräfte gedacht, die in Deutschland als Büroangestellte, Buchhalter, Sekretäre, Verwaltungspersonal und Führungskräfte arbeiten möchten. Deutschlands sich digitalisierende Geschäftswelt schafft neue Karrieremöglichkeiten in diesem Bereich.'
+                      : 'The office work process is specially designed for professionals who want to work in Germany as office workers, accountants, secretaries, administrative staff and managers. Germany\'s digitalizing business world creates new career opportunities in this field.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Ofis İşleri Çalışma Vizesinin Faydaları' : isGerman ? 'Vorteile des Büroarbeits-Arbeitsvisas' : 'Benefits of the Office Work Visa'}
+                    {isTurkish ? 'Ofis İşleri Çalışma Sürecinin Faydaları' : isGerman ? 'Vorteile des Büroarbeits-Arbeitsprozesses' : 'Benefits of the Office Work Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -609,15 +609,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Terapist vizesi, Almanya\'da fizyoterapist, psikolog, diyetisyen, konuşma terapisti ve diğer sağlık uzmanları olarak çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'da preventif sağlık hizmetlerinin önemi artarken, bu alandaki uzman ihtiyacı da sürekli artmaktadır.'
+                      ? 'Terapist süreci, Almanya\'da fizyoterapist, psikolog, diyetisyen, konuşma terapisti ve diğer sağlık uzmanları olarak çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'da preventif sağlık hizmetlerinin önemi artarken, bu alandaki uzman ihtiyacı da sürekli artmaktadır.'
                       : isGerman 
-                      ? 'Das Therapeutenvisa ist speziell für Fachkräfte gedacht, die in Deutschland als Physiotherapeuten, Psychologen, Ernährungsberater, Sprachtherapeuten und andere Gesundheitsspezialisten arbeiten möchten. Während die Bedeutung präventiver Gesundheitsdienste in Deutschland zunimmt, steigt auch der Bedarf an Experten in diesem Bereich kontinuierlich.'
-                      : 'The therapist visa is specially designed for professionals who want to work in Germany as physiotherapists, psychologists, dietitians, speech therapists and other health specialists. As the importance of preventive health services increases in Germany, the need for experts in this field also continues to increase.'
+                      ? 'Das Therapeutenprozess ist speziell für Fachkräfte gedacht, die in Deutschland als Physiotherapeuten, Psychologen, Ernährungsberater, Sprachtherapeuten und andere Gesundheitsspezialisten arbeiten möchten. Während die Bedeutung präventiver Gesundheitsdienste in Deutschland zunimmt, steigt auch der Bedarf an Experten in diesem Bereich kontinuierlich.'
+                      : 'The therapist process is specially designed for professionals who want to work in Germany as physiotherapists, psychologists, dietitians, speech therapists and other health specialists. As the importance of preventive health services increases in Germany, the need for experts in this field also continues to increase.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Terapist Vizesinin Faydaları' : isGerman ? 'Vorteile des Therapeutenvisas' : 'Benefits of the Therapist Visa'}
+                    {isTurkish ? 'Terapist Sürecinin Faydaları' : isGerman ? 'Vorteile des Therapeutenprozesses' : 'Benefits of the Therapist Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -654,15 +654,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Sağlık teknisyeni vizesi, Almanya\'da tıbbi teknisyen, laboratuvar uzmanı, radyoloji teknisyeni ve diğer sağlık destek personeli olarak çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın modern sağlık sisteminde teknisyen ve teknik personele olan talep sürekli artmaktadır.'
+                      ? 'Sağlık teknisyeni süreci, Almanya\'da tıbbi teknisyen, laboratuvar uzmanı, radyoloji teknisyeni ve diğer sağlık destek personeli olarak çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın modern sağlık sisteminde teknisyen ve teknik personele olan talep sürekli artmaktadır.'
                       : isGerman 
-                      ? 'Das Gesundheitstechnikervisa ist speziell für Fachkräfte gedacht, die in Deutschland als Medizintechniker, Laborspezialisten, Radiologietechniker und andere Gesundheitsunterstützungspersonal arbeiten möchten. Die Nachfrage nach Technikern und technischem Personal im modernen Gesundheitssystem Deutschlands steigt kontinuierlich.'
-                      : 'The health technician visa is specially designed for professionals who want to work in Germany as medical technicians, laboratory specialists, radiology technicians and other health support personnel. The demand for technicians and technical personnel in Germany\'s modern health system is continuously increasing.'
+                      ? 'Das Gesundheitstechnikerprozess ist speziell für Fachkräfte gedacht, die in Deutschland als Medizintechniker, Laborspezialisten, Radiologietechniker und andere Gesundheitsunterstützungspersonal arbeiten möchten. Die Nachfrage nach Technikern und technischem Personal im modernen Gesundheitssystem Deutschlands steigt kontinuierlich.'
+                      : 'The health technician process is specially designed for professionals who want to work in Germany as medical technicians, laboratory specialists, radiology technicians and other health support personnel. The demand for technicians and technical personnel in Germany\'s modern health system is continuously increasing.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Sağlık Teknisyeni Vizesinin Faydaları' : isGerman ? 'Vorteile des Gesundheitstechnikervisas' : 'Benefits of the Health Technician Visa'}
+                    {isTurkish ? 'Sağlık Teknisyeni Sürecinin Faydaları' : isGerman ? 'Vorteile des Gesundheitstechnikerprozesses' : 'Benefits of the Health Technician Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -699,15 +699,15 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Bakıcı vizesi, Almanya\'da yaşlı bakımı, hasta bakımı ve özel bakım hizmetleri alanında çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın yaşlanan nüfusu nedeniyle, nitelikli bakım personeline olan ihtiyaç her geçen gün artmaktadır.'
+                      ? 'Bakıcı süreci, Almanya\'da yaşlı bakımı, hasta bakımı ve özel bakım hizmetleri alanında çalışmak isteyen profesyoneller için özel olarak tasarlanmıştır. Almanya\'nın yaşlanan nüfusu nedeniyle, nitelikli bakım personeline olan ihtiyaç her geçen gün artmaktadır.'
                       : isGerman 
-                      ? 'Das Betreuervisa ist speziell für Fachkräfte gedacht, die in Deutschland im Bereich Altenpflege, Krankenpflege und spezielle Betreuungsdienste arbeiten möchten. Aufgrund der alternden Bevölkerung Deutschlands steigt der Bedarf an qualifiziertem Pflegepersonal täglich.'
-                      : 'The caregiver visa is specially designed for professionals who want to work in Germany in elderly care, patient care and special care services. Due to Germany\'s aging population, the need for qualified care personnel is increasing every day.'
+                      ? 'Das Betreuervorgang ist speziell für Fachkräfte gedacht, die in Deutschland im Bereich Altenpflege, Krankenpflege und spezielle Betreuungsdienste arbeiten möchten. Aufgrund der alternden Bevölkerung Deutschlands steigt der Bedarf an qualifiziertem Pflegepersonal täglich.'
+                      : 'The caregiver process is specially designed for professionals who want to work in Germany in elderly care, patient care and special care services. Due to Germany\'s aging population, the need for qualified care personnel is increasing every day.'
                     }
                   </p>
                   
                   <h3 className="text-xl font-semibold mb-3 mt-8">
-                    {isTurkish ? 'Bakıcı Vizesinin Faydaları' : isGerman ? 'Vorteile des Betreuervisas' : 'Benefits of the Caregiver Visa'}
+                    {isTurkish ? 'Bakıcı Sürecinin Faydaları' : isGerman ? 'Vorteile des Betreuervorgangs' : 'Benefits of the Caregiver Process'}
                   </h3>
                   
                   <ul className="list-disc pl-6 space-y-2 mb-6">
@@ -768,10 +768,10 @@ export default function Page() {
                     <li>
                       <strong>{isTurkish ? 'Detaylı araştırma:' : isGerman ? 'Detaillierte Recherche:' : 'Detailed research:'}</strong> {' '}
                       {isTurkish 
-                        ? 'Mesleğinize özel vize gereklilikleri ve süreçler hakkında kapsamlı araştırma.'
+                        ? 'Mesleğinize özel süreç gereklilikleri ve süreçler hakkında kapsamlı araştırma.'
                         : isGerman 
-                        ? 'Umfassende Recherche zu berufsspezifischen Visa-Anforderungen und Prozessen.'
-                        : 'Comprehensive research on profession-specific visa requirements and processes.'
+                        ? 'Umfassende Recherche zu berufsspezifischen Süreç-Anforderungen und Prozessen.'
+                        : 'Comprehensive research on profession-specific process requirements and processes.'
                       }
                     </li>
                     <li>
@@ -789,10 +789,10 @@ export default function Page() {
                 <>
                   <p className="text-base leading-relaxed mb-6">
                     {isTurkish 
-                      ? 'Almanya\'da çalışmak isteyen profesyoneller için özel olarak tasarlanmış kapsamlı vize danışmanlığı hizmetimiz ile hayalinizdeki kariyer hedeflerinize ulaşmanız için gereken tüm desteği sağlıyoruz.'
+                      ? 'Almanya\'da çalışmak isteyen profesyoneller için özel olarak tasarlanmış kapsamlı süreç danışmanlığı hizmetimiz ile hayalinizdeki kariyer hedeflerinize ulaşmanız için gereken tüm desteği sağlıyoruz.'
                       : isGerman 
-                      ? 'Mit unserem umfassenden Visa-Beratungsservice, der speziell für Fachkräfte entwickelt wurde, die in Deutschland arbeiten möchten, bieten wir Ihnen alle Unterstützung, die Sie benötigen, um Ihre Traumkarriereziele zu erreichen.'
-                      : 'With our comprehensive visa consultancy service specially designed for professionals who want to work in Germany, we provide all the support you need to achieve your dream career goals.'
+                      ? 'Mit unserem umfassenden Süreç-Beratungsservice, der speziell für Fachkräfte entwickelt wurde, die in Deutschland arbeiten möchten, bieten wir Ihnen alle Unterstützung, die Sie benötigen, um Ihre Traumkarriereziele zu erreichen.'
+                      : 'With our comprehensive process consultancy service specially designed for professionals who want to work in Germany, we provide all the support you need to achieve your dream career goals.'
                     }
                   </p>
                   
@@ -828,10 +828,10 @@ export default function Page() {
                 <div data-slot="alert-description" className="text-muted-foreground col-start-2 grid justify-items-start gap-1 text-sm [&_p]:leading-relaxed">
                   {slug === 'nurse' 
                     ? (isTurkish 
-                        ? 'Hemşirelik vizesi için genellikle B1 seviyesinde Almanca dil becerileri gereklidir.'
+                        ? 'Hemşirelik süreci için genellikle B1 seviyesinde Almanca dil becerileri gereklidir.'
                         : isGerman 
-                        ? 'Für das Pflegevisa sind in der Regel Deutschkenntnisse auf B1-Niveau erforderlich.'
-                        : 'For nursing visa, German language skills at B1 level are usually required.'
+                        ? 'Für das Pflegeprozess sind in der Regel Deutschkenntnisse auf B1-Niveau erforderlich.'
+                        : 'For nursing process, German language skills at B1 level are usually required.'
                       )
                     : slug === 'doctor'
                     ? (isTurkish 
@@ -917,10 +917,11 @@ export default function Page() {
             <section id="section2" className="prose dark:prose-invert mb-8">
               <h2 className="text-2xl font-bold mb-4">
                 {slug === 'nurse' 
-                  ? (isTurkish ? 'Hemşirelik Vizesi için Gereklilikler' : isGerman ? 'Anforderungen für das Pflegevisa' : 'Requirements for Nursing Visa')
+                  ? (isTurkish ? 'Hemşirelik Süreci için Gereklilikler' : isGerman ? 'Anforderungen für das Pflegeprozess' : 'Requirements for Nursing Process')
                   : (isTurkish ? 'Gerekli Belgeler ve Süreç Adımları' : isGerman ? 'Erforderliche Dokumente und Prozessschritte' : 'Required Documents and Process Steps')
                 }
               </h2>
+              
               
               {slug === 'nurse' ? (
                 <>
