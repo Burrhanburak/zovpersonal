@@ -9,7 +9,7 @@
     "services": "Hizmetler",
     "about": "Hakkımızda", 
     "contact": "İletişim",
-    "consultation": "ücretsiz iş veren ortaklığı"
+    "consultation": "İşveren Desteği"
   },
   "hero": {
     "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
@@ -161,7 +161,7 @@
     "stats": {
       "experience": {
         "number": "15+",
-        "label": "Yıllık Deneyim"
+        "label": "Yıllık Altyapı"
       },
       "clients": {
         "number": "5K+",
@@ -258,7 +258,8 @@
         "bulgaria": "Bulgaristan",
         "sweden": "İsveç",
         "finland": "Finlandiya",
-        "serbia": "Sırbistan"
+        "serbia": "Sırbistan",
+        "turkey": "Türkiye"
       }
     },
     "tabContent": {
@@ -266,15 +267,15 @@
         "title": "İşe Alım Süreci",
         "description": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
         "stat1": { "number": "95%", "label": "başarılı işe alım" },
-        "stat2": { "number": "30", "label": "gün ortalama süre" },
+        "stat2": { "number": "", "label": "Hızlı Süreç" },
         "category": "İşe Alım Süreci"
       },
       "documentation": {
-        "title": "Belge Hazırlama Süreci",
-        "description": "Yabancı mesleki yeterliliklerin tanınması için vize, yurtdışında edindikleri mesleki yeterliliklerinin Almanya'da tanınmasını isteyen vasıflı işçilere yöneliktir. Belgelerinizi Alman standartlarına uygun olarak hazırlayıp tanınma sürecini kolaylaştırıyoruz.",
-        "stat1": { "number": "100%", "label": "belge uygunluğu" },
-        "stat2": { "number": "48", "label": "saat içinde hazır" },
-        "category": "Belge Hazırlama"
+        "title": "Dil Gereksinimleri",
+        "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları.",
+        "stat1": { "number": "100%", "label": "belge uyumu" },
+        "stat2": { "number": "B1/B2", "label": "Dil Seviyeleri" },
+        "category": "Dil Gereksinimleri"
       },
       "skillsAssessment": {
         "title": "Mesleki Yeterlilik Değerlendirmesi",
@@ -286,7 +287,7 @@
     },
     "tabButtons": {
       "workVisa": "İşe Alım",
-      "documentation": "Belge Hazırlama", 
+      "documentation": "Dil Gereksinimleri", 
       "skillsAssessment": "Mesleki Yeterlilik"
     }
   },
@@ -349,21 +350,21 @@
     ]
   },
   "process": {
-    "title": "Vize Başvuru Sürecimiz",
-    "subtitle": "Vize başvuru sürecinizi basitleştiren araçlarımızla, karmaşık belgelerinizi yönetmenin zorluğunu minimize ediyoruz.",
+    "title": "Vize Başvuru Süreç Desteği",
+    "subtitle": "Vize başvuru sürecinizi basitleştiren araçlarımızla, karmaşık belgelerinizi yönetme konusunda size destek oluyoruz.",
     "step1": {
-      "title": "İlk Danışmanlık ve Değerlendirme",
-      "description": "Profilinizi ve hedeflerinizi analiz ederek size özel vize stratejisi geliştiriyoruz.",
+      "title": "İlk Danışmanlık ve Değerlendirme Desteği",
+      "description": "Profilinizi ve hedeflerinizi analiz ederek size özel vize stratejisi geliştirme sürecinde size destek oluyoruz.",
       "alt": "iş veren ortaklığı"
     },
     "step2": {
-      "title": "Belge Hazırlama ve Kontrolü",
-      "description": "Tüm belgelerinizi uluslararası standartlarda hazırlayıp eksiklikleri anlık tespit ediyoruz.",
+      "title": "Belge Hazırlama ve Kontrol Desteği",
+      "description": "Tüm gerekli belgelerinize ulaşarak hazırlanma sürecince size destek oluyoruz.",
       "alt": "Belge hazırlama"
     },
     "step3": {
-      "title": "Başvuru ve Takip",
-      "description": "Başvurunuzu güvenle yapıyor ve sonuçlanana kadar sürekli takip ediyoruz.",
+      "title": "Başvuru ve Takip Desteği",
+      "description": "Başvurunuzu güvenle yapmanız ve sonuçlanana kadar sürekli takip etmeniz için size destek sağlıyoruz.",
       "alt": "Başvuru takibi"
     }
   },
@@ -898,14 +899,14 @@
       }
     },
     "about": {
-      "title": "Farklı bir danışmanlık.",
-      "description": "Sağlık sektöründe uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
+      "title": "Farklı bir danışmanlık anlayışı.",
+      "description": "Sağlık sektöründeki uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
       "statsTitle": "Rakamlarla",
       "stats": {
-        "experience": "Yıl altyapısı",
+        "experience": "Yıllık Altyapı",
         "healthPersonnel": "Sağlık Personeli",
         "successRate": "Başarı Oranı",
-        "partners": "Partner Kuruluşlar"
+        "partners": "Partner Kuruluş"
       },
       "content": {
         "paragraph1": "Sağlık sektörü sürekli değişiyor ve gelişiyor. Almanya'da sağlık personeli ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",

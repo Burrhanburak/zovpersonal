@@ -7,9 +7,9 @@
   "nav": {
       "home": "Početna",
       "services": "Usluge",
-      "about": "O Nama",
+      "about": "O nama",
       "contact": "Kontakt",
-      "consultation": "Besplatno Partnerstvo sa Poslodavcima"
+      "consultation": "Podrška za poslodavce"
     },
     "hero": {
       "title": "Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti (ZOV)",
@@ -159,8 +159,10 @@
         "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo vam pomogli da radite bolje nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kao kompanija, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
       },
       "stats": {
-        "experience": "15+",
-        "experienceLabel": "Godina iskustva",
+        "experience": {
+          "number": "15+",
+          "label": "Godina infrastrukture"
+        },
         "satisfaction": "95%",
         "clients": {
           "number": "5K+",
@@ -242,7 +244,8 @@
           "bulgaria": "Bugarska",
           "sweden": "Švedska",
           "finland": "Finska",
-          "serbia": "Srbija"
+          "serbia": "Srbija",
+          "turkey": "Turska"
         }
       },
       "workVisa": {
@@ -263,21 +266,21 @@
       },
       "tabContent": {
         "workVisa": {
-          "title": "Korak po korak proces aplikacije za radnu vizu",
-          "description": "Profesionalno pripremamo i pratimo vaše aplikacije za radnu vizu.",
-          "stat1": { "number": "95%", "label": "stopa odobrenja" },
-          "stat2": { "number": "30", "label": "dana prosečno vreme" },
-          "category": "Aplikacije za Radnu Viznu"
+          "title": "Proces regrutacije",
+          "description": "Regrutovanje međunarodnih stručnjaka pruža veliku priliku za popunjavanje nedostatka kvalifikovane radne snage u Nemačkoj. Sa našim ciljanim i strukturiranim pristupom, efikasno strukturiramo vaš proces regrutacije kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva.",
+          "stat1": { "number": "95%", "label": "uspešna regrutacija" },
+          "stat2": { "number": "", "label": "Brz proces" },
+          "category": "Proces regrutacije"
         },
         "documentation": {
-          "title": "Proces pripreme dokumenata",
-          "description": "Pripremamo sve vaše dokumente po međunarodnim standardima i overavamo ih.",
+          "title": "Jezički zahtevi",
+          "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama.",
           "stat1": { "number": "100%", "label": "usklađenost dokumenata" },
-          "stat2": { "number": "48", "label": "sati spremno" },
-          "category": "Priprema Dokumentacije"
+          "stat2": { "number": "B1/B2", "label": "Nivoi jezika" },
+          "category": "Jezički zahtevi"
         },
         "skillsAssessment": {
-          "title": "Analiziraj. Evaluiraj. Vodi.",
+          "title": "Procena stručnih kvalifikacija",
           "description": "Analiziramo vaše profesionalne kvalifikacije i povezujemo ih sa međunarodnim poslovnim prilikama.",
           "stat1": { "number": "85%", "label": "pronalazak odgovarajuće pozicije" },
           "stat2": { "number": "12", "label": "godina infrastrukture" },
@@ -285,9 +288,9 @@
         }
       },
       "tabButtons": {
-        "workVisa": "Radna Viza",
-        "documentation": "Dokumentacija",
-        "skillsAssessment": "Procena Veština"
+        "workVisa": "Regrutacija",
+        "documentation": "Jezički zahtevi",
+        "skillsAssessment": "Stručna kvalifikacija"
       }
     },
     "professions": {
@@ -349,26 +352,26 @@
       ]
     },
     "process": {
-      "title": "Naš Proces Aplikacije za Viznu",
-      "subtitle": "Minimiziramo složenost upravljanja vašim složenim dokumentima sa našim alatima koji pojednostavljuju vaš proces aplikacije za vizu.",
+      "title": "Podrška u procesu apliciranja za vizu",
+      "subtitle": "Podržavamo vas u upravljanju vašim složenim dokumentima pomoću naših alata koji pojednostavljuju proces apliciranja za vizu.",
       "step1": {
-        "title": "Inicijalna Konsultacija i Procena",
-        "description": "Analiziramo vaš profil i ciljeve kako bismo razvili personalizovanu strategiju vize za vas.",
-        "alt": "Konsultacija za vizu"
+        "title": "Podrška za početne konsultacije i procenu",
+        "description": "Podržavamo vas u razvoju personalizovane strategije za vizu analizom vašeg profila i ciljeva.",
+        "alt": "Konsultacije za vizu"
       },
       "step2": {
-        "title": "Priprema i Pregled Dokumenata",
-        "description": "Pripremamo sve vaše dokumente po međunarodnim standardima i trenutno otkrivamo bilo kakve nedostatke.",
+        "title": "Podrška za pripremu i pregled dokumenata",
+        "description": "Podržavamo vas tokom čitavog procesa pripreme pomažući vam da pristupite svim potrebnim dokumentima.",
         "alt": "Priprema dokumenata"
       },
       "step3": {
-        "title": "Aplikacija i Praćenje",
-        "description": "Sigurno podnosimo vašu aplikaciju i kontinuirano je pratimo do završetka.",
+        "title": "Podrška za aplikaciju i praćenje",
+        "description": "Pružamo podršku kako bismo vam pomogli da bezbedno podnesete svoju aplikaciju i kontinuirano je pratite do završetka.",
         "alt": "Praćenje aplikacije"
       }
     },
     "contact": {
-      "title": "Razgovarajmo",
+      "title": "Hajde da razgovaramo",
       "jobSeeker": "Tražilac Posla",
       "employer": "Poslodavac",
       "subtitle": "Bilo da ste spremni da zakazete svoju prvu konsultaciju ili samo imate pitanja, voleli bismo da vas čujemo.",
@@ -937,11 +940,11 @@
             "footer": "Imamo usluge karijernog savetovanja specifične za vašu profesiju i poslovne prilike."
           },
           "visaApplication": {
-            "title": "Nacionalna Radna Viza",
-            "subtitle": "Proces Aplikacije",
-            "description": "Upravljamo svim koracima za vas u procesu aplikacije za nacionalnu radnu vizu za Nemačku. Profesionalna podrška od pripreme dokumenata do zakazivanja termina.",
-            "detail": "Pripremamo sve neophodne dokumente ispravno kako bismo ubrzali proces odobrenja vize.",
-            "footer": "Možete sa sigurnošću aplicirati za vizu sa našom visokom stopom uspeha."
+            "title": "Podrška u procesu apliciranja",
+            "subtitle": "Proces aplikacije",
+            "description": "Pružamo informacije i smernice za vaš proces apliciranja za nemačku nacionalnu radnu vizu. Podržavajući vas tokom celog procesa, pomažemo vam da lakše pratite vašu aplikaciju.",
+            "detail": "Informišemo vas o tome šta treba da uzmete u obzir prilikom pripreme dokumenata i zakazivanja sastanka.",
+            "footer": "Kontaktirajte nas za više informacija o procesu."
           },
           "companyAgreements": {
             "title": "Partnerske Kompanije",
@@ -953,28 +956,14 @@
         }
       },
       "about": {
-        "title": "Drugačija vrsta konsultacija.",
-        "description": "Nudimo sveobuhvatne usluge za ostvarivanje vaših međunarodnih karijernih ciljeva u zdravstvenom sektoru.",
+        "title": "Drugačija vrsta konsaltinga.",
+        "description": "Nudimo sveobuhvatne usluge za postizanje vaših međunarodnih ciljeva u karijeri u zdravstvenom sektoru.",
         "statsTitle": "U brojkama",
         "stats": {
-          "experience": {
-            "number": "15+",
-            "label": "Godina iskustva"
-          },
-          "satisfaction": "95%",
-          "healthPersonnel": "Medicinsko osoblje",
-          "clients": {
-            "number": "5K+",
-            "label": "Uspešnih Klijenata"
-          },
-          "visas": {
-            "number": "10K+",
-            "label": "Odobrenih Viza"
-          },
-          "countries": {
-            "number": "25+",
-            "label": "Ciljne Zemlje"
-          }
+          "experience": "Godina infrastrukture",
+          "healthPersonnel": "Zdravstveno osoblje",
+          "successRate": "Stopa uspeha",
+          "partners": "Partnerske organizacije"
         },
         "content": {
           "paragraph1": "Zdravstveni sektor se stalno menja i razvija. Potreba za zdravstvenim osobljem u Nemačkoj raste svakog dana. Sada je pravo vreme da iskoristite ovu priliku.",

@@ -9,10 +9,10 @@
     "services": "Dienstleistungen",
     "about": "Über uns",
     "contact": "Kontakt",
-    "consultation": "Kostenlose Arbeitgeberpartnerschaft"
+    "consultation": "Arbeitgeberunterstützung"
   },
   "hero": {
-    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
+    "title": "Internationale, zukunftsorientierte Personalagentur (ZOV)",
     "subtitle": "Ihr vertrauensvoller Partner für internationale Karrierechancen",
     "description": "Wir verbinden qualifizierte Fachkräfte mit innovativen Unternehmen weltweit. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland und der EU.",
     "longDescription": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Egal, ob Sie Unterstützung beim Rekrutierungsprozess suchen oder Karrieremöglichkeiten im Ausland verfolgen - erreichen Sie Erfolg mit unserem Expertenteam.",
@@ -161,7 +161,7 @@
     "stats": {
       "experience": {
         "number": "15+",
-        "label": "Jahre Erfahrung"
+        "label": "Jahre Infrastruktur"
       },
       "clients": {
         "number": "5K+",
@@ -260,7 +260,8 @@
         "bulgaria": "Bulgarien",
         "sweden": "Schweden",
         "finland": "Finnland",
-        "serbia": "Serbien"
+        "serbia": "Serbien",
+        "turkey": "Türkei"
       }
     },
     "tabContent": {
@@ -268,15 +269,15 @@
         "title": "Rekrutierungsprozess",
         "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Deutschland zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
         "stat1": { "number": "95%", "label": "erfolgreiche Rekrutierung" },
-        "stat2": { "number": "30", "label": "Tage durchschnittliche Zeit" },
+        "stat2": { "number": "", "label": "Schneller Prozess" },
         "category": "Rekrutierungsprozess"
       },
       "documentation": {
-        "title": "Dokumentenvorbereitungsprozess",
-        "description": "Das Visum zur Anerkennung ausländischer Berufsqualifikationen richtet sich an Fachkräfte, die ihre im Ausland erworbenen Berufsqualifikationen in Deutschland anerkennen lassen möchten. Wir bereiten Ihre Dokumente nach deutschen Standards vor und erleichtern den Anerkennungsprozess.",
+        "title": "Sprachanforderungen",
+        "description": "B1-Deutschniveau und berufliche Fähigkeitszeugnisse.",
         "stat1": { "number": "100%", "label": "Dokumentenkonformität" },
-        "stat2": { "number": "48", "label": "Stunden fertig" },
-        "category": "Dokumentenvorbereitung"
+        "stat2": { "number": "B1/B2", "label": "Sprachniveaus" },
+        "category": "Sprachanforderungen"
       },
       "skillsAssessment": {
         "title": "Berufsqualifikationsbewertung",
@@ -288,7 +289,7 @@
     },
     "tabButtons": {
       "workVisa": "Rekrutierung",
-      "documentation": "Dokumentation",
+      "documentation": "Sprachanforderungen",
       "skillsAssessment": "Berufsqualifikation"
     }
   },
@@ -351,21 +352,21 @@
     ]
   },
   "process": {
-    "title": "Unser Visa-Antragsverfahren",
-    "subtitle": "Wir minimieren die Komplexität der Verwaltung Ihrer umfangreichen Dokumente mit unseren Tools, die Ihren Visa-Antragsprozess vereinfachen.",
+    "title": "Unterstützung beim Visumantragsprozess",
+    "subtitle": "Wir unterstützen Sie bei der Verwaltung Ihrer komplexen Dokumente mit unseren Tools, die Ihren Visumantragsprozess vereinfachen.",
     "step1": {
-      "title": "Erstberatung und Bewertung",
-      "description": "Wir analysieren Ihr Profil und Ihre Ziele, um eine personalisierte Visa-Strategie für Sie zu entwickeln.",
+      "title": "Erstberatung und Bewertungsunterstützung",
+      "description": "Wir unterstützen Sie bei der Entwicklung einer personalisierten Visastrategie, indem wir Ihr Profil und Ihre Ziele analysieren.",
       "alt": "Visa-Beratung"
     },
     "step2": {
-      "title": "Dokumentenvorbereitung und -prüfung",
-      "description": "Wir bereiten alle Ihre Dokumente nach internationalen Standards vor und erkennen Mängel sofort.",
+      "title": "Unterstützung bei der Dokumentenvorbereitung und -prüfung",
+      "description": "Wir unterstützen Sie während des gesamten Vorbereitungsprozesses, indem wir Ihnen helfen, auf alle erforderlichen Dokumente zuzugreifen.",
       "alt": "Dokumentenvorbereitung"
     },
     "step3": {
-      "title": "Antrag und Nachverfolgung",
-      "description": "Wir reichen Ihren Antrag sicher ein und überwachen ihn kontinuierlich bis zur Fertigstellung.",
+      "title": "Antrags- und Nachverfolgungsunterstützung",
+      "description": "Wir unterstützen Sie dabei, Ihren Antrag sicher einzureichen und ihn bis zum Abschluss kontinuierlich zu überwachen.",
       "alt": "Antragsverfolgung"
     }
   },
@@ -867,7 +868,7 @@
       "description": "Wir bieten umfassende Dienstleistungen zur Verwirklichung Ihrer internationalen Karriereziele im Gesundheitswesen.",
       "statsTitle": "In Zahlen",
       "stats": {
-        "experience": "Jahre Erfahrung",
+        "experience": "Jahre Infrastruktur",
         "healthPersonnel": "Gesundheitspersonal",
         "successRate": "Erfolgsquote",
         "partners": "Partnerorganisationen"

@@ -7,9 +7,9 @@
   "nav": {
     "home": "Acasă",
     "services": "Servicii",
-    "about": "Despre Noi",
+    "about": "Despre noi",
     "contact": "Contact",
-    "consultation": "Parteneriat Gratuit cu Angajatorii"
+    "consultation": "Suport pentru Angajatori"
   },
   "hero": {
     "title": "Agenție Internațională de Recrutare Orientată Spre Viitor (ZOV)",
@@ -160,7 +160,7 @@
     },
     "stats": {
       "experience": {
-        "number": "12+",
+        "number": "15+",
         "label": "Ani Infrastructură"
       },
       "clients": {
@@ -258,26 +258,27 @@
         "bulgaria": "Bulgaria",
         "sweden": "Suedia",
         "finland": "Finlanda",
-        "serbia": "Serbia"
+        "serbia": "Serbia",
+        "turkey": "Turcia"
       }
     },
     "tabContent": {
       "workVisa": {
-        "title": "Proces de Recrutare",
-        "description": "Recrutarea specialiștilor internaționali oferă oportunități enorme pentru a aborda lipsa de competențe din Germania. Cu abordarea noastră țintită și structurată, organizăm eficient procesul de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
-        "stat1": { "number": "95%", "label": "recrutare reușită" },
-        "stat2": { "number": "30", "label": "zile timp mediu" },
-        "category": "Proces de Recrutare"
+        "title": "Procesul de recrutare",
+        "description": "Recrutarea specialiștilor internaționali oferă o oportunitate excelentă de a acoperi deficitul de forță de muncă calificată din Germania. Prin abordarea noastră țintită și structurată, structurăm eficient procesul dvs. de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
+        "stat1": { "number": "95%", "label": "recrutare de succes" },
+        "stat2": { "number": "", "label": "Proces Rapid" },
+        "category": "Procesul de recrutare"
       },
       "documentation": {
-        "title": "Proces de Pregătire a Documentelor",
-        "description": "Viza pentru recunoașterea calificărilor profesionale străine se adresează lucrătorilor calificați care își doresc să-și recunoască calificările profesionale dobândite în străinătate în Germania. Pregătim documentele în conformitate cu standardele germane și facilitează procesul de recunoaștere.",
-        "stat1": { "number": "100%", "label": "conformitate documente" },
-        "stat2": { "number": "48", "label": "ore pregătire" },
-        "category": "Pregătirea Documentelor"
+        "title": "Cerințe lingvistice",
+        "description": "Nivel B1 de germană și certificate de competențe profesionale.",
+        "stat1": { "number": "100%", "label": "conformitatea documentelor" },
+        "stat2": { "number": "B1/B2", "label": "Niveluri de limbă" },
+        "category": "Cerințe lingvistice"
       },
       "skillsAssessment": {
-        "title": "Evaluarea Calificărilor Profesionale",
+        "title": "Evaluarea calificărilor profesionale",
         "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu competențe de limba germană la nivel B1 și dovada siguranței financiare.",
         "stat1": { "number": "85%", "label": "recunoaștere reușită" },
         "stat2": { "number": "12", "label": "ani experiență" },
@@ -286,8 +287,8 @@
     },
     "tabButtons": {
       "workVisa": "Recrutare",
-      "documentation": "Documentație",
-      "skillsAssessment": "Calificări Profesionale"
+      "documentation": "Cerințe lingvistice",
+      "skillsAssessment": "Calificare profesională"
     }
   },
   "professions": {
@@ -349,26 +350,26 @@
     ]
   },
   "process": {
-    "title": "Procesul Nostru de Cerere de Viză",
-    "subtitle": "Minimizăm complexitatea gestionării documentelor tale complexe cu instrumentele noastre care simplifică procesul de cerere de viză.",
+    "title": "Asistență în procesul de aplicare pentru viză",
+    "subtitle": "Vă sprijinim în gestionarea documentelor complexe cu instrumentele noastre care vă simplifică procesul de aplicare pentru viză.",
     "step1": {
-      "title": "Consultație și Evaluare Inițială",
-      "description": "Analizăm profilul și obiectivele tale pentru a dezvolta o strategie personalizată de viză pentru tine.",
-      "alt": "Consultație pentru viză"
+      "title": "Asistență pentru consultanță și evaluare inițială",
+      "description": "Vă sprijinim în dezvoltarea unei strategii personalizate de viză prin analizarea profilului și obiectivelor dumneavoastră.",
+      "alt": "Consultanță pentru viză"
     },
     "step2": {
-      "title": "Pregătirea și Revizuirea Documentelor",
-      "description": "Pregătim toate documentele tale conform standardelor internaționale și detectăm orice deficiențe instantaneu.",
+      "title": "Asistență pentru pregătirea și revizuirea documentelor",
+      "description": "Vă sprijinim pe parcursul întregului proces de pregătire, ajutându-vă să accesați toate documentele necesare.",
       "alt": "Pregătirea documentelor"
     },
     "step3": {
-      "title": "Depunerea Cererii și Urmărirea",
-      "description": "Depunem cererea ta în siguranță și o monitorizăm continuu până la finalizare.",
-      "alt": "Urmărirea cererii"
+      "title": "Asistență pentru aplicare și urmărire",
+      "description": "Oferim asistență pentru a vă ajuta să depuneți în siguranță cererea și să o monitorizați continuu până la finalizare.",
+      "alt": "Urmărirea aplicației"
     }
   },
   "contact": {
-    "title": "Hai să Vorbim",
+    "title": "Să vorbim",
     "jobSeeker": "Căutător de Locuri de Muncă",
     "employer": "Angajator",
     "subtitle": "Fie că ești gata să programezi prima consultație sau doar ai întrebări, am fi bucuroși să auzim de tine.",
@@ -954,17 +955,13 @@
     },
     "about": {
       "title": "Un alt fel de consultanță.",
-      "description": "Oferim servicii complete pentru a-ți atinge obiectivele de carieră internaționale în sectorul sănătății.",
-      "statsTitle": "În Cifre",
+      "description": "Oferim servicii complete pentru a vă atinge obiectivele de carieră internațională în sectorul sănătății.",
+      "statsTitle": "În cifre",
       "stats": {
-        "experience": {
-          "number": "15+",
-          "label": "Ani de experiență"
-        },
-        "satisfaction": "95%",
-        "healthPersonnel": "Personal Medical",
-        "successRate": "Rată de Succes",
-        "partners": "Organizații Partenere"
+        "experience": "Ani de Infrastructură",
+        "healthPersonnel": "Personal sanitar",
+        "successRate": "Rata de succes",
+        "partners": "Organizații partenere"
       },
       "content": {
         "paragraph1": "Sectorul sănătății se schimbă și se dezvoltă constant. Nevoia de personal medical în Germania crește în fiecare zi. Acum este momentul potrivit pentru a profita de această oportunitate.",

@@ -95,19 +95,13 @@ export default function ServicesPage() {
   ];
 
   const countries = [
-    { name: 'Germany', flag: '🇩🇪', popular: true },
-    { name: 'Austria', flag: '🇦🇹', popular: true },
-    { name: 'Croatia', flag: '🇭🇷', popular: false },
-    { name: 'Bulgaria', flag: '🇧🇬', popular: false },
-    { name: 'Romania', flag: '🇷🇴', popular: false },
-    { name: 'Serbia', flag: '🇷🇸', popular: false },
-
-    { name: 'Netherlands', flag: '🇳🇱', popular: true },
-    { name: 'Switzerland', flag: '🇨🇭', popular: false },
-    { name: 'Belgium', flag: '🇧🇪', popular: false },
-    { name: 'Luxembourg', flag: '🇱🇺', popular: false },
-    { name: 'Denmark', flag: '🇩🇰', popular: false },
-    { name: 'Sweden', flag: '🇸🇪', popular: false },
+    { name: t('services.countries.countryNames.germany'), flag: '🇩🇪', popular: true },
+    { name: t('services.countries.countryNames.netherlands'), flag: '🇳🇱', popular: true },
+    { name: t('services.countries.countryNames.turkey'), flag: '🇹🇷', popular: true },
+    { name: t('services.countries.countryNames.romania'), flag: '🇷🇴', popular: true },
+    { name: t('services.countries.countryNames.bulgaria'), flag: '🇧🇬', popular: false },
+    { name: t('services.countries.countryNames.serbia'), flag: '🇷🇸', popular: false },
+ 
   ];
 
   const visaTypes = [
@@ -247,77 +241,23 @@ export default function ServicesPage() {
         {/* Countries Section */}
         <section className="pb-16 lg:pb-24">
           <div className="container space-y-8 lg:space-y-12">
-            <div className="text-center max-w-4xl mx-auto">
-              <h2 className="text-lg md:text-xl lg:text-2xl text-balance leading-tight">
+            <div className="text-center max-w-2xl mx-auto">
+              <h2 className="text-xl tracking-tight md:text-2xl lg:text-3xl">
                 {t('services.countries.title')}
-                <br className="hidden md:block"/>
-                <span className="text-muted-foreground block mt-2">{t('services.countries.subtitle')}</span>
               </h2>
+              <p className="text-muted-foreground mt-2 md:mt-3 md:text-lg">
+                {t('services.countries.subtitle')}
+              </p>
             </div>
             
-            <div className="flex w-full flex-col items-center gap-6 lg:gap-8">
-              {/* First row of countries */}
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-6 lg:gap-12 w-full max-w-2xl">
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇩🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.germany')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇦🇹</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.austria')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇳🇱</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.netherlands')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇨🇭</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.switzerland')}</p>
-                </div>
-              </div>
-              
-              {/* Second row of countries */}
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 lg:gap-8 w-full max-w-3xl">
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇧🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.belgium')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇱🇺</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.luxembourg')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇩🇰</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.denmark')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇷🇸</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.serbia')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇷🇴</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.romania')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇭🇷</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.croatia')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇧🇬</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.bulgaria')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇳🇱</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.netherlands')}</p>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl lg:text-4xl mb-2">🇸🇪</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.sweden')}</p>
-                </div>
-                <div className="text-center md:col-start-2 lg:col-start-auto">
-                  <div className="text-3xl lg:text-4xl mb-2">🇫🇮</div>
-                  <p className="text-sm lg:text-base text-muted-foreground font-medium">{t('services.countries.countryNames.finland')}</p>
-                </div>
+            <div className="relative">
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6 lg:gap-8">
+                {countries.map((country, index) => (
+                  <div key={index} className="text-center">
+                    <div className="text-3xl lg:text-4xl mb-2">{country.flag}</div>
+                    <p className="text-sm lg:text-base text-muted-foreground font-medium">{country.name}</p>
+                  </div>
+                ))}
               </div>
             </div>
           </div>

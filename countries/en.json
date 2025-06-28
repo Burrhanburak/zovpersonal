@@ -9,10 +9,10 @@
     "services": "Services",
     "about": "About Us",
     "contact": "Contact",
-    "consultation": "Free Employer Partnership"
+    "consultation": "Employer Support"
   },
   "hero": {
-    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
+    "title": "International Future-Oriented Recruitment Agency (ZOV)",
     "subtitle": "Your trusted partner for international career opportunities",
     "description": "We connect qualified professionals with innovative companies worldwide. Future-oriented recruitment for sustainable success in Germany and the EU.",
     "longDescription": "Your trusted partner connecting qualified professionals with international employers. Whether you're seeking support in the recruitment process or pursuing career opportunities abroad, achieve success with our expert team.",
@@ -161,7 +161,7 @@
     "stats": {
       "experience": {
         "number": "15+",
-        "label": "Years of Experience"
+        "label": "Years of Infrastructure"
       },
       "satisfaction": "95%",
       "clients": {
@@ -259,23 +259,24 @@
         "bulgaria": "Bulgaria",
         "sweden": "Sweden",
         "finland": "Finland",
-        "serbia": "Serbia"
+        "serbia": "Serbia",
+        "turkey": "Turkey"
       }
     },
     "tabContent": {
       "workVisa": {
         "title": "Recruitment Process",
-        "description": "Recruiting international specialists offers tremendous opportunities to address the skills shortage in Germany. With our targeted and structured approach, we effectively organize your recruitment process to successfully attract qualified healthcare professionals from abroad.",
+        "description": "Recruiting international specialists offers a great opportunity to close the skilled labor gap in Germany. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad.",
         "stat1": { "number": "95%", "label": "successful recruitment" },
-        "stat2": { "number": "30", "label": "days average time" },
+        "stat2": { "number": "", "label": "Fast Process" },
         "category": "Recruitment Process"
       },
       "documentation": {
-        "title": "Document Preparation Process",
-        "description": "Visa for recognition of foreign professional qualifications is aimed at skilled workers who want their professional qualifications acquired abroad to be recognized in Germany. We prepare your documents in accordance with German standards and facilitate the recognition process.",
+        "title": "Language Requirements",
+        "description": "B1 German level and professional skill certificates.",
         "stat1": { "number": "100%", "label": "document compliance" },
-        "stat2": { "number": "48", "label": "hours ready" },
-        "category": "Document Preparation"
+        "stat2": { "number": "B1/B2", "label": "Language Levels" },
+        "category": "Language Requirements"
       },
       "skillsAssessment": {
         "title": "Professional Qualification Assessment",
@@ -287,7 +288,7 @@
     },
     "tabButtons": {
       "workVisa": "Recruitment",
-      "documentation": "Documentation",
+      "documentation": "Language Requirements",
       "skillsAssessment": "Professional Qualification"
     }
   },
@@ -350,21 +351,21 @@
     ]
   },
   "process": {
-    "title": "Our Visa Application Process",
-    "subtitle": "We minimize the complexity of managing your complex documents with our tools that simplify your visa application process.",
+    "title": "Visa Application Process Support",
+    "subtitle": "We support you in managing your complex documents with our tools that simplify your visa application process.",
     "step1": {
-      "title": "Initial Consultation and Assessment",
-      "description": "We analyze your profile and goals to develop a personalized visa strategy for you.",
+      "title": "Initial Consultation and Assessment Support",
+      "description": "We support you in developing a personalized visa strategy by analyzing your profile and goals.",
       "alt": "Visa consultation"
     },
     "step2": {
-      "title": "Document Preparation and Review",
-      "description": "We prepare all your documents to international standards and detect any deficiencies instantly.",
+      "title": "Document Preparation and Review Support",
+      "description": "We support you throughout the preparation process by helping you access all your necessary documents.",
       "alt": "Document preparation"
     },
     "step3": {
-      "title": "Application and Follow-up",
-      "description": "We securely submit your application and continuously monitor it until completion.",
+      "title": "Application and Follow-up Support",
+      "description": "We provide support to help you securely submit your application and continuously monitor it until completion.",
       "alt": "Application tracking"
     }
   },
@@ -905,10 +906,10 @@
     "about": {
       "title": "A different kind of consultancy.",
       "description": "We offer comprehensive services to achieve your international career goals in the healthcare sector.",
-      "statsTitle": "By Numbers",
+      "statsTitle": "By the numbers",
       "stats": {
-        "experience": "Years Experience",
-        "healthPersonnel": "Health Personnel",
+        "experience": "Years of Infrastructure",
+        "healthPersonnel": "Healthcare Personnel",
         "successRate": "Success Rate",
         "partners": "Partner Organizations"
       },
