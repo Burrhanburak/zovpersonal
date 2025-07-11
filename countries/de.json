@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - Internationale Zukunftsorientierte Personalvermittlung",
+    "title": "ZovPersonal - Internationale Zukunftsorientierte Personalvermittlung (ZOV)",
     "description": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland, EU-Ländern und darüber hinaus.",
     "keywords": "internationale Personalvermittlung, Arbeitgeberpartnerschaft, Jobvermittlung, Deutschland Jobs, EU Beschäftigung, Personalvermittlungsagentur, zovpersonal"
   },
@@ -12,7 +12,7 @@
     "consultation": "Arbeitgeberunterstützung"
   },
   "hero": {
-    "title": "Internationale, zukunftsorientierte Personalagentur (ZOV)",
+    "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
     "subtitle": "Ihr vertrauensvoller Partner für internationale Karrierechancen",
     "description": "Wir verbinden qualifizierte Fachkräfte mit innovativen Unternehmen weltweit. Zukunftsorientierte Personalvermittlung für nachhaltigen Erfolg in Deutschland und der EU.",
     "longDescription": "Ihr vertrauensvoller Partner, der qualifizierte Fachkräfte mit internationalen Arbeitgebern verbindet. Egal, ob Sie Unterstützung beim Rekrutierungsprozess suchen oder Karrieremöglichkeiten im Ausland verfolgen - erreichen Sie Erfolg mit unserem Expertenteam.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "Internationale Zukunftsorientierte Personalvermittlung",
       "title": "Internationale Zukunftsorientierte Personalvermittlung",
-      "description": "Unser Jobsucherprogramm ist darauf ausgelegt, Ihnen dabei zu helfen, Ihren Traumjob im Ausland zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für Ihren Erfolg benötigen.",
+      "description": "Unser Jobsucherprogramm ist darauf ausgelegt, Ihnen dabei zu helfen, Ihren Traumjob zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für Ihren Erfolg benötigen.",
       "cards": {
         "recruitment": {
           "category": "Gastgewerbe & Reinigung",
@@ -152,10 +152,10 @@
     }
   },
   "about": {
-    "hero": {
-      "title": "Internationale, zukunftsorientierte Personalagentur (ZOV)",
+      "hero": {
+    "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
       "subtitle": "ZovPersonal verbindet qualifizierte Fachkräfte mit Europas führenden Unternehmen durch zukunftsorientierte internationale Rekrutierungsprozesse.",
-      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Visa-Antrag erfolgreich abzuschließen.",
+      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Rekrutierungsantrag erfolgreich abzuschließen.",
       "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir Ihnen helfen können, besser als je zuvor zu arbeiten. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
     },
     "stats": {
@@ -169,7 +169,7 @@
       },
       "visas": {
         "number": "10K+",
-        "label": "Genehmigte Visa"
+        "label": "Erfolgreiche Vermittlungen"
       },
       "countries": {
         "number": "25+",
@@ -186,7 +186,7 @@
       "cta": "Kontaktieren Sie uns"
     },
     "company": {
-      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, internationale Visa-Prozesse zu transformieren und unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen und Ineffizienzen zu bieten. Durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit stellen wir die Werkzeuge bereit, die für den Erfolg jedes Visa-Antrags benötigt werden.",
+      "description1": "Bei ZovPersonal sind wir darauf spezialisiert, internationale Rekrutierungsprozesse zu transformieren und unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen und Ineffizienzen zu bieten. Durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit stellen wir die Werkzeuge bereit, die für den Erfolg jedes Rekrutierungsantrags benötigt werden.",
       "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir besseren Service als je zuvor bieten können. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
     },
     "images": {
@@ -227,10 +227,10 @@
   },
   "services": {
     "title": "Ihre Karriere weltweit voranbringen",
-    "subtitle": "Wir verbinden talentierte Fachkräfte mit führenden Unternehmen in Deutschland.",
+    "subtitle": "Wir verbinden talentierte Fachkräfte mit führenden Unternehmen in Deutschland und weltweit.",
     "workVisa": {
       "title": "Unterstützung bei Arbeitsvisa",
-      "description": "Volle Unterstützung und Anleitung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern, darunter Serbien, Bulgarien, Kroatien, Rumänien, die Niederlande und die Türkei."
+      "description": "Volle Unterstützung und Anleitung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern, darunter Serbien, Bulgarien, Kroatien, Rumänien, die Niederlande, Deutschland und die Türkei."
     },
     "skillsAssessment": {
       "title": "Kompetenzbewertung",
@@ -238,7 +238,7 @@
     },
     "documentation": {
       "title": "Sprachanforderungen",
-      "description": "B1-Deutschniveau und berufliche Fähigkeitszeugnisse."
+      "description": "Sprachkenntnisse Zertifikate je nach Berufsart und berufliche Fähigkeitszeugnisse."
     },
     "consultation": {
       "title": "Persönliche Beratung",
@@ -267,21 +267,21 @@
     "tabContent": {
       "workVisa": {
         "title": "Rekrutierungsprozess",
-        "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Deutschland zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
+        "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Europa zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
         "stat1": { "number": "95%", "label": "erfolgreiche Rekrutierung" },
         "stat2": { "number": "", "label": "Schneller Prozess" },
         "category": "Rekrutierungsprozess"
       },
       "documentation": {
         "title": "Sprachanforderungen",
-        "description": "B1-Deutschniveau und berufliche Fähigkeitszeugnisse.",
+        "description": "Sprachkenntnisse Zertifikate je nach Berufsart und berufliche Fähigkeitszeugnisse.",
         "stat1": { "number": "100%", "label": "Dokumentenkonformität" },
-        "stat2": { "number": "B1/B2", "label": "Sprachniveaus" },
+        "stat2": { "number": "✓", "label": "Berufliche Qualifikationszertifikate" },
         "category": "Sprachanforderungen"
       },
       "skillsAssessment": {
         "title": "Berufsqualifikationsbewertung",
-        "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit deutschen Sprachkenntnissen auf B1-Niveau und Nachweis der finanziellen Sicherheit.",
+        "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit Sprachkenntnisse Zertifikate je nach Berufsart und Nachweis der finanziellen Sicherheit.",
         "stat1": { "number": "85%", "label": "erfolgreiche Anerkennung" },
         "stat2": { "number": "15", "label": "Jahre Infrastruktur" },
         "category": "Berufliche Qualifikation"
@@ -563,23 +563,23 @@
     "items": [
       {
         "question": "In welchen Ländern bietet ZOV Personal Dienstleistungen an?",
-        "answer": "Wir bieten Personalbeschaffungs- und Arbeitgeberpartnerschaftsdienste in vielen Ländern an, hauptsächlich in Serbien, Rumänien, Kroatien, Bulgarien, den Niederlanden und der Türkei."
+        "answer": "Wir bieten Personalbeschaffungs- und Arbeitgeberpartnerschaftsdienste in vielen Ländern an, hauptsächlich in Serbien, Rumänien, Kroatien, Bulgarien, den Niederlanden, Deutschland und der Türkei."
       },
       {
-        "question": "Wie läuft das Bewerbungsverfahren ab?",
-        "answer": "Die Dauer variiert je nach Land und Visumtyp und beträgt in der Regel 2-6 Monate. Eine vollständige Vorbereitung der Unterlagen und die Einhaltung der korrekten Verfahren beschleunigen den Prozess."
+        "question": "Wie funktioniert die Personalbeschaffung?",
+        "answer": "Unser Rekrutierungsprozess läuft schrittweise ab. Zunächst bewerten wir Ihre Qualifikationen, finden dann geeignete Positionen und koordinieren Vorstellungsgespräche. Durch unsere Partnerunternehmen bieten wir schnelle und sichere Stellenvermittlung."
       },
       {
-        "question": "Was tun Sie, wenn der Antrag abgelehnt wird?",
-        "answer": "Im Falle einer Ablehnung analysieren wir die Gründe und entwickeln eine neue Strategie. Bei Bedarf leiten wir Berufungsverfahren ein und bereiten nach Behebung der Mängel einen neuen Antrag vor. Wir unterstützen unsere Kunden während des gesamten Prozesses."
+        "question": "Wie funktioniert der Jobsuchprozess in Europa?",
+        "answer": "Wir führen Sie durch den Jobsuchprozess in Europa. Wir verwalten die Lebenslaufvorbereitung, Positionsabstimmung, Interviewkoordination und Visa-Prozesse. Durch unser umfangreiches Arbeitgebernetzwerk bieten wir Ihnen geeignete Jobmöglichkeiten."
       },
       {
-        "question": "Was sind Ihre Servicegebühren?",
-        "answer": "Unsere Gebühren variieren je nach Art und Komplexität der Dienstleistung. Die Erstberatung ist kostenlos. Für detaillierte Preisinformationen können Sie uns für ein personalisiertes Angebot kontaktieren."
+        "question": "Wie funktioniert die Mitarbeiterintegration in Europa?",
+        "answer": "Nachdem internationale Mitarbeiter erfolgreich Europa erreicht haben, beginnt der kritische Prozess der Integration."
       },
       {
-        "question": "In welchen Sprachen sollten meine Dokumente vorbereitet werden?",
-        "answer": "Ihre Dokumente müssen in die Amtssprache des Ziellandes übersetzt werden. Wir bieten auch beglaubigte Übersetzungsdienste an. Wir decken Ihren Übersetzungsbedarf in Deutsch, Englisch und anderen Sprachen."
+        "question": "Was sind die Verpflichtungen in Europa?",
+        "answer": "Qualifizierte Arbeitskräfte, die nach Europa migrieren, unterliegen einer Reihe von Verpflichtungen, um einen reibungslosen Start in ihr Arbeitsleben und ihren Alltag zu gewährleisten."
       }
     ]
   },
@@ -592,7 +592,7 @@
     "copyright": "©2025 Alle Rechte vorbehalten, Zov Personal.",
     "legal": "Unsere Beratungsdienstleistungen dienen zu Informationszwecken und stellen keine Garantie dar. Visa-Antragsprozesse unterliegen Länderbestimmungen und Ergebnisse können variieren. Kontaktieren Sie unsere Expertenberater zur Bewertung Ihrer persönlichen Situation.",
     "email": "info@zovpersonal.com",
-    "phone": "(Türkei) | +90 555 123 45 67 (Deutschland) | +49 30 12345678 ",
+    "phone": "(Türkei) | +90 555 123 45 67 (Deutschland) | +4915757295545",
     "address": "Istanbul, Türkei, Brückstraße 59, 26725 Emden, Deutschland",
     "links": {
       "home": "Startseite",
@@ -803,6 +803,36 @@
         "title": "Gesundheitsspezialisten und Therapeuten",
         "description": "Arbeitsmöglichkeiten in Deutschland für Physiotherapeuten, Psychologen, Ernährungsberater und andere Gesundheitsspezialisten. Spezialisierte Visumberatung und berufliche Anerkennungsverfahren für Ihr Fachgebiet.",
         "button": "Mehr erfahren"
+      },
+      "construction": {
+        "status": "Hohe Nachfrage",
+        "title": "Bauarbeiter",
+        "description": "Prozessberatung für Fachkräfte, die im Baugewerbe arbeiten möchten.",
+        "button": "Mehr erfahren"
+      },
+      "electrician": {
+        "status": "Gefragte Fähigkeit",
+        "title": "Elektriker",
+        "description": "Beruflicher Prozess für Elektriker, die in Elektroinstallation und Reparatur arbeiten möchten.",
+        "button": "Mehr erfahren"
+      },
+      "hospitality": {
+        "status": "Beliebte Wahl",
+        "title": "Hotel & Restaurant",
+        "description": "Beratung für Fachkräfte, die im Hotel-, Restaurant- und Tourismussektor arbeiten möchten.",
+        "button": "Mehr erfahren"
+      },
+      "logistics": {
+        "status": "Wachsender Sektor",
+        "title": "Logistik & Fahren",
+        "description": "Prozess für Fachkräfte, die in Transport, Logistik und Fahren arbeiten möchten.",
+        "button": "Mehr erfahren"
+      },
+      "service": {
+        "status": "Sichere Beschäftigung",
+        "title": "Dienstleistungssektor",
+        "description": "Beratung für diejenigen, die im Verkauf, Sicherheit, Reinigung und anderen Dienstleistungsbereichen arbeiten möchten.",
+        "button": "Mehr erfahren"
       }
     },
     "otherProfessions": {
@@ -841,23 +871,23 @@
       },
       "content": {
         "jobSearch": {
-          "title": "Arbeit finden in Deutschland",
+          "title": "Arbeit finden in Europa",
           "subtitle": "Gesundheitswesen fokussiert",
-          "description": "Wir bieten professionelle Beratung im Jobsuchprozess im Gesundheitswesen. Dank unserem starken Netzwerk mit Krankenhäusern und Gesundheitseinrichtungen in Deutschland helfen wir Ihnen, für Sie geeignete Positionen zu finden.",
+          "description": "Wir bieten professionelle Beratung im Jobsuchprozess im Gesundheitswesen. Dank unserem starken Netzwerk mit Krankenhäusern und Gesundheitseinrichtungen in Europa helfen wir Ihnen, für Sie geeignete Positionen zu finden.",
           "detail": "Wir begleiten Sie durch den gesamten Prozess von der Lebenslaufvorbereitung bis zum Vorstellungsgespräch.",
           "footer": "Wir haben Karriereberatungsdienste speziell für Ihren Beruf und Jobmöglichkeiten."
         },
         "visaApplication": {
           "title": "Unterstützung im Bewerbungsprozess",
           "subtitle": "Antragsprozess",
-          "description": "Wir bieten Informationen und Orientierungshilfen für Ihr Antragsverfahren für ein deutsches nationales Arbeitsvisum. Indem wir Sie während des gesamten Prozesses unterstützen, helfen wir Ihnen, Ihren Antrag leichter zu verfolgen.",
+          "description": "Wir bieten Informationen und Orientierungshilfen für Ihr Antragsverfahren für ein europäisches nationales Arbeitsvisum. Indem wir Sie während des gesamten Prozesses unterstützen, helfen wir Ihnen, Ihren Antrag leichter zu verfolgen.",
           "detail": "Wir informieren Sie darüber, was Sie bei der Vorbereitung Ihrer Unterlagen und der Vereinbarung eines Termins beachten müssen.",
           "footer": "Kontaktieren Sie uns für weitere Informationen zum Prozess."
         },
         "companyAgreements": {
           "title": "Partnerunternehmen",
           "subtitle": "Jobgarantie",
-          "description": "Dank unserer speziellen Vereinbarungen mit 150+ Partnerkrankenhäusern und Gesundheitseinrichtungen in Deutschland bieten wir Ihnen direkte Jobmöglichkeiten.",
+          "description": "Dank unserer speziellen Vereinbarungen mit Partnerkrankenhäusern und Gesundheitseinrichtungen in Europa bieten wir Ihnen direkte Jobmöglichkeiten.",
           "detail": "Nach Erhalt eines Jobangebots verläuft Ihr Visumprozess viel schneller und sicherer.",
           "footer": "Sie können mit unseren Partnerunternehmen langfristige Karriereplanung machen."
         }
@@ -865,28 +895,28 @@
     },
     "about": {
       "title": "Eine andere Art der Beratung.",
-      "description": "Wir bieten umfassende Dienstleistungen zur Verwirklichung Ihrer internationalen Karriereziele im Gesundheitswesen.",
+      "description": "Wir bieten umfassende Dienstleistungen zur Verwirklichung Ihrer internationalen Karriereziele im Gesundheitswesen, Dienstleistungssektor, Bauwesen und anderen Branchen.",
       "statsTitle": "In Zahlen",
       "stats": {
         "experience": "Jahre Infrastruktur",
-        "healthPersonnel": "Gesundheitspersonal",
+        "healthPersonnel": "Allgemeines Personal",
         "successRate": "Erfolgsquote",
         "partners": "Partnerorganisationen"
       },
       "content": {
-        "paragraph1": "Das Gesundheitswesen verändert und entwickelt sich ständig. Der Bedarf an Gesundheitspersonal in Deutschland steigt täglich. Jetzt ist die richtige Zeit, diese Gelegenheit zu nutzen.",
-        "highlight": "In Deutschland zu arbeiten ist nicht nur ein Traum. Wir machen es für Sie zur Realität.",
-        "paragraph2": "Unser Team, das jahrelang in diesem Sektor gearbeitet hat, stood vor allen Herausforderungen in den Ansiedlungsprozessen von Gesundheitspersonal in Deutschland. Traditionelle Methoden reichen nicht aus. Wir bieten einen umfassenden Beratungsservice, der speziell für Gesundheitspersonal entwickelt wurde."
+        "paragraph1": "Gesundheitswesen, Dienstleistungssektor, Bauwesen und andere Branchen verändern und entwickeln sich ständig. Der Bedarf an qualifiziertem Personal in Europa steigt täglich. Jetzt ist die richtige Zeit, diese Gelegenheit zu nutzen.",
+        "highlight": "In Europa zu arbeiten ist nicht nur ein Traum. Wir machen es für Sie zur Realität.",
+        "paragraph2": "Unser Team, das jahrelang in diesen Sektoren gearbeitet hat, stand vor allen Herausforderungen in den Ansiedlungsprozessen verschiedener Berufsgruppen in Europa. Traditionelle Methoden reichen nicht aus. Wir bieten einen umfassenden Beratungsservice, der speziell für Gesundheitswesen, Dienstleistungen, Bauwesen und andere Branchen entwickelt wurde."
       }
     },
     "architectureSection": {
       "subtitle": "Alles was Sie wissen müssen",
-      "title": "Arbeitsprozess in Deutschland",
-      "description": "Deutschland ist bekannt für seine starke Wirtschaft, Kultur und hohe Lebensqualität. Für Einwanderer bedeutet der Umzug nach Deutschland jedoch mehr als nur eine neue Karriere; es ist der Beginn eines neuen Lebens in einer neuen Umgebung.",
+      "title": "Arbeitsprozess in Europa",
+      "description": "Europa ist bekannt für seine starke Wirtschaft, Kultur und hohe Lebensqualität. Für Einwanderer bedeutet der Umzug nach Europa jedoch mehr als nur eine neue Karriere; es ist der Beginn eines neuen Lebens in einer neuen Umgebung.",
       "cards": {
         "integration": {
           "title": "Mitarbeiterintegration",
-          "description": "Nachdem internationale Mitarbeiter erfolgreich Deutschland erreicht haben, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um langfristige Bindung an das Unternehmen zu gewährleisten."
+          "description": "Nachdem internationale Mitarbeiter erfolgreich Europa erreicht haben, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um langfristige Bindung an das Unternehmen zu gewährleisten."
         },
         "experiencedVisa": {
           "title": "Visum für erfahrene Fachkräfte",
@@ -898,7 +928,7 @@
         },
         "recruitment": {
           "title": "Rekrutierung",
-          "description": "Schritt für Schritt. Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Deutschland zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen."
+          "description": "Schritt für Schritt. Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Europa zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen."
         }
       },
       "learnMore": "Mehr erfahren"

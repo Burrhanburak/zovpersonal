@@ -271,7 +271,7 @@ export default function PrivacyPolicyPage() {
                         <span className="font-medium">
                           {t('sections.contact.offices.germany.phone')}:
                         </span><br />
-                        +49 30 12345678
+                        +4915757295545
                       </p>
                       <p>
                         <span className="font-medium">E-mail:</span><br />

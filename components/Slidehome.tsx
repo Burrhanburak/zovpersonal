@@ -64,16 +64,22 @@ const DummyContent = ({ t, contentKey }: { t: any, contentKey: string }) => {
 
 const data = (t: any) => [
   {
+    category: t("home.carousel.cards.healthcare.category"),
+    title: t("home.carousel.cards.healthcare.title"),
+    src: "/hemsire-two.png",
+    content: <DummyContent t={t} contentKey="healthcare" />,
+  },
+  {
     category: t("home.carousel.cards.recruitment.category"),
     title: t("home.carousel.cards.recruitment.title"),
     src: "/is-alim-onei.png",
     content: <DummyContent t={t} contentKey="recruitment" />,
   },
   {
-    category: t("home.carousel.cards.partnership.category"),
-    title: t("home.carousel.cards.partnership.title"),
-    src: "/is-veren-two.png",
-    content: <DummyContent t={t} contentKey="partnership" />,
+    category: t("home.carousel.cards.construction.category"),
+    title: t("home.carousel.cards.construction.title"),
+    src: "/insaat.png",
+    content: <DummyContent t={t} contentKey="construction" />,
   },
   {
     category: t("home.carousel.cards.visaprocess.category"),
@@ -82,21 +88,18 @@ const data = (t: any) => [
     content: <DummyContent t={t} contentKey="visaprocess" />,
   },
   {
+    category: t("home.carousel.cards.partnership.category"),
+    title: t("home.carousel.cards.partnership.title"),
+    src: "/is-veren-two.png",
+    content: <DummyContent t={t} contentKey="partnership" />,
+  },
+
+  {
     category: t("home.carousel.cards.support.category"),
     title: t("home.carousel.cards.support.title"),
     src: "/müsteri-iliskilerii.png",
     content: <DummyContent t={t} contentKey="support" />,
   },
-  {
-    category: t("home.carousel.cards.healthcare.category"),
-    title: t("home.carousel.cards.healthcare.title"),
-    src: "/hemsire-two.png",
-    content: <DummyContent t={t} contentKey="healthcare" />,
-  },
-  {
-    category: t("home.carousel.cards.construction.category"),
-    title: t("home.carousel.cards.construction.title"),
-    src: "/insaat.png",
-    content: <DummyContent t={t} contentKey="construction" />,
-  },
+
+
 ];

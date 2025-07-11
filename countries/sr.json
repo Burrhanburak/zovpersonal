@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti",
+    "title": "ZovPersonal - Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti (ZOV)",
     "description": "Pouzdani partner koji povezuje kvalifikovane profesionalce sa međunarodnim poslodavcima. Usluge zapošljavanja orijentisane ka budućnosti za Nemačku, EU zemlje i više.",
     "keywords": "međunarodno zapošljavanje, partnerstvo sa poslodavcima, plasman posla, poslovi u Nemačkoj, zapošljavanje u EU, agencija za zapošljavanje, zovpersonal"
   },
@@ -12,7 +12,7 @@
       "consultation": "Podrška za poslodavce"
     },
     "hero": {
-      "title": "Međunarodna Agencija za Zaposlenje Orijentisana ka Budućnosti (ZOV)",
+      "title": "Međunarodno Buduće Orijentisano Posredovanje Osoblja (ZOV)",
       "subtitle": "Vaš pouzdani partner za međunarodne karijerne prilike",
       "description": "Povezujemo kvalifikovane profesionalce sa inovativnim kompanijama širom sveta. Zaposlenje orijentisano ka budućnosti za održivi uspeh u Nemačkoj i EU.",
       "longDescription": "Vaš pouzdani partner koji povezuje kvalifikovane profesionalce sa međunarodnim poslodavcima. Bez obzira da li tražite podršku u procesu zapošljavanja ili težite karijeri u inostranstvu, ostvarite uspeh sa našim stručnim timom.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "Međunarodno zapošljavanje usmereno na budućnost",
       "title": "Međunarodno zapošljavanje usmereno na budućnost",
-      "description": "Naš program za tražioce posla osmišljen je da vam pomogne da pronađete posao iz snova u inostranstvu. Pružamo alate i resurse potrebne za vaš uspeh.",
+      "description": "Naš program za tražioce posla osmišljen je da vam pomogne da pronađete posao iz snova. Pružamo alate i resurse potrebne za vaš uspeh.",
         "cards": {
           "recruitment": {
             "category": "Ugostiteljstvo i čišćenje",
@@ -152,10 +152,10 @@
       }
     },
     "about": {
-      "hero": {
-        "title": "Međunarodna Agencija za Zaposlenje Fokusirana na Budućnost (ZOV)",
+          "hero": {
+      "title": "Međunarodno Buduće Orijentisano Posredovanje Osoblja (ZOV)",
         "subtitle": "ZovPersonal povezuje kvalifikovane profesionalce sa vodećim evropskim kompanijama kroz međunarodne procese zapošljavanja usmerene ka budućnosti.",
-        "description1": "U ZovPersonal-u, posvećeni smo pružanju našim klijentima neuporedive prednosti nad kašnjenjima, neefikasnostima i neorganizovanošću kroz korisne uvide i besprekorne saradnje. Nećemo se zaustaviti ni pred čim da vam pružimo alate potrebne za uspešno završavanje svake vize.",
+        "description1": "U ZovPersonal-u, posvećeni smo pružanju našim klijentima neuporedive prednosti nad kašnjenjima, neefikasnostima i neorganizovanošću kroz korisne uvide i besprekorne saradnje. Nećemo se zaustaviti ni pred čim da vam pružimo alate potrebne za uspešno završavanje svake prijave za zapošljavanje.",
         "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo vam pomogli da radite bolje nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kao kompanija, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
       },
       "stats": {
@@ -170,7 +170,7 @@
         },
         "visas": {
           "number": "10K+",
-          "label": "Odobrenih Viza"
+          "label": "Uspešnih Zapošljavanja"
         },
         "countries": {
           "number": "25+",
@@ -185,7 +185,7 @@
         "cta": "Kontaktirajte Nas"
       },
       "company": {
-        "description1": "U ZovPersonal-u, posvećeni smo transformaciji međunarodnih procesa viza i pružanju našim klijentima neuporedive prednosti nad kašnjenjima i neefikasnostima. Kroz korisne uvide i besprekorne saradnje, pružamo alate potrebne za uspeh svake aplikacije za vizu.",
+        "description1": "U ZovPersonal-u, posvećeni smo transformaciji međunarodnih procesa zapošljavanja i pružanju našim klijentima neuporedive prednosti nad kašnjenjima i neefikasnostima. Kroz korisne uvide i besprekorne saradnje, pružamo alate potrebne za uspeh svake aplikacije za zapošljavanje.",
         "description2": "Opsednuti smo klijentima — ulažemo vreme da razumemo svaki aspekt vašeg procesa kako bismo mogli pružiti bolju uslugu nego ikad ranije. Svi smo u ovome zajedno jer je vaš uspeh naš uspeh. U našoj istoriji kompanije, nikada nismo izgubili klijenta, jer kada vaši projekti uspeju, uspevamo i mi."
       },
       "images": {
@@ -227,7 +227,7 @@
     },
     "services": {
       "title": "Naše Usluge",
-      "subtitle": "Povezujemo talentovane profesionalce sa vodećim kompanijama u Nemačkoj.",
+      "subtitle": "Povezujemo talentovane profesionalce sa vodećim kompanijama u Nemačkoj i širom sveta.",
       "countries": {
         "title": "Zemlje",
         "subtitle": "Od start-ap kompanija nove generacije do utemeljenih organizacija.",
@@ -250,7 +250,7 @@
       },
       "workVisa": {
         "title": "Pomoć oko radne vize",
-        "description": "Potpuna podrška i vođenje u regrutovanju međunarodnih stručnjaka iz različitih zemalja, uključujući Srbiju, Bugarsku, Hrvatsku, Rumuniju, Holandiju i Tursku."
+        "description": "Potpuna podrška i vođenje u regrutovanju međunarodnih stručnjaka iz različitih zemalja, uključujući Srbiju, Bugarsku, Hrvatsku, Rumuniju, Holandiju, Nemačku i Tursku."
       },
       "skillsAssessment": {
         "title": "Procena veština",
@@ -258,7 +258,7 @@
       },
       "documentation": {
         "title": "Jezički Zahtevi",
-        "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama."
+        "description": "Sertifikati o jezičkoj kompetentnosti prema vrsti profesije i sertifikati o stručnim veštinama."
       },
       "consultation": {
         "title": "Lične konsultacije",
@@ -267,16 +267,16 @@
       "tabContent": {
         "workVisa": {
           "title": "Proces regrutacije",
-          "description": "Regrutovanje međunarodnih stručnjaka pruža veliku priliku za popunjavanje nedostatka kvalifikovane radne snage u Nemačkoj. Sa našim ciljanim i strukturiranim pristupom, efikasno strukturiramo vaš proces regrutacije kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva.",
+          "description": "Regrutovanje međunarodnih stručnjaka pruža veliku priliku za popunjavanje nedostatka kvalifikovane radne snage u Evropi. Sa našim ciljanim i strukturiranim pristupom, efikasno strukturiramo vaš proces regrutacije kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva.",
           "stat1": { "number": "95%", "label": "uspešna regrutacija" },
           "stat2": { "number": "", "label": "Brz proces" },
           "category": "Proces regrutacije"
         },
         "documentation": {
           "title": "Jezički zahtevi",
-          "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama.",
+          "description": "Sertifikati o jezičkoj kompetentnosti prema vrsti profesije i sertifikati o stručnim veštinama.",
           "stat1": { "number": "100%", "label": "usklađenost dokumenata" },
-          "stat2": { "number": "B1/B2", "label": "Nivoi jezika" },
+          "stat2": { "number": "✓", "label": "Sertifikati stručnih kompetencija" },
           "category": "Jezički zahtevi"
         },
         "skillsAssessment": {
@@ -439,7 +439,7 @@
       "quickLinks": "Brzi Linkovi",
       "ourServices": "Resursi",
       "email": "info@zovpersonal.com",
-      "phone": "(Turska) | +90 555 123 45 67 (Nemačka) | +49 30 12345678",
+      "phone": "(Turska) | +90 555 123 45 67 (Nemačka) | +4915757295545",
       "address": "Istanbul, Turska, Brückstraße 59, 26725 Emden, Nemačka",
       "visa": {
         "requiredDocuments": "Potrebni Dokumenti",
@@ -783,23 +783,23 @@
       "items": [
         {
           "question": "U kojim zemljama ZOV Personal pruža usluge?",
-          "answer": "Nudimo usluge zapošljavanja i partnerstva sa poslodavcima u mnogim zemljama, prvenstveno u Srbiji, Rumuniji, Hrvatskoj, Bugarskoj, Holandiji i Turskoj."
+          "answer": "Nudimo usluge zapošljavanja i partnerstva sa poslodavcima u mnogim zemljama, prvenstveno u Srbiji, Rumuniji, Hrvatskoj, Bugarskoj, Holandiji, Nemačkoj i Turskoj."
         },
         {
-          "question": "Kako funkcioniše proces prijave?",
-          "answer": "Trajanje varira u zavisnosti od zemlje i vrste vize, obično u rasponu od 2-6 meseci. Kompletna priprema dokumenata i poštovanje ispravnih procedura ubrzavaju proces."
+          "question": "Kako funkcioniše zapošljavanje?",
+          "answer": "Naš proces zapošljavanja radi korak po korak. Prvo ocenjujemo vaše kvalifikacije, zatim pronalazimo odgovarajuće pozicije i koordiniramo intervjue. Obezbeđujemo brzu i sigurnu postavku kroz naše partnerske kompanije."
         },
         {
-          "question": "Šta radite ako je prijava odbijena?",
-          "answer": "U slučaju odbijanja, analiziramo razloge i razvijamo novu strategiju. Ako je potrebno, vodimo žalbene postupke i pripremamo novu prijavu nakon otklanjanja nedostataka. Nastavljamo da podržavamo naše klijente tokom celog procesa."
+          "question": "Kako funkcioniše proces traženja posla u Evropi?",
+          "answer": "Vodimo vas kroz proces traženja posla u Evropi. Upravljamo pripremom životopisa, usklađivanjem pozicija, koordinacijom intervjua i viznim procesima. Kroz našu obimnu mrežu poslodavaca nudimo vam prikladne mogućnosti posla."
         },
         {
-          "question": "Koje su vaše naknade za usluge?",
-          "answer": "Naše naknade variraju u zavisnosti od vrste i složenosti usluge. Početno savetovanje je besplatno. Za detaljne informacije o cenama, možete nas kontaktirati za personalizovanu ponudu."
+          "question": "Kako funkcioniše integracija zaposlenih u Evropi?",
+          "answer": "Nakon što međunarodni zaposleni uspešno stignu u Evropu, počinje kritični proces integracije."
         },
         {
-          "question": "Na kojim jezicima treba da budu pripremljeni moji dokumenti?",
-          "answer": "Vaši dokumenti moraju biti prevedeni na zvanični jezik ciljne zemlje. Takođe nudimo usluge overenog prevoda. Zadovoljavamo vaše potrebe za prevodom na nemački, engleski i druge jezike."
+          "question": "Koje su obaveze u Evropi?",
+          "answer": "Kvalifikovani radnici koji migriraju u Evropu podležu nizu obaveza kako bi obezbedili glatko pokretanje njihovog radnog života i svakodnevnog života."
         }
       ]
     },
@@ -895,6 +895,36 @@
           "title": "Zdravstveni Specijalisti i Terapeuti",
           "description": "Mogućnosti rada u Nemačkoj za fizioterapeute, psihologe, dijetetičare i ostale zdravstvene specijaliste. Specijalizovane vizne konsultacije i procesi profesionalnog priznavanja za vašu oblast stručnosti.",
           "button": "Saznajte više"
+        },
+        "construction": {
+          "status": "Visoka Potražnja",
+          "title": "Građevinski Radnici",
+          "description": "Procesno vodjenje za kvalifikovane radnike koji žele da rade u građevinskom sektoru.",
+          "button": "Saznajte više"
+        },
+        "electrician": {
+          "status": "Tražena Veština",
+          "title": "Električari",
+          "description": "Profesionalni proces za električare koji žele da rade u električnim instalacijama i popravkama.",
+          "button": "Saznajte više"
+        },
+        "hospitality": {
+          "status": "Popularan Izbor",
+          "title": "Hotel i Restoran",
+          "description": "Vodjenje za profesionalce koji žele da rade u hotelijerstvu, restoratorstvu i turističkom sektoru.",
+          "button": "Saznajte više"
+        },
+        "logistics": {
+          "status": "Rastući Sektor",
+          "title": "Logistika i Vožnja",
+          "description": "Proces za profesionalce koji žele da rade u transportu, logistici i vožnji.",
+          "button": "Saznajte više"
+        },
+        "service": {
+          "status": "Sigurno Zapošljavanje",
+          "title": "Uslužni Sektor",
+          "description": "Vodjenje za one koji žele da rade u prodaji, bezbednosti, čišćenju i drugim uslužnim sektorima.",
+          "button": "Saznajte više"
         }
       },
       "otherProfessions": {
@@ -932,24 +962,24 @@
           "companyAgreements": "Ugovori sa Kompanijama"
         },
         "content": {
-          "jobSearch": {
-            "title": "Pronalaženje Posla u Nemačkoj",
-            "subtitle": "Fokusirano na Zdravstveni Sektor",
-            "description": "Pružamo profesionalno vođenje u procesu traženja posla u zdravstvenom sektoru. Zahvaljujući našoj snažnoj mreži sa bolnicama i zdravstvenim institucijama u Nemačkoj, pomažemo vam da pronađete pozicije koje su vam odgovarajuće.",
+                  "jobSearch": {
+          "title": "Pronalaženje Posla u Evropi",
+          "subtitle": "Fokusirano na Zdravstveni Sektor",
+          "description": "Pružamo profesionalno vođenje u procesu traženja posla u zdravstvenom sektoru. Zahvaljujući našoj snažnoj mreži sa bolnicama i zdravstvenim institucijama u Evropi, pomažemo vam da pronađete pozicije koje su vam odgovarajuće.",
             "detail": "Sa vama smo tokom celog procesa od pripreme CV-a do intervjua.",
             "footer": "Imamo usluge karijernog savetovanja specifične za vašu profesiju i poslovne prilike."
           },
-          "visaApplication": {
-            "title": "Podrška u procesu apliciranja",
-            "subtitle": "Proces aplikacije",
-            "description": "Pružamo informacije i smernice za vaš proces apliciranja za nemačku nacionalnu radnu vizu. Podržavajući vas tokom celog procesa, pomažemo vam da lakše pratite vašu aplikaciju.",
+                  "visaApplication": {
+          "title": "Podrška u procesu apliciranja",
+          "subtitle": "Proces aplikacije",
+          "description": "Pružamo informacije i smernice za vaš proces apliciranja za evropsku nacionalnu radnu vizu. Podržavajući vas tokom celog procesa, pomažemo vam da lakše pratite vašu aplikaciju.",
             "detail": "Informišemo vas o tome šta treba da uzmete u obzir prilikom pripreme dokumenata i zakazivanja sastanka.",
             "footer": "Kontaktirajte nas za više informacija o procesu."
           },
-          "companyAgreements": {
-            "title": "Partnerske Kompanije",
-            "subtitle": "Garancija Posla",
-            "description": "Zahvaljujući našim posebnim ugovorima sa 150+ partnerskih bolnica i zdravstvenih institucija u Nemačkoj, nudimo vam direktne poslovne prilike.",
+                  "companyAgreements": {
+          "title": "Partnerske Kompanije",
+          "subtitle": "Garancija Posla",
+          "description": "Zahvaljujući našim posebnim ugovorima sa partnerskim bolnicama i zdravstvenim institucijama u Evropi, nudimo vam direktne poslovne prilike.",
             "detail": "Nakon primanja ponude posla, vaš proces vize napreduje mnogo brže i sigurnije.",
             "footer": "Možete planirati dugoročnu karijeru sa našim partnerskim kompanijama."
           }
@@ -957,11 +987,11 @@
       },
       "about": {
         "title": "Drugačija vrsta konsaltinga.",
-        "description": "Nudimo sveobuhvatne usluge za postizanje vaših međunarodnih ciljeva u karijeri u zdravstvenom sektoru.",
+        "description": "Nudimo sveobuhvatne usluge za postizanje vaših međunarodnih ciljeva u karijeri u zdravstvenom sektoru, uslugama, građevinarstvu i drugim sektorima.",
         "statsTitle": "U brojkama",
         "stats": {
           "experience": "Godina infrastrukture",
-          "healthPersonnel": "Zdravstveno osoblje",
+          "healthPersonnel": "Opšte osoblje",
           "successRate": "Stopa uspeha",
           "partners": "Partnerske organizacije"
         },
@@ -978,7 +1008,7 @@
         "cards": {
           "integration": {
             "title": "Integracija Zaposlenih",
-            "description": "Nakon što međunarodni zaposleni uspešno stignu u Nemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se osiguralo da se novi zaposleni osećaju ugodno u svom novom okruženju, već i da bi se obezbedila dugoročna posvećenost kompaniji."
+            "description": "Nakon što međunarodni zaposleni uspešno stignu u Evropu, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se osiguralo da se novi zaposleni osećaju ugodno u svom novom okruženju, već i da bi se obezbedila dugoročna posvećenost kompaniji."
           },
           "experiencedVisa": {
             "title": "Viza za Iskusne Profesionalce",
@@ -990,7 +1020,7 @@
           },
           "recruitment": {
             "title": "Zapošljavanje",
-            "description": "Korak po korak. Zapošljavanje međunarodnih specijalista nudi ogromnu priliku za rešavanje nedostatka veština u Nemačkoj. Međutim, da bi ovaj proces bio uspešan, kompanije moraju usvojiti ciljani i struktuirani pristup."
+            "description": "Korak po korak. Zapošljavanje međunarodnih specijalista nudi ogromnu priliku za rešavanje nedostatka veština u Evropi. Međutim, da bi ovaj proces bio uspešan, kompanije moraju usvojiti ciljani i struktuirani pristup."
           }
         },
         "learnMore": "Saznajte Više"

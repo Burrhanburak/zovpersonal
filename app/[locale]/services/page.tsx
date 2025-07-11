@@ -11,10 +11,10 @@ export default function ServicesPage() {
   const [activeTab, setActiveTab] = useState<'workVisa' | 'documentation' | 'skillsAssessment'>('workVisa');
 
   // Console log for debugging
-  console.log('🔍 Current activeTab:', activeTab);
+  // console.log('🔍 Current activeTab:', activeTab);
 
   const handleTabChange = (tab: 'workVisa' | 'documentation' | 'skillsAssessment') => {
-    console.log('🖱️ Button clicked, changing tab from', activeTab, 'to', tab);
+    // console.log('🖱️ Button clicked, changing tab from', activeTab, 'to', tab);
     setActiveTab(tab);
   };
 
@@ -44,8 +44,8 @@ export default function ServicesPage() {
   } as const;
 
   // Debug: Check which locale-specific translation we're getting
-  console.log('🌐 ServicesPage - Main title:', t('services.title'));
-  console.log('🌐 ServicesPage - Work visa title:', t('services.workVisa.title'));
+  // console.log('🌐 ServicesPage - Main title:', t('services.title'));
+  // console.log('🌐 ServicesPage - Work visa title:', t('services.workVisa.title'));
 
   const mainServices = [
     {
@@ -100,6 +100,7 @@ export default function ServicesPage() {
     { name: t('services.countries.countryNames.turkey'), flag: '🇹🇷', popular: true },
     { name: t('services.countries.countryNames.romania'), flag: '🇷🇴', popular: true },
     { name: t('services.countries.countryNames.bulgaria'), flag: '🇧🇬', popular: false },
+    { name: t('services.countries.countryNames.croatia'), flag: '🇭🇷', popular: false },
     { name: t('services.countries.countryNames.serbia'), flag: '🇷🇸', popular: false },
  
   ];

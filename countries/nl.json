@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - Internationaal Toekomstgericht Wervingsbureau",
+    "title": "ZovPersonal - Internationaal Toekomstgericht Wervingsbureau (ZOV)",
     "description": "Uw vertrouwde partner die gekwalificeerde professionals verbindt met internationale werkgevers. Toekomstgerichte wervingsdiensten voor duurzaam succes in Duitsland, EU-landen en daarbuiten.",
     "keywords": "internationale werving, werkgeverspartnerschap, jobplaatsing, Duitsland banen, EU werkgelegenheid, wervingsbureau, zovpersonal"
   },
@@ -12,7 +12,7 @@
     "consultation": "Ondersteuning voor Werkgevers"
   },
   "hero": {
-    "title": "Internationaal Toekomstgericht Wervingsbureau (ZOV)",
+    "title": "Internationale Toekomstgerichte Personeelsbemiddeling (ZOV)",
     "subtitle": "Uw vertrouwde partner voor internationale carrièremogelijkheden",
     "description": "Wij verbinden gekwalificeerde professionals met innovatieve bedrijven wereldwijd. Toekomstgerichte werving voor duurzaam succes in Duitsland en de EU.",
     "longDescription": "Uw vertrouwde partner die gekwalificeerde professionals verbindt met internationale werkgevers. Of u nu ondersteuning zoekt bij het wervingsproces of carrièremogelijkheden in het buitenland nastreeft, bereik succes met ons expertteam.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "Internationale Toekomstgerichte Werving",
       "title": "Internationale Toekomstgerichte Werving",
-      "description": "Ons werkzoekersprogramma is ontworpen om u te helpen uw droombaan in het buitenland te vinden. Wij bieden de tools en middelen die u nodig heeft om te slagen.",
+      "description": "Ons werkzoekersprogramma is ontworpen om u te helpen uw droombaan te vinden. Wij bieden de tools en middelen die u nodig heeft om te slagen.",
       "cards": {
         "recruitment": {
           "category": "Horeca & Schoonmaak",
@@ -140,7 +140,7 @@
           "features": [
             {
               "title": "Taalvereisten",
-              "description": "B1-niveau Duits en certificaten van beroepsvaardigheid."
+              "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid."
             },
             {
               "title": "Snelle start van het werk",
@@ -153,9 +153,9 @@
   },
   "about": {
     "hero": {
-      "title": "Internationale toekomstgerichte recruitmentbureau (ZOV)",
+      "title": "Internationale Toekomstgerichte Personeelsbemiddeling (ZOV)",
       "subtitle": "ZovPersonal verbindt gekwalificeerde professionals met Europa's toonaangevende bedrijven door toekomstgerichte internationale wervingsprocessen.",
-      "description1": "Bij ZovPersonal zijn we toegewijd aan het bieden van een ongeëvenaard voordeel tegen vertragingen, inefficiënties en wanorde door middel van bruikbare inzichten en naadloze samenwerking. We stoppen niet voordat u de tools heeft om elke visumaanvraag succesvol af te ronden.",
+      "description1": "Bij ZovPersonal zijn we toegewijd aan het bieden van een ongeëvenaard voordeel tegen vertragingen, inefficiënties en wanorde door middel van bruikbare inzichten en naadloze samenwerking. We stoppen niet voordat u de tools heeft om elke wervingsaanvraag succesvol af te ronden.",
       "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we u beter dan ooit kunnen helpen opereren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
     },
     "stats": {
@@ -169,7 +169,7 @@
       },
       "visas": {
         "number": "10K+",
-        "label": "Goedgekeurde Visa"
+        "label": "Succesvolle Plaatsingen"
       },
       "countries": {
         "number": "25+",
@@ -184,7 +184,7 @@
       "cta": "Neem Contact Op"
     },
     "company": {
-      "description1": "Bij ZovPersonal zijn we toegewijd aan het transformeren van internationale visumprocessen en het bieden van een ongeëvenaard voordeel tegen vertragingen en inefficiënties. Door middel van bruikbare inzichten en naadloze samenwerking bieden we de tools die nodig zijn om elke visumaanvraag te laten slagen.",
+      "description1": "Bij ZovPersonal zijn we toegewijd aan het transformeren van internationale wervingsprocessen en het bieden van een ongeëvenaard voordeel tegen vertragingen en inefficiënties. Door middel van bruikbare inzichten en naadloze samenwerking bieden we de tools die nodig zijn om elke wervingsaanvraag te laten slagen.",
       "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we betere service kunnen bieden dan ooit tevoren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
     },
     "images": {
@@ -225,10 +225,10 @@
   },
   "services": {
     "title": "Onze Diensten",
-    "subtitle": "Wij verbinden getalenteerde professionals met toonaangevende bedrijven in Duitsland.",
+    "subtitle": "Wij verbinden getalenteerde professionals met toonaangevende bedrijven in Duitsland en wereldwijd.",
     "workVisa": {
       "title": "Hulp bij werkvisa",
-      "description": "Volledige ondersteuning en begeleiding bij het werven van internationale specialisten uit diverse landen, waaronder Servië, Bulgarije, Kroatië, Roemenië, Nederland en Turkije."
+      "description": "Volledige ondersteuning en begeleiding bij het werven van internationale specialisten uit diverse landen, waaronder Servië, Bulgarije, Kroatië, Roemenië, Nederland, Duitsland en Turkije."
     },
     "skillsAssessment": {
       "title": "Vaardigheidsbeoordeling",
@@ -236,7 +236,7 @@
     },
     "documentation": {
       "title": "Taalvereisten",
-      "description": "B1-niveau Duits en certificaten van beroepsvaardigheid."
+      "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid."
     },
     "consultation": {
       "title": "Persoonlijk Advies",
@@ -265,21 +265,21 @@
     "tabContent": {
       "workVisa": {
         "title": "Wervingsproces",
-        "description": "Het werven van internationale specialisten biedt een grote kans om het tekort aan geschoolde arbeidskrachten in Duitsland op te vullen. Met onze gerichte en gestructureerde aanpak structureren we uw wervingsproces effectief om gekwalificeerde zorgprofessionals uit het buitenland succesvol aan te trekken.",
+        "description": "Het werven van internationale specialisten biedt een grote kans om het tekort aan geschoolde arbeidskrachten in Europa op te vullen. Met onze gerichte en gestructureerde aanpak structureren we uw wervingsproces effectief om gekwalificeerde zorgprofessionals uit het buitenland succesvol aan te trekken.",
         "stat1": { "number": "95%", "label": "succesvolle werving" },
         "stat2": { "number": "", "label": "Snel proces" },
         "category": "Wervingsproces"
       },
       "documentation": {
         "title": "Taalvereisten",
-        "description": "B1-niveau Duits en certificaten van beroepsvaardigheid.",
+        "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid.",
         "stat1": { "number": "100%", "label": "documentconformiteit" },
-        "stat2": { "number": "B1/B2", "label": "Taalniveaus" },
+        "stat2": { "number": "✓", "label": "Beroepskwalificatiecertificaten" },
         "category": "Taalvereisten"
       },
       "skillsAssessment": {
         "title": "Beoordeling van beroepskwalificaties",
-        "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met Duitse taalvaardigheden op B1-niveau en bewijs van financiële zekerheid.",
+        "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met taalkenniscertificaten volgens beroepstype en bewijs van financiële zekerheid.",
         "stat1": { "number": "85%", "label": "succesvolle erkenningen" },
         "stat2": { "number": "15", "label": "jaar infrastructuur" },
         "category": "Beroepskwalificatie"
@@ -437,7 +437,7 @@
     "quickLinks": "Snelle Links",
     "ourServices": "Bronnen",
     "email": "info@zovpersonal.com",
-    "phone": "(Turkije) | +90 555 123 45 67 (Duitsland) | +49 30 12345678",
+    "phone": "(Turkije) | +90 555 123 45 67 (Duitsland) | +4915757295545",
     "address": "Istanbul, Turkije, Brückstraße 59, 26725 Emden, Duitsland",
     "visa": {
       "requiredDocuments": "Vereiste Documenten",
@@ -777,27 +777,27 @@
   },
   "faq": {
     "title": "Veelgestelde vragen",
-    "description": "Uluslararası Gelecek Odaklı İşe Alım",
+    "description": "Internationale toekomstgerichte personeelswerving",
     "items": [
       {
-        "question": "Hangi ülkelerde ZOV Personal hizmet veriyor?",
-        "answer": "Biz, özellikle Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda ve Türkiye'de işveren ve işveren ortaklığı hizmetleri sunuyoruz."
+        "question": "In welke landen biedt ZOV Personal diensten aan?",
+        "answer": "Wij bieden werving en werkgeverspartnerschap diensten in vele landen, voornamelijk in Servië, Roemenië, Kroatië, Bulgarije, Nederland, Duitsland en Turkije."
       },
       {
-        "question": "Başvuru süreci nasıl işliyor?",
-        "answer": "Süre, ülkeye ve vize türüne göre değişir, genellikle 2-6 ay arasında değişmektedir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır."
+        "question": "Hoe werkt werving?",
+        "answer": "Ons wervingsproces werkt stap voor stap. Eerst beoordelen we uw kwalificaties, vervolgens vinden we geschikte posities en coördineren we sollicitatiegesprekken. We bieden snelle en veilige plaatsing via onze partnerbedrijven."
       },
       {
-        "question": "Başvuru reddedilirse ne yapıyoruz?",
-        "answer": "Reddedilme durumunda, sebepleri analiz ediyoruz ve yeni bir strateji geliştiriyoruz. Gerekirse, işlemleri yönetiyoruz ve eksiklikleri gidermek için yeni bir başvuru hazırlıyoruz. Tüm süreç boyunca müşterilerimizi destekliyoruz."
+        "question": "Hoe werkt het baanzoekproces in Europa?",
+        "answer": "We begeleiden u door het baanzoekproces in Europa. We beheren CV-voorbereiding, positiematching, interviewcoördinatie en visumprocedures. Door ons uitgebreide werkgeversnetwerk bieden we u geschikte baanenopportuniteiten."
       },
       {
-        "question": "Hizmet ücretleri ne kadar?",
-        "answer": "Ücretler, hizmet türü ve karmaşıklığına göre değişir. İlk danışmanlık ücretsizdir. Detaylı fiyat bilgisi için, özel bir teklif almak için bizimle iletişime geçebilirsiniz."
+        "question": "Hoe werkt werknemersintegratie in Europa?",
+        "answer": "Nadat internationale medewerkers met succes in Europa zijn aangekomen, begint het kritieke proces van integratie."
       },
       {
-        "question": "Belgelerim hangi dillerde hazırlanmalı?",
-        "answer": "Belgeleriniz, hedef ülkenin resmi diline çevrilmelidir. Ayrıca, beyannamalı çeviri hizmetleri de sunuyoruz. Biz, Almanca, İngilizce ve diğer dillerdeki çevirmeniz için ihtiyaçlarınıza cevap veriyoruz."
+        "question": "Wat zijn de verplichtingen in Europa?",
+        "answer": "Gekwalificeerde werknemers die naar Europa migreren, zijn onderworpen aan een reeks verplichtingen om een soepele start van hun werkleven en dagelijks leven te waarborgen."
       }
     ]
   },
@@ -974,6 +974,36 @@
         "title": "Gezondheidsspecialisten en Therapeuten",
         "description": "Werkmogelijkheden in Duitsland voor fysiotherapeuten, psychologen, diëtisten en andere gezondheidsspecialisten. Gespecialiseerd visumadvies en procedures voor beroepserkenning voor uw vakgebied.",
         "button": "Meer informatie"
+      },
+      "construction": {
+        "status": "Hoge Vraag",
+        "title": "Bouwvakkers",
+        "description": "Procesbegeleiding voor geschoolde werknemers die in de bouwsector willen werken.",
+        "button": "Meer informatie"
+      },
+      "electrician": {
+        "status": "Gewilde Vaardigheid",
+        "title": "Elektriciens",
+        "description": "Professioneel proces voor elektriciens die willen werken in elektrische installatie en reparatie.",
+        "button": "Meer informatie"
+      },
+      "hospitality": {
+        "status": "Populaire Keuze",
+        "title": "Hotel & Restaurant",
+        "description": "Begeleiding voor professionals die willen werken in hotel-, restaurant- en toerismesector.",
+        "button": "Meer informatie"
+      },
+      "logistics": {
+        "status": "Groeiende Sector",
+        "title": "Logistiek & Rijden",
+        "description": "Proces voor professionals die willen werken in transport, logistiek en rijden.",
+        "button": "Meer informatie"
+      },
+      "service": {
+        "status": "Veilige Werkgelegenheid",
+        "title": "Dienstensector",
+        "description": "Begeleiding voor degenen die willen werken in verkoop, beveiliging, schoonmaak en andere dienstensectoren.",
+        "button": "Meer informatie"
       }
     },
     "otherProfessions": {
@@ -1012,23 +1042,23 @@
       },
       "content": {
         "jobSearch": {
-          "title": "Een baan vinden in Duitsland",
+          "title": "Een baan vinden in Europa",
           "subtitle": "Gezondheidszorg gericht",
-          "description": "We bieden professionele begeleiding in het zoekproces naar een baan in de gezondheidszorg. Dankzij ons sterke netwerk met ziekenhuizen en zorginstellingen in Duitsland, helpen we u geschikte posities te vinden.",
+          "description": "We bieden professionele begeleiding in het zoekproces naar een baan in de gezondheidszorg. Dankzij ons sterke netwerk met ziekenhuizen en zorginstellingen in Europa, helpen we u geschikte posities te vinden.",
           "detail": "We begeleiden u gedurende het hele proces, van het voorbereiden van uw CV tot het interview.",
           "footer": "We hebben loopbaanadviesdiensten specifiek voor uw beroep en vacatures."
         },
         "visaApplication": {
           "title": "Ondersteuning bij aanvraagproces",
           "subtitle": "Aanvraagproces",
-          "description": "Wij bieden informatie en begeleiding voor uw aanvraagprocedure voor een nationaal werkvisum voor Duitsland. Door u gedurende het hele proces te ondersteunen, helpen we u uw aanvraag gemakkelijker te volgen.",
+          "description": "Wij bieden informatie en begeleiding voor uw aanvraagprocedure voor een nationaal werkvisum voor Europa. Door u gedurende het hele proces te ondersteunen, helpen we u uw aanvraag gemakkelijker te volgen.",
           "detail": "We informeren u waar u op moet letten bij het voorbereiden van uw documenten en het plannen van een afspraak.",
           "footer": "Neem contact met ons op voor meer informatie over het proces."
         },
         "companyAgreements": {
           "title": "Partnerbedrijven",
           "subtitle": "Baangarantie",
-          "description": "Dankzij onze speciale overeenkomsten met meer dan 150 partnerziekenhuizen en zorginstellingen in Duitsland, bieden wij u directe baankansen.",
+          "description": "Dankzij onze speciale overeenkomsten met partnerziekenhuizen en zorginstellingen in Europa, bieden wij u directe baankansen.",
           "detail": "Nadat u een baanaanbod heeft ontvangen, verloopt uw visumproces veel sneller en veiliger.",
           "footer": "U kunt langetermijn carrièreplanning maken met onze partnerbedrijven."
         }
@@ -1036,28 +1066,28 @@
     },
     "about": {
       "title": "Een ander soort advies.",
-      "description": "Wij bieden uitgebreide diensten om uw internationale carrièredoelen in de gezondheidszorg te bereiken.",
+      "description": "Wij bieden uitgebreide diensten om uw internationale carrièredoelen in de gezondheidszorg, dienstverlening, bouw en andere sectoren te bereiken.",
       "statsTitle": "In cijfers",
       "stats": {
         "experience": "Jaren Infrastructuur",
-        "healthPersonnel": "Zorgpersoneel",
+        "healthPersonnel": "Algemeen Personeel",
         "successRate": "Succespercentage",
         "partners": "Partnerorganisaties"
       },
       "content": {
-        "paragraph1": "De gezondheidszorgsector is voortdurend in verandering en ontwikkeling. De behoefte aan zorgpersoneel in Duitsland neemt dagelijks toe. Dit is het perfecte moment om deze kans te grijpen.",
-        "highlight": "Werken in Duitsland is niet alleen een droom. Wij maken het voor u werkelijkheid.",
-        "paragraph2": "Ons team, dat jarenlange ervaring heeft in deze sector, heeft alle uitdagingen in de vestigingsprocessen van zorgpersoneel in Duitsland meegemaakt. Traditionele methoden zijn niet voldoende. Wij bieden een uitgebreide adviesdienst die speciaal is ontworpen voor zorgpersoneel."
+        "paragraph1": "De gezondheidszorg, dienstverlening, bouw en andere sectoren zijn voortdurend in verandering en ontwikkeling. De behoefte aan gekwalificeerd personeel in Europa neemt dagelijks toe. Dit is het perfecte moment om deze kans te grijpen.",
+        "highlight": "Werken in Europa is niet alleen een droom. Wij maken het voor u werkelijkheid.",
+        "paragraph2": "Ons team, dat jarenlange ervaring heeft in deze sectoren, heeft alle uitdagingen in de vestigingsprocessen van verschillende beroepsgroepen in Europa meegemaakt. Traditionele methoden zijn niet voldoende. Wij bieden een uitgebreide adviesdienst die speciaal is ontworpen voor gezondheidszorg, dienstverlening, bouw en andere sectoren."
       }
     },
     "architectureSection": {
       "subtitle": "Alles wat u moet weten",
-      "title": "Werkproces in Duitsland",
-      "description": "Duitsland staat bekend om zijn sterke economie, cultuur en hoge levenskwaliteit. Voor immigranten betekent verhuizen naar Duitsland echter meer dan alleen een nieuwe carrière; het is het begin van een nieuw leven in een nieuwe omgeving.",
+      "title": "Werkproces in Europa",
+      "description": "Europa staat bekend om zijn sterke economie, cultuur en hoge levenskwaliteit. Voor immigranten betekent verhuizen naar Europa echter meer dan alleen een nieuwe carrière; het is het begin van een nieuw leven in een nieuwe omgeving.",
       "cards": {
         "integration": {
           "title": "Werknemersintegratie",
-          "description": "Nadat internationale medewerkers met succes in Duitsland zijn aangekomen, begint het kritieke proces van integratie. Een goede integratie is niet alleen belangrijk om ervoor te zorgen dat nieuwe medewerkers zich op hun gemak voelen in hun nieuwe omgeving, maar ook om langdurige binding met het bedrijf te waarborgen."
+          "description": "Nadat internationale medewerkers met succes in Europa zijn aangekomen, begint het kritieke proces van integratie. Een goede integratie is niet alleen belangrijk om ervoor te zorgen dat nieuwe medewerkers zich op hun gemak voelen in hun nieuwe omgeving, maar ook om langdurige binding met het bedrijf te waarborgen."
         },
         "experiencedVisa": {
           "title": "Visum voor ervaren professionals",
@@ -1069,7 +1099,7 @@
         },
         "recruitment": {
           "title": "Werving",
-          "description": "Stap voor stap. Het werven van internationale specialisten biedt een enorme kans om het tekort aan gekwalificeerd personeel in Duitsland aan te pakken. Om dit proces succesvol te laten zijn, moeten bedrijven echter een gerichte en gestructureerde aanpak volgen."
+          "description": "Stap voor stap. Het werven van internationale specialisten biedt een enorme kans om het tekort aan gekwalificeerd personeel in Europa aan te pakken. Om dit proces succesvol te laten zijn, moeten bedrijven echter een gerichte en gestructureerde aanpak volgen."
         }
       },
       "learnMore": "Meer informatie"

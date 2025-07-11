@@ -129,7 +129,14 @@ export default function middleware(request: NextRequest) {
   }
   
   // Let next-intl handle the rest
-  return intlMiddleware(request);
+  const response = intlMiddleware(request);
+  
+  // Add pathname to headers for layout schema generation
+  if (response) {
+    response.headers.set('x-pathname', pathname);
+  }
+  
+  return response;
 }
 
 export const config = {

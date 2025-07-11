@@ -3,7 +3,7 @@ import { cva, type VariantProps } from "class-variance-authority"
 import { cn } from "@/lib/utils"
 
 const tagVariants = cva(
-  "inline-flex items-center justify-center flex-row flex-nowrap overflow-visible relative w-min whitespace-pre rounded-[24px] backdrop-blur-[12px] text-white",
+  "inline-flex items-center justify-center flex-row flex-nowrap overflow-visible relative w-min whitespace-pre rounded-[24px] backdrop-blur-[12px] text-white transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-lg cursor-pointer",
   {
     variants: {
       variant: {
@@ -35,7 +35,7 @@ function Tag({ className, variant, size, style, ...props }: TagProps) {
     <div
       className={cn(tagVariants({ variant, size, className }))}
       style={{
-        backgroundColor: 'rgba(255, 255, 255, 0.4)',
+        backgroundColor: '#1c2706',
         fontFamily: 'Satoshi, "Satoshi Placeholder", sans-serif',
         fontWeight: 500,
         letterSpacing: '-0.02em',

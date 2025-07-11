@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { Send, X } from 'lucide-react';
 import { messages, getLocale, type Locale } from '@/lib/messages';
 
-const phoneNumber = '+905385969943'; // Replace with your actual WhatsApp number
+const phoneNumber = '+4915757295545'; // Replace with your actual WhatsApp number
 
 export default function WhatsAppWidget() {
   const [visible, setVisible] = useState(false);

@@ -138,6 +138,112 @@ export default function ProfessionPage() {
       status: t('professionProcess.carousel.healthExpert.status'),
       title: t('professionProcess.carousel.healthExpert.title'),
       description: t('professionProcess.carousel.healthExpert.description')
+    },
+    {
+      id: 6,
+      image: "/insaat.png",
+      icon1: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-hard-hat m-auto size-4" aria-hidden="true">
+          <path d="M2 18h20"></path>
+          <path d="M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5"></path>
+          <path d="M4 15v-3a6 6 0 0 1 6-6h0"></path>
+          <path d="M14 6h0a6 6 0 0 1 6 6v3"></path>
+        </svg>
+      ),
+      icon2: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-hammer m-auto size-4" aria-hidden="true">
+          <path d="m15 12-8.5-8.5c-.83-.83-2.17-.83-3 0 0 0 0 0 0 0a2.12 2.12 0 0 0 0 3L12 15"></path>
+          <path d="M17.64 15 22 10.64"></path>
+          <path d="m20.91 11.7-1.25-1.25c-.6-.6-.93-1.4-.93-2.25v-.86L16.01 4.6a5.56 5.56 0 0 0-3.94-1.64H9l.92.82A6.18 6.18 0 0 1 12 8.4v1.56l2 2h2.47l2.26 1.91"></path>
+        </svg>
+      ),
+      status: t('professionProcess.carousel.construction.status'),
+      title: t('professionProcess.carousel.construction.title'),
+      description: t('professionProcess.carousel.construction.description')
+    },
+    {
+      id: 7,
+      image: "/elektrikci.png",
+      icon1: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-zap m-auto size-4" aria-hidden="true">
+          <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path>
+        </svg>
+      ),
+      icon2: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-wrench m-auto size-4" aria-hidden="true">
+          <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+        </svg>
+      ),
+      status: t('professionProcess.carousel.electrician.status'),
+      title: t('professionProcess.carousel.electrician.title'),
+      description: t('professionProcess.carousel.electrician.description')
+    },
+    {
+      id: 8,
+      image: "/garson.png",
+      icon1: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-utensils m-auto size-4" aria-hidden="true">
+          <path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"></path>
+          <path d="M7 2v20"></path>
+          <path d="M21 15V2v0a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"></path>
+        </svg>
+      ),
+      icon2: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-chef-hat m-auto size-4" aria-hidden="true">
+          <path d="M17 21a1 1 0 0 0 1-1v-5.35c0-.457.316-.844.727-1.041a4 4 0 0 0-2.134-7.589 5 5 0 0 0-9.186 0 4 4 0 0 0-2.134 7.588c.411.198.727.585.727 1.041V20a1 1 0 0 0 1 1Z"></path>
+          <path d="M6 17h12"></path>
+        </svg>
+      ),
+      status: t('professionProcess.carousel.hospitality.status'),
+      title: t('professionProcess.carousel.hospitality.title'),
+      description: t('professionProcess.carousel.hospitality.description')
+    },
+    {
+      id: 9,
+      image: "/lojistik.png",
+      icon1: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-truck m-auto size-4" aria-hidden="true">
+          <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"></path>
+          <path d="M15 18H9"></path>
+          <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"></path>
+          <circle cx="17" cy="18" r="2"></circle>
+          <circle cx="7" cy="18" r="2"></circle>
+        </svg>
+      ),
+      icon2: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-package m-auto size-4" aria-hidden="true">
+          <path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"></path>
+          <path d="M12 22V12"></path>
+          <path d="m3.3 7 7.703 4.734a2 2 0 0 0 1.994 0L20.7 7"></path>
+          <path d="m7.5 4.27 9 5.15"></path>
+        </svg>
+      ),
+      status: t('professionProcess.carousel.logistics.status'),
+      title: t('professionProcess.carousel.logistics.title'),
+      description: t('professionProcess.carousel.logistics.description')
+    },
+    {
+      id: 10,
+      image: "/is-alim-onei.png",
+      icon1: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-shopping-cart m-auto size-4" aria-hidden="true">
+          <circle cx="8" cy="21" r="1"></circle>
+          <circle cx="19" cy="21" r="1"></circle>
+          <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"></path>
+        </svg>
+      ),
+      icon2: (
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-handshake m-auto size-4" aria-hidden="true">
+          <path d="m11 17 2 2a1 1 0 1 0 3-3"></path>
+          <path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"></path>
+          <path d="m21 3 1 11h-2"></path>
+          <path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"></path>
+          <path d="M3 4h8"></path>
+        </svg>
+      ),
+      status: t('professionProcess.carousel.service.status'),
+      title: t('professionProcess.carousel.service.title'),
+      description: t('professionProcess.carousel.service.description')
     }
   ];
 
@@ -368,6 +474,11 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                                       3: '/profession-process/caregiver',
                                       4: '/profession-process/health-technician',
                                       5: '/profession-process/health-expert',
+                                      6: '/profession-process/construction-worker',
+                                      7: '/profession-process/electrician',
+                                      8: '/profession-process/chef',
+                                      9: '/profession-process/driver',
+                                      10: '/profession-process/sales-assistant',
                                     };
 
                                     router.push(`/${locale}${slugMap[item.id] || '/profession-process'}`);
@@ -377,7 +488,12 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                                    item.id === 2 ? t('professionProcess.carousel.nurse.button') :
                                    item.id === 3 ? t('professionProcess.carousel.caregiver.button') :
                                    item.id === 4 ? t('professionProcess.carousel.healthTechnician.button') :
-                                   t('professionProcess.carousel.healthExpert.button')}
+                                   item.id === 5 ? t('professionProcess.carousel.healthExpert.button') :
+                                   item.id === 6 ? t('professionProcess.carousel.construction.button') :
+                                   item.id === 7 ? t('professionProcess.carousel.electrician.button') :
+                                   item.id === 8 ? t('professionProcess.carousel.hospitality.button') :
+                                   item.id === 9 ? t('professionProcess.carousel.logistics.button') :
+                                   t('professionProcess.carousel.service.button')}
                                   <ArrowRight className="w-3 h-3 ml-1" />
                                 </Button>
                               </div>

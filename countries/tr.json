@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - Uluslararası Gelecek Odaklı İşe Alım Ajansı",
+    "title": "ZovPersonal - Uluslararası Gelecek Odaklı Personel Yerleştirme (ZOV)",
     "description": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. Almanya, AB ülkeleri ve daha fazlası için gelecek odaklı işe alım hizmetleri.",
     "keywords": "uluslararası işe alım, iş veren ortaklığı, iş yerleştirme, Almanya işleri, AB istihdam, işe alım ajansı, zovpersonal"
   },
@@ -12,7 +12,7 @@
     "consultation": "İşveren Desteği"
   },
   "hero": {
-    "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
+    "title": "Uluslararası Gelecek Odaklı Personel Yerleştirme (ZOV)",
     "subtitle": "Yurtdışında Çalışmanın Kapısı",
           "description": "Almanya, AB ülkeleri ve daha fazlası için nitelikli personel istihdamında uzman rehberlik. Bireyler ve işletmeler için profesyonel işe alım hizmetleri.",
     "longDescription": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. İster işe alım sürecinizde destek arıyor olun, ister yurt dışında kariyer fırsatları peşinde olun, uzman ekibimizle başarıya ulaşın.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "Uluslararası Gelecek Odaklı İşe Alım",
       "title": "Uluslararası Gelecek Odaklı İşe Alım", 
-      "description": "İş arayan programımız yurtdışında hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
+      "description": "İş arayan programımız hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
       "cards": {
         "recruitment": {
           "category": "Ağırlama ve Temizlik",
@@ -140,7 +140,7 @@
           "features": [
             {
               "title": "Dil Gereksinimleri",
-              "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları."
+              "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları."
             },
             {
               "title": "Hızlı İş Başlangıcı",
@@ -153,7 +153,7 @@
   },
   "about": {
     "hero": {
-      "title": "Uluslararası Gelecek Odaklı İşe Alım Ajansı (ZOV)",
+      "title": "Uluslararası Gelecek Odaklı Personel Yerleştirme (ZOV)",
       "subtitle": "ZovPersonal, nitelikli profesyonelleri Avrupa'nın önde gelen şirketleriyle buluşturan, gelecek odaklı uluslararası işe alım süreçlerinde uzman ajansınız.",
       "description1": "ZovPersonal'da, müşterilerimize gecikmeler, verimsizlikler ve organizasyon eksiklikleri karşısında yenilmez bir avantaj sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği sunuyoruz. Her işe alım sürecinizin başarıyla sonuçlanması için gereken araçları size vermek için her şeyi yaparız.",
       "description2": "Müşteri odaklıyız — iş akışınızın her yönünü anlamak için zaman harcıyoruz, böylece her zamankinden daha iyi çalışmanıza yardımcı olabiliriz. Hep birlikteyiz çünkü sizin başarınız bizim başarımızdır. Şirket tarihimizde hiçbir müşterimizi kaybetmedik, çünkü projeleriniz başarılı olduğunda biz de başarılı oluyoruz."
@@ -169,7 +169,7 @@
       },
       "visas": {
         "number": "10K+",
-        "label": "Onaylanan Vize"
+        "label": "Başarılı İşe Alımlar"
       },
       "countries": {
         "number": "25+",
@@ -179,12 +179,12 @@
     "team": {
       "title": "Ekibimiz",
       "description1": "ZovPersonal'ı profesyonel işe alım ve iş veren ortaklığı sektöründe öncü olmak amacıyla kurduk. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Gelecek nesiller boyunca işe alım ve iş veren ortaklığı inovasyonunu güçlendirmek için özel olarak inşa edildik.",
-      "description2": "Deneyimli danışmanlarımız, her müşterinin benzersiz ihtiyaçlarını anlayarak kişiselleştirilmiş çözümler sunar. Vize süreçlerindeki karmaşıklığı basitleştirip, başvuru sürecinizi sorunsuz hale getirmek için buradayız.",
+      "description2": "Deneyimli danışmanlarımız, her müşterinin benzersiz ihtiyaçlarını anlayarak kişiselleştirilmiş çözümler sunar. Uluslararası işe alım süreçlerindeki karmaşıklığı basitleştirip, başvuru sürecinizi sorunsuz hale getirmek için buradayız.",
       "description3": "iş veren ortaklığı için iletişime geçin.",
       "cta": "İletişime Geçin"
     },
     "company": {
-      "description1": "ZovPersonal'da, uluslararası vize süreçlerini dönüştürmeye ve müşterilerimize gecikmeler, verimsizlikler karşısında üstünlük sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği ile her vize başvurunuzun başarıya ulaşması için gereken araçları sunuyoruz.",
+      "description1": "ZovPersonal'da, uluslararası işe alım süreçlerini dönüştürmeye ve müşterilerimize gecikmeler, verimsizlikler karşısında üstünlük sağlamaya adanmışız. Eyleme dönük öngörüler ve kusursuz işbirliği ile her işe alım başvurunuzun başarıya ulaşması için gereken araçları sunuyoruz.",
       "description2": "Müşteri odaklıyız — iş akışınızın her yönünü anlamak için zaman harcıyoruz, böylece her zamankinden daha iyi hizmet verebiliriz. Hep birlikteyiz çünkü sizin başarınız bizim başarımızdır. Şirket tarihimizde hiçbir müşterimizi kaybetmedik, çünkü sizin projeleriniz başarılı olduğunda biz de başarılı oluyoruz."
     },
     "images": {
@@ -225,10 +225,10 @@
   },
   "services": {
     "title": "Kariyerinizi Küresel Ölçekte İlerletin",
-    "subtitle": "Yetenekli profesyonelleri Almanya'daki lider şirketlerle buluşturuyoruz.",
+    "subtitle": "Yetenekli profesyonelleri Almanya ve tüm dünyadaki lider şirketlerle buluşturuyoruz.",
     "workVisa": {
       "title": "Çalışma Vizesi Yardımı",
-      "description": "Sırbistan, Bulgaristan, Hırvatistan, Romanya, Hollanda ve Türkiye dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
+      "description": "Sırbistan, Bulgaristan, Hırvatistan, Romanya, Hollanda, Almanya ve Türkiye dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
     },
     "skillsAssessment": {
       "title": "Beceri Değerlendirmesi",
@@ -236,7 +236,7 @@
     },
     "documentation": {
       "title": "Dil Gereksinimleri",
-      "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları."
+      "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları."
     },
     "consultation": {
       "title": "Kişisel Danışmanlık",
@@ -265,21 +265,21 @@
     "tabContent": {
       "workVisa": {
         "title": "İşe Alım Süreci",
-        "description": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
+        "description": "Uluslararası uzmanları işe almak, Avrupa'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
         "stat1": { "number": "95%", "label": "başarılı işe alım" },
         "stat2": { "number": "", "label": "Hızlı Süreç" },
         "category": "İşe Alım Süreci"
       },
       "documentation": {
         "title": "Dil Gereksinimleri",
-        "description": "B1 Almanca seviyesi ve mesleki beceri sertifikaları.",
+        "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları.",
         "stat1": { "number": "100%", "label": "belge uyumu" },
-        "stat2": { "number": "B1/B2", "label": "Dil Seviyeleri" },
+        "stat2": { "number": "✓", "label": "Mesleki yeterlilik sertifika" },
         "category": "Dil Gereksinimleri"
       },
       "skillsAssessment": {
         "title": "Mesleki Yeterlilik Değerlendirmesi",
-        "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. B1 seviyesinde Almanca dil becerileri ve mali güvenlik kanıtı ile süreci destekliyoruz.",
+        "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları ile süreci destekliyoruz.",
         "stat1": { "number": "85%", "label": "başarılı tanınma" },
         "stat2": { "number": "15", "label": "yıllık altyapı" },
         "category": "Mesleki Yeterlilik"
@@ -424,7 +424,7 @@
     "copyright": "©2025 Tüm hakları saklıdır, Zov Personal.",
     "legal": "Danışmanlık hizmetlerimiz bilgilendirme amaçlıdır ve garanti teşkil etmez. Vize başvuru süreçleri ülke yönetmeliklerine tabidir ve sonuçlar değişiklik gösterebilir. Kişisel durumunuzu değerlendirmek için uzman danışmanlarımızla iletişime geçiniz.",
     "email": "info@zovpersonal.com",
-    "phone": "(Türkiye) | +90 538 596 99 43 (Almanya) | +49 30 12345678",
+    "phone": "(Türkiye) | +90 538 596 99 43 (Almanya) | +4915757295545",
     "address": "İstanbul, Türkiye, Brückstraße 59, 26725 Emden, Almanya",
     "links": {
       "home": "Ana Sayfa",
@@ -779,23 +779,23 @@
     "items": [
       {
         "question": "ZOV Personal hangi ülkelerde hizmet vermektedir?",
-        "answer": "Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda ve Türkiye olmak üzere birçok ülkede işe alım ve işveren ortaklığı hizmetleri sunuyoruz."
+        "answer": "Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda, Almanya ve Türkiye olmak üzere birçok ülkede işe alım ve işveren ortaklığı hizmetleri sunuyoruz."
       },
       {
-        "question": "Başvuru süreci nasıl işliyor?",
-        "answer": "Süre, ülkeye ve vize türüne göre değişir. Belgelerinizin eksiksiz hazırlanması ve doğru süreçlerin takip edilmesi süreyi hızlandırır."
+        "question": "İşe alım nasıl gerçekleşiyor?",
+        "answer": "İşe alım sürecimiz adım adım şekilde gerçekleşir. Önce niteliklerinizi değerlendiririz, sonra uygun pozisyonları bulur, mülakatları koordine ederiz. Partner şirketlerimiz aracılığıyla hızlı ve güvenli işe yerleştirme sağlarız."
       },
       {
-        "question": "Başvuru reddedilirse ne yapıyorsunuz?",
-        "answer": "Red durumunda sebepleri analiz ederek yeni bir strateji geliştiririz. Gerekirse itiraz süreçlerini yönetir, eksikleri gidererek yeniden başvuru hazırlarız. Müşterilerimize süreç boyunca destek olmaya devam ederiz."
+        "question": "Avrupa'da iş bulma süreci nasıl işliyor?",
+        "answer": "Avrupa'da iş bulma sürecinde size rehberlik ederiz. CV hazırlama, pozisyon eşleştirme, mülakat koordinasyonu ve vize süreçlerini yönetiyoruz. Geniş işveren ağımız sayesinde size uygun iş fırsatlarını sunuyoruz."
       },
       {
-        "question": "Almanya'da çalışan entegrasyonu nasıl işliyor?",
-        "answer": "Uluslararası çalışanlar Almanya'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar."
+        "question": "Avrupa'da çalışan entegrasyonu nasıl işliyor?",
+        "answer": "Uluslararası çalışanlar Avrupa'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar."
       },
       {
-        "question": "Almanya'daki yükümlülükler nelerdir?",
-        "answer": "Almanya'ya göç eden vasıflı işçiler, çalışma hayatlarına ve günlük yaşamlarına sorunsuz bir başlangıç sağlamak için yerine getirilmesi gereken bir dizi yükümlülüğe tabidir."
+        "question": "Avrupa'daki yükümlülükler nelerdir?",
+        "answer": "Avrupa'ya göç eden vasıflı işçiler, çalışma hayatlarına ve günlük yaşamlarına sorunsuz bir başlangıç sağlamak için yerine getirilmesi gereken bir dizi yükümlülüğe tabidir."
       }
     ]
   },
@@ -838,6 +838,36 @@
         "title": "Sağlık Uzmanları ve Terapistler",
         "description": "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları. Uzmanlık alanınıza özel işe alım ve mesleki tanıma süreçleri.",
         "button": "Daha fazla bilgi"
+      },
+      "construction": {
+        "status": "Yüksek Talep",
+        "title": "İnşaat İşçileri",
+        "description": "İnşaat sektöründe çalışmak isteyen kalifiye işçiler için süreç rehberliği.",
+        "button": "Detaylı Bilgi"
+      },
+      "electrician": {
+        "status": "Aranan Beceri",
+        "title": "Elektrikçiler",
+        "description": "Elektrik tesisatı ve onarım işlerinde çalışmak isteyen elektrikçiler için mesleki süreç.",
+        "button": "Detaylı Bilgi"
+      },
+      "hospitality": {
+        "status": "Popüler Seçim",
+        "title": "Otel & Restoran",
+        "description": "Otel, restoran ve turizm sektöründe çalışmak isteyen profesyoneller için rehberlik.",
+        "button": "Detaylı Bilgi"
+      },
+      "logistics": {
+        "status": "Büyüyen Sektör",
+        "title": "Lojistik & Şoförlük",
+        "description": "Ulaştırma, lojistik ve şoförlük alanında çalışmak isteyen profesyoneller için süreç.",
+        "button": "Detaylı Bilgi"
+      },
+      "service": {
+        "status": "Güvenli Çalışma",
+        "title": "Hizmet Sektörü",
+        "description": "Satış, güvenlik, temizlik ve diğer hizmet sektörlerinde çalışmak isteyenler için rehberlik.",
+        "button": "Detaylı Bilgi"
       }
     },
     "otherProfessions": {
@@ -876,23 +906,23 @@
       },
       "content": {
         "jobSearch": {
-          "title": "Almanya'da İş Bulma",
+          "title": "Avrupa'da İş Bulma",
           "subtitle": "Sağlık Sektörü Odaklı",
-          "description": "Sağlık sektöründe iş bulma sürecinde profesyonel rehberlik sunuyoruz. Almanya'daki hastaneler ve sağlık kuruluşlarıyla olan güçlü ağımız sayesinde size uygun pozisyonları bulmanıza yardımcı oluyoruz.",
+          "description": "Sağlık sektöründe iş bulma sürecinde profesyonel rehberlik sunuyoruz. Avrupa'daki hastaneler ve sağlık kuruluşlarıyla olan güçlü ağımız sayesinde size uygun pozisyonları bulmanıza yardımcı oluyoruz.",
           "detail": "CV hazırlığından mülakata kadar tüm süreçte yanınızdayız.",
           "footer": "Mesleğinize özel iş fırsatları ve kariyer danışmanlığı hizmetimiz mevcuttur."
         },
         "visaApplication": {
           "title": "Başvuru Süreci Desteği",
           "subtitle": "Başvuru Süreci",
-          "description": "Almanya ulusal çalışma vizesi başvuru sürecinizde bilgilendirme ve yönlendirme sağlıyoruz. Süreç boyunca size destek olarak, başvurunuzu daha kolay takip etmenize yardımcı oluyoruz.",
+          "description": "Avrupa ulusal çalışma vizesi başvuru sürecinizde bilgilendirme ve yönlendirme sağlıyoruz. Süreç boyunca size destek olarak, başvurunuzu daha kolay takip etmenize yardımcı oluyoruz.",
           "detail": "Belgelerinizi hazırlarken ve randevu alırken dikkat etmeniz gerekenler konusunda sizi bilgilendiriyoruz.",
           "footer": "Süreç hakkında daha fazla bilgi için bize ulaşın."
         },
         "companyAgreements": {
           "title": "Partner Şirketler",
           "subtitle": "İş Garantisi",
-          "description": "Almanya'daki 150+ partner hastane ve sağlık kuruluşu ile özel anlaşmalarımız sayesinde size doğrudan iş fırsatları sunuyoruz.",
+          "description": "Avrupa'daki partner hastane ve sağlık kuruluşları ile özel anlaşmalarımız sayesinde size doğrudan iş fırsatları sunuyoruz.",
           "detail": "İş teklifi aldıktan sonra vize süreciniz çok daha hızlı ve güvenli şekilde ilerler.",
           "footer": "Partner şirketlerimizle uzun vadeli kariyer planlaması yapabilirsiniz."
         }
@@ -900,24 +930,24 @@
     },
     "about": {
       "title": "Farklı bir danışmanlık anlayışı.",
-      "description": "Sağlık sektöründeki uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
+      "description": "Sağlık, hizmet, inşaat ve diğer sektörlerdeki uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
       "statsTitle": "Rakamlarla",
       "stats": {
         "experience": "Yıllık Altyapı",
-        "healthPersonnel": "Sağlık Personeli",
+        "healthPersonnel": "Genel Personel",
         "successRate": "Başarı Oranı",
         "partners": "Partner Kuruluş"
       },
       "content": {
-        "paragraph1": "Sağlık sektörü sürekli değişiyor ve gelişiyor. Almanya'da sağlık personeli ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",
-        "highlight": "Almanya'da çalışmak sadece bir hayal değil. Sizin için gerçeğe dönüştürüyoruz.",
-        "paragraph2": "Yıllarca bu sektörde çalışan ekibimiz, sağlık personelinin Almanya'ya yerleşim süreçlerindeki tüm zorluklarla karşılaştı. Geleneksel yöntemler yeterli değil. Biz, sağlık personeli için özel olarak tasarlanmış, kapsamlı bir danışmanlık hizmeti sunuyoruz."
+        "paragraph1": "Sağlık, hizmet, inşaat ve diğer sektörler sürekli değişiyor ve gelişiyor. Avrupa'da nitelikli personel ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",
+        "highlight": "Avrupa'da çalışmak sadece bir hayal değil. Sizin için gerçeğe dönüştürüyoruz.",
+        "paragraph2": "Yıllarca bu sektörlerde çalışan ekibimiz, farklı meslek gruplarının Avrupa'ya yerleşim süreçlerindeki tüm zorluklarla karşılaştı. Geleneksel yöntemler yeterli değil. Biz, sağlık, hizmet, inşaat ve diğer sektörler için özel olarak tasarlanmış, kapsamlı bir danışmanlık hizmeti sunuyoruz."
       }
     },
     "architectureSection": {
       "subtitle": "Merak edilen herşey",
-      "title": "Almanya'da iş süreci",
-      "description": "Almanya güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Ancak göçmenler için Almanya'ya taşınmak sadece yeni bir kariyerden daha fazlası anlamına gelir; yeni bir ortamda yeni bir hayatın başlangıcıdır.",
+      "title": "Avrupa'da iş süreci",
+      "description": "Avrupa güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Ancak göçmenler için Avrupa'ya taşınmak sadece yeni bir kariyerden daha fazlası anlamına gelir; yeni bir ortamda yeni bir hayatın başlangıcıdır.",
       "cards": {
         "integration": {
           "title": "Çalışan entegrasyonu",

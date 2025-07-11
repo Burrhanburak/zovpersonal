@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - International Future-Oriented Recruitment Agency",
+    "title": "ZovPersonal - International Future-Oriented Personnel Placement (ZOV)",
     "description": "Connecting qualified professionals with international employers. Future-oriented recruitment services for sustainable success in Germany, EU countries, and beyond.",
     "keywords": "international recruitment, employer partnership, job placement, Germany jobs, EU employment, recruitment agency, zovpersonal"
   },
@@ -12,7 +12,7 @@
     "consultation": "Employer Support"
   },
   "hero": {
-    "title": "International Future-Oriented Recruitment Agency (ZOV)",
+    "title": "International Future-Oriented Personnel Placement (ZOV)",
     "subtitle": "Your trusted partner for international career opportunities",
     "description": "We connect qualified professionals with innovative companies worldwide. Future-oriented recruitment for sustainable success in Germany and the EU.",
     "longDescription": "Your trusted partner connecting qualified professionals with international employers. Whether you're seeking support in the recruitment process or pursuing career opportunities abroad, achieve success with our expert team.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "International Future-Oriented Recruitment",
       "title": "International Future-Oriented Recruitment",
-      "description": "Our job seeker program is designed to help you find your dream job abroad. We provide the tools and resources you need to succeed.",
+      "description": "Our job seeker program is designed to help you find your dream job. We provide the tools and resources you need to succeed.",
       "cards": {
         "recruitment": {
           "category": "Hospitality & Cleaning",
@@ -140,7 +140,7 @@
           "features": [
             {
               "title": "Language Requirements",
-              "description": "B1 level German and professional skill certificates."
+              "description": "Language proficiency certificates according to profession type and professional skill certificates."
             },
             {
               "title": "Quick Start to Work",
@@ -153,9 +153,9 @@
   },
   "about": {
     "hero": {
-      "title": "International Future-Focused Recruitment Agency (ZOV)",
+      "title": "International Future-Oriented Personnel Placement (ZOV)",
       "subtitle": "ZovPersonal connects qualified professionals with Europe's leading companies through future-focused international recruitment processes.",
-      "description1": "At ZovPersonal, we are dedicated to providing our customers with an unbeatable edge over delays, inefficiencies, and disorganisation through actionable insights and seamless collaboration. We'll stop at nothing to give you the tools you need to get every visa application across the finish line.",
+      "description1": "At ZovPersonal, we are dedicated to providing our customers with an unbeatable edge over delays, inefficiencies, and disorganisation through actionable insights and seamless collaboration. We'll stop at nothing to give you the tools you need to get every recruitment application across the finish line.",
       "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can help you operate better than ever before. We're all in this together because your success is our success. In our history as a company, we've never lost a customer, because when your projects succeed, so do we."
     },
     "stats": {
@@ -170,7 +170,7 @@
       },
       "visas": {
         "number": "10K+",
-        "label": "Approved Visas"
+        "label": "Successful Placements"
       },
       "countries": {
         "number": "25+",
@@ -185,7 +185,7 @@
       "cta": "Contact Us"
     },
     "company": {
-      "description1": "At ZovPersonal, we are dedicated to transforming international visa processes and providing our customers with an unbeatable edge over delays and inefficiencies. Through actionable insights and seamless collaboration, we provide the tools needed for every visa application to succeed.",
+      "description1": "At ZovPersonal, we are dedicated to transforming international recruitment processes and providing our customers with an unbeatable edge over delays and inefficiencies. Through actionable insights and seamless collaboration, we provide the tools needed for every recruitment application to succeed.",
       "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can provide better service than ever before. We're all in this together because your success is our success. In our company history, we've never lost a customer, because when your projects succeed, so do we."
     },
     "images": {
@@ -226,10 +226,10 @@
   },
   "services": {
     "title": "Advance Your Career Globally",
-    "subtitle": "Connecting talented professionals with leading companies in Germany.",
+    "subtitle": "Connecting talented professionals with leading companies in Germany and worldwide.",
     "workVisa": {
       "title": "Work Visa Assistance",
-      "description": "Full support and guidance in recruiting international specialists from various countries, including Serbia, Bulgaria, Croatia, Romania, the Netherlands, and Turkey."
+      "description": "Full support and guidance in recruiting international specialists from various countries, including Serbia, Bulgaria, Croatia, Romania, the Netherlands, Germany, and Turkey."
     },
     "skillsAssessment": {
       "title": "Skills Assessment",
@@ -237,7 +237,7 @@
     },
     "documentation": {
       "title": "Language Requirements",
-      "description": "B1 German level and professional skill certificates."
+      "description": "Language proficiency certificates according to profession type and professional skill certificates."
     },
     "consultation": {
       "title": "Personal Consultation",
@@ -266,21 +266,21 @@
     "tabContent": {
       "workVisa": {
         "title": "Recruitment Process",
-        "description": "Recruiting international specialists offers a great opportunity to close the skilled labor gap in Germany. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad.",
+        "description": "Recruiting international specialists offers a great opportunity to close the skilled labor gap in Europe. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad.",
         "stat1": { "number": "95%", "label": "successful recruitment" },
         "stat2": { "number": "", "label": "Fast Process" },
         "category": "Recruitment Process"
       },
       "documentation": {
         "title": "Language Requirements",
-        "description": "B1 German level and professional skill certificates.",
+        "description": "Language proficiency certificates according to profession type and professional skill certificates.",
         "stat1": { "number": "100%", "label": "document compliance" },
-        "stat2": { "number": "B1/B2", "label": "Language Levels" },
+        "stat2": { "number": "✓", "label": "Professional Competency Certificates" },
         "category": "Language Requirements"
       },
       "skillsAssessment": {
         "title": "Professional Qualification Assessment",
-        "description": "From assessing the need for recognition to a tailored training plan, we provide comprehensive evaluation and guidance to ensure your professional qualifications are recognized according to German standards. We support the process with B1 level German language skills and proof of financial security.",
+        "description": "From assessing the need for recognition to a tailored training plan, we provide comprehensive evaluation and guidance to ensure your professional qualifications are recognized according to German standards. We support the process with language proficiency certificates according to profession type and proof of financial security.",
         "stat1": { "number": "85%", "label": "successful recognitions" },
         "stat2": { "number": "15", "label": "years of infrastructure" },
         "category": "Professional Qualification"
@@ -440,7 +440,7 @@
     "quickLinks": "Quick Links",
     "ourServices": "Resources",
     "email": "info@zovpersonal.com",
-    "phone": "(Turkey) | +90 555 123 45 67 (Germany) | +49 30 12345678",
+    "phone": "(Turkey) | +90 555 123 45 67 (Germany) | +4915757295545",
     "address": "Istanbul, Turkey, Brückstraße 59, 26725 Emden, Germany",
     "visa": {
       "requiredDocuments": "Required Documents",
@@ -783,23 +783,23 @@
     "items": [
       {
         "question": "In which countries does ZOV Personal provide services?",
-        "answer": "We offer recruitment and employer partnership services in many countries, primarily in Serbia, Romania, Croatia, Bulgaria, the Netherlands, and Turkey."
+        "answer": "We offer recruitment and employer partnership services in many countries, primarily in Serbia, Romania, Croatia, Bulgaria, the Netherlands, Germany, and Turkey."
       },
       {
-        "question": "How does the application process work?",
-        "answer": "The duration varies depending on the country and visa type, typically ranging from 2-6 months. Complete document preparation and following the correct procedures expedite the process."
+        "question": "How does recruitment work?",
+        "answer": "Our recruitment process works step by step. First, we evaluate your qualifications, then find suitable positions and coordinate interviews. We provide fast and secure job placement through our partner companies."
       },
       {
-        "question": "What do you do if the application is rejected?",
-        "answer": "In case of rejection, we analyze the reasons and develop a new strategy. If necessary, we manage appeal processes and prepare a new application after addressing the shortcomings. We continue to support our clients throughout the process."
+        "question": "How does the job search process work in Europe?",
+        "answer": "We guide you through the job search process in Europe. We manage CV preparation, position matching, interview coordination, and visa processes. Through our extensive employer network, we offer you suitable job opportunities."
       },
       {
-        "question": "What are your service fees?",
-        "answer": "Our fees vary depending on the type and complexity of the service. The initial consultation is free. For detailed pricing information, you can contact us for a personalized offer."
+        "question": "How does employee integration work in Europe?",
+        "answer": "After international employees successfully reach Europe, the critical process of integration begins."
       },
       {
-        "question": "In which languages should my documents be prepared?",
-        "answer": "Your documents must be translated into the official language of the target country. We also offer certified translation services. We meet your translation needs in German, English, and other languages."
+        "question": "What are the obligations in Europe?",
+        "answer": "Skilled workers migrating to Europe are subject to a series of obligations to ensure a smooth start to their work life and daily life."
       }
     ]
   },
@@ -843,6 +843,36 @@
         "title": "Health Specialists and Therapists",
         "description": "Work opportunities in Germany for physiotherapists, psychologists, dietitians and other health specialists. Specialized visa consultancy and professional recognition processes for your field of expertise.",
         "button": "Learn more"
+      },
+      "construction": {
+        "status": "High Demand",
+        "title": "Construction Workers",
+        "description": "Process guidance for skilled workers who want to work in the construction sector.",
+        "button": "Learn More"
+      },
+      "electrician": {
+        "status": "Sought-After Skill",
+        "title": "Electricians",
+        "description": "Professional process for electricians who want to work in electrical installation and repair.",
+        "button": "Learn More"
+      },
+      "hospitality": {
+        "status": "Popular Choice",
+        "title": "Hotel & Restaurant",
+        "description": "Guidance for professionals who want to work in hotel, restaurant and tourism sector.",
+        "button": "Learn More"
+      },
+      "logistics": {
+        "status": "Growing Sector",
+        "title": "Logistics & Driving",
+        "description": "Process for professionals who want to work in transportation, logistics and driving.",
+        "button": "Learn More"
+      },
+      "service": {
+        "status": "Secure Employment",
+        "title": "Service Sector",
+        "description": "Guidance for those who want to work in sales, security, cleaning and other service sectors.",
+        "button": "Learn More"
       }
     },
     "otherProfessions": {
@@ -881,23 +911,23 @@
       },
       "content": {
         "jobSearch": {
-          "title": "Finding Work in Germany",
+          "title": "Finding Work in Europe",
           "subtitle": "Healthcare Sector Focused",
-          "description": "We provide professional guidance in the job search process in the healthcare sector. Thanks to our strong network with hospitals and healthcare institutions in Germany, we help you find positions suitable for you.",
+          "description": "We provide professional guidance in the job search process in the healthcare sector. Thanks to our strong network with hospitals and healthcare institutions in Europe, we help you find positions suitable for you.",
           "detail": "We are with you throughout the entire process from CV preparation to interview.",
           "footer": "We have career counseling services specific to your profession and job opportunities."
         },
         "visaApplication": {
           "title": "Application Process Support",
           "subtitle": "Application Process",
-          "description": "We provide information and guidance on your German national work visa application process. By supporting you throughout the process, we help you track your application more easily.",
+          "description": "We provide information and guidance on your European national work visa application process. By supporting you throughout the process, we help you track your application more easily.",
           "detail": "We inform you about what to consider when preparing your documents and scheduling an appointment.",
           "footer": "Contact us for more information about the process."
         },
         "companyAgreements": {
           "title": "Partner Companies",
           "subtitle": "Job Guarantee",
-          "description": "Thanks to our special agreements with 150+ partner hospitals and healthcare institutions in Germany, we offer you direct job opportunities.",
+          "description": "Thanks to our special agreements with partner hospitals and healthcare institutions in Europe, we offer you direct job opportunities.",
           "detail": "After receiving a job offer, your visa process proceeds much faster and more securely.",
           "footer": "You can make long-term career planning with our partner companies."
         }
@@ -905,28 +935,28 @@
     },
     "about": {
       "title": "A different kind of consultancy.",
-      "description": "We offer comprehensive services to achieve your international career goals in the healthcare sector.",
+      "description": "We offer comprehensive services to achieve your international career goals in healthcare, service, construction and other sectors.",
       "statsTitle": "By the numbers",
       "stats": {
         "experience": "Years of Infrastructure",
-        "healthPersonnel": "Healthcare Personnel",
+        "healthPersonnel": "General Personnel",
         "successRate": "Success Rate",
         "partners": "Partner Organizations"
       },
       "content": {
-        "paragraph1": "The healthcare sector is constantly changing and developing. The need for healthcare personnel in Germany is increasing every day. Now is the right time to seize this opportunity.",
-        "highlight": "Working in Germany is not just a dream. We make it a reality for you.",
-        "paragraph2": "Our team, which has worked in this sector for years, has faced all the challenges in the settlement processes of healthcare personnel in Germany. Traditional methods are not sufficient. We offer a comprehensive consultancy service specially designed for healthcare personnel."
+        "paragraph1": "Healthcare, service, construction and other sectors are constantly changing and developing. The need for qualified personnel in Europe is increasing every day. Now is the right time to seize this opportunity.",
+        "highlight": "Working in Europe is not just a dream. We make it a reality for you.",
+        "paragraph2": "Our team, which has worked in these sectors for years, has faced all the challenges in the settlement processes of different professional groups in Europe. Traditional methods are not sufficient. We offer a comprehensive consultancy service specially designed for healthcare, service, construction and other sectors."
       }
     },
     "architectureSection": {
       "subtitle": "Everything you need to know",
-      "title": "Work process in Germany",
-      "description": "Germany is known for its strong economy, culture and high quality of life. However, for immigrants, moving to Germany means more than just a new career; it is the beginning of a new life in a new environment.",
+      "title": "Work process in Europe",
+      "description": "Europe is known for its strong economy, culture and high quality of life. However, for immigrants, moving to Europe means more than just a new career; it is the beginning of a new life in a new environment.",
       "cards": {
         "integration": {
           "title": "Employee integration",
-          "description": "After international employees successfully reach Germany, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company."
+          "description": "After international employees successfully reach Europe, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company."
         },
         "experiencedVisa": {
           "title": "Visa for experienced professionals",
@@ -938,7 +968,7 @@
         },
         "recruitment": {
           "title": "Recruitment",
-          "description": "Step by step. Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Germany. However, for this process to be successful, companies need to adopt a targeted and structured approach."
+          "description": "Step by step. Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Europe. However, for this process to be successful, companies need to adopt a targeted and structured approach."
         }
       },
       "learnMore": "Learn More"

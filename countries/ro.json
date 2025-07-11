@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "ZovPersonal - Agenție Internațională de Recrutare Orientată Spre Viitor",
+    "title": "ZovPersonal - Agenție Internațională de Recrutare Orientată Spre Viitor (ZOV)",
     "description": "Partenerul dvs. de încredere care conectează profesioniștii calificați cu angajatorii internaționali. Servicii de recrutare orientate spre viitor pentru succes durabil în Germania, țările UE și dincolo.",
     "keywords": "recrutare internațională, parteneriat cu angajatorii, plasare în muncă, locuri de muncă Germania, angajare UE, agenție de recrutare, zovpersonal"
   },
@@ -12,7 +12,7 @@
     "consultation": "Suport pentru Angajatori"
   },
   "hero": {
-    "title": "Agenție Internațională de Recrutare Orientată Spre Viitor (ZOV)",
+    "title": "Intermediere Internațională de Personal Orientată spre Viitor (ZOV)",
     "subtitle": "Partenerul tău de încredere pentru oportunități de carieră internaționale",
     "description": "Conectăm profesioniști calificați cu companii inovatoare din întreaga lume. Recrutare orientată spre viitor pentru succes durabil în Germania și UE.",
     "longDescription": "Partenerul dvs. de încredere care conectează profesioniștii calificați cu angajatorii internaționali. Indiferent dacă căutați sprijin în procesul de recrutare sau urmăriți oportunități de carieră în străinătate, obțineți succesul cu echipa noastră de experți.",
@@ -36,7 +36,7 @@
     "carousel": {
       "badge": "Recrutare Internațională Orientată spre Viitor",
       "title": "Recrutare Internațională Orientată spre Viitor",
-      "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să vă ajute să găsiți jobul visurilor voastre în străinătate. Oferim instrumentele și resursele de care aveți nevoie pentru a reuși.",
+      "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să vă ajute să găsiți jobul visurilor voastre. Oferim instrumentele și resursele de care aveți nevoie pentru a reuși.",
       "cards": {
         "recruitment": {
           "category": "Ospitalitate și curățenie",
@@ -140,7 +140,7 @@
           "features": [
             {
               "title": "Cerințe lingvistice",
-              "description": "Nivel B1 de germană și certificate de competențe profesionale."
+              "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale."
             },
             {
               "title": "Începerea rapidă a muncii",
@@ -153,9 +153,9 @@
   },
   "about": {
     "hero": {
-      "title": "Agenția internațională de recrutare orientată spre viitor (ZOV)",
+      "title": "Intermediere Internațională de Personal Orientată spre Viitor (ZOV)",
       "subtitle": "ZovPersonal conectează profesioniștii calificați cu companiile de frunte din Europa prin procese de recrutare internaționale orientate spre viitor.",
-      "description1": "La ZovPersonal, suntem dedicați să oferim clienților noștri un avantaj imbatabil față de întârzieri, ineficiențe și dezorganizare prin perspective acționabile și colaborare fără probleme. Nu ne vom opri până nu vă vom oferi instrumentele de care aveți nevoie pentru a duce fiecare cerere de viză la bun sfârșit.",
+      "description1": "La ZovPersonal, suntem dedicați să oferim clienților noștri un avantaj imbatabil față de întârzieri, ineficiențe și dezorganizare prin perspective acționabile și colaborare fără probleme. Nu ne vom opri până nu vă vom oferi instrumentele de care aveți nevoie pentru a duce fiecare cerere de recrutare la bun sfârșit.",
       "description2": "Suntem obsedați de clienți — investim timp pentru a înțelege fiecare aspect al procesului dvs., astfel încât să vă putem ajuta să operați mai bine ca niciodată. Suntem cu toții în asta împreună, deoarece succesul dvs. este succesul nostru. În istoria noastră ca companie, nu am pierdut niciodată un client, pentru că atunci când proiectele dvs. reușesc, și noi reușim."
     },
     "stats": {
@@ -169,7 +169,7 @@
       },
       "visas": {
         "number": "10K+",
-        "label": "Vize Aprobate"
+        "label": "Plasări de Succes"
       },
       "countries": {
         "number": "25+",
@@ -184,7 +184,7 @@
       "cta": "Contactați-ne"
     },
     "company": {
-      "description1": "La ZovPersonal, suntem dedicați transformării proceselor internaționale de viză și oferirii clienților noștri un avantaj imbatabil față de întârzieri și ineficiențe. Prin perspective acționabile și colaborare fără probleme, oferim instrumentele necesare pentru ca fiecare cerere de viză să reușească.",
+      "description1": "La ZovPersonal, suntem dedicați transformării proceselor internaționale de recrutare și oferirii clienților noștri un avantaj imbatabil față de întârzieri și ineficiențe. Prin perspective acționabile și colaborare fără probleme, oferim instrumentele necesare pentru ca fiecare cerere de recrutare să reușească.",
       "description2": "Suntem obsedați de clienți — investim timp pentru a înțelege fiecare aspect al procesului dvs., astfel încât să putem oferi un serviciu mai bun ca niciodată. Suntem cu toții în asta împreună, deoarece succesul dvs. este succesul nostru. În istoria companiei noastre, nu am pierdut niciodată un client, pentru că atunci când proiectele dvs. reușesc, și noi reușim."
     },
     "images": {
@@ -225,10 +225,10 @@
   },
   "services": {
     "title": "Serviciile noastre",
-    "subtitle": "Conectăm profesioniști talentați cu companii de top din Germania.",
+    "subtitle": "Conectăm profesioniști talentați cu companii de top din Germania și din întreaga lume.",
     "workVisa": {
       "title": "Asistență pentru viză de muncă",
-      "description": "Sprijin complet și îndrumare în recrutarea specialiștilor internaționali din diverse țări, inclusiv Serbia, Bulgaria, Croația, România, Olanda și Turcia."
+      "description": "Sprijin complet și îndrumare în recrutarea specialiștilor internaționali din diverse țări, inclusiv Serbia, Bulgaria, Croația, România, Olanda, Germania și Turcia."
     },
     "skillsAssessment": {
       "title": "Evaluarea Competențelor",
@@ -236,7 +236,7 @@
     },
     "documentation": {
       "title": "Cerințe lingvistice",
-      "description": "Nivel B1 de germană și certificate de competențe profesionale."
+      "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale."
     },
     "consultation": {
       "title": "Consultanță Personală",
@@ -265,21 +265,21 @@
     "tabContent": {
       "workVisa": {
         "title": "Procesul de recrutare",
-        "description": "Recrutarea specialiștilor internaționali oferă o oportunitate excelentă de a acoperi deficitul de forță de muncă calificată din Germania. Prin abordarea noastră țintită și structurată, structurăm eficient procesul dvs. de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
+        "description": "Recrutarea specialiștilor internaționali oferă o oportunitate excelentă de a acoperi deficitul de forță de muncă calificată din Europa. Prin abordarea noastră țintită și structurată, structurăm eficient procesul dvs. de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
         "stat1": { "number": "95%", "label": "recrutare de succes" },
         "stat2": { "number": "", "label": "Proces Rapid" },
         "category": "Procesul de recrutare"
       },
       "documentation": {
         "title": "Cerințe lingvistice",
-        "description": "Nivel B1 de germană și certificate de competențe profesionale.",
+        "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale.",
         "stat1": { "number": "100%", "label": "conformitatea documentelor" },
-        "stat2": { "number": "B1/B2", "label": "Niveluri de limbă" },
+        "stat2": { "number": "✓", "label": "Certificate de competență profesională" },
         "category": "Cerințe lingvistice"
       },
       "skillsAssessment": {
         "title": "Evaluarea calificărilor profesionale",
-        "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu competențe de limba germană la nivel B1 și dovada siguranței financiare.",
+        "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu certificate de competență lingvistică în funcție de tipul de profesie și dovada siguranței financiare.",
         "stat1": { "number": "85%", "label": "recunoaștere reușită" },
         "stat2": { "number": "12", "label": "ani experiență" },
         "category": "Calificări Profesionale"
@@ -437,7 +437,7 @@
     "quickLinks": "Linkuri Rapide",
     "ourServices": "Resurse",
     "email": "info@zovpersonal.com",
-    "phone": "(Turcia) | +90 555 123 45 67 (Germania) | +49 30 12345678",
+    "phone": "(Turcia) | +90 555 123 45 67 (Germania) | +4915757295545",
     "address": "Istanbul, Turcia, Brückstraße 59, 26725 Emden, Germania",
     "visa": {
       "requiredDocuments": "Documente Necesare",
@@ -781,23 +781,23 @@
     "items": [
       {
         "question": "În ce țări oferă servicii ZOV Personal?",
-        "answer": "Oferim servicii de recrutare și parteneriat cu angajatorii în multe țări, în principal în Serbia, România, Croația, Bulgaria, Olanda și Turcia."
+        "answer": "Oferim servicii de recrutare și parteneriat cu angajatorii în multe țări, în principal în Serbia, România, Croația, Bulgaria, Olanda, Germania și Turcia."
       },
       {
-        "question": "Cum funcționează procesul de aplicare?",
-        "answer": "Durata variază în funcție de țară și tipul de viză, de obicei între 2-6 luni. Pregătirea completă a documentelor și respectarea procedurilor corecte accelerează procesul."
+        "question": "Cum funcționează recrutarea?",
+        "answer": "Procesul nostru de recrutare funcționează pas cu pas. Primul pas este evaluarea calificărilor dumneavoastră, apoi găsim pozițiile potrivite și coordonăm interviurile. Oferim plasare rapidă și sigură prin companiile noastre partenere."
       },
       {
-        "question": "Ce faceți dacă cererea este respinsă?",
-        "answer": "În caz de respingere, analizăm motivele și dezvoltăm o nouă strategie. Dacă este necesar, gestionăm procesele de apel și pregătim o nouă cerere după remedierea deficiențelor. Continuăm să sprijinim clienții noștri pe parcursul întregului proces."
+        "question": "Cum funcționează procesul de căutare a unui loc de muncă în Europa?",
+        "answer": "Vă ghidăm prin procesul de căutare a unui loc de muncă în Europa. Gestionăm pregătirea CV-ului, potrivirea pozițiilor, coordonarea interviurilor și procesele de viză. Prin rețeaua noastră extinsă de angajatori vă oferim oportunități de muncă potrivite."
       },
       {
-        "question": "Care sunt taxele dumneavoastră de serviciu?",
-        "answer": "Taxele noastre variază în funcție de tipul și complexitatea serviciului. Consultanța inițială este gratuită. Pentru informații detaliate despre prețuri, ne puteți contacta pentru o ofertă personalizată."
+        "question": "Cum funcționează integrarea angajaților în Europa?",
+        "answer": "După ce angajații internaționali ajung cu succes în Europa, începe procesul critic de integrare."
       },
       {
-        "question": "În ce limbi ar trebui să fie pregătite documentele mele?",
-        "answer": "Documentele dumneavoastră trebuie să fie traduse în limba oficială a țării de destinație. Oferim și servicii de traducere autorizată. Răspundem nevoilor dumneavoastră de traducere în germană, engleză și alte limbi."
+        "question": "Care sunt obligațiile în Europa?",
+        "answer": "Lucrătorii calificați care migrează în Europa sunt supuși unei serii de obligații pentru a asigura un început lin al vieții lor profesionale și zilnice."
       }
     ]
   },
@@ -893,6 +893,36 @@
         "title": "Specialiști în Sănătate și Terapeuți",
         "description": "Oportunități de muncă în Germania pentru fizioterapeuți, psihologi, dieteticieni și alți specialiști în sănătate. Consultanță specializată pentru vize și procese de recunoaștere profesională pentru domeniul tău de expertiză.",
         "button": "Află mai multe"
+      },
+      "construction": {
+        "status": "Cerere Mare",
+        "title": "Muncitori în Construcții",
+        "description": "Ghidare procesului pentru muncitori calificați care doresc să lucreze în sectorul construcțiilor.",
+        "button": "Află mai multe"
+      },
+      "electrician": {
+        "status": "Abilitate Căutată",
+        "title": "Electricieni",
+        "description": "Proces profesional pentru electricieni care doresc să lucreze în instalații electrice și reparații.",
+        "button": "Află mai multe"
+      },
+      "hospitality": {
+        "status": "Alegere Populară",
+        "title": "Hotel și Restaurant",
+        "description": "Ghidare pentru profesioniștii care doresc să lucreze în sectorul hotelier, restaurant și turism.",
+        "button": "Află mai multe"
+      },
+      "logistics": {
+        "status": "Sector în Creștere",
+        "title": "Logistică și Transport",
+        "description": "Proces pentru profesioniștii care doresc să lucreze în transport, logistică și condus.",
+        "button": "Află mai multe"
+      },
+      "service": {
+        "status": "Angajare Sigură",
+        "title": "Sectorul Serviciilor",
+        "description": "Ghidare pentru cei care doresc să lucreze în vânzări, securitate, curățenie și alte sectoare de servicii.",
+        "button": "Află mai multe"
       }
     },
     "otherProfessions": {
@@ -931,23 +961,23 @@
       },
       "content": {
         "jobSearch": {
-          "title": "Găsirea unui Loc de Muncă în Germania",
+          "title": "Găsirea unui Loc de Muncă în Europa",
           "subtitle": "Concentrat pe Sectorul Sănătății",
-          "description": "Oferim ghidare profesională în procesul de căutare a unui loc de muncă în sectorul sănătății. Datorită rețelei noastre puternice cu spitalele și instituțiile de sănătate din Germania, te ajutăm să găsești poziții potrivite pentru tine.",
+          "description": "Oferim ghidare profesională în procesul de căutare a unui loc de muncă în sectorul sănătății. Datorită rețelei noastre puternice cu spitalele și instituțiile de sănătate din Europa, te ajutăm să găsești poziții potrivite pentru tine.",
           "detail": "Suntem cu tine pe tot parcursul procesului, de la pregătirea CV-ului până la interviu.",
           "footer": "Avem servicii de consiliere în carieră specifice profesiei tale și oportunităților de muncă."
         },
         "visaApplication": {
           "title": "Viza Națională de Muncă",
           "subtitle": "Procesul de Cerere",
-          "description": "Gestionăm toate etapele pentru tine în procesul de cerere pentru viza națională de muncă în Germania. Suport profesional de la pregătirea documentelor până la programarea întâlnirilor.",
+          "description": "Gestionăm toate etapele pentru tine în procesul de cerere pentru viza națională de muncă în Europa. Suport profesional de la pregătirea documentelor până la programarea întâlnirilor.",
           "detail": "Pregătim toate documentele necesare corect pentru a accelera procesul de aprobare a vizei.",
           "footer": "Poți aplica pentru viza ta cu încredere datorită ratei noastre mari de succes."
         },
         "companyAgreements": {
           "title": "Companii Partenere",
           "subtitle": "Garanție de Loc de Muncă",
-          "description": "Datorită acordurilor noastre speciale cu peste 150 de spitale și instituții de sănătate partenere din Germania, îți oferim oportunități directe de muncă.",
+          "description": "Datorită acordurilor noastre speciale cu spitale și instituții de sănătate partenere din Europa, îți oferim oportunități directe de muncă.",
           "detail": "După ce primești o ofertă de muncă, procesul tău de viză decurge mult mai rapid și mai sigur.",
           "footer": "Poți face planificarea carierei pe termen lung cu companiile noastre partenere."
         }
@@ -955,11 +985,11 @@
     },
     "about": {
       "title": "Un alt fel de consultanță.",
-      "description": "Oferim servicii complete pentru a vă atinge obiectivele de carieră internațională în sectorul sănătății.",
+      "description": "Oferim servicii complete pentru a vă atinge obiectivele de carieră internațională în sectorul sănătății, servicii, construcții și alte sectoare.",
       "statsTitle": "În cifre",
       "stats": {
         "experience": "Ani de Infrastructură",
-        "healthPersonnel": "Personal sanitar",
+        "healthPersonnel": "Personal general",
         "successRate": "Rata de succes",
         "partners": "Organizații partenere"
       },
@@ -976,7 +1006,7 @@
       "cards": {
         "integration": {
           "title": "Integrarea Angajaților",
-          "description": "După ce angajații internaționali ajung cu succes în Germania, începe procesul critic de integrare. O integrare bună este importantă nu doar pentru a asigura confortul noilor angajați în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie."
+          "description": "După ce angajații internaționali ajung cu succes în Europa, începe procesul critic de integrare. O integrare bună este importantă nu doar pentru a asigura confortul noilor angajați în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie."
         },
         "experiencedVisa": {
           "title": "Viza pentru Profesioniști Experimentați",
@@ -988,7 +1018,7 @@
         },
         "recruitment": {
           "title": "Recrutare",
-          "description": "Pas cu pas. Recrutarea specialiștilor internaționali oferă o oportunitate uriașă pentru a aborda deficitul de competențe din Germania. Cu toate acestea, pentru ca acest proces să fie de succes, companiile trebuie să adopte o abordare țintită și structurată."
+          "description": "Pas cu pas. Recrutarea specialiștilor internaționali oferă o oportunitate uriașă pentru a aborda deficitul de competențe din Europa. Cu toate acestea, pentru ca acest proces să fie de succes, companiile trebuie să adopte o abordare țintită și structurată."
         }
       },
       "learnMore": "Află Mai Multe"

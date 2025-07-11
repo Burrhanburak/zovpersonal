@@ -4,56 +4,56 @@ export const messages = {
     helper: 'Müşteri Temsilcisi',
     placeholder: 'Mesajınızı yazın...',
     button: 'WhatsApp ile Gönder',
-    defaultMessage: 'Merhaba, vize danışmanlığı hizmetleriniz hakkında bilgi almak istiyorum.'
+    defaultMessage: 'Merhaba, işe alım hizmetleri hakkında bilgi almak istiyorum.'
   },
   en: {
     header: 'Contact via WhatsApp',
     helper: 'Customer Representative',
     placeholder: 'Type your message...',
     button: 'Send via WhatsApp',
-    defaultMessage: 'Hello, I would like to get information about your visa consultancy services.'
+    defaultMessage: 'Hello, I would like to get information about your recruitment services.'
   },
   de: {
     header: 'Kontakt über WhatsApp',
     helper: 'Kundenvertreter',
     placeholder: 'Schreiben Sie Ihre Nachricht ein...',
     button: 'Über WhatsApp senden',
-    defaultMessage: 'Hallo, ich möchte Informationen über Ihre Visa-Beratungsdienstleistungen erhalten.'
+    defaultMessage: 'Hallo, ich möchte Informationen über Ihre Personalvermittlungsdienstleistungen erhalten.'
   },
   nl: {
     header: 'Contact via WhatsApp',
     helper: 'Klantenvertreter',
     placeholder: 'Typ uw bericht...',
     button: 'Verstuur via WhatsApp',
-    defaultMessage: 'Hallo, ik wil informatie over uw visa consultatiediensten.'
+    defaultMessage: 'Hallo, ik wil informatie over uw wervingsdiensten.'
   },
   bg: {
-    header: 'Contact via WhatsApp',
-    helper: 'Kundenvertreter',
-    placeholder: 'Typ uw bericht...',
-    button: 'Verstuur via WhatsApp',
-    defaultMessage: 'Hallo, ik wil informatie over uw visa consultatiediensten.'
+    header: 'Свържете се чрез WhatsApp',
+    helper: 'Представител на клиенти',
+    placeholder: 'Напишете съобщението си...',
+    button: 'Изпрати чрез WhatsApp',
+    defaultMessage: 'Здравейте, бих искал да получа информация за вашите услуги по набиране на персонал.'
   },
   hr: {
-    header: 'Contact via WhatsApp',
-    helper: 'Kundenvertreter',
-    placeholder: 'Tipite svoju poruku...',
+    header: 'Kontakt preko WhatsApp',
+    helper: 'Predstavnik za klijente',
+    placeholder: 'Napišite svoju poruku...',
     button: 'Pošalji preko WhatsApp',
-    defaultMessage: 'Zdravo, želim informacije o vašim uslugama za vize.'
+    defaultMessage: 'Zdravo, želim informacije o vašim uslugama zapošljavanja.'
   },
   ro: {
-    header: 'Contact via WhatsApp',
-    helper: 'Kundenvertreter',
-    placeholder: 'Tipite svoju poruku...',
-    button: 'Pošalji preko WhatsApp',
-    defaultMessage: 'Zdravo, želim informacije o vašim uslugama za vize.'
+    header: 'Contact prin WhatsApp',
+    helper: 'Reprezentant clienți',
+    placeholder: 'Scrieți mesajul dvs...',
+    button: 'Trimite prin WhatsApp',
+    defaultMessage: 'Salut, aș dori să obțin informații despre serviciile dvs. de recrutare.'
   },
   sr: {
-    header: 'Contact via WhatsApp',
-    helper: 'Kundenvertreter',
-    placeholder: 'Tipite svoju poruku...',
+    header: 'Kontakt preko WhatsApp',
+    helper: 'Predstavnik za klijente',
+    placeholder: 'Napišite svoju poruku...',
     button: 'Pošalji preko WhatsApp',
-    defaultMessage: 'Zdravo, želim informacije o vašim uslugama za vize.'
+    defaultMessage: 'Zdravo, želim informacije o vašim uslugama zapošljavanja.'
   }
 } as const;
 
