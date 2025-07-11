@@ -146,10 +146,18 @@
                 "title": "Brzi početak rada",
                 "description": "Brzo zapošljavanje za hitne potrebe na građevinskim projektima."
               }
-            ]
-          }
-        }
-      }
+                  ]
+    }
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "description": "Stranica koju tražite ne postoji ili je možda premještena. Možete nastaviti vraćanjem na početnu stranicu.",
+    "backHome": "Natrag na početnu",
+    "contact": "Kontaktirajte nas",
+    "help": "Trebate pomoć?",
+    "contactUs": "Kontaktirajte nas"
+  }
+}
     },
     "about": {
           "hero": {

@@ -146,10 +146,18 @@
                 "title": "Brz početak rada",
                 "description": "Brzo raspoređivanje za hitne potrebe u građevinskim projektima."
               }
-            ]
-          }
-        }
-      }
+                  ]
+    }
+  },
+  "notFound": {
+    "title": "Страница није пронађена",
+    "description": "Страница коју тражите не постоји или је можда премештена. Можете наставити враћањем на почетну страницу.",
+    "backHome": "Назад на почетну",
+    "contact": "Контактирајте нас",
+    "help": "Треба вам помоћ?",
+    "contactUs": "Контактирајте нас"
+  }
+}
     },
     "about": {
           "hero": {

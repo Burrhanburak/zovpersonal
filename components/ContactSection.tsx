@@ -17,7 +17,6 @@ import {
 } from '@/components/ui/form';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Calendar } from '@/components/ui/calendar';
 import { Label } from '@/components/ui/label';
 import {
   Popover,
@@ -33,9 +32,7 @@ const formSchema = z.object({
   email: z.string().email({
     message: "Please enter a valid email address.",
   }),
-  date: z.date().optional(),
   userType: z.enum(["job_seeker", "employer"]).optional(),
-  languageSupport: z.enum(["turkish", "german", "english"]).optional(),
   message: z.string().min(10, {
     message: "Message must be at least 10 characters.",
   }),
@@ -44,9 +41,7 @@ const formSchema = z.object({
 export default function ContactSection() {
   const t = useTranslations('contact');
   const locale = useLocale();
-  const [datePickerOpen, setDatePickerOpen] = useState(false);
   const [userTypeOpen, setUserTypeOpen] = useState(false);
-  const [languageSupportOpen, setLanguageSupportOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   
@@ -55,9 +50,7 @@ export default function ContactSection() {
     defaultValues: {
       name: "",
       email: "",
-      date: undefined,
       userType: undefined,
-      languageSupport: undefined,
       message: "",
     },
   });
@@ -153,44 +146,6 @@ export default function ContactSection() {
                           {...field}
                           className="h-14 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-satoshi-medium placeholder:text-[rgb(28,39,6)]/50 focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
                         />
-                      </FormControl>
-                      <FormMessage />
-                    </FormItem>
-                  )}
-                />
-
-                {/* Date Field */}
-                <FormField
-                  control={form.control}
-                  name="date"
-                  render={({ field }) => (
-                    <FormItem>
-                      <FormControl>
-                        <div className="flex flex-col gap-3">
-                          <Popover open={datePickerOpen} onOpenChange={setDatePickerOpen}>
-                            <PopoverTrigger asChild>
-                              <Button
-                                variant="outline"
-                                className="h-14 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-satoshi-medium justify-between hover:bg-[#f0f1f2] focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
-                              >
-                                {field.value ? field.value.toLocaleDateString() : t('datePlaceholder')}
-                                <ChevronDownIcon className="h-4 w-4 opacity-50" />
-                              </Button>
-                            </PopoverTrigger>
-                            <PopoverContent className="w-auto overflow-hidden p-0" align="start">
-                              <Calendar
-                                mode="single"
-                                selected={field.value}
-                                captionLayout="dropdown"
-                                onSelect={(date) => {
-                                  field.onChange(date);
-                                  setDatePickerOpen(false);
-                                }}
-                                disabled={(date) => date < new Date()}
-                              />
-                            </PopoverContent>
-                          </Popover>
-                        </div>
                       </FormControl>
                       <FormMessage />
                     </FormItem>

@@ -1463,5 +1463,13 @@
         }
       ]
     }
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "description": "Pagina pe care o căutați nu există sau s-ar putea să fi fost mutată. Puteți continua prin întoarcerea la pagina principală.",
+    "backHome": "Înapoi la început",
+    "contact": "Contactați-ne",
+    "help": "Aveți nevoie de ajutor?",
+    "contactUs": "Contactați-ne"
   }
 }

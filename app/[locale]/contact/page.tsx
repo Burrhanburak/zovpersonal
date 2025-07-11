@@ -6,7 +6,8 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { Instagram, Twitter, Linkedin, Facebook } from "lucide-react";
+import { Instagram, Twitter, Linkedin, Facebook, ChevronDown } from "lucide-react";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import z from "zod";
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useForm } from 'react-hook-form';
@@ -26,6 +27,7 @@ const ContactFormSchema = z.object({
   email: z.string().email({
     message: "Please enter a valid email address.",
   }),
+  userType: z.enum(["job_seeker", "employer"]).optional(),
   message: z.string().min(10, {
     message: "Message must be at least 10 characters.",
   }),
@@ -34,18 +36,19 @@ const ContactFormSchema = z.object({
 export default function ContactPage() {
   const t = useTranslations();
   const locale = useLocale();
+  const [userTypeOpen, setUserTypeOpen] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+  
   const form = useForm<z.infer<typeof ContactFormSchema>>({
     resolver: zodResolver(ContactFormSchema),
     defaultValues: {
       fullName: "",
-      
       email: "",
+      userType: undefined,
       message: "",
     },
   });
-
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   
   async function onSubmit(values: z.infer<typeof ContactFormSchema>) {
     console.log('📝 Contact form submitted:', values);
@@ -61,6 +64,7 @@ export default function ContactPage() {
         body: JSON.stringify({
           name: values.fullName,
           email: values.email,
+          userType: values.userType,
           message: values.message,
           locale
         }),
@@ -199,7 +203,58 @@ export default function ContactPage() {
                 )}
               />
 
-              {/* Message Field */}
+              {/* User Type Field */}
+              <FormField
+                control={form.control}
+                name="userType"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>{t('contact.selectApplicantType')}</FormLabel>
+                    <FormControl>
+                      <Popover open={userTypeOpen} onOpenChange={setUserTypeOpen}>
+                        <PopoverTrigger asChild>
+                          <Button
+                            variant="outline"
+                            className="h-12 bg-[#f8f9fa] border-none rounded-[15px] text-[rgb(28,39,6)] font-medium justify-between hover:bg-[#f0f1f2] focus:ring-2 focus:ring-[rgb(28,39,6)]/20 transition-all duration-200"
+                          >
+                            {field.value === "job_seeker" ? t('contact.jobSeeker') : 
+                             field.value === "employer" ? t('contact.employer') : 
+                             t('contact.selectApplicantType')}
+                            <ChevronDown className="h-4 w-4 opacity-50" />
+                          </Button>
+                        </PopoverTrigger>
+                        <PopoverContent className="w-full overflow-hidden p-0" align="start">
+                          <div className="flex flex-col">
+                            <button
+                              type="button"
+                              className="px-4 py-3 text-left hover:bg-gray-100 transition-colors text-[rgb(28,39,6)] font-medium"
+                              onClick={() => {
+                                field.onChange("job_seeker");
+                                setUserTypeOpen(false);
+                              }}
+                            >
+                              {t('contact.jobSeeker')}
+                            </button>
+                            <button
+                              type="button"
+                              className="px-4 py-3 text-left hover:bg-gray-100 transition-colors text-[rgb(28,39,6)] font-medium"
+                              onClick={() => {
+                                field.onChange("employer");
+                                setUserTypeOpen(false);
+                              }}
+                            >
+                              {t('contact.employer')}
+                            </button>
+                          </div>
+                        </PopoverContent>
+                      </Popover>
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+
+                            {/* Message Field */}
               <FormField
                 control={form.control}
                 name="message"

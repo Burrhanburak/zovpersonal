@@ -1544,5 +1544,13 @@
         }
       ]
     }
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "description": "De pagina die u zoekt bestaat niet of is mogelijk verplaatst. U kunt doorgaan door terug te keren naar de homepage.",
+    "backHome": "Terug naar Home",
+    "contact": "Contact opnemen",
+    "help": "Hulp nodig?",
+    "contactUs": "Neem contact met ons op"
   }
 }

@@ -130,17 +130,25 @@ const translations = {
     name: 'Ime',
     email: 'Email',
     userType: 'Tip korisnika',
+    appointmentDate: 'Datum termina',
+    languageSupport: 'Jezička podrška',
+    message: '💬 Poruka',
+    footerText: 'Ova poruka je poslana putem kontaktnog obrasca ZovPersonal.com.',
+    jobSeeker: 'Tražitelj posla',
+    employer: 'Poslodavac',
+    notSpecified: 'Nije specificirano',
+    turkish: 'Turski',
+    german: 'Nemački',
+    english: 'Engleski'
   }
 };
 
 export async function POST(request: NextRequest) {
   try {
-    console.log('📧 Contact form submission received');
     
     const body = await request.json();
     const { name, email, date, userType, languageSupport, message, locale = 'en' } = body;
 
-    console.log('📝 Form data:', { name, email, userType, date, locale });
 
     // Validate required fields
     if (!name || !email || !message) {
@@ -200,14 +208,14 @@ export async function POST(request: NextRequest) {
 
     // Send email using Resend
     const result = await resend.emails.send({
-      from: 'ZovPersonal <noreply@zovpersonal.com>', // Bu domain'i Resend'de verify etmen gerekiyor
+      from: 'ZovPersonal <info@zovpersonal.com>', // Bu domain'i Resend'de verify etmen gerekiyor
       to: ['info@zovpersonal.com'],
       replyTo: email, // User'ın mailini reply-to olarak ekle
       subject: `📨 ${t.newMessage}: ${name} - ${userTypeText}`,
       html: emailContent,
     });
 
-    console.log('✅ Email sent successfully:', result);
+
 
     return NextResponse.json(
       { 
@@ -219,7 +227,7 @@ export async function POST(request: NextRequest) {
     );
 
   } catch (error) {
-    console.error('❌ Error sending email:', error);
+    
     
     return NextResponse.json(
       { 
