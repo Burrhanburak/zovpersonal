@@ -1,0 +1,86 @@
+{
+  "title": "Naše usluge",
+  "subtitle": "Povezujemo talentirane profesionalce s vodećim tvrtkama u Njemačkoj i širom svijeta.",
+  "workVisa": {
+    "title": "Pomoć pri dobivanju radne vize",
+    "description": "Potpuna podrška i vodstvo u zapošljavanju međunarodnih stručnjaka iz različitih zemalja, uključujući Srbiju, Bugarsku, Hrvatsku, Rumunjsku, Nizozemsku, Njemačku i Tursku."
+  },
+  "skillsAssessment": {
+    "title": "Procjena vještina",
+    "description": "Profesionalna procjena vaših kvalifikacija i usklađivanje s međunarodnim prilikama za posao."
+  },
+  "documentation": {
+    "title": "Jezični Zahtjevi",
+    "description": "Certifikati o jezičnoj kompetentnosti prema vrsti profesije i certifikati o stručnim vještinama."
+  },
+  "consultation": {
+    "title": "Osobno savjetovanje",
+    "description": "Individualne konzultacije kako bismo razumjeli vaše specifične potrebe i karijerne ciljeve."
+  },
+  "countries": {
+    "title": "Jačamo se s najboljim svjetskim timovima za zapošljavanje i partnerstvo s poslodavcima.",
+    "subtitle": "Od startupova nove generacije do etabliranih organizacija.",
+    "countryNames": {
+      "germany": "Njemačka",
+      "austria": "Austrija",
+      "netherlands": "Nizozemska",
+      "switzerland": "Švicarska",
+      "belgium": "Belgija",
+      "luxembourg": "Luksemburg",
+      "denmark": "Danska",
+      "romania": "Rumunjska",
+      "croatia": "Hrvatska",
+      "bulgaria": "Bugarska",
+      "sweden": "Švedska",
+      "finland": "Finska",
+      "serbia": "Srbija",
+      "turkey": "Turska"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Proces zapošljavanja",
+      "description": "Zapošljavanje međunarodnih stručnjaka nudi veliku priliku za popunjavanje manjka kvalificirane radne snage u Europi. Našim ciljanim i strukturiranim pristupom, učinkovito strukturiramo vaš proces zapošljavanja kako bismo uspješno privukli kvalificirane zdravstvene djelatnike iz inozemstva.",
+      "stat1": {
+        "number": "95%",
+        "label": "uspješno zapošljavanje"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Brzi proces"
+      },
+      "category": "Proces zapošljavanja"
+    },
+    "documentation": {
+      "title": "Jezični preduvjeti",
+      "description": "Certifikati o jezičnoj kompetentnosti prema vrsti profesije i certifikati o stručnim vještinama.",
+      "stat1": {
+        "number": "100%",
+        "label": "usklađenost dokumenata"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Certifikati stručne kompetentnosti"
+      },
+      "category": "Jezični preduvjeti"
+    },
+    "skillsAssessment": {
+      "title": "Procjena stručnih kvalifikacija",
+      "description": "Od procjene potrebe za priznavanjem do prilagođenog plana obuke, pružamo sveobuhvatnu procjenu i vodstvo kako bismo osigurali da su vaše stručne kvalifikacije priznate prema njemačkim standardima. Podržavamo proces s certifikatima o jezičnoj kompetentnosti prema vrsti profesije i dokazom o financijskoj sigurnosti.",
+      "stat1": {
+        "number": "85%",
+        "label": "uspješnih priznavanja"
+      },
+      "stat2": {
+        "number": "15",
+        "label": "godina infrastrukture"
+      },
+      "category": "Stručna kvalifikacija"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Zapošljavanje",
+    "documentation": "Jezični preduvjeti",
+    "skillsAssessment": "Stručna kvalifikacija"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Međunarodno Buduće Orijentirano Posredovanje Osoblja (ZOV)",
+    "subtitle": "ZovPersonal povezuje kvalificirane profesionalce s vodećim europskim tvrtkama kroz buduće usmjerene međunarodne procese zapošljavanja.",
+    "description1": "U ZovPersonalu posvećeni smo pružanju našim klijentima nepobjedive prednosti nad kašnjenjima, neučinkovitošću i neorganiziranošću kroz djelotvorne uvide i besprijekornu suradnju. Nećemo se zaustaviti ni pred čim kako bismo vam pružili alate potrebne za uspješno dovršenje svake prijave za zapošljavanje.",
+    "description2": "Opsjednuti smo klijentima — ulažemo vrijeme da razumijemo svaki aspekt vašeg procesa kako bismo vam mogli pomoći da radite bolje nego ikad prije. Svi smo zajedno u ovome jer vaš uspjeh je naš uspjeh. U našoj povijesti kao tvrtke, nikada nismo izgubili klijenta, jer kada vaši projekti uspiju, uspijevamo i mi."
+  },
+  "stats": {
+    "experience": {
+      "number": "15+",
+      "label": "Godine infrastrukture"
+    },
+    "clients": {
+      "number": "5K+",
+      "label": "Uspješni klijenti"
+    },
+    "visas": {
+      "number": "10K+",
+      "label": "Uspješna zapošljavanja"
+    },
+    "countries": {
+      "number": "25+",
+      "label": "Ciljne zemlje"
+    },
+    "satisfaction": "95%"
+  },
+  "team": {
+    "title": "Tim",
+    "description1": "Počeli smo graditi ZovPersonal 2019. i pokrenuli ga 2022. Svaki proces je dizajniran od temelja — bez tehničkog duga ili naslijeđenih sustava. Namjenski smo izgrađeni za pokretanje inovacija u zapošljavanju i partnerstvu s poslodavcima za sljedećih sto godina.",
+    "description2": "Naši iskusni savjetnici razumiju jedinstvene potrebe svakog klijenta i pružaju personalizirana rješenja. Ovdje smo da pojednostavimo složenosti procesa zapošljavanja i učinimo vaše radno putovanje besprijekornim.",
+    "description3": "Kontaktirajte nas za partnerstvo s poslodavcima.",
+    "cta": "Kontaktirajte nas"
+  },
+  "company": {
+    "description1": "U ZovPersonalu posvećeni smo transformaciji međunarodnih procesa zapošljavanja i pružanju našim klijentima nepobjedive prednosti nad kašnjenjima i neučinkovitošću. Kroz djelotvorne uvide i besprijekornu suradnju, pružamo alate potrebne za uspjeh svake prijave za zapošljavanje.",
+    "description2": "Opsjednuti smo klijentima — ulažemo vrijeme da razumijemo svaki aspekt vašeg procesa kako bismo mogli pružiti bolju uslugu nego ikad prije. Svi smo zajedno u ovome jer vaš uspjeh je naš uspjeh. U povijesti naše tvrtke, nikada nismo izgubili klijenta, jer kada vaši projekti uspiju, uspijevamo i mi."
+  },
+  "images": {
+    "teamWork": "Suradnja tima",
+    "officeSpace": "Uredski prostor",
+    "consulting": "Savjetodavne usluge",
+    "success": "Priče o uspjehu"
+  },
+  "partners": {
+    "title": "Naši partneri",
+    "partner1": {
+      "name": "Anna Schneider",
+      "role": "Specijalist za zapošljavanje"
+    },
+    "partner2": {
+      "name": "Ayşe Demir",
+      "role": "Pravni savjetnik"
+    },
+    "partner3": {
+      "name": "Ali Kaya",
+      "role": "Razvoj poslovanja"
+    },
+    "partner4": {
+      "name": "Fatma Öz",
+      "role": "Odnosi s klijentima"
+    },
+    "partner5": {
+      "name": "Lukas Wagner",
+      "role": "Voditelj operacija"
+    }
+  },
+  "description": "Voditi vas prema međunarodnim karijernim ciljevima i pojednostaviti procese zapošljavanja kako bismo stvorili prilike za rad u zemlji vaših snova. S dokazanim iskustvom pružamo pouzdane usluge zapošljavanja i partnerstva s poslodavcima diljem svijeta.",
+  "features": {
+    "compassion": "Empatija i razumijevanje",
+    "integrity": "Poštenje i pouzdanost",
+    "mindGrowth": "Osobni i profesionalni rast"
+  },
+  "experienceHighlight": "Građeno na stvarnom iskustvu u industriji — vodimo karijere pouzdanom stručnošću zapošljavanja."
+}

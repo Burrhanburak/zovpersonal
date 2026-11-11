@@ -1,0 +1,34 @@
+{
+  "title": "Documente Necesare",
+  "subtitle": "Documente esențiale pentru cererea ta de viză",
+  "categories": {
+    "personal": {
+      "title": "Documente Personale",
+      "description": "Pașaport valabil cel puțin 6 luni, documente de identitate și acte care conțin informațiile tale personale."
+    },
+    "education": {
+      "title": "Documente Educaționale",
+      "description": "Diplome, certificate și documente de competență lingvistică. Apostila poate fi necesară pentru recunoaștere internațională."
+    },
+    "professional": {
+      "title": "Documente Profesionale",
+      "description": "Scrisoare de ofertă de muncă, contract de muncă, certificate de calificare profesională și documente de experiență."
+    },
+    "medical": {
+      "title": "Medicale și Juridice",
+      "description": "Raport medical, verificare a cazierului judiciar, documente de stare financiară și fotografiile tale biometrice."
+    }
+  },
+  "list": [
+    "Pașaport valabil cel puțin 6 luni",
+    "Certificate și diplome educaționale",
+    "Certificate de calificare profesională",
+    "Certificate de competență lingvistică (germană/engleză)",
+    "Scrisoare de ofertă de muncă sau contract de muncă",
+    "Rapoarte de examinare medicală",
+    "Verificare a cazierului judiciar",
+    "Dovada mijloacelor financiare",
+    "Formulare de cerere de viză completate",
+    "Fotografii biometrice"
+  ]
+}

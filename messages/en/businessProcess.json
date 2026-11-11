@@ -1,0 +1,174 @@
+{
+  "entryGuide": {
+    "imageAlt": "Visa consultancy services",
+    "title": "Entry Guide to Germany",
+    "preparation": {
+      "title": "1. Preparation and Information Gathering",
+      "content": "As ZOV Personal, we provide comprehensive consultancy on the requirements and necessary steps before entering Germany. Our expert team offers detailed information on visa options and related prerequisites, providing personalized guidance."
+    },
+    "partnership": {
+      "title": "2. Employer Partnership and Job-Finding Support",
+      "content": "Thanks to ZOV Personal's extensive employer network, we establish direct connections with reliable companies in Germany. Within our employer partnership program, we cover:",
+      "items": [
+        "Finding job positions suitable for your qualifications",
+        "Job contract negotiations",
+        "Coordination of the visa process with the employer",
+        "Management of work permit procedures"
+      ]
+    },
+    "advantage": {
+      "title": "The ZOV Personal Advantage",
+      "content": "With a comprehensive preparation process, there are no obstacles to your successful start in Germany. ZOV Personal's experienced team provides professional support at every step, from your visa application to starting your job. Step confidently into your professional life in Germany with our employer partnership network and expert consultancy."
+    },
+    "cta": {
+      "ready": "Are you ready to start your journey to Germany?",
+      "contact": "Contact ZOV Personal now to start your visa process and plan your career in Germany!"
+    }
+  },
+  "slugPages": {
+    "employeeIntegration": {
+      "title": "Employee Integration Processes",
+      "subtitle": "Comprehensive support for successful integration in Germany",
+      "description": "We offer specially designed integration programs for international employees to successfully integrate into Germany.",
+      "section1": {
+        "title": "Employee Integration",
+        "content": "After international employees successfully arrive in Germany, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company. Companies can make a significant contribution with targeted measures aimed at providing a smooth start for new professionals."
+      },
+      "section2": {
+        "title": "Support Services",
+        "content": "We provide comprehensive services including language training, cultural orientation, legal consultation, and social integration support."
+      },
+      "benefits": "Rapid adaptation, high job satisfaction, and long-term success"
+    },
+    "experiencedVisa": {
+      "title": "Visa for Experienced Professionals",
+      "subtitle": "Special visa program for qualified experienced specialists",
+      "description": "We offer accelerated visa processes and special opportunities for professionals with at least 2 years of professional experience.",
+      "section1": {
+        "title": "Visa for Experienced Professionals",
+        "content": "The visa for experienced professionals (Section 19c, Paragraph 2 of the Residence Act) is aimed at skilled workers who have at least two years of qualified professional experience in their field but do not have a formal university degree. The visa allows these skilled workers to work in Germany, especially in professions that are in high demand. This visa was introduced to meet the demand for skilled workers and strengthen the German labor market."
+      },
+      "section2": {
+        "title": "Application Process",
+        "content": "We provide professional guidance for the evaluation of your experience certificates, recognition of professional qualifications, and accelerated application processes."
+      },
+      "benefits": "Fast process, flexible conditions, and experience-oriented evaluation"
+    },
+    "acceleratedProcedure": {
+      "title": "Accelerated Skilled Worker Procedure",
+      "subtitle": "Fast and efficient visa application process",
+      "description": "We shorten your visa process with the accelerated procedure specially designed for skilled workers.",
+      "section1": {
+        "title": "What is the Accelerated Skilled Worker Procedure?",
+        "content": "The Accelerated Skilled Worker Procedure is a special process developed to accelerate the immigration and recognition process for skilled workers from abroad. Its primary purpose is to help companies bring urgently needed skilled workers to Germany faster and combat the skills shortage more effectively. This process is based on close cooperation between employers, immigration authorities and recognition institutions to minimize bureaucratic barriers and issue permits quickly."
+      },
+      "section2": {
+        "title": "Advantages",
+        "content": "We optimize your process with short waiting times, priority processing, and special consultant appointments."
+      }
+    },
+    "recruitment": {
+      "title": "International Recruitment Services",
+      "subtitle": "Connecting qualified professionals with Germany",
+      "description": "Our expert services in recruiting international talents to meet Germany's workforce needs.",
+      "section1": {
+        "title": "Recruitment",
+        "content": "Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Germany. However, for this process to be successful, companies need to adopt a targeted and structured approach. This step-by-step guide will show you how to effectively structure your recruitment process to successfully attract qualified specialists from abroad."
+      },
+      "section2": {
+        "title": "Process Management",
+        "content": "We manage the entire recruitment process including candidate sourcing, evaluation, visa processes, and job placement."
+      }
+    }
+  },
+  "common": {
+    "advantagesTitle": "Advantages",
+    "processTitle": "Process",
+    "processDescription": "Secure results with step-by-step guidance",
+    "step1Title": "1. Initial Assessment",
+    "step1Description": "We conduct situation analysis and eligibility assessment.",
+    "step2Title": "2. Document Preparation",
+    "step2Description": "We professionally prepare all required documents.",
+    "step3Title": "3. Application Process",
+    "step3Description": "We track and manage your application.",
+    "step4Title": "4. Result and Follow-up",
+    "step4Description": "Process completion and follow-up services.",
+    "ctaTitle": "Let's Start Right Away",
+    "ctaDescription": "Contact our expert team to start your process.",
+    "contactButton": "Get in Touch",
+    "backButton": "Go Back"
+  },
+  "services": {
+    "services": [
+      "Talent Sourcing",
+      "Visa Support",
+      "Compliance",
+      "Candidate Screening",
+      "Onboarding Support",
+      "Multi-Industry Expertise",
+      "24/7 Support Available"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Efficiency",
+        "title": "Streamlined",
+        "subtitle": "Hiring Process",
+        "description": "Our optimized process reduces time-to-hire by 30%, connecting you with qualified candidates faster than ever.",
+        "stats": [
+          "Global Talent Sourcing",
+          "Accelerated Visa Processing",
+          "Reduced Administrative Burden",
+          "Cross-Industry Expertise"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Time-to-Hire Reduction"
+          },
+          "stat2": {
+            "label": "Faster Placements"
+          }
+        }
+      },
+      "quality": {
+        "label": "Quality",
+        "title": "High-Caliber",
+        "subtitle": "Talent",
+        "description": "Access a pool of 5K+ verified professionals and maintain a 98% success rate in matching candidates to roles.",
+        "stats": [
+          "Vetted Professional Network",
+          "Comprehensive Skill Assessment",
+          "Industry-Specific Expertise",
+          "Long-Term Retention Focus"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Success Rate"
+          },
+          "stat2": {
+            "label": "Successful Hires"
+          }
+        }
+      },
+      "support": {
+        "label": "Support",
+        "title": "End-to-End",
+        "subtitle": "Partner Support",
+        "description": "We provide 24/7 assistance, handling everything from compliance to onboarding for a seamless integration.",
+        "stats": [
+          "24/7 Dedicated Support",
+          "Full-Cycle Compliance Management",
+          "Seamless Onboarding Assistance",
+          "Continuous Post-Placement Support"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Dedicated Support"
+          },
+          "stat2": {
+            "label": "Client Satisfaction"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Naša Filozofija Usluge",
+  "subtitle": "Kako upravljamo vašim procesom aplikacije za vizu",
+  "holisticApproach": "Sa holističkim pristupom, stojimo uz vas u svakoj fazi vašeg viznog procesa.",
+  "personalizedCare": "Sa našim personalizovanim pristupom nege, zadovoljavamo posebne potrebe svakog klijenta.",
+  "compassionateProfessionals": "Naši empatični specijalisti vas podržavaju tokom procesa.",
+  "flexibleScheduling": "Služimo vam u pogodnim vremenima sa našim fleksibilnim sistemom zakazivanja.",
+  "confidentialSpace": "Možete deliti svoje lične informacije u privatnom i sigurnom okruženju.",
+  "imageAlt": "Naš pristup viznim konsultacijama",
+  "step1": {
+    "title": "Analiza i Planiranje",
+    "description": "Detaljno analiziramo vašu ličnu situaciju i određujemo najprikladniju strategiju vize."
+  },
+  "step2": {
+    "title": "Priprema Dokumenata",
+    "description": "Pripremamo i pregledamo sve vaše dokumente prema međunarodnim standardima."
+  },
+  "step3": {
+    "title": "Aplikacija i Praćenje",
+    "description": "Podnosimo vašu aplikaciju i kontinuirano je pratimo do završetka."
+  },
+  "step4": {
+    "title": "Uspeh i Podrška",
+    "description": "Nastavljamo da vas vodimo kroz proces naseljavanja čak i nakon dobijanja vize."
+  }
+}

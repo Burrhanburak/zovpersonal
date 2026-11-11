@@ -1,4 +1,5 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import React from 'react';
 import { useTranslations } from 'next-intl';
@@ -83,7 +84,7 @@ export default function ApproachSection() {
           {/* Right Column - Image */}
           <div className="w-full lg:w-1/2 lg:max-w-[450px] h-[400px] md:h-[500px] lg:h-[600px] relative rounded-[24px] overflow-hidden order-first lg:order-last">
             <Image
-              src="/hızlandırılmıs-proredur.png"
+              src={assetUrl("hızlandırılmıs-proredur.png")}
               alt={t('imageAlt')}
               fill
               className="object-cover"

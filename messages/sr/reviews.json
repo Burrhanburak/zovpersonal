@@ -1,0 +1,52 @@
+{
+  "title": "Recenzije Klijenata",
+  "subtitle": {
+    "line1": "Iskustva i mišljenja",
+    "line2": "naših uspešnih klijenata"
+  },
+  "review1": {
+    "title": "Odlična Usluga",
+    "content": "Zahvaljujući ZovPersonal-u, moj san da radim kao medicinska sestra u Nemačkoj se ostvario. Bili su sa mnom u svakom koraku tokom procesa i stalno me informisali.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Medicinska Sestra - Nemačka",
+    "text": "Zahvaljujući ZovPersonal-u, moj san da radim kao medicinska sestra u Nemačkoj se ostvario. Bili su sa mnom u svakom koraku tokom procesa.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Profesionalni Pristup",
+    "content": "Zahvaljujući njihovom profesionalnom pristupu i detaljnom vođenju, dobio sam svoju radnu vizu za Nemačku bez problema. Tim je zaista upućen i iskusan.",
+    "name": "Inženjer Busra Oz",
+    "role": "Softverski Programer - Holandija",
+    "text": "Zahvaljujući njihovom profesionalnom pristupu i detaljnom vođenju, dobio sam svoju radnu vizu za Nemačku bez problema. Hvala ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Pojednostavljen Proces",
+    "content": "Kada sam aplicirao za svoju obrazovnu vizu za Kanadu, izgledalo je veoma složeno. ZovPersonal je sve pojednostavio i pružio vođenje korak po korak.",
+    "name": "Nastavnik Nicolaus Voss",
+    "role": "Nastavnik - Kanada",
+    "text": "Kada sam aplicirao za svoju obrazovnu vizu za Kanadu, izgledalo je veoma složeno. ZovPersonal je sve pojednostavio.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Pouzdan Partner",
+    "content": "Izabrao sam ZovPersonal da dobijem svoju radnu dozvolu kao doktor u Nemačkoj. Doneo sam pravu odluku, proces je napredovao veoma brzo.",
+    "name": "Dr. Georgi Vasilev",
+    "role": "Doktor - Bugarska",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Odličan Rezultat",
+    "content": "Bio sam veoma zabrinut kada sam aplicirao za svoju radnu vizu za Australiju. Tim ZovPersonal-a me je uverio i igrao glavnu ulogu u postizanju uspešnih rezultata.",
+    "name": "Arhitekta Marko Balković",
+    "role": "Arhitekta - Australija",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Brzo i Efikasno",
+    "content": "Kada sam našao poslovnu priliku u Nemačkoj, nisam imao pojma o procesu vize. Zahvaljujući ZovPersonal-u, sve je rešeno veoma brzo.",
+    "name": "Inženjer Andrei Popescu",
+    "role": "Elektro Inženjer - Rumunija",
+    "rating": 5
+  }
+}

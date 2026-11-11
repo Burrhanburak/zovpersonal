@@ -1,3 +1,4 @@
+import { assetUrl } from '@/lib/assets';
 import { getTranslations } from "next-intl/server";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
@@ -27,45 +28,25 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                   {t('hero.description2')}
                 </p>
               </div>
-              <div className="relative flex flex-1 flex-col justify-center gap-3 pt-10 lg:ps-10 lg:pt-0">
+              <div className="relative flex flex-1 flex-col justify-center gap-4 pt-10 lg:ps-10 lg:pt-0">
                 <div className="text-muted-foreground h-full w-px absolute top-0 left-0 max-lg:hidden">
                   <div className="h-full w-px bg-[repeating-linear-gradient(180deg,transparent,transparent_4px,currentColor_4px,currentColor_10px)] [mask-image:linear-gradient(180deg,transparent,black_25%,black_75%,transparent)]"></div>
                 </div>
                 <div className="text-muted-foreground h-px w-full absolute top-0 lg:hidden">
                   <div className="h-px w-full bg-[repeating-linear-gradient(90deg,transparent,transparent_4px,currentColor_4px,currentColor_10px)] [mask-image:linear-gradient(90deg,transparent,black_25%,black_75%,transparent)]"></div>
                 </div>
-                <div className="flex flex-col gap-1">
-                  <div className="font-display text-4xl tracking-wide md:text-5xl">
-                    {t('stats.experience.number')}
-                  </div>
-                  <div className="text-muted-foreground">
-                    {t('stats.experience.label')}
-                  </div>
+                <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl">
+                  <Image
+                    alt={t('images.teamWork')}
+                    fill
+                    className="object-cover"
+                    src={assetUrl("experience-team.jpg")}
+                    sizes="(max-width: 1024px) 100vw, 400px"
+                  />
                 </div>
-                <div className="flex flex-col gap-1">
-                  <div className="font-display text-4xl tracking-wide md:text-5xl">
-                    {t('stats.clients.number')}
-                  </div>
-                  <div className="text-muted-foreground">
-                    {t('stats.clients.label')}
-                  </div>
-                </div>
-                <div className="flex flex-col gap-1">
-                  <div className="font-display text-4xl tracking-wide md:text-5xl">
-                    {t('stats.visas.number')}
-                  </div>
-                  <div className="text-muted-foreground">
-                    {t('stats.visas.label')}
-                  </div>
-                </div>
-                <div className="flex flex-col gap-1">
-                  <div className="font-display text-4xl tracking-wide md:text-5xl">
-                    {t('stats.countries.number')}
-                  </div>
-                  <div className="text-muted-foreground">
-                    {t('stats.countries.label')}
-                  </div>
-                </div>
+                <p className="text-muted-foreground text-lg">
+                  {t('experienceHighlight')}
+                </p>
               </div>
             </div>
           </section>
@@ -80,7 +61,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     loading="lazy" 
                     fill
                     className="object-cover" 
-                    src="/yapboz.png" 
+                    src={assetUrl("yapboz.png")} 
                   />
                 </div>
             
@@ -115,7 +96,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     loading="lazy" 
                     fill
                     className="object-cover" 
-                    src="/ekip.png" 
+                    src={assetUrl("ekip.png")} 
                   />
                 </div>
                 {/* <div className="relative aspect-[2/1.5] overflow-hidden rounded-2xl">
@@ -124,7 +105,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     loading="lazy" 
                     fill
                     className="object-cover" 
-                    src="/zovpersonal.webp" 
+                    src={assetUrl("zovpersonal.webp")} 
                   />
                 </div> */}
               </div>
@@ -148,7 +129,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/vize-uzmani.png" 
+                    src={assetUrl("vize-uzmani.png")} 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner1.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner1.role')}</p>
@@ -160,7 +141,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/hukuk-danısmanıi.png" 
+                    src={assetUrl("hukuk-danısmanıi.png")} 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner2.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner2.role')}</p>
@@ -173,7 +154,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/müsteri-iliskilerii.png" 
+                    src={assetUrl("müsteri-iliskilerii.png")} 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner4.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner4.role')}</p>
@@ -185,7 +166,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                     width={120} 
                     height={120} 
                     className="object-cover rounded-lg" 
-                    src="/operasyon-muıdur.png" 
+                    src={assetUrl("operasyon-muıdur.png")} 
                   />
                   <h3 className="mt-3 font-semibold">{t('partners.partner5.name')}</h3>
                   <p className="text-muted-foreground">{t('partners.partner5.role')}</p>

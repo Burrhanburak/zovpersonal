@@ -1,0 +1,135 @@
+{
+  "title": "Politika Privatnosti",
+  "subtitle": "ZovPersonal Konsultantske Usluge - Zaštita i Sigurnost Vaših Ličnih Podataka",
+  "sections": {
+    "intro": {
+      "title": "Naša Politika Privatnosti",
+      "content": "Kao ZovPersonal Consulting and Service Foreign Trade Inc., pokazujemo najviši nivo osetljivosti u pogledu sigurnosti vaših ličnih podataka. Ova politika privatnosti objašnjava kako prikupljamo, obrađujemo, štitimo i čuvamo vaše lične podatke kada koristite naše usluge.",
+      "kvkk": "Kao kontrolori podataka prema Zakonu o Zaštiti Ličnih Podataka br. 6698 (KVKK), obezbeđujemo potpunu usklađenost sa zakonodavstvom u obradi vaših ličnih podataka."
+    },
+    "dataCollection": {
+      "title": "Lični Podaci Koje Prikupljamo",
+      "identity": {
+        "title": "Identifikacija i Kontakt Informacije",
+        "items": [
+          "Ime, prezime",
+          "Datum i mesto rođenja",
+          "Broj nacionalne identifikacije",
+          "Informacije o pasošu",
+          "Broj telefona",
+          "E-mail adresa",
+          "Informacije o adresi"
+        ]
+      },
+      "visa": {
+        "title": "Informacije o Aplikaciji za Viznu",
+        "items": [
+          "Status obrazovanja",
+          "Profesionalne informacije",
+          "Status prihoda",
+          "Istorija putovanja",
+          "Porodični status",
+          "Zdravstveni status (kada je potrebno)"
+        ]
+      },
+      "technical": {
+        "title": "Tehnički Podaci",
+        "items": [
+          "IP adresa",
+          "Informacije o pregledaču",
+          "Informacije o uređaju",
+          "Podaci o korišćenju veb-sajta"
+        ]
+      }
+    },
+    "processing": {
+      "title": "Svrhe Obrade Ličnih Podataka",
+      "description": "Vaši lični podaci se obrađuju za sledeće svrhe:",
+      "purposes": [
+        "Sprovođenje procesa aplikacije za vizu",
+        "Pružanje konsultantskih usluga",
+        "Upravljanje odnosima sa klijentima",
+        "Ispunjavanje zakonskih obaveza",
+        "Poboljšanje kvaliteta usluge",
+        "Statistička analiza",
+        "Merenje zadovoljstva klijenata",
+        "Preduzimanje bezbednosnih mera"
+      ]
+    },
+    "security": {
+      "title": "Sigurnost Podataka",
+      "description": "Preduzimamo sledeće tehničke i administrativne mere za sigurnost vaših ličnih podataka:",
+      "measures": [
+        "Šifrovani prenos podataka sa SSL sertifikatom",
+        "Sigurna serverska infrastruktura",
+        "Kontrola pristupa i autorizacija",
+        "Redovna ažuriranja bezbednosti",
+        "Obuka osoblja i ugovori o poverljivosti",
+        "Procedure za rezervnu kopiju i oporavak podataka",
+        "24/7 nadzor bezbednosti"
+      ]
+    },
+    "rights": {
+      "title": "Prava Subjekata Podataka",
+      "description": "Imate sledeća prava prema KVKK:",
+      "list": {
+        "info": {
+          "title": "Pravo na Informacije",
+          "description": "Pravo da saznate da li se vaši lični podaci obrađuju"
+        },
+        "access": {
+          "title": "Pravo na Pristup",
+          "description": "Pravo da zahtevate informacije o vašim obrađenim ličnim podacima"
+        },
+        "rectification": {
+          "title": "Pravo na Ispravku",
+          "description": "Pravo da zahtevate ispravku netačnih ili nepotpunih podataka"
+        },
+        "erasure": {
+          "title": "Pravo na Brisanje",
+          "description": "Pravo da zahtevate brisanje vaših ličnih podataka"
+        },
+        "objection": {
+          "title": "Pravo na Prigovor",
+          "description": "Pravo da se usprotivite obradi podataka i zahtevate njeno prestanak"
+        },
+        "portability": {
+          "title": "Pravo na Prenosivost",
+          "description": "Pravo da zahtevate prenos vaših podataka drugom kontroloru podataka"
+        }
+      },
+      "howToUse": {
+        "title": "Kako Možete Ostvariti Svoja Prava?",
+        "description": "Možete koristiti sledeće kanale komunikacije da biste ostvarili gore navedena prava:",
+        "channels": [
+          "E-mail: info@zovpersonal.com",
+          "Pismena aplikacija: Ručna dostava ili pošta na adresu naše kompanije",
+          "Online obrazac: Obrazac za aplikaciju na www.zovpersonal.com"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Kolačići",
+      "description": "Koristimo kolačiće na našem veb-sajtu kako bismo poboljšali korisničko iskustvo. Kolačići su male tekstualne datoteke koje se čuvaju u vašem veb pregledaču. Možete kontrolisati upotrebu kolačića iz postavki vašeg pregledača."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Možete nas kontaktirati za pitanja o našoj politici privatnosti:",
+      "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+      "offices": {
+        "turkey": {
+          "title": "Kancelarija u Turskoj",
+          "address": "Adresa",
+          "phone": "Telefon",
+          "location": "Istanbul, Turska"
+        },
+        "germany": {
+          "title": "Kancelarija u Nemačkoj",
+          "address": "Adresa",
+          "phone": "Telefon",
+          "location": "Berlin, Nemačka"
+        }
+      }
+    }
+  }
+}

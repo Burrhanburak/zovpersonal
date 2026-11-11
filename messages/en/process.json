@@ -1,0 +1,19 @@
+{
+  "title": "Visa Application Process Support",
+  "subtitle": "We support you in managing your complex documents with our tools that simplify your visa application process.",
+  "step1": {
+    "title": "Initial Consultation and Assessment Support",
+    "description": "We support you in developing a personalized visa strategy by analyzing your profile and goals.",
+    "alt": "Visa consultation"
+  },
+  "step2": {
+    "title": "Document Preparation and Review Support",
+    "description": "We support you throughout the preparation process by helping you access all your necessary documents.",
+    "alt": "Document preparation"
+  },
+  "step3": {
+    "title": "Application and Follow-up Support",
+    "description": "We provide support to help you securely submit your application and continuously monitor it until completion.",
+    "alt": "Application tracking"
+  }
+}

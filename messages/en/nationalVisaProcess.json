@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "National Work Visa Application Process",
+    "description": "The national work visa grants the right to enter Germany for long-term stays for work purposes. Depending on the type of work, the visa is issued with a validity period of up to one year. After entering the country, you usually need to apply for a domestic residence permit. This visa type is only valid for specific job positions and does not grant freedom of movement in the Schengen area."
+  },
+  "appointmentSystem": {
+    "title": "Appointment System",
+    "description": "Appointments are given through the national appointment system",
+    "ourService": "Our Service:",
+    "serviceDescription": "We handle the appointment procedures for you. We make the necessary appointments and carry out the procedures. Required documents will be requested from you and organized, then we follow up on the process."
+  },
+  "preparation": {
+    "title": "Preparation",
+    "description": "Use the online appointment system for national visas to learn about your purpose of stay and the documents you need to submit. Register on the appointment waiting list for your purpose of stay through the online appointment system for a fee."
+  },
+  "application": {
+    "title": "Application",
+    "description1": "Due to the involvement of German internal authorities in the process, document processing will typically take up to three months (or longer in some cases). If you need your passport during the evaluation process of your application, you can contact the relevant visa department by stating your application number in your signed written petition.",
+    "description2": "Service fee must be paid. After your fingerprints are taken, your passport and required documents are received by the visa department for the evaluation process."
+  },
+  "afterEvaluation": {
+    "title": "After Evaluation",
+    "description": "Immediately after the evaluation process of applications is completed, your passport is returned to you in an envelope along with some original documents you submitted, either to their offices or directly by mail."
+  },
+  "note": {
+    "label": "Note:",
+    "text": "Pricing is per person, and the process varies according to file and document variety and visa type."
+  },
+  "processingTimes": {
+    "title": "Processing Times",
+    "importantInfo": {
+      "title": "Important Information",
+      "description": "Before applying, please plan for the appointment waiting time and the time required to return your passport."
+    },
+    "decisionAuthority": {
+      "title": "Decision Authority",
+      "description": "The decision to approve or reject the application is made only by the Foreign Representations."
+    },
+    "holidayEffect": {
+      "title": "Holiday Effect",
+      "description": "Processing times may vary due to Turkish and German official holidays. Therefore, we recommend applying for a visa at an early date."
+    },
+    "applicationTracking": {
+      "title": "Application Tracking",
+      "description": "You can track what stage your application is at by contacting us."
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Onze Diensten",
+  "subtitle": "Wij verbinden getalenteerde professionals met toonaangevende bedrijven in Duitsland en wereldwijd.",
+  "workVisa": {
+    "title": "Hulp bij werkvisa",
+    "description": "Volledige ondersteuning en begeleiding bij het werven van internationale specialisten uit diverse landen, waaronder Servië, Bulgarije, Kroatië, Roemenië, Nederland, Duitsland en Turkije."
+  },
+  "skillsAssessment": {
+    "title": "Vaardigheidsbeoordeling",
+    "description": "Professionele evaluatie van uw kwalificaties en matching met internationale carrièremogelijkheden."
+  },
+  "documentation": {
+    "title": "Taalvereisten",
+    "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid."
+  },
+  "consultation": {
+    "title": "Persoonlijk Advies",
+    "description": "Een-op-een consultsessies om uw specifieke behoeften en carrièredoelen te begrijpen."
+  },
+  "countries": {
+    "title": "We versterken ons met 's werelds beste werving- en werkgeverspartnerteams.",
+    "subtitle": "Van next-generation startups tot gevestigde organisaties.",
+    "countryNames": {
+      "germany": "Duitsland",
+      "austria": "Oostenrijk",
+      "netherlands": "Nederland",
+      "switzerland": "Zwitserland",
+      "belgium": "België",
+      "luxembourg": "Luxemburg",
+      "denmark": "Denemarken",
+      "romania": "Roemenië",
+      "croatia": "Kroatië",
+      "bulgaria": "Bulgarije",
+      "sweden": "Zweden",
+      "finland": "Finland",
+      "serbia": "Servië",
+      "turkey": "Turkije"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Wervingsproces",
+      "description": "Het werven van internationale specialisten biedt een grote kans om het tekort aan geschoolde arbeidskrachten in Europa op te vullen. Met onze gerichte en gestructureerde aanpak structureren we uw wervingsproces effectief om gekwalificeerde zorgprofessionals uit het buitenland succesvol aan te trekken.",
+      "stat1": {
+        "number": "95%",
+        "label": "succesvolle werving"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Snel proces"
+      },
+      "category": "Wervingsproces"
+    },
+    "documentation": {
+      "title": "Taalvereisten",
+      "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid.",
+      "stat1": {
+        "number": "100%",
+        "label": "documentconformiteit"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Beroepskwalificatiecertificaten"
+      },
+      "category": "Taalvereisten"
+    },
+    "skillsAssessment": {
+      "title": "Beoordeling van beroepskwalificaties",
+      "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met taalkenniscertificaten volgens beroepstype en bewijs van financiële zekerheid.",
+      "stat1": {
+        "number": "85%",
+        "label": "succesvolle erkenningen"
+      },
+      "stat2": {
+        "number": "15",
+        "label": "jaar infrastructuur"
+      },
+      "category": "Beroepskwalificatie"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Werving",
+    "documentation": "Taalvereisten",
+    "skillsAssessment": "Beroepskwalificatie"
+  }
+}

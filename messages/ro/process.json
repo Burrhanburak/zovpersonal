@@ -1,0 +1,19 @@
+{
+  "title": "Asistență în procesul de aplicare pentru viză",
+  "subtitle": "Vă sprijinim în gestionarea documentelor complexe cu instrumentele noastre care vă simplifică procesul de aplicare pentru viză.",
+  "step1": {
+    "title": "Asistență pentru consultanță și evaluare inițială",
+    "description": "Vă sprijinim în dezvoltarea unei strategii personalizate de viză prin analizarea profilului și obiectivelor dumneavoastră.",
+    "alt": "Consultanță pentru viză"
+  },
+  "step2": {
+    "title": "Asistență pentru pregătirea și revizuirea documentelor",
+    "description": "Vă sprijinim pe parcursul întregului proces de pregătire, ajutându-vă să accesați toate documentele necesare.",
+    "alt": "Pregătirea documentelor"
+  },
+  "step3": {
+    "title": "Asistență pentru aplicare și urmărire",
+    "description": "Oferim asistență pentru a vă ajuta să depuneți în siguranță cererea și să o monitorizați continuu până la finalizare.",
+    "alt": "Urmărirea aplicației"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "Employer",
+    "tag2": "International Hiring",
+    "title": "Hire Top International Future-Oriented Talent",
+    "description": "Connect with skilled professionals worldwide. We handle international future-oriented recruitment, compliance, and onboarding to bring global talent to your company.",
+    "startHiring": "Start Hiring",
+    "learnMore": "Learn More"
+  },
+  "benefits": {
+    "badge": "For Employers",
+    "title": "Why Hire International",
+    "subtitle": "Future-Oriented Talent?",
+    "description": "Expand your workforce with qualified professionals from around the globe and unlock unprecedented growth opportunities with our proven recruitment solutions.",
+    "stats": {
+      "countries": "25+ Countries",
+      "hires": "5K+ Successful Hires",
+      "successRate": "98% Success Rate"
+    },
+    "services": [
+      "Talent Sourcing",
+      "Visa Assistance",
+      "Compliance",
+      "Candidate Screening",
+      "Onboarding Support",
+      "Cross-Industry Expertise",
+      "24/7 Support Available"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Efficiency",
+        "title": "Streamlined",
+        "subtitle": "Hiring Process",
+        "description": "Our optimized process reduces time-to-hire by 30%, connecting you with qualified candidates faster than ever.",
+        "stats": [
+          "Global Talent Sourcing",
+          "Accelerated Visa Processing",
+          "Reduced Administrative Burden",
+          "Cross-Industry Expertise"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Time-to-Hire Reduction"
+          },
+          "stat2": {
+            "label": "Faster Placements"
+          }
+        }
+      },
+      "quality": {
+        "label": "Quality",
+        "title": "High-Caliber",
+        "subtitle": "Talent",
+        "description": "Access a pool of 5K+ verified professionals and maintain a 98% success rate in matching candidates to roles.",
+        "stats": [
+          "Vetted Professional Network",
+          "Comprehensive Skill Assessment",
+          "Industry-Specific Expertise",
+          "Long-Term Retention Focus"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Success Rate"
+          },
+          "stat2": {
+            "label": "Successful Hires"
+          }
+        }
+      },
+      "support": {
+        "label": "Support",
+        "title": "End-to-End",
+        "subtitle": "Partner Support",
+        "description": "We provide 24/7 assistance, handling everything from compliance to onboarding for a seamless integration.",
+        "stats": [
+          "24/7 Dedicated Support",
+          "Full-Cycle Compliance Management",
+          "Seamless Onboarding Assistance",
+          "Continuous Post-Placement Support"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Dedicated Support"
+          },
+          "stat2": {
+            "label": "Client Satisfaction"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Employer Services",
+    "title": "Complete International Hiring Solutions",
+    "items": [
+      {
+        "title": "Global Talent Sourcing",
+        "description": "Access qualified professionals from 25+ countries with our extensive international network and verified candidate database."
+      },
+      {
+        "title": "Complete Visa Support",
+        "description": "End-to-end visa assistance including document preparation, application guidance, and compliance management for seamless hiring."
+      },
+      {
+        "title": "Fast-Track Processing",
+        "description": "Accelerated hiring process with 98% success rate, reducing time-to-hire and ensuring quick placement of qualified candidates."
+      }
+    ]
+  },
+  "process": {
+    "title": "Our Hiring Process",
+    "description": "Streamlined process to find and hire the best international talent",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Define Requirements",
+        "description": "Discuss your specific hiring needs and job requirements"
+      },
+      {
+        "step": "02",
+        "title": "Candidate Matching",
+        "description": "Find and screen qualified international candidates"
+      },
+      {
+        "step": "03",
+        "title": "Interview Process",
+        "description": "Facilitate interviews and skill assessments"
+      },
+      {
+        "step": "04",
+        "title": "Visa & Onboarding",
+        "description": "Handle visa processes and smooth onboarding"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Trusted by Leading Companies",
+    "description": "Our proven track record speaks for itself",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Companies Served"
+      },
+      {
+        "number": "5K+",
+        "label": "Successful Hires"
+      },
+      {
+        "number": "25+",
+        "label": "Countries"
+      },
+      {
+        "number": "98%",
+        "label": "Client Satisfaction"
+      }
+    ]
+  }
+}

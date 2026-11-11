@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from '@/lib/assets';
 
 import React from "react";
 import { Carousel, Card } from "@/components/ui/apple-cards-carousel";
@@ -66,38 +67,38 @@ const data = (t: any) => [
   {
     category: t("home.carousel.cards.healthcare.category"),
     title: t("home.carousel.cards.healthcare.title"),
-    src: "/hemsire-two.png",
+    src: assetUrl("hemsire-two.png"),
     content: <DummyContent t={t} contentKey="healthcare" />,
   },
   {
     category: t("home.carousel.cards.recruitment.category"),
     title: t("home.carousel.cards.recruitment.title"),
-    src: "/is-alim-onei.png",
+    src: assetUrl("is-alim-onei.png"),
     content: <DummyContent t={t} contentKey="recruitment" />,
   },
   {
     category: t("home.carousel.cards.construction.category"),
     title: t("home.carousel.cards.construction.title"),
-    src: "/insaat.png",
+    src: assetUrl("insaat.png"),
     content: <DummyContent t={t} contentKey="construction" />,
   },
   {
     category: t("home.carousel.cards.visaprocess.category"),
     title: t("home.carousel.cards.visaprocess.title"),
-    src: "/belge-hazırlama-kontrol.png",
+    src: assetUrl("belge-hazırlama-kontrol.png"),
     content: <DummyContent t={t} contentKey="visaprocess" />,
   },
   {
     category: t("home.carousel.cards.partnership.category"),
     title: t("home.carousel.cards.partnership.title"),
-    src: "/is-veren-two.png",
+    src: assetUrl("is-veren-two.png"),
     content: <DummyContent t={t} contentKey="partnership" />,
   },
 
   {
     category: t("home.carousel.cards.support.category"),
     title: t("home.carousel.cards.support.title"),
-    src: "/müsteri-iliskilerii.png",
+    src: assetUrl("müsteri-iliskilerii.png"),
     content: <DummyContent t={t} contentKey="support" />,
   },
 

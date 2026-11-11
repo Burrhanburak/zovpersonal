@@ -1,0 +1,60 @@
+{
+  "title": "Zašto Izabrati Nas?",
+  "subtitle": "Naše karakteristične osobine u međunarodnim viznim konsultacijama",
+  "category": "Vizne Konsultacije",
+  "description": "Sa dokazanim iskustvom, mi smo vaš pouzdani partner u ostvarivanju međunarodnih karijernih ciljeva. Pravimo razliku sa našim personalizovanim pristupom i visokom stopom uspeha.",
+  "feature1": {
+    "title": "Stručni Tim",
+    "description": "Stojimo uz vas sa našim viznim specijalistima i pravnim savetnicima sa dokazanim iskustvom."
+  },
+  "feature2": {
+    "title": "Visoka Stopa Uspeha",
+    "description": "Ostvarili smo snove hiljadama klijenata sa našom stopom uspeha od 95%."
+  },
+  "feature3": {
+    "title": "Personalizovana Usluga",
+    "description": "Razvijamo prilagođena rešenja za jedinstvenu situaciju svakog klijenta."
+  },
+  "feature4": {
+    "title": "24/7 Podrška",
+    "description": "Pružamo neprekidnu podršku i ažurne informacije tokom procesa."
+  },
+  "slides": {
+    "personalizedCare": {
+      "title": "Personalizovana Nega",
+      "description": "Razvijamo prilagođena rešenja razumevajući jedinstvene potrebe svakog klijenta."
+    },
+    "experiencedProfessionals": {
+      "title": "Iskusni Profesionalci",
+      "description": "Pružamo pouzdane konsultantske usluge sa našim timom stručnjaka u svojoj oblasti."
+    },
+    "holisticApproach": {
+      "title": "Holistički Pristup",
+      "description": "Sveobuhvatno se bavimo svim fazama vašeg viznog procesa."
+    },
+    "supportiveEnvironment": {
+      "title": "Podržavajuće Okruženje",
+      "description": "Možete primiti konsultantske usluge u sigurnom i udobnom okruženju."
+    },
+    "healthcareRecruitment": {
+      "title": "Zaposlenje u Zdravstvenom Sektoru",
+      "description": "Zapošljavanje međunarodnih specijalista nudi ogromne prilike za rešavanje nedostatka veština u Nemačkoj. Sa našim ciljanim i struktuiranim pristupom, efikasno struktuiramo vaš proces zapošljavanja kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva. Kreiramo atraktivne oglase za poslove koji privlače međunarodne profesionalce sa jasnim opisima poslova, transparentnošću plata i sveobuhvatnim uslugama podrške."
+    },
+    "livingInGermany": {
+      "title": "Život u Nemačkoj",
+      "description": "Nemačka je poznata po svojoj snažnoj ekonomiji, kulturi i visokom kvalitetu života. Pružamo sveobuhvatan vodič za život u Nemačkoj od prvih koraka u svakodnevnom životu do uspešne integracije u društvo. Nudimo detaljne informacije o pronalaženju smeštaja, nemačkoj kulturi i tradicijama, učenju jezika, zdravstvenom sistemu i svakodnevnom životu. Vodimo vas kroz sve, od važnih vrednosti kao što su tačnost i red do tradicionalnih proslava kao što su Božić i Oktoberfest."
+    },
+    "experiencedProfessionalsVisa": {
+      "title": "Viza za Iskusne Profesionalce",
+      "description": "Viza za iskusne profesionalce je namenjena kvalifikovanim radnicima sa najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti. Sa ovom vizom, možete raditi u profesijama sa velikom potražnjom u Nemačkoj. Možete aplicirati ako ispunjavate zahteve kao što su kvalifikovano profesionalno iskustvo, uslovi minimalne plate, ponuda posla i znanje jezika. Podržavamo vaš proces aplikacije sa minimalnom godišnjom platom od 40.770 € i nivoom znanja nemačkog jezika B1."
+    },
+    "vocationalTrainingVisa": {
+      "title": "Viza za Stručno Osposobljavanje",
+      "description": "Viza za završetak stručnog osposobljavanja je namenjena pojedincima koji žele da završe dualni program stručnog osposobljavanja u priznatoj profesiji stručnog osposobljavanja u Nemačkoj. Ovaj program kombinuje teorijsko znanje koje se predaje u stručnoj školi sa praktičnim osposobljavanjem u kompaniji, nudeći mladima priliku da završe kvalifikovano osposobljavanje u nemačkim stručnim osposobljavanjima i naknadno steknu dugoročne perspektive na nemačkom tržištu rada."
+    },
+    "qualificationRecognitionVisa": {
+      "title": "Viza za Priznavanje Kvalifikacija",
+      "description": "Viza za priznavanje stranih profesionalnih kvalifikacija je namenjena kvalifikovanim radnicima koji žele da njihove profesionalne kvalifikacije stečene u inostranstvu budu priznate u Nemačkoj. Pružamo dugoročne mogućnosti zaposlenja u Nemačkoj dovodeći vaše kvalifikacije na nemačke standarde. Sa ovom vizom koja vam omogućava da živite u Nemačkoj tokom procesa priznavanja i preduzimate mere profesionalne adaptacije, podržavamo vas u ispunjavanju zahteva nivoa nemačkog jezika B1 i minimalne mesečne finansijske sigurnosti od 947 €."
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Naše Usluge",
+  "subtitle": "Povezujemo talentovane profesionalce sa vodećim kompanijama u Nemačkoj i širom sveta.",
+  "countries": {
+    "title": "Zemlje",
+    "subtitle": "Od start-ap kompanija nove generacije do utemeljenih organizacija.",
+    "countryNames": {
+      "germany": "Nemačka",
+      "austria": "Austrija",
+      "netherlands": "Holandija",
+      "switzerland": "Švajcarska",
+      "belgium": "Belgija",
+      "luxembourg": "Luksemburg",
+      "denmark": "Danska",
+      "romania": "Rumunija",
+      "croatia": "Hrvatska",
+      "bulgaria": "Bugarska",
+      "sweden": "Švedska",
+      "finland": "Finska",
+      "serbia": "Srbija",
+      "turkey": "Turska"
+    }
+  },
+  "workVisa": {
+    "title": "Pomoć oko radne vize",
+    "description": "Potpuna podrška i vođenje u regrutovanju međunarodnih stručnjaka iz različitih zemalja, uključujući Srbiju, Bugarsku, Hrvatsku, Rumuniju, Holandiju, Nemačku i Tursku."
+  },
+  "skillsAssessment": {
+    "title": "Procena veština",
+    "description": "Profesionalna procena vaših kvalifikacija i usklađivanje sa međunarodnim poslovnim prilikama."
+  },
+  "documentation": {
+    "title": "Jezički Zahtevi",
+    "description": "Sertifikati o jezičkoj kompetentnosti prema vrsti profesije i sertifikati o stručnim veštinama."
+  },
+  "consultation": {
+    "title": "Lične konsultacije",
+    "description": "Individualne konsultacije kako bismo razumeli vaše specifične potrebe i karijerne ciljeve."
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Proces regrutacije",
+      "description": "Regrutovanje međunarodnih stručnjaka pruža veliku priliku za popunjavanje nedostatka kvalifikovane radne snage u Evropi. Sa našim ciljanim i strukturiranim pristupom, efikasno strukturiramo vaš proces regrutacije kako bismo uspešno privukli kvalifikovane zdravstvene radnike iz inostranstva.",
+      "stat1": {
+        "number": "95%",
+        "label": "uspešna regrutacija"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Brz proces"
+      },
+      "category": "Proces regrutacije"
+    },
+    "documentation": {
+      "title": "Jezički zahtevi",
+      "description": "Sertifikati o jezičkoj kompetentnosti prema vrsti profesije i sertifikati o stručnim veštinama.",
+      "stat1": {
+        "number": "100%",
+        "label": "usklađenost dokumenata"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Sertifikati stručnih kompetencija"
+      },
+      "category": "Jezički zahtevi"
+    },
+    "skillsAssessment": {
+      "title": "Procena stručnih kvalifikacija",
+      "description": "Analiziramo vaše profesionalne kvalifikacije i povezujemo ih sa međunarodnim poslovnim prilikama.",
+      "stat1": {
+        "number": "85%",
+        "label": "pronalazak odgovarajuće pozicije"
+      },
+      "stat2": {
+        "number": "12",
+        "label": "godina infrastrukture"
+      },
+      "category": "Procena Veština"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Regrutacija",
+    "documentation": "Jezički zahtevi",
+    "skillsAssessment": "Stručna kvalifikacija"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Kundenbewertungen",
+  "subtitle": {
+    "line1": "Erfahrungen und Meinungen",
+    "line2": "unserer erfolgreichen Kunden"
+  },
+  "review1": {
+    "title": "Exzellenter Service",
+    "content": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir und hielten mich ständig auf dem Laufenden.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Krankenschwester - Deutschland",
+    "text": "Dank ZovPersonal wurde mein Traum, als Krankenschwester in Deutschland zu arbeiten, wahr. Sie waren bei jedem Schritt während des gesamten Prozesses bei mir.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Professioneller Ansatz",
+    "content": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein Deutschland Arbeitsvisum reibungslos erhalten. Das Team ist wirklich sachkundig und erfahren.",
+    "name": "Ingenieur Busra Oz",
+    "role": "Software-Entwickler - Niederlande",
+    "text": "Dank ihres professionellen Ansatzes und ihrer detaillierten Beratung habe ich mein Deutschland Arbeitsvisum reibungslos erhalten. Danke ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Prozess vereinfacht",
+    "content": "Als ich mich für mein Deutschland Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht und Schritt-für-Schritt-Anleitung gegeben.",
+    "name": "Lehrerin Nicolaus Voss",
+    "role": "Lehrerin - Kanada",
+    "text": "Als ich mich für mein Deutschland Bildungsvisum beworben habe, schien es sehr komplex. ZovPersonal hat alles vereinfacht.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Zuverlässiger Partner",
+    "content": "Ich habe ZovPersonal gewählt, um meine Arbeitserlaubnis als Arzt in Deutschland zu erhalten. Ich habe die richtige Entscheidung getroffen, der Prozess verlief sehr schnell.",
+    "name": "Dr. Georgi Vasilev ",
+    "role": "Arzt - Bulgarien",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Ausgezeichnetes Ergebnis",
+    "content": "Ich war sehr besorgt, als ich mich für mein Deutschland-Arbeitsvisum beworben habe. Das ZovPersonal-Team beruhigte mich und spielte eine wichtige Rolle beim Erreichen erfolgreicher Ergebnisse.",
+    "name": "Architektin Marko Balković ",
+    "role": "Architektin - Australien",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Schnell und effektiv",
+    "content": "Als ich eine Arbeitsmöglichkeit in Deutschland fand, hatte ich keine Ahnung vom Visa-Prozess. Dank ZovPersonal wurde alles sehr schnell gelöst.",
+    "name": "Ingenieur Andrei Popescu",
+    "role": "Elektroingenieur - Rumänien",
+    "rating": 5
+  }
+}

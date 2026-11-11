@@ -1,0 +1,43 @@
+{
+  "title": "Laten we praten",
+  "jobSeeker": "Werkzoekende",
+  "employer": "Werkgever",
+  "subtitle": "Of u nu klaar bent om uw eerste consult te plannen of gewoon vragen heeft, we horen graag van u.",
+  "pageTitle": "Neem contact met ons op",
+  "pageSubtitle": "We zijn hier om te helpen met uw vragen over visumadvies.",
+  "offices": {
+    "istanbul": "🇩🇪 Emden Kantoor",
+    "berlin": "🇩🇪 Emden Kantoor",
+    "emden": "🇩🇪 Emden Kantoor"
+  },
+  "sections": {
+    "email": "E-mail ons",
+    "follow": "Volg ons",
+    "inquiries": "Vragen"
+  },
+  "selectApplicantType": "Selecteer Type Aanvrager",
+  "namePlaceholder": "Naam",
+  "emailPlaceholder": "E-mailadres",
+  "datePlaceholder": "Selecteer Datum",
+  "messagePlaceholder": "Bericht",
+  "submitButton": "Boek Nu",
+  "sending": "Wordt verzonden...",
+  "successMessage": "Uw bericht is succesvol verzonden! We nemen spoedig contact met u op.",
+  "errorMessage": "Er is een fout opgetreden bij het verzenden van het bericht. Probeer het opnieuw.",
+  "imageAlt": "Neem contact met ons op voor visumadvies",
+  "phone": "Telefoon",
+  "email": "E-mail",
+  "address": "Adres",
+  "form": {
+    "fullName": "Volledige naam",
+    "email": "Werk e-mailadres",
+    "message": "Uw bericht",
+    "submit": "Verzenden",
+    "optional": "(optioneel)",
+    "placeholders": {
+      "fullName": "Voor- en achternaam",
+      "email": "mijn@email.com",
+      "message": "Schrijf uw bericht"
+    }
+  }
+}

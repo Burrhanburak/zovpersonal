@@ -1,0 +1,34 @@
+{
+  "title": "Potrebni dokumenti",
+  "subtitle": "Osnovna dokumentacija za vaš zahtjev za vizu",
+  "categories": {
+    "personal": {
+      "title": "Osobni dokumenti",
+      "description": "Putovnica s valjanošću od najmanje 6 mjeseci, osobni dokumenti i papiri koji sadrže vaše osobne podatke."
+    },
+    "education": {
+      "title": "Obrazovni dokumenti",
+      "description": "Diplome, svjedodžbe i dokumenti o znanju jezika. Apostille može biti potreban za međunarodno priznavanje."
+    },
+    "professional": {
+      "title": "Stručni dokumenti",
+      "description": "Pismo ponude za posao, ugovor o radu, svjedodžbe o stručnoj kvalifikaciji i dokumenti o iskustvu."
+    },
+    "medical": {
+      "title": "Medicinski i pravni",
+      "description": "Liječnički nalaz, potvrda o nekažnjavanju, dokumenti o financijskom stanju i vaše biometrijske fotografije."
+    }
+  },
+  "list": [
+    "Važeća putovnica s valjanošću od najmanje 6 mjeseci",
+    "Obrazovne svjedodžbe i diplome",
+    "Svjedodžbe o stručnoj kvalifikaciji",
+    "Svjedodžbe o znanju jezika (njemački/engleski)",
+    "Pismo ponude za posao ili ugovor o radu",
+    "Liječnički nalazi",
+    "Potvrda o nekažnjavanju",
+    "Dokaz o financijskim sredstvima",
+    "Ispunjeni obrasci zahtjeva za vizu",
+    "Biometrijske fotografije"
+  ]
+}

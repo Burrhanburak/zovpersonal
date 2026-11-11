@@ -1,0 +1,52 @@
+{
+  "title": "Müşteri Yorumları",
+  "subtitle": {
+    "line1": "Başarılı müşterilerimizin",
+    "line2": "deneyimleri ve görüşleri"
+  },
+  "review1": {
+    "title": "Mükemmel Hizmet",
+    "content": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular ve beni sürekli bilgilendirdiler.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Hemşire - Almanya",
+    "text": "ZovPersonal sayesinde Almanya'da hemşire olarak çalışma hayalim gerçek oldu. Süreç boyunca her adımda yanımda oldular.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Profesyonel Yaklaşım",
+    "content": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Ekip gerçekten çok bilgili ve deneyimli.",
+    "name": "Mühendis Busra Oz",
+    "role": "Yazılım Geliştirici - Hollanda",
+    "text": "Profesyonel yaklaşımları ve detaylı rehberlikleri sayesinde Hollanda iş vizemi sorunsuz aldım. Teşekkürler ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Süreç Kolaylaştırıldı",
+    "content": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi ve adım adım rehberlik etti.",
+    "name": "Öğretmen Nicolaus Voss",
+    "role": "Öğretmen - Kanada",
+    "text": "Kanada eğitim vizem için başvurduğumda çok karmaşık görünüyordu. ZovPersonal her şeyi çok basitleştirdi.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Güvenilir Partner",
+    "content": "Almanya'da doktor olarak çalışma iznini almak için ZovPersonal'ı seçtim. Doğru kararı vermişim, süreç çok hızlı ilerledi.",
+    "name": "Dr. Georgi Vasilev",
+    "role": "Doktor - Bulgaristan",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Mükemmel Sonuç",
+    "content": "Avustralya iş vizem için başvururken çok endişeliydim. ZovPersonal ekibi beni rahatlatıp, başarılı sonuç elde etmemde büyük rol oynadı.",
+    "name": "Mimar Marko Balković",
+    "role": "Mimar - Avustralya",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Hızlı ve Etkili",
+    "content": "Romaniya'da çalışma fırsatı bulduğumda vize süreciyle ilgili hiçbir fikrim yoktu. ZovPersonal sayesinde her şey çok hızlı halloldu.",
+    "name": "Mühendis Andrei Popescu",
+    "role": "Elektrik Mühendisi - Romanya",
+    "rating": 5
+  }
+}

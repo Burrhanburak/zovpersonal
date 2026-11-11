@@ -61,15 +61,12 @@ export default function LocaleSwitcher({ isScrolled = false }: { isScrolled?: bo
   }, []);
 
   const handleLocaleChange = (newLocale: string) => {
-    console.log('🔄 LocaleSwitcher - Current locale:', currentLocale);
-    console.log('🔄 LocaleSwitcher - Current pathname:', pathname);
-    console.log('🔄 LocaleSwitcher - Switching to locale:', newLocale);
-    
-    // Mevcut scroll pozisyonunu sessionStorage'a kaydet
+    // Manual switch only — geo IP must not be overridden by accidental sticky cookies
+    document.cookie = `NEXT_LOCALE=${newLocale};path=/;max-age=31536000;SameSite=Lax`;
+    document.cookie = `NEXT_LOCALE_MANUAL=1;path=/;max-age=31536000;SameSite=Lax`;
+
     sessionStorage.setItem('scrollPosition', window.scrollY.toString());
-    
-    // next-intl navigation kullanarak locale değiştir
-    router.replace(pathname, { locale: newLocale });
+    router.replace(pathname as '/', { locale: newLocale });
     setIsOpen(false);
   };
 

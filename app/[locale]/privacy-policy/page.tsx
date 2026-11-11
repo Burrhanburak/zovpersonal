@@ -218,39 +218,8 @@ export default function PrivacyPolicyPage() {
                   </p>
                 </div>
 
-                {/* Office Locations */}
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {/* Turkey Office */}
-                  <div className="p-4 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-600">
-                    <div className="flex items-center mb-3">
-                      <div className="w-8 h-6 bg-gray-100 mr-3 rounded-sm relative overflow-hidden flex items-center justify-center">
-                        <span className="text-xs">🇹🇷</span>
-                      </div>
-                      <h4 className="font-medium text-gray-900 dark:text-white">
-                        {t('sections.contact.offices.turkey.title')}
-                      </h4>
-                    </div>
-                    <div className="text-sm text-gray-700 dark:text-gray-300 space-y-1">
-                      <p>
-                        <span className="font-medium">
-                          {t('sections.contact.offices.turkey.address')}:
-                        </span><br />
-                        {t('sections.contact.offices.turkey.location')}
-                      </p>
-                      <p>
-                        <span className="font-medium">
-                          {t('sections.contact.offices.turkey.phone')}:
-                        </span><br />
-                        +90 555 123 45 67
-                      </p>
-                      <p>
-                        <span className="font-medium">E-mail:</span><br />
-                        info@zovpersonal.com
-                      </p>
-                    </div>
-                  </div>
-
-                  {/* Germany Office */}
+                {/* Office Location */}
+                <div className="grid grid-cols-1 gap-4">
                   <div className="p-4 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-600">
                     <div className="flex items-center mb-3">
                       <div className="w-8 h-6 mr-3 rounded-sm relative overflow-hidden flex items-center justify-center bg-gray-100">
@@ -271,7 +240,7 @@ export default function PrivacyPolicyPage() {
                         <span className="font-medium">
                           {t('sections.contact.offices.germany.phone')}:
                         </span><br />
-                        +4915757295545
+                        +49 1512 7027836
                       </p>
                       <p>
                         <span className="font-medium">E-mail:</span><br />

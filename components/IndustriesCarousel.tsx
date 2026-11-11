@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from '@/lib/assets';
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
@@ -13,13 +14,13 @@ const IndustriesCarousel = () => {
   const industries = cardKeys.map(key => ({
     id: key,
     image: {
-      healthcare: "/doctor-two.png",
-      construction: "/insaat.png",
-      recruitment: "/is-alim-onei.png",
-      partnership: "/ekip.png",
-      visaprocess: "/belge-hazırlama-kontrol.png",
-      support: "/müsteri-iliskilerii.png",
-    }[key] || "/zovpersonal.png",
+      healthcare: assetUrl("doctor-two.png"),
+      construction: assetUrl("insaat.png"),
+      recruitment: assetUrl("is-alim-onei.png"),
+      partnership: assetUrl("ekip.png"),
+      visaprocess: assetUrl("belge-hazırlama-kontrol.png"),
+      support: assetUrl("müsteri-iliskilerii.png"),
+    }[key] || assetUrl("zovpersonal.png"),
     title: t(`cards.${key}.title`),
     description: t(`content.${key}.description`),
     highlight: t(`content.${key}.highlight`),

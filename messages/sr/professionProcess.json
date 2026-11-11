@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "title": "Nacionalna Viza Nemačke - Profesije i Proces",
+    "subtitle": "Vaš proces aplikacije za nacionalnu vizu za rad u zdravstvenom sektoru Nemačke"
+  },
+  "navigation": {
+    "previousSlide": "Prethodni slajd",
+    "nextSlide": "Sledeći slajd"
+  },
+  "carousel": {
+    "doctor": {
+      "status": "Viza za Doktore",
+      "title": "Nacionalna Viza Nemačke za Doktore",
+      "description": "Pružamo sveobuhvatno vođenje vize i upravljanje procesom za diplomce medicine koji žele da rade kao doktori u Nemačkoj. Profesionalna podrška u procesima priznavanja diplome i jezičkih ispita.",
+      "button": "Saznajte više"
+    },
+    "nurse": {
+      "status": "Viza za Medicinske Sestre",
+      "title": "Profesionalna Podrška za Medicinske Sestre",
+      "description": "Stručno vođenje za diplomce sestrinstva u procesima radne dozvole i nacionalne vize u Nemačkoj. Potpuna podrška u procesima priznavanja profesionalne kompetencije i znanja jezika.",
+      "button": "Saznajte više"
+    },
+    "caregiver": {
+      "status": "Starački Dom",
+      "title": "Nega i Specijalisti za Staracku Negu",
+      "description": "Sveobuhvatne vizne konsultacije za profesionalce koji žele da rade u sektoru staracke nege. Povezivanje sa centrima za negu u Nemačkoj i podrška u plasmanu poslova.",
+      "button": "Saznajte više"
+    },
+    "healthTechnician": {
+      "status": "Plasman u Bolnicu",
+      "title": "Zdravstveni Tehničari i Pomoćno Osoblje",
+      "description": "Procesi viza za Nemačku za medicinske tehničare, laboratorijske specijaliste i ostalo pomoćno osoblje u zdravstvu. Sveobuhvatna usluga sa profesionalnom sertifikacijom i podrškom u pronalaženju posla.",
+      "button": "Saznajte više"
+    },
+    "healthExpert": {
+      "status": "Program Specijalizacije",
+      "title": "Zdravstveni Specijalisti i Terapeuti",
+      "description": "Mogućnosti rada u Nemačkoj za fizioterapeute, psihologe, dijetetičare i ostale zdravstvene specijaliste. Specijalizovane vizne konsultacije i procesi profesionalnog priznavanja za vašu oblast stručnosti.",
+      "button": "Saznajte više"
+    },
+    "construction": {
+      "status": "Visoka Potražnja",
+      "title": "Građevinski Radnici",
+      "description": "Procesno vodjenje za kvalifikovane radnike koji žele da rade u građevinskom sektoru.",
+      "button": "Saznajte više"
+    },
+    "electrician": {
+      "status": "Tražena Veština",
+      "title": "Električari",
+      "description": "Profesionalni proces za električare koji žele da rade u električnim instalacijama i popravkama.",
+      "button": "Saznajte više"
+    },
+    "hospitality": {
+      "status": "Popularan Izbor",
+      "title": "Hotel i Restoran",
+      "description": "Vodjenje za profesionalce koji žele da rade u hotelijerstvu, restoratorstvu i turističkom sektoru.",
+      "button": "Saznajte više"
+    },
+    "logistics": {
+      "status": "Rastući Sektor",
+      "title": "Logistika i Vožnja",
+      "description": "Proces za profesionalce koji žele da rade u transportu, logistici i vožnji.",
+      "button": "Saznajte više"
+    },
+    "service": {
+      "status": "Sigurno Zapošljavanje",
+      "title": "Uslužni Sektor",
+      "description": "Vodjenje za one koji žele da rade u prodaji, bezbednosti, čišćenju i drugim uslužnim sektorima.",
+      "button": "Saznajte više"
+    }
+  },
+  "otherProfessions": {
+    "title": "Usluge Nacionalne Vize za Ostale Profesionalne Grupe",
+    "construction": {
+      "title": "Građevinski Sektor",
+      "description": "Specijalne vizne konsultacije za one koji žele da rade u građevinskom i građevinskom sektoru. Pozicije vodoinstalatera, električara, stolara i ostalog tehničkog osoblja."
+    },
+    "hospitality": {
+      "title": "Hotel & Restoran",
+      "description": "Karijerne prilike u turizmu i gastronomskom sektoru. Procesi viza za konobare, kuvara, hotelsko osoblje i ostale pozicije u uslužnom sektoru."
+    },
+    "logistics": {
+      "title": "Logistika & Transport",
+      "description": "Mogućnosti rada u vozačkom i logističkom sektoru. Pozicije vozača kamiona, rukovaoca viljuškara i skladišnog osoblja."
+    },
+    "cleaning": {
+      "title": "Čišćenje & Higijena",
+      "description": "Mogućnosti zaposlenja u sektoru usluga čišćenja. Osoblje za industrijsko čišćenje, čišćenje bolnica i čišćenje kancelarija."
+    },
+    "office": {
+      "title": "Kancelarija & Upravljanje",
+      "description": "Kancelarijski radnici i pozicije upravljanja. Računovodstvo, ljudski resursi, sekretarijat i ostalo kancelarijsko osoblje."
+    },
+    "others": {
+      "title": "Ostale Profesije",
+      "description": "Specijalne konsultantske usluge za poljoprivredu, proizvodnju, prodaju i ostale profesionalne grupe. Odgovarajući procesi viza za svaku profesiju."
+    },
+    "learnMore": "Saznajte više"
+  },
+  "process": {
+    "tabs": {
+      "jobSearch": "Proces Traženja Posla",
+      "visaApplication": "Aplikacija za Viznu",
+      "companyAgreements": "Ugovori sa Kompanijama"
+    },
+    "content": {
+      "jobSearch": {
+        "title": "Pronalaženje Posla u Evropi",
+        "subtitle": "Fokusirano na Zdravstveni Sektor",
+        "description": "Pružamo profesionalno vođenje u procesu traženja posla u zdravstvenom sektoru. Zahvaljujući našoj snažnoj mreži sa bolnicama i zdravstvenim institucijama u Evropi, pomažemo vam da pronađete pozicije koje su vam odgovarajuće.",
+        "detail": "Sa vama smo tokom celog procesa od pripreme CV-a do intervjua.",
+        "footer": "Imamo usluge karijernog savetovanja specifične za vašu profesiju i poslovne prilike."
+      },
+      "visaApplication": {
+        "title": "Podrška u procesu apliciranja",
+        "subtitle": "Proces aplikacije",
+        "description": "Pružamo informacije i smernice za vaš proces apliciranja za evropsku nacionalnu radnu vizu. Podržavajući vas tokom celog procesa, pomažemo vam da lakše pratite vašu aplikaciju.",
+        "detail": "Informišemo vas o tome šta treba da uzmete u obzir prilikom pripreme dokumenata i zakazivanja sastanka.",
+        "footer": "Kontaktirajte nas za više informacija o procesu."
+      },
+      "companyAgreements": {
+        "title": "Partnerske Kompanije",
+        "subtitle": "Garancija Posla",
+        "description": "Zahvaljujući našim posebnim ugovorima sa partnerskim bolnicama i zdravstvenim institucijama u Evropi, nudimo vam direktne poslovne prilike.",
+        "detail": "Nakon primanja ponude posla, vaš proces vize napreduje mnogo brže i sigurnije.",
+        "footer": "Možete planirati dugoročnu karijeru sa našim partnerskim kompanijama."
+      }
+    }
+  },
+  "about": {
+    "title": "Drugačija vrsta konsaltinga.",
+    "description": "Nudimo sveobuhvatne usluge za postizanje vaših međunarodnih ciljeva u karijeri u zdravstvenom sektoru, uslugama, građevinarstvu i drugim sektorima.",
+    "statsTitle": "U brojkama",
+    "stats": {
+      "experience": "Godina infrastrukture",
+      "healthPersonnel": "Opšte osoblje",
+      "successRate": "Stopa uspeha",
+      "partners": "Partnerske organizacije"
+    },
+    "content": {
+      "paragraph1": "Zdravstveni sektor se stalno menja i razvija. Potreba za zdravstvenim osobljem u Nemačkoj raste svakog dana. Sada je pravo vreme da iskoristite ovu priliku.",
+      "highlight": "Rad u Nemačkoj nije samo san. Mi ga činimo stvarnošću za vas.",
+      "paragraph2": "Naš tim, koji radi u ovom sektoru godinama, suočio se sa svim izazovima u procesima naseljavanja zdravstvenog osoblja u Nemačkoj. Tradicionalne metode nisu dovoljne. Nudimo sveobuhvatnu konsultantsku uslugu specijalno dizajniranu za zdravstveno osoblje."
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Sve što trebate znati",
+    "title": "Proces rada u Nemačkoj",
+    "description": "Nemačka je poznata po svojoj snažnoj ekonomiji, kulturi i visokom kvalitetu života. Međutim, za imigrante, selidba u Nemačku znači više od samo nove karijere; to je početak novog života u novom okruženju.",
+    "cards": {
+      "integration": {
+        "title": "Integracija Zaposlenih",
+        "description": "Nakon što međunarodni zaposleni uspešno stignu u Evropu, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se osiguralo da se novi zaposleni osećaju ugodno u svom novom okruženju, već i da bi se obezbedila dugoročna posvećenost kompaniji."
+      },
+      "experiencedVisa": {
+        "title": "Viza za Iskusne Profesionalce",
+        "description": "Šta je viza za iskusne profesionalce? Viza za iskusne profesionalce (Član 19c Zakona o Boravku, Stav 2) je namenjena kvalifikovanim radnicima koji imaju najmanje dve godine kvalifikovanog profesionalnog iskustva u svojoj oblasti, ali nemaju formalnu univerzitetsku diplomu."
+      },
+      "acceleratedProcedures": {
+        "title": "Ubrzani Postupci",
+        "description": "Šta je ubrzani postupak za kvalifikovane radnike? Ubrzani Postupak za Kvalifikovane Radnike je poseban proces razvijen za ubrzavanje procesa imigracije i priznavanja za kvalifikovane radnike iz inostranstva."
+      },
+      "recruitment": {
+        "title": "Zapošljavanje",
+        "description": "Korak po korak. Zapošljavanje međunarodnih specijalista nudi ogromnu priliku za rešavanje nedostatka veština u Evropi. Međutim, da bi ovaj proces bio uspešan, kompanije moraju usvojiti ciljani i struktuirani pristup."
+      }
+    },
+    "learnMore": "Saznajte Više"
+  }
+}

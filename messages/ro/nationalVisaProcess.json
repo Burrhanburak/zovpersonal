@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Procesul de Cerere pentru Viza Națională de Muncă",
+    "description": "Viza națională de muncă acordă dreptul de a intra în Germania pentru șederi pe termen lung în scopuri de muncă. În funcție de tipul de muncă, viza este emisă cu o perioadă de valabilitate de până la un an. După intrarea în țară, de obicei trebuie să soliciți un permis de rezidență intern. Acest tip de viză este valabil doar pentru poziții de muncă specifice și nu acordă libertate de mișcare în zona Schengen."
+  },
+  "appointmentSystem": {
+    "title": "Sistem de Programare",
+    "description": "Programările sunt oferite prin sistemul național de programare",
+    "ourService": "Serviciul Nostru:",
+    "serviceDescription": "Ne ocupăm de procedurile de programare pentru tine. Facem programările necesare și realizăm procedurile. Documentele necesare vor fi solicitate de la tine și organizate, apoi urmărim procesul."
+  },
+  "preparation": {
+    "title": "Pregătire",
+    "description": "Utilizează sistemul de programare online pentru vize naționale pentru a afla despre scopul șederii tale și documentele pe care trebuie să le depui. Înregistrează-te pe lista de așteptare pentru programări pentru scopul tău de ședere prin sistemul de programare online contra unei taxe."
+  },
+  "application": {
+    "title": "Cerere",
+    "description1": "Datorită implicării autorităților interne germane în proces, procesarea documentelor va dura de obicei până la trei luni (sau mai mult în unele cazuri). Dacă ai nevoie de pașaport în timpul procesului de evaluare a cererii tale, poți contacta departamentul de vize relevant, menționând numărul cererii tale într-o petiție scrisă semnată.",
+    "description2": "Taxa de serviciu trebuie plătită. După ce amprentele tale sunt luate, pașaportul tău și documentele necesare sunt primite de departamentul de vize pentru procesul de evaluare."
+  },
+  "afterEvaluation": {
+    "title": "După Evaluare",
+    "description": "Imediat după finalizarea procesului de evaluare a cererilor, pașaportul tău este returnat ție într-un plic împreună cu unele documente originale pe care le-ai depus, fie la birourile lor, fie direct prin poștă."
+  },
+  "note": {
+    "label": "Notă:",
+    "text": "Prețul este pe persoană, iar procesul variază în funcție de varietatea dosarului și documentelor și tipul de viză."
+  },
+  "processingTimes": {
+    "title": "Timpii de Procesare",
+    "importantInfo": {
+      "title": "Informații Importante",
+      "description": "Înainte de a aplica, planifică timpul de așteptare pentru programări și timpul necesar pentru returnarea pașaportului tău."
+    },
+    "decisionAuthority": {
+      "title": "Autoritatea de Decizie",
+      "description": "Decizia de a aproba sau respinge cererea este luată doar de Reprezentanțele Externe."
+    },
+    "holidayEffect": {
+      "title": "Efectul Sărbătorilor",
+      "description": "Timpii de procesare pot varia din cauza sărbătorilor oficiale turcești și germane. Prin urmare, recomandăm aplicarea pentru o viză la o dată timpurie."
+    },
+    "applicationTracking": {
+      "title": "Urmărirea Cererii",
+      "description": "Poți urmări în ce etapă se află cererea ta contactându-ne."
+    }
+  }
+}

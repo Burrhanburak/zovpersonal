@@ -1,0 +1,26 @@
+{
+  "title": "Our Service Philosophy",
+  "subtitle": "How we manage your visa application process",
+  "holisticApproach": "With a holistic approach, we stand by you at every stage of your visa process.",
+  "personalizedCare": "With our personalized care approach, we meet each client's special needs.",
+  "compassionateProfessionals": "Our empathetic specialists support you throughout the process.",
+  "flexibleScheduling": "We serve you at convenient times with our flexible appointment system.",
+  "confidentialSpace": "You can share your personal information in a private and secure environment.",
+  "imageAlt": "Our visa consultancy approach",
+  "step1": {
+    "title": "Analysis and Planning",
+    "description": "We analyze your personal situation in detail and determine the most suitable visa strategy."
+  },
+  "step2": {
+    "title": "Document Preparation",
+    "description": "We prepare and review all your documents according to international standards."
+  },
+  "step3": {
+    "title": "Application and Follow-up",
+    "description": "We submit your application and continuously track it until completion."
+  },
+  "step4": {
+    "title": "Success and Support",
+    "description": "We continue to guide you through the settlement process even after obtaining the visa."
+  }
+}

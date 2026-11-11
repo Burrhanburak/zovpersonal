@@ -1,0 +1,24 @@
+{
+  "title": "Meslek Kategorileri",
+  "subtitle": "Çeşitli meslek alanlarında vize başvurularında uzmanlaşıyoruz",
+  "healthcare": {
+    "title": "Sağlık Profesyonelleri",
+    "description": "Hemşireler, doktorlar, terapistler ve diğer sağlık çalışanları",
+    "requirements": "Gerekli belgeler ve nitelikler"
+  },
+  "engineering": {
+    "title": "Mühendisler ve BT",
+    "description": "Yazılım geliştiriciler, mühendisler ve teknik uzmanlar",
+    "requirements": "Teknik nitelik gereksinimleri"
+  },
+  "skilled": {
+    "title": "Nitelikli İşçiler",
+    "description": "Zanaatkarlar, teknisyenler ve nitelikli işçiler",
+    "requirements": "Meslek sertifikası gereksinimleri"
+  },
+  "education": {
+    "title": "Eğitim ve Araştırma",
+    "description": "Öğretmenler, araştırmacılar ve akademik profesyoneller",
+    "requirements": "Akademik kimlik belgesi gereksinimleri"
+  }
+}

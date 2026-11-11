@@ -1,0 +1,57 @@
+{
+  "ctaTitle": "Intelligentere Beratung.\nSicher voranschreiten",
+  "ctaSubtitle": "Erreichen Sie eine neue Ära mit hybriden Lösungen, fortschrittlichen Tools und Beratungsdienstleistungen auf Unternehmensebene.",
+  "ctaButton": "Loslegen",
+  "ctaSecondary": "Unsere Dienstleistungen ansehen",
+  "supportingText": "Ihr vertrauensvoller Partner für internationale Visa-Beratung und Karriereberatung.",
+  "copyright": "©2025 Alle Rechte vorbehalten, Zov Personal.",
+  "legal": "Unsere Beratungsdienstleistungen dienen zu Informationszwecken und stellen keine Garantie dar. Visa-Antragsprozesse unterliegen Länderbestimmungen und Ergebnisse können variieren. Kontaktieren Sie unsere Expertenberater zur Bewertung Ihrer persönlichen Situation.",
+  "email": "info@zovpersonal.com",
+  "phone": "+49 1512 7027836",
+  "address": "Brückstraße 59, 26725 Emden, Deutschland",
+  "links": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "blog": "Blog"
+  },
+  "visa": {
+    "requiredDocuments": "Erforderliche Dokumente",
+    "applicationProcess": "Internationale Rekrutierung",
+    "pricing": "Preisgestaltung",
+    "additionalServices": "Zusätzliche Dienstleistungen",
+    "nationalVisaSteps": "Nationale Visa-Schritte",
+    "professions": "Berufsprozess",
+    "businessProcess": "Business-Prozess in Deutschland"
+  },
+  "social": {
+    "instagram": {
+      "url": "https://instagram.com/zovpersonal",
+      "alt": "Folgen Sie uns auf Instagram"
+    },
+    "facebook": {
+      "url": "https://facebook.com/zovpersonal",
+      "alt": "Folgen Sie uns auf Facebook"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "employer": "Arbeitgeber",
+    "jobSeeker": "Jobsuchende"
+  },
+  "description": "Professionelle internationale Arbeitsvisa-Beratungsdienstleistungen",
+  "quickLinks": "Schnelle Links",
+  "ourServices": "Ressourcen",
+  "services": {
+    "workVisa": "Arbeitsvisa-Anträge",
+    "skillsAssessment": "Qualifikationsbewertung",
+    "documentation": "Dokumentenvorbereitung",
+    "consultation": "Persönliche Beratung"
+  },
+  "privacy": "Datenschutzrichtlinie",
+  "terms": "Nutzungsbedingungen",
+  "rightsReserved": "Alle Rechte vorbehalten"
+}

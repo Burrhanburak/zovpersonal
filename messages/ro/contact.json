@@ -1,0 +1,43 @@
+{
+  "title": "Să vorbim",
+  "jobSeeker": "Căutător de Locuri de Muncă",
+  "employer": "Angajator",
+  "subtitle": "Fie că ești gata să programezi prima consultație sau doar ai întrebări, am fi bucuroși să auzim de tine.",
+  "pageTitle": "Contactează-ne",
+  "pageSubtitle": "Suntem aici pentru a ajuta cu întrebările tale legate de consultanța pentru vize.",
+  "offices": {
+    "istanbul": "🇩🇪 Birou Emden",
+    "berlin": "🇩🇪 Birou Emden",
+    "emden": "🇩🇪 Birou Emden"
+  },
+  "sections": {
+    "email": "Trimite-ne un e-mail",
+    "follow": "Urmărește-ne",
+    "inquiries": "Întrebări"
+  },
+  "selectApplicantType": "Selectează Tipul Solicitantului",
+  "namePlaceholder": "Nume",
+  "emailPlaceholder": "Adresă de E-mail",
+  "datePlaceholder": "Selectează Data",
+  "messagePlaceholder": "Mesaj",
+  "submitButton": "Rezervă Acum",
+  "sending": "Se trimite...",
+  "successMessage": "Mesajul tău a fost trimis cu succes! Îți vom răspunde în curând.",
+  "errorMessage": "A apărut o eroare la trimiterea mesajului. Te rugăm să încerci din nou.",
+  "imageAlt": "Contactează-ne pentru consultanță pentru vize",
+  "phone": "Telefon",
+  "email": "E-mail",
+  "address": "Adresă",
+  "form": {
+    "fullName": "Nume complet",
+    "email": "Adresă de e-mail de lucru",
+    "message": "Mesajul tău",
+    "submit": "Trimite",
+    "optional": "(opțional)",
+    "placeholders": {
+      "fullName": "Nume și prenume",
+      "email": "eu@mail.com",
+      "message": "Scrie mesajul tău"
+    }
+  }
+}

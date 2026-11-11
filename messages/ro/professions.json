@@ -1,0 +1,24 @@
+{
+  "title": "Categorii Profesionale",
+  "subtitle": "Suntem specializați în cereri de vize pentru diverse domenii profesionale",
+  "healthcare": {
+    "title": "Profesioniști în Sănătate",
+    "description": "Asistenți medicali, medici, terapeuți și alți lucrători din domeniul sănătății",
+    "requirements": "Documente și calificări necesare"
+  },
+  "engineering": {
+    "title": "Ingineri și IT",
+    "description": "Dezvoltatori de software, ingineri și specialiști tehnici",
+    "requirements": "Cerințe de calificare tehnică"
+  },
+  "skilled": {
+    "title": "Lucrători Calificați",
+    "description": "Meșteșugari, tehnicieni și muncitori calificați",
+    "requirements": "Cerințe de certificare profesională"
+  },
+  "education": {
+    "title": "Educație și Cercetare",
+    "description": "Profesori, cercetători și profesioniști academici",
+    "requirements": "Cerințe de acreditare academică"
+  }
+}

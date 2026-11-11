@@ -1,0 +1,24 @@
+{
+  "title": "Professionele Categorieën",
+  "subtitle": "Wij zijn gespecialiseerd in visumaanvragen voor verschillende professionele velden",
+  "healthcare": {
+    "title": "Gezondheidszorg Professionals",
+    "description": "Verpleegkundigen, artsen, therapeuten en andere gezondheidszorgmedewerkers",
+    "requirements": "Vereiste documenten en kwalificaties"
+  },
+  "engineering": {
+    "title": "Ingenieurs & IT",
+    "description": "Softwareontwikkelaars, ingenieurs en technische specialisten",
+    "requirements": "Technische kwalificatievereisten"
+  },
+  "skilled": {
+    "title": "Geschoolde Werknemers",
+    "description": "Ambachtslieden, technici en geschoolde arbeiders",
+    "requirements": "Professionele certificeringsvereisten"
+  },
+  "education": {
+    "title": "Onderwijs & Onderzoek",
+    "description": "Leraren, onderzoekers en academische professionals",
+    "requirements": "Academische credentialvereisten"
+  }
+}

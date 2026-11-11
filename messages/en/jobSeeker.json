@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "Job Seeker",
+    "tag2": "International Career",
+    "title": "Find Your Dream Job Abroad with us",
+    "description": "international future-oriented recruitment solutions",
+    "startJourney": "Start Your Journey",
+    "viewServices": "View Services"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "Job Seekers",
+      "opportunities": {
+        "label": "Opportunities",
+        "title": "Premium Job",
+        "subtitle": "Opportunities Worldwide",
+        "description": "Access exclusive high-paying international positions with top companies across 25+ countries.",
+        "stats": [
+          "25+ Countries",
+          "5K+ Jobs Placed",
+          "95% Success Rate"
+        ],
+        "benefits": [
+          "Access to Premium Jobs",
+          "Verified Employers",
+          "Global Network",
+          "High Salary Packages"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "Jobs Placed"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Countries"
+          }
+        }
+      },
+      "support": {
+        "label": "Support",
+        "title": "Complete",
+        "subtitle": "Career Support",
+        "description": "From application to relocation, we provide comprehensive support every step of the way.",
+        "stats": [
+          "24/7 Support",
+          "Expert Guidance",
+          "98% Satisfaction"
+        ],
+        "benefits": [
+          "CV Optimization",
+          "Interview Coaching",
+          "Visa Assistance",
+          "Relocation Support"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Support"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Satisfaction"
+          }
+        }
+      },
+      "process": {
+        "label": "Process",
+        "title": "Streamlined",
+        "subtitle": "Application Process",
+        "description": "Our efficient process gets you working abroad faster with proven results and quick placement.",
+        "stats": [
+          "30 Days Avg",
+          "95% Success",
+          "Fast Processing"
+        ],
+        "benefits": [
+          "Fast Processing",
+          "Step-by-Step Guidance",
+          "Document Preparation",
+          "Quick Results"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Days Average"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Success Rate"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Job Seeker Services",
+    "title": "Our Services for Job Seekers",
+    "items": [
+      {
+        "title": "CV & Resume Optimization",
+        "description": "Professional CV writing and optimization for international job markets"
+      },
+      {
+        "title": "Job Matching",
+        "description": "Connect with verified employers looking for your specific skills"
+      },
+      {
+        "title": "Interview Preparation",
+        "description": "Comprehensive interview coaching for international positions"
+      },
+      {
+        "title": "Visa Assistance",
+        "description": "Complete work visa application support and documentation"
+      }
+    ]
+  },
+  "process": {
+    "title": "How It Works",
+    "description": "Our job seeker program is designed to help you find your dream job abroad. We provide you with the tools and resources you need to succeed.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Profile Assessment",
+        "description": "Complete skills evaluation and career goals analysis"
+      },
+      {
+        "step": "02",
+        "title": "Job Matching",
+        "description": "Match with suitable international job opportunities"
+      },
+      {
+        "step": "03",
+        "title": "Application Support",
+        "description": "Professional application preparation and submission"
+      },
+      {
+        "step": "04",
+        "title": "Visa Processing",
+        "description": "Complete work visa application and documentation"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Our Success Numbers",
+    "description": "Proven track record of successful job placements",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Success Rate"
+      },
+      {
+        "number": "5K+",
+        "label": "Jobs Placed"
+      },
+      {
+        "number": "25+",
+        "label": "Countries"
+      },
+      {
+        "number": "30",
+        "label": "Days Average"
+      }
+    ]
+  }
+}

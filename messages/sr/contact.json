@@ -1,0 +1,43 @@
+{
+  "title": "Hajde da razgovaramo",
+  "jobSeeker": "Tražilac Posla",
+  "employer": "Poslodavac",
+  "subtitle": "Bilo da ste spremni da zakazete svoju prvu konsultaciju ili samo imate pitanja, voleli bismo da vas čujemo.",
+  "pageTitle": "Kontaktirajte nas",
+  "pageSubtitle": "Ovde smo da pomognemo sa vašim upitima o viznim konsultacijama.",
+  "offices": {
+    "istanbul": "🇩🇪 Kancelarija Emden",
+    "berlin": "🇩🇪 Kancelarija Emden",
+    "emden": "🇩🇪 Kancelarija Emden"
+  },
+  "sections": {
+    "email": "Pošaljite nam e-mail",
+    "follow": "Pratite nas",
+    "inquiries": "Upiti"
+  },
+  "selectApplicantType": "Izaberite Tip Aplikanta",
+  "namePlaceholder": "Ime",
+  "emailPlaceholder": "E-mail Adresa",
+  "datePlaceholder": "Izaberite Datum",
+  "messagePlaceholder": "Poruka",
+  "submitButton": "Rezervišite Sada",
+  "sending": "Slanje...",
+  "successMessage": "Vaša poruka je uspešno poslana! Uskoro ćemo vam se javiti.",
+  "errorMessage": "Došlo je do greške prilikom slanja poruke. Molimo pokušajte ponovo.",
+  "imageAlt": "Kontaktirajte nas za vizne konsultacije",
+  "phone": "Telefon",
+  "email": "E-mail",
+  "address": "Adresa",
+  "form": {
+    "fullName": "Puno ime",
+    "email": "Poslovna e-mail adresa",
+    "message": "Vaša poruka",
+    "submit": "Pošalji",
+    "optional": "(opciono)",
+    "placeholders": {
+      "fullName": "Ime i prezime",
+      "email": "ja@mail.com",
+      "message": "Napišite svoju poruku"
+    }
+  }
+}

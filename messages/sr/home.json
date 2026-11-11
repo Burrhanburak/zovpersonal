@@ -1,0 +1,127 @@
+{
+  "carousel": {
+    "badge": "Međunarodno zapošljavanje usmereno na budućnost",
+    "title": "Međunarodno zapošljavanje usmereno na budućnost",
+    "description": "Naš program za tražioce posla osmišljen je da vam pomogne da pronađete posao iz snova. Pružamo alate i resurse potrebne za vaš uspeh.",
+    "cards": {
+      "recruitment": {
+        "category": "Ugostiteljstvo i čišćenje",
+        "title": "Osoblje za hotele i čišćenje"
+      },
+      "partnership": {
+        "category": "Partnerstvo sa poslodavcima",
+        "title": "Strateška poslovna partnerstva"
+      },
+      "visaprocess": {
+        "category": "Vize i dokumentacija",
+        "title": "Kompletna obrada viza"
+      },
+      "support": {
+        "category": "24/7 podrška",
+        "title": "Kontinuirana podrška klijentima"
+      },
+      "healthcare": {
+        "category": "Zdravstveni sektor",
+        "title": "Zapošljavanje medicinskih stručnjaka"
+      },
+      "construction": {
+        "category": "Građevinski i graditeljski sektor",
+        "title": "Stručnjaci u građevinskom i graditeljskom sektoru"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Izvrsnost u usluzi.",
+        "description": "Pružamo kvalifikovano osoblje za hotelski, restoranski i sektor čišćenja, osiguravajući visoke standarde usluge i higijene.",
+        "features": [
+          {
+            "title": "Provereno osoblje",
+            "description": "Pristup proverenim i obučenim profesionalcima za ugostiteljsku industriju."
+          },
+          {
+            "title": "Fleksibilna rešenja",
+            "description": "Zapošljavanje na zahtev za kratkoročne i dugoročne potrebe."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Izgradite trajne poslovne odnose.",
+        "description": "Stvaramo strateška partnerstva između poslodavaca i međunarodnih talenata. Naš sveobuhvatan pristup obezbeđuje održiv rast i uzajamni uspeh za sve uključene strane.",
+        "features": [
+          {
+            "title": "Upravljanje partnerstvima",
+            "description": "Posvećeni upravljači naloga za kontinuirano izgradnju odnosa i podršku."
+          },
+          {
+            "title": "Metrike uspeha",
+            "description": "Praćenje performansi sa detaljnim analizama i redovnim pregledima partnerstva."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Pojednostavite složene procedure za vize.",
+        "description": "Navigirajte sa poverenjem kroz međunarodne zahteve za vize. Naš stručni tim rukuje svom dokumentacijom, procesima aplikacija i pravnim usklađenošću za besprekorne prelaze.",
+        "features": [
+          {
+            "title": "Stručna dokumentacija",
+            "description": "Profesionalna priprema svih potrebnih dokumenata sa 100% stopom usklađenosti."
+          },
+          {
+            "title": "Pravna usklađenost",
+            "description": "Budite u toku sa promenljivim imigracionim zakonima i zahtevima."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Podrška koja se nikad ne završava.",
+        "description": "Naša posvećenost se proteže van zapošljavanja. Pružamo kontinuiranu podršku za obezbeđivanje dugoročnog uspeha i za poslodavce i za zaposlene tokom njihovog putovanja.",
+        "features": [
+          {
+            "title": "24/7 dostupnost",
+            "description": "Podrška oko sata za hitne stvari i kontinuiranu pomoć."
+          },
+          {
+            "title": "Podrška za integraciju",
+            "description": "Kulturna integracija i usluge prilagođavanja za glatke prelaze."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Izvrsnost u zdravstvenim talentima.",
+        "description": "Specijalizovano zapošljavanje za zdravstvene stručnjake uključujući lekare, medicinske sestre, terapeute i medicinske tehničare. Razumemo jedinstvene zahteve zdravstvenog sektora.",
+        "features": [
+          {
+            "title": "Medicinske licence",
+            "description": "Pomoć sa priznavanjem medicinskih licenci i profesionalnom sertifikacijom."
+          },
+          {
+            "title": "Validacija veština",
+            "description": "Sveobuhvatna procena medicinskih kvalifikacija i praktičnih veština."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "Specijalizovana radna snaga u građevinskom sektoru.",
+        "description": "Posebno dizajnirano za majstore, tehničare, arhitekte, inženjere, maltere, molere i građevinske stručnjake. Velika potražnja za kvalifikovanom radnom snagom u nemačkom građevinskom sektoru dovela je do posebnih propisa koji olakšavaju ulazak stranih stručnjaka u ovu industriju.",
+        "features": [
+          {
+            "title": "Jezički zahtevi",
+            "description": "B1 nivo nemačkog jezika i sertifikati o stručnim veštinama."
+          },
+          {
+            "title": "Brz početak rada",
+            "description": "Brzo raspoređivanje za hitne potrebe u građevinskim projektima."
+          }
+        ]
+      }
+    },
+    "notFound": {
+      "title": "Страница није пронађена",
+      "description": "Страница коју тражите не постоји или је можда премештена. Можете наставити враћањем на почетну страницу.",
+      "backHome": "Назад на почетну",
+      "contact": "Контактирајте нас",
+      "help": "Треба вам помоћ?",
+      "contactUs": "Контактирајте нас"
+    }
+  }
+}

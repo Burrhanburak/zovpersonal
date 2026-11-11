@@ -9,11 +9,12 @@
     "services": "Servicii",
     "about": "Despre noi",
     "contact": "Contact",
-    "consultation": "Suport pentru Angajatori"
+    "consultation": "Suport pentru Angajatori",
+    "blog": "Blog"
   },
   "hero": {
     "title": "Intermediere Internațională de Personal Orientată spre Viitor (ZOV)",
-    "subtitle": "Partenerul tău de încredere pentru oportunități de carieră internaționale",
+    "subtitle": "Partenerul dvs. de încredere pentru oportunități de carieră internaționale",
     "description": "Conectăm profesioniști calificați cu companii inovatoare din întreaga lume. Recrutare orientată spre viitor pentru succes durabil în Germania și UE.",
     "longDescription": "Partenerul dvs. de încredere care conectează profesioniștii calificați cu angajatorii internaționali. Indiferent dacă căutați sprijin în procesul de recrutare sau urmăriți oportunități de carieră în străinătate, obțineți succesul cu echipa noastră de experți.",
     "cta": "Solicită un Apel",
@@ -216,12 +217,13 @@
         "role": "Manager Operațiuni"
       }
     },
-    "description": "Vă ghidăm spre obiectivele dvs. de carieră internaționale și simplificăm procesele de viză pentru a crea oportunități de a lucra în țara visurilor dvs. Cu 15 ani de infrastructură, oferim servicii de consultanță pentru vize de încredere la nivel mondial.",
+    "description": "Să vă ghidăm spre obiectivele de carieră internațională și să simplificăm procesele de recrutare pentru a crea oportunități de muncă în țara visurilor voastre. Cu experiență dovedită, oferim servicii de încredere de recrutare și parteneriat cu angajatori la nivel mondial.",
     "features": {
       "compassion": "Empatie și Înțelegere",
       "integrity": "Onestitate și Fiabilitate",
       "mindGrowth": "Creștere Personală și Profesională"
-    }
+    },
+    "experienceHighlight": "Construit pe experiență reală din industrie — ghidăm cariere cu expertiză de încredere în recrutare."
   },
   "services": {
     "title": "Serviciile noastre",
@@ -266,22 +268,40 @@
       "workVisa": {
         "title": "Procesul de recrutare",
         "description": "Recrutarea specialiștilor internaționali oferă o oportunitate excelentă de a acoperi deficitul de forță de muncă calificată din Europa. Prin abordarea noastră țintită și structurată, structurăm eficient procesul dvs. de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
-        "stat1": { "number": "95%", "label": "recrutare de succes" },
-        "stat2": { "number": "", "label": "Proces Rapid" },
+        "stat1": {
+          "number": "95%",
+          "label": "recrutare de succes"
+        },
+        "stat2": {
+          "number": "",
+          "label": "Proces Rapid"
+        },
         "category": "Procesul de recrutare"
       },
       "documentation": {
         "title": "Cerințe lingvistice",
         "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale.",
-        "stat1": { "number": "100%", "label": "conformitatea documentelor" },
-        "stat2": { "number": "✓", "label": "Certificate de competență profesională" },
+        "stat1": {
+          "number": "100%",
+          "label": "conformitatea documentelor"
+        },
+        "stat2": {
+          "number": "✓",
+          "label": "Certificate de competență profesională"
+        },
         "category": "Cerințe lingvistice"
       },
       "skillsAssessment": {
         "title": "Evaluarea calificărilor profesionale",
         "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu certificate de competență lingvistică în funcție de tipul de profesie și dovada siguranței financiare.",
-        "stat1": { "number": "85%", "label": "recunoaștere reușită" },
-        "stat2": { "number": "12", "label": "ani experiență" },
+        "stat1": {
+          "number": "85%",
+          "label": "recunoaștere reușită"
+        },
+        "stat2": {
+          "number": "12",
+          "label": "ani experiență"
+        },
         "category": "Calificări Profesionale"
       }
     },
@@ -376,8 +396,9 @@
     "pageTitle": "Contactează-ne",
     "pageSubtitle": "Suntem aici pentru a ajuta cu întrebările tale legate de consultanța pentru vize.",
     "offices": {
-      "istanbul": "🇹🇷 Birou Istanbul",
-      "berlin": "🇩🇪 Birou Berlin"
+      "istanbul": "🇩🇪 Birou Emden",
+      "berlin": "🇩🇪 Birou Emden",
+      "emden": "🇩🇪 Birou Emden"
     },
     "sections": {
       "email": "Trimite-ne un e-mail",
@@ -431,14 +452,15 @@
       "applicationProcess": "Procesul de Cerere pentru Viza Națională",
       "pricing": "Prețuri",
       "additionalServices": "Servicii Suplimentare",
-      "nationalVisaSteps": "Pașii Vizei Naționale (90+ Zile)"
+      "nationalVisaSteps": "Pașii Vizei Naționale (90+ Zile)",
+      "blog": "Blog"
     },
     "description": "Servicii profesionale de consultanță pentru vize de muncă internaționale",
     "quickLinks": "Linkuri Rapide",
     "ourServices": "Resurse",
     "email": "info@zovpersonal.com",
-    "phone": "(Turcia) | +90 555 123 45 67 (Germania) | +4915757295545",
-    "address": "Istanbul, Turcia, Brückstraße 59, 26725 Emden, Germania",
+    "phone": "+49 1512 7027836",
+    "address": "Brückstraße 59, 26725 Emden, Germania",
     "visa": {
       "requiredDocuments": "Documente Necesare",
       "applicationProcess": "Recrutare Internațională",
@@ -490,26 +512,63 @@
         "title": "Date Personale Colectate",
         "identity": {
           "title": "Informații de Identitate și Contact",
-          "items": ["Nume, prenume", "Data și locul nașterii", "Număr de identificare național", "Informații pașaport", "Număr de telefon", "Adresă de e-mail", "Informații adresă"]
+          "items": [
+            "Nume, prenume",
+            "Data și locul nașterii",
+            "Număr de identificare național",
+            "Informații pașaport",
+            "Număr de telefon",
+            "Adresă de e-mail",
+            "Informații adresă"
+          ]
         },
         "visa": {
           "title": "Informații pentru Cererea de Viză",
-          "items": ["Statut educațional", "Informații profesionale", "Statut financiar", "Istoric de călătorie", "Statut familial", "Stare de sănătate (când este necesar)"]
+          "items": [
+            "Statut educațional",
+            "Informații profesionale",
+            "Statut financiar",
+            "Istoric de călătorie",
+            "Statut familial",
+            "Stare de sănătate (când este necesar)"
+          ]
         },
         "technical": {
           "title": "Date Tehnice",
-          "items": ["Adresă IP", "Informații despre browser", "Informații despre dispozitiv", "Date de utilizare a site-ului"]
+          "items": [
+            "Adresă IP",
+            "Informații despre browser",
+            "Informații despre dispozitiv",
+            "Date de utilizare a site-ului"
+          ]
         }
       },
       "processing": {
         "title": "Scopurile Procesării Datelor Personale",
         "description": "Procesăm datele tale personale în următoarele scopuri:",
-        "purposes": ["Desfășurarea proceselor de cerere de viză", "Furnizarea de servicii de consultanță", "Managementul relațiilor cu clienții", "Îndeplinirea obligațiilor legale", "Îmbunătățirea calității serviciilor", "Analiză statistică", "Măsurarea satisfacției clienților", "Luarea măsurilor de securitate"]
+        "purposes": [
+          "Desfășurarea proceselor de cerere de viză",
+          "Furnizarea de servicii de consultanță",
+          "Managementul relațiilor cu clienții",
+          "Îndeplinirea obligațiilor legale",
+          "Îmbunătățirea calității serviciilor",
+          "Analiză statistică",
+          "Măsurarea satisfacției clienților",
+          "Luarea măsurilor de securitate"
+        ]
       },
       "security": {
         "title": "Securitatea Datelor",
         "description": "Luăm următoarele măsuri tehnice și administrative pentru securitatea datelor tale personale:",
-        "measures": ["Transmisie criptată a datelor cu certificat SSL", "Infrastructură de server securizată", "Control de acces și autorizare", "Actualizări regulate de securitate", "Instruirea personalului și acorduri de confidențialitate", "Proceduri de backup și recuperare a datelor", "Monitorizare de securitate 24/7"]
+        "measures": [
+          "Transmisie criptată a datelor cu certificat SSL",
+          "Infrastructură de server securizată",
+          "Control de acces și autorizare",
+          "Actualizări regulate de securitate",
+          "Instruirea personalului și acorduri de confidențialitate",
+          "Proceduri de backup și recuperare a datelor",
+          "Monitorizare de securitate 24/7"
+        ]
       },
       "rights": {
         "title": "Drepturile Subiectului Datelor",
@@ -543,7 +602,11 @@
         "howToUse": {
           "title": "Cum Îți Poți Exersa Drepturile?",
           "description": "Poți utiliza următoarele canale de comunicare pentru a-ți exersa drepturile de mai sus:",
-          "channels": ["E-mail: info@zovpersonal.com", "Cerere scrisă: Livrare personală sau prin poștă la adresa companiei noastre", "Formular online: Formular de cerere la www.zovpersonal.com"]
+          "channels": [
+            "E-mail: info@zovpersonal.com",
+            "Cerere scrisă: Livrare personală sau prin poștă la adresa companiei noastre",
+            "Formular online: Formular de cerere la www.zovpersonal.com"
+          ]
         }
       },
       "cookies": {
@@ -559,7 +622,7 @@
             "title": "Birou Turcia",
             "address": "Adresă",
             "phone": "Telefon",
-            "location": "Istanbul, Turcia"
+            "location": "Brückstraße 59, 26725 Emden, Germania"
           },
           "germany": {
             "title": "Birou Germania",
@@ -811,40 +874,128 @@
       "subtitle": "Resurse Umane în Era Digitală",
       "description": "În timp ce tehnologia evoluează rapid, cea mai importantă resursă rămâne omul.",
       "features": [
-        {"title": "Potrivire Alimentată de AI", "description": "Potrivim candidații și pozițiile folosind algoritmi de inteligență artificială."},
-        {"title": "Bazin Global de Talente", "description": "Cu rețeaua noastră din 50+ țări găsim talentele de care aveți nevoie."},
-        {"title": "Proces Rapid de Recrutare", "description": "Finalizăm recrutarea în 2-4 săptămâni."},
-        {"title": "Integrare Culturală", "description": "Oferim programe de integrare pentru angajații internaționali."}
+        {
+          "title": "Potrivire Alimentată de AI",
+          "description": "Potrivim candidații și pozițiile folosind algoritmi de inteligență artificială."
+        },
+        {
+          "title": "Bazin Global de Talente",
+          "description": "Cu rețeaua noastră din 50+ țări găsim talentele de care aveți nevoie."
+        },
+        {
+          "title": "Proces Rapid de Recrutare",
+          "description": "Finalizăm recrutarea în 2-4 săptămâni."
+        },
+        {
+          "title": "Integrare Culturală",
+          "description": "Oferim programe de integrare pentru angajații internaționali."
+        }
       ]
     },
     "trends": {
       "title": "Tendințe ale Forței de Muncă",
       "subtitle": "Strategii de Predicție a Viitorului",
       "items": [
-        {"trend": "Model de Lucru Hibrid", "impact": "Talentele depășesc granițele geografice", "percentage": "89%", "description": "Companiile adoptă modele de lucru hibride"},
-        {"trend": "Competențe Digitale", "impact": "Folosirea tehnologiei în fiecare poziție", "percentage": "95%", "description": "Rolurile de muncă necesită competențe digitale"},
-        {"trend": "Diversitate și Incluziune", "impact": "Creșterea performanței și inovației", "percentage": "76%", "description": "Obținerea unor rezultate financiare mai bune"},
-        {"trend": "Focus pe Sustenabilitate", "impact": "Preferințe ecologice ale angajaților", "percentage": "73%", "description": "Talentele preferă companiile sustenabile"}
+        {
+          "trend": "Model de Lucru Hibrid",
+          "impact": "Talentele depășesc granițele geografice",
+          "percentage": "89%",
+          "description": "Companiile adoptă modele de lucru hibride"
+        },
+        {
+          "trend": "Competențe Digitale",
+          "impact": "Folosirea tehnologiei în fiecare poziție",
+          "percentage": "95%",
+          "description": "Rolurile de muncă necesită competențe digitale"
+        },
+        {
+          "trend": "Diversitate și Incluziune",
+          "impact": "Creșterea performanței și inovației",
+          "percentage": "76%",
+          "description": "Obținerea unor rezultate financiare mai bune"
+        },
+        {
+          "trend": "Focus pe Sustenabilitate",
+          "impact": "Preferințe ecologice ale angajaților",
+          "percentage": "73%",
+          "description": "Talentele preferă companiile sustenabile"
+        }
       ]
     },
     "methodology": {
       "title": "Metodologia Noastră Inovatoare de Recrutare",
       "subtitle": "Abordare Bazată pe Date",
       "steps": [
-        {"phase": "1", "title": "Analiza Nevoilor", "description": "Analizăm nevoile actuale și viitoare ale companiei dumneavoastră.", "duration": "1-2 zile", "tools": ["AI Analytics", "Cercetare de piață", "Maparea competențelor"]},
-        {"phase": "2", "title": "Descoperirea Talentelor", "description": "Identificăm candidații cei mai potriviți.", "duration": "3-5 zile", "tools": ["Sourcing global", "Recrutare socială", "Analiza rețelei"]},
-        {"phase": "3", "title": "Evaluare și Filtrare", "description": "Selectăm cei mai buni candidați.", "duration": "1-2 săptămâni", "tools": ["Evaluare tehnică", "Analiza potrivirii culturale", "Verificarea referințelor"]},
-        {"phase": "4", "title": "Prezentare și Integrare", "description": "Prezentăm candidații și gestionăm procesul de integrare.", "duration": "1-3 săptămâni", "tools": ["Coordonarea interviului", "Gestionarea ofertelor", "Suport pentru onboarding"]}
+        {
+          "phase": "1",
+          "title": "Analiza Nevoilor",
+          "description": "Analizăm nevoile actuale și viitoare ale companiei dumneavoastră.",
+          "duration": "1-2 zile",
+          "tools": [
+            "AI Analytics",
+            "Cercetare de piață",
+            "Maparea competențelor"
+          ]
+        },
+        {
+          "phase": "2",
+          "title": "Descoperirea Talentelor",
+          "description": "Identificăm candidații cei mai potriviți.",
+          "duration": "3-5 zile",
+          "tools": [
+            "Sourcing global",
+            "Recrutare socială",
+            "Analiza rețelei"
+          ]
+        },
+        {
+          "phase": "3",
+          "title": "Evaluare și Filtrare",
+          "description": "Selectăm cei mai buni candidați.",
+          "duration": "1-2 săptămâni",
+          "tools": [
+            "Evaluare tehnică",
+            "Analiza potrivirii culturale",
+            "Verificarea referințelor"
+          ]
+        },
+        {
+          "phase": "4",
+          "title": "Prezentare și Integrare",
+          "description": "Prezentăm candidații și gestionăm procesul de integrare.",
+          "duration": "1-3 săptămâni",
+          "tools": [
+            "Coordonarea interviului",
+            "Gestionarea ofertelor",
+            "Suport pentru onboarding"
+          ]
+        }
       ]
     },
     "success": {
       "title": "Povești de Succes",
       "subtitle": "Succesul Nostru în Cifre",
       "stats": [
-        {"number": "500+", "label": "Recrutări de Succes", "period": "Ultimele 12 luni"},
-        {"number": "95%", "label": "Satisfacția Clienților", "period": "Continuu"},
-        {"number": "2.5x", "label": "Creșterea Vitezei", "period": "Comparativ cu metodele tradiționale"},
-        {"number": "35+", "label": "Acoperirea Țărilor", "period": "Rețea globală"}
+        {
+          "number": "500+",
+          "label": "Recrutări de Succes",
+          "period": "Ultimele 12 luni"
+        },
+        {
+          "number": "95%",
+          "label": "Satisfacția Clienților",
+          "period": "Continuu"
+        },
+        {
+          "number": "2.5x",
+          "label": "Creșterea Vitezei",
+          "period": "Comparativ cu metodele tradiționale"
+        },
+        {
+          "number": "35+",
+          "label": "Acoperirea Țărilor",
+          "period": "Rețea globală"
+        }
       ]
     },
     "callToAction": {
@@ -1223,8 +1374,12 @@
             "Expertiză inter-industrială"
           ],
           "overlayStats": {
-            "stat1": { "label": "Reducerea timpului de angajare" },
-            "stat2": { "label": "Plasări mai rapide" }
+            "stat1": {
+              "label": "Reducerea timpului de angajare"
+            },
+            "stat2": {
+              "label": "Plasări mai rapide"
+            }
           }
         },
         "quality": {
@@ -1239,8 +1394,12 @@
             "Focalizare pe retenția pe termen lung"
           ],
           "overlayStats": {
-            "stat1": { "label": "Rata de succes" },
-            "stat2": { "label": "Angajări de succes" }
+            "stat1": {
+              "label": "Rata de succes"
+            },
+            "stat2": {
+              "label": "Angajări de succes"
+            }
           }
         },
         "support": {
@@ -1255,8 +1414,12 @@
             "Asistență continuă post-plasare"
           ],
           "overlayStats": {
-            "stat1": { "label": "Asistență dedicată" },
-            "stat2": { "label": "Satisfacția clientului" }
+            "stat1": {
+              "label": "Asistență dedicată"
+            },
+            "stat2": {
+              "label": "Satisfacția clientului"
+            }
           }
         }
       }
@@ -1330,7 +1493,7 @@
   },
   "jobSeeker": {
     "hero": {
-      "tag1": "Căutător de locuri de muncă", 
+      "tag1": "Căutător de locuri de muncă",
       "tag2": "Carieră internațională",
       "title": "Găsește jobul visurilor tale în străinătate cu noi",
       "description": "soluții internaționale de recrutare orientate spre viitor",
@@ -1345,7 +1508,11 @@
           "title": "Loc de Muncă Premium",
           "subtitle": "Oportunități Mondiale",
           "description": "Acces la poziții internaționale exclusive cu salarii mari la companii de top din 25+ țări.",
-          "stats": ["25+ Țări", "5K+ Locuri Plasate", "95% Rata de Succes"],
+          "stats": [
+            "25+ Țări",
+            "5K+ Locuri Plasate",
+            "95% Rata de Succes"
+          ],
           "benefits": [
             "Acces la Locuri Premium",
             "Angajatori Verificați",
@@ -1353,8 +1520,14 @@
             "Pachete Salariale Mari"
           ],
           "overlayStats": {
-            "stat1": { "value": "5K+", "label": "Locuri Plasate" },
-            "stat2": { "value": "25+", "label": "Țări" }
+            "stat1": {
+              "value": "5K+",
+              "label": "Locuri Plasate"
+            },
+            "stat2": {
+              "value": "25+",
+              "label": "Țări"
+            }
           }
         },
         "support": {
@@ -1362,7 +1535,11 @@
           "title": "Complet",
           "subtitle": "Suport de Carieră",
           "description": "De la aplicare la relocare, oferim suport complet la fiecare pas.",
-          "stats": ["24/7 Suport", "Ghidare Expert", "98% Satisfacție"],
+          "stats": [
+            "24/7 Suport",
+            "Ghidare Expert",
+            "98% Satisfacție"
+          ],
           "benefits": [
             "Optimizare CV",
             "Coaching Interviu",
@@ -1370,8 +1547,14 @@
             "Suport Relocare"
           ],
           "overlayStats": {
-            "stat1": { "value": "24/7", "label": "Suport" },
-            "stat2": { "value": "98%", "label": "Satisfacție" }
+            "stat1": {
+              "value": "24/7",
+              "label": "Suport"
+            },
+            "stat2": {
+              "value": "98%",
+              "label": "Satisfacție"
+            }
           }
         },
         "process": {
@@ -1379,7 +1562,11 @@
           "title": "Simplificat",
           "subtitle": "Proces de Aplicare",
           "description": "Procesul nostru eficient vă aduce mai repede la muncă în străinătate cu rezultate dovedite.",
-          "stats": ["30 Zile Medie", "95% Succes", "Procesare Rapidă"],
+          "stats": [
+            "30 Zile Medie",
+            "95% Succes",
+            "Procesare Rapidă"
+          ],
           "benefits": [
             "Procesare Rapidă",
             "Ghidare Pas cu Pas",
@@ -1387,8 +1574,14 @@
             "Rezultate Rapide"
           ],
           "overlayStats": {
-            "stat1": { "value": "30", "label": "Zile Medie" },
-            "stat2": { "value": "95%", "label": "Rata de Succes" }
+            "stat1": {
+              "value": "30",
+              "label": "Zile Medie"
+            },
+            "stat2": {
+              "value": "95%",
+              "label": "Rata de Succes"
+            }
           }
         }
       }
@@ -1406,7 +1599,7 @@
           "description": "Conectarea cu angajatori verificați care caută abilitățile tale specifice"
         },
         {
-          "title": "Pregătirea pentru interviu", 
+          "title": "Pregătirea pentru interviu",
           "description": "Coaching cuprinzător pentru interviu pentru poziții internaționale"
         },
         {
@@ -1471,5 +1664,10 @@
     "contact": "Contactați-ne",
     "help": "Aveți nevoie de ajutor?",
     "contactUs": "Contactați-ne"
+  },
+  "blog": {
+    "subtitle": "Ghiduri despre recrutare internațională, angajare în Germania și parteneriat cu angajatorii.",
+    "empty": "Nu există încă articole în această limbă.",
+    "minRead": "min citire"
   }
 }

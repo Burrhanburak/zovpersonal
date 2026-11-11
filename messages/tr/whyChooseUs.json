@@ -1,0 +1,60 @@
+{
+  "title": "Neden Bizi Seçmelisiniz?",
+  "subtitle": "Uluslararası işe alım ve iş veren ortaklığında fark yaratan özelliklerimiz",
+  "category": "İşe Alım ve İş Veren Ortaklığı",
+  "description": "Tecrübemizle, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
+  "feature1": {
+    "title": "Uzman Ekip",
+    "description": "Sektör tecrübeli vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
+  },
+  "feature2": {
+    "title": "Yüksek Başarı Oranı",
+    "description": "%95 başarı oranımızla binlerce müşterinin hayallerini gerçekleştirdik."
+  },
+  "feature3": {
+    "title": "Kişiselleştirilmiş Hizmet",
+    "description": "Her müşterinin özgün durumuna özel çözümler geliştiriyoruz."
+  },
+  "feature4": {
+    "title": "7/24 Destek",
+    "description": "Süreç boyunca kesintisiz destek ve güncel bilgilendirme sağlıyoruz."
+  },
+  "slides": {
+    "personalizedCare": {
+      "title": "Kişiselleştirilmiş Bakım",
+      "description": "Her müşterinin benzersiz ihtiyaçlarını anlayarak özel çözümler geliştiriyoruz."
+    },
+    "experiencedProfessionals": {
+      "title": "Deneyimli Profesyoneller",
+      "description": "Alanında uzman ekibimizle güvenilir danışmanlık hizmeti sunuyoruz."
+    },
+    "holisticApproach": {
+      "title": "Bütüncül Yaklaşım",
+      "description": "Vize sürecinizin tüm aşamalarını kapsamlı bir şekilde ele alıyoruz."
+    },
+    "supportiveEnvironment": {
+      "title": "Destekleyici Ortam",
+      "description": "Güvenli ve rahat bir ortamda danışmanlık hizmeti alabilirsiniz."
+    },
+    "healthcareRecruitment": {
+      "title": "Sağlık Sektörü İşe Alım",
+      "description": "Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz. Net iş tanımları, maaş şeffaflığı ve kapsamlı destek hizmetleriyle uluslararası profesyonellere hitap eden çekici iş ilanları oluşturuyoruz."
+    },
+    "livingInGermany": {
+      "title": "Almanya'da Yaşamak",
+      "description": "Almanya güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Günlük yaşamdaki ilk adımlardan topluma başarılı bir şekilde entegre olmaya kadar Almanya'daki yaşamın kapsamlı rehberini sunuyoruz. Konaklama bulma, Alman kültürü ve gelenekleri, dil öğrenimi, sağlık sistemi ve günlük yaşam hakkında detaylı bilgiler sağlıyoruz. Dakiklik ve düzen gibi önemli değerlerden, Noel ve Oktoberfest gibi geleneksel kutlamalara kadar her konuda rehberlik ediyoruz."
+    },
+    "experiencedProfessionalsVisa": {
+      "title": "Deneyimli Profesyoneller İçin Vize",
+      "description": "Deneyimli profesyoneller için vize, alanlarında en az iki yıllık nitelikli mesleki deneyime sahip vasıflı işçilere yöneliktir. Bu vize ile Almanya'da yüksek talep gören mesleklerde çalışabilirsiniz. Nitelikli mesleki deneyim, asgari ücret şartları, iş teklifi ve dil becerileri gibi gereksinimleri karşılamanız durumunda başvuru yapabilirsiniz. 40.770 € minimum yıllık maaş şartı ve B1 seviyesi Almanca dil yeterliliği ile başvuru sürecinizi destekliyoruz."
+    },
+    "vocationalTrainingVisa": {
+      "title": "Mesleki Eğitim Vizesi",
+      "description": "Mesleki eğitimi tamamlama vizesi, Almanya'da tanınan bir mesleki eğitim mesleğinde ikili mesleki eğitim programını tamamlamak isteyen kişilere yöneliktir. Meslek okulunda öğretilen teorik bilgiyi bir şirketteki pratik eğitimle birleştiren bu program, gençlere Alman çıraklığında nitelikli eğitim tamamlama ve ardından Alman işgücü piyasasında uzun vadeli beklentiler kazanma fırsatı sunar."
+    },
+    "qualificationRecognitionVisa": {
+      "title": "Mesleki Yeterlilik Tanıma Vizesi",
+      "description": "Yabancı mesleki yeterliliklerin tanınması için vize, yurtdışında edindikleri mesleki yeterliliklerinin Almanya'da tanınmasını isteyen vasıflı işçilere yöneliktir. Yeterliliklerinizi Alman standartlarına getirerek Almanya'da uzun süreli istihdam olanağı sağlıyoruz. Tanınma süreci boyunca Almanya'da yaşamanıza ve mesleki uyum önlemleri almanıza olanak tanıyan bu vize ile B1 seviyesi Almanca ve aylık minimum 947 € mali güvenlik şartlarını karşılamanızı destekliyoruz."
+    }
+  }
+}

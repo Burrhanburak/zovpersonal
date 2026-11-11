@@ -1,3 +1,4 @@
+import { assetUrl } from '@/lib/assets';
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 import Image from "next/image";
@@ -15,7 +16,7 @@ export default async function JobSeekerPage({ params }: { params: Promise<{ loca
       <section className="relative min-h-screen flex items-center" id="job-seeker-hero">
         <div className="absolute inset-0 rounded-2xl">
           <Image
-            src="/is-arayan-twos.png"
+            src={assetUrl("is-arayan-twos.png")}
             alt="Job Seeker Background"
             width={1920}
             height={1080}
@@ -80,7 +81,7 @@ export default async function JobSeekerPage({ params }: { params: Promise<{ loca
             </h1>
           </div>
           <div className="relative mx-auto max-w-5xl">
-            <img src="/iş-alımı.png" alt="Job seeker services" className="aspect-video max-h-[500px] w-full rounded-xl object-cover" />
+            <img src={assetUrl("iş-alımı.png")} alt="Job seeker services" className="aspect-video max-h-[500px] w-full rounded-xl object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent"></div>
             <div className="absolute -top-28 -right-28 -z-10 aspect-video h-72 w-96 [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_20%,transparent_100%)] [background-size:12px_12px] opacity-40 sm:bg-[radial-gradient(hsl(var(--muted-foreground))_1px,transparent_1px)]"></div>
             <div className="absolute -top-28 -left-28 -z-10 aspect-video h-72 w-96 [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_20%,transparent_100%)] [background-size:12px_12px] opacity-40 sm:bg-[radial-gradient(hsl(var(--muted-foreground))_1px,transparent_1px)]"></div>

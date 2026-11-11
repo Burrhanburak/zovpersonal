@@ -1,0 +1,119 @@
+{
+  "carousel": {
+    "badge": "Internationale Zukunftsorientierte Personalvermittlung",
+    "title": "Internationale Zukunftsorientierte Personalvermittlung",
+    "description": "Unser Jobsucherprogramm ist darauf ausgelegt, Ihnen dabei zu helfen, Ihren Traumjob zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für Ihren Erfolg benötigen.",
+    "cards": {
+      "recruitment": {
+        "category": "Gastgewerbe & Reinigung",
+        "title": "Personal für Hotel und Reinigung"
+      },
+      "partnership": {
+        "category": "Arbeitgeberpartnerschaft",
+        "title": "Strategische Geschäftspartnerschaften"
+      },
+      "visaprocess": {
+        "category": "Visa & Dokumentation",
+        "title": "Komplette Visa-Bearbeitungsunterstützung"
+      },
+      "support": {
+        "category": "24/7 Unterstützung",
+        "title": "Kontinuierliche Kundenbetreuung"
+      },
+      "healthcare": {
+        "category": "Gesundheitswesen",
+        "title": "Medizinische Fachkräfte Rekrutierung"
+      },
+      "construction": {
+        "category": "Bau- und Baugewerbe",
+        "title": "Fachkräfte im Bau- und Baugewerbe"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Exzellenz im Service.",
+        "description": "Wir vermitteln qualifiziertes Personal für die Bereiche Hotel, Gastronomie und Reinigung und sichern hohe Service- und Hygienestandards.",
+        "features": [
+          {
+            "title": "Geprüftes Personal",
+            "description": "Zugang zu geprüften und geschulten Fachkräften für das Gastgewerbe."
+          },
+          {
+            "title": "Flexible Lösungen",
+            "description": "Bedarfsgerechte Personalvermittlung für kurz- und langfristige Einsätze."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Bauen Sie dauerhafte Geschäftsbeziehungen auf.",
+        "description": "Wir schaffen strategische Partnerschaften zwischen Arbeitgebern und internationalen Talenten. Unser umfassender Ansatz gewährleistet nachhaltiges Wachstum und gegenseitigen Erfolg für alle Beteiligten.",
+        "features": [
+          {
+            "title": "Partnerschaftsmanagement",
+            "description": "Dedizierte Account Manager für kontinuierliche Beziehungspflege und Unterstützung."
+          },
+          {
+            "title": "Erfolgskennzahlen",
+            "description": "Leistungsverfolgung mit detaillierten Analysen und regelmäßigen Partnerschaftsbewertungen."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Vereinfachen Sie komplexe Visa-Verfahren.",
+        "description": "Navigieren Sie mit Vertrauen durch internationale Visa-Anforderungen. Unser Expertenteam übernimmt alle Dokumentation, Antragsverfahren und rechtliche Compliance für nahtlose Übergänge. Wir leiten Sie richtig und unterstützen Sie während Ihrer Prozesse.",
+        "features": [
+          {
+            "title": "Expertendokumentation",
+            "description": "Professionelle Vorbereitung aller erforderlichen Dokumente mit 100% Compliance-Rate."
+          },
+          {
+            "title": "Rechtliche Compliance",
+            "description": "Bleiben Sie auf dem neuesten Stand bei sich ändernden Einwanderungsgesetzen und -anforderungen."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Unterstützung, die niemals stoppt.",
+        "description": "Unser Engagement geht über die Platzierung hinaus. Wir bieten kontinuierliche Unterstützung, um langfristigen Erfolg für Arbeitgeber und Arbeitnehmer während ihrer gesamten Reise zu gewährleisten.",
+        "features": [
+          {
+            "title": "24/7 Verfügbarkeit",
+            "description": "Rund-um-die-Uhr-Support für dringende Angelegenheiten und laufende Hilfe."
+          },
+          {
+            "title": "Integrationssupport",
+            "description": "Kulturelle Integration und Anpassungsdienstleistungen für reibungslose Übergänge."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Gesundheitswesen Talent-Exzellenz.",
+        "description": "Spezialisierte Rekrutierung für Gesundheitsfachkräfte einschließlich Ärzte, Pflegekräfte, häusliche Altenpflege und Pflegedienste Krankenpfleger, Therapeuten und medizinische Techniker. Wir verstehen die einzigartigen Anforderungen des Gesundheitssektors.",
+        "features": [
+          {
+            "title": "Medizinische Lizenzierung",
+            "description": "Hilfe bei der Anerkennung medizinischer Lizenzen und beruflicher Zertifizierung."
+          },
+          {
+            "title": "Fähigkeitsvalidierung",
+            "description": "Umfassende Bewertung medizinischer Qualifikationen und praktischer Fähigkeiten."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "Spezialisierte Arbeitskräfte im Bausektor.",
+        "description": "Speziell für Meister, Techniker, Architekten, Ingenieure, Stuckateure, Maler und Bauexperten konzipiert. Die hohe Nachfrage nach qualifizierten Arbeitskräften im deutschen Bausektor hat zu Sonderregelungen geführt, die ausländischen Fachkräften den Einstieg in diese Branche erleichtern.",
+        "features": [
+          {
+            "title": "Sprachanforderungen",
+            "description": "Deutschkenntnisse auf B1-Niveau und berufliche Fähigkeitszeugnisse."
+          },
+          {
+            "title": "Schneller Arbeitsbeginn",
+            "description": "Schnelle Vermittlung für dringende Bedürfnisse bei Bauprojekten."
+          }
+        ]
+      }
+    }
+  }
+}

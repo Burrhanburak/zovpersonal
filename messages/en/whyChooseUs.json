@@ -1,0 +1,60 @@
+{
+  "title": "Why Choose Us?",
+  "subtitle": "Our distinctive features in international visa consultancy",
+  "category": "Visa Consultancy",
+  "description": "With proven expertise, we are your trusted partner in reaching international career goals. We make the difference with our personalized approach and high success rate.",
+  "feature1": {
+    "title": "Expert Team",
+    "description": "We stand by you with our visa specialists and legal consultants, backed by deep industry experience."
+  },
+  "feature2": {
+    "title": "High Success Rate",
+    "description": "We've made thousands of clients' dreams come true with our 95% success rate."
+  },
+  "feature3": {
+    "title": "Personalized Service",
+    "description": "We develop customized solutions for each client's unique situation."
+  },
+  "feature4": {
+    "title": "24/7 Support",
+    "description": "We provide uninterrupted support and up-to-date information throughout the process."
+  },
+  "slides": {
+    "personalizedCare": {
+      "title": "Personalized Care",
+      "description": "We develop custom solutions by understanding each client's unique needs."
+    },
+    "experiencedProfessionals": {
+      "title": "Experienced Professionals",
+      "description": "We provide reliable consulting services with our team of experts in their field."
+    },
+    "holisticApproach": {
+      "title": "Holistic Approach",
+      "description": "We comprehensively address all stages of your visa process."
+    },
+    "supportiveEnvironment": {
+      "title": "Supportive Environment",
+      "description": "You can receive consulting services in a safe and comfortable environment."
+    },
+    "healthcareRecruitment": {
+      "title": "Healthcare Sector Recruitment",
+      "description": "Recruiting international specialists offers tremendous opportunities to address Germany's skills shortage. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad. We create attractive job postings that appeal to international professionals with clear job descriptions, salary transparency, and comprehensive support services."
+    },
+    "livingInGermany": {
+      "title": "Living in Germany",
+      "description": "Germany is known for its strong economy, culture, and high quality of life. We provide a comprehensive guide to life in Germany from the first steps in daily life to successful integration into society. We offer detailed information on finding accommodation, German culture and traditions, language learning, healthcare system, and daily life. We guide you on everything from important values like punctuality and order to traditional celebrations like Christmas and Oktoberfest."
+    },
+    "experiencedProfessionalsVisa": {
+      "title": "Visa for Experienced Professionals",
+      "description": "The visa for experienced professionals is aimed at skilled workers with at least two years of qualified professional experience in their field. With this visa, you can work in high-demand professions in Germany. You can apply if you meet requirements such as qualified professional experience, minimum wage conditions, job offer, and language skills. We support your application process with a minimum annual salary of €40,770 and B1 level German language proficiency."
+    },
+    "vocationalTrainingVisa": {
+      "title": "Vocational Training Visa",
+      "description": "The vocational training completion visa is aimed at individuals who want to complete a dual vocational training program in a recognized vocational training profession in Germany. This program combines theoretical knowledge taught in vocational school with practical training in a company, offering young people the opportunity to complete qualified training in German apprenticeships and subsequently gain long-term prospects in the German labor market."
+    },
+    "qualificationRecognitionVisa": {
+      "title": "Qualification Recognition Visa",
+      "description": "The visa for recognition of foreign professional qualifications is aimed at skilled workers who want their professional qualifications acquired abroad to be recognized in Germany. We provide long-term employment opportunities in Germany by bringing your qualifications to German standards. With this visa that allows you to live in Germany during the recognition process and take professional adaptation measures, we support you in meeting the requirements of B1 level German and minimum monthly financial security of €947."
+    }
+  }
+}

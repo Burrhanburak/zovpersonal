@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
+    "subtitle": "ZovPersonal verbindet qualifizierte Fachkräfte mit Europas führenden Unternehmen durch zukunftsorientierte internationale Rekrutierungsprozesse.",
+    "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Rekrutierungsantrag erfolgreich abzuschließen.",
+    "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir Ihnen helfen können, besser als je zuvor zu arbeiten. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
+  },
+  "stats": {
+    "experience": {
+      "number": "15+",
+      "label": "Jahre Infrastruktur"
+    },
+    "clients": {
+      "number": "5K+",
+      "label": "Erfolgreiche Kunden"
+    },
+    "visas": {
+      "number": "10K+",
+      "label": "Erfolgreiche Vermittlungen"
+    },
+    "countries": {
+      "number": "25+",
+      "label": "Zielländer"
+    },
+    "mission": "Unsere Mission ist es, qualifizierte Fachkräfte zu befähigen, ihre Karriere erfolgreich zu gestalten, indem wir sie mit Möglichkeiten in Deutschland verbinden.",
+    "satisfaction": "95%"
+  },
+  "team": {
+    "title": "Das Team",
+    "description1": "Wir haben ZovPersonal mit dem Ziel aufgebaut, die Personalvermittlung und Arbeitgeberpartnerschaft neu zu denken. Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, zukunftsorientierte Personalvermittlung und nachhaltige Partnerschaften zu fördern.",
+    "description2": "Unsere erfahrenen Berater verstehen die einzigartigen Bedürfnisse jedes Kunden und bieten personalisierte Lösungen. Wir sind hier, um die Komplexität von Rekrutierungsprozessen zu vereinfachen und Ihren Beschäftigungsweg reibungslos zu gestalten.",
+    "description3": "Kontaktieren Sie uns für Arbeitgeberpartnerschaft.",
+    "cta": "Kontaktieren Sie uns"
+  },
+  "company": {
+    "description1": "Bei ZovPersonal sind wir darauf spezialisiert, internationale Rekrutierungsprozesse zu transformieren und unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen und Ineffizienzen zu bieten. Durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit stellen wir die Werkzeuge bereit, die für den Erfolg jedes Rekrutierungsantrags benötigt werden.",
+    "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir besseren Service als je zuvor bieten können. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
+  },
+  "images": {
+    "teamWork": "Teamzusammenarbeit",
+    "officeSpace": "Büroarbeitsplatz",
+    "consulting": "Beratungsdienstleistungen",
+    "success": "Erfolgsgeschichten"
+  },
+  "partners": {
+    "title": "Unsere Partner",
+    "partner1": {
+      "name": "Anna Schneider",
+      "role": "Personalvermittlungs-Spezialist"
+    },
+    "partner2": {
+      "name": "Ayşe Demir",
+      "role": "Rechtsberaterin"
+    },
+    "partner3": {
+      "name": "Ali Kaya",
+      "role": "Geschäftsentwicklung"
+    },
+    "partner4": {
+      "name": "Fatma Öz",
+      "role": "Kundenbeziehungen"
+    },
+    "partner5": {
+      "name": "Lukas Wagner",
+      "role": "Betriebsleiter"
+    }
+  },
+  "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Rekrutierungsprozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit fundierter Erfahrung bieten wir weltweit vertrauensvolle Personalvermittlungs- und Arbeitgeberpartnerschaftsdienste.",
+  "features": {
+    "compassion": "Empathie und Verständnis",
+    "integrity": "Ehrlichkeit und Zuverlässigkeit",
+    "mindGrowth": "Persönliche und berufliche Entwicklung"
+  },
+  "experienceHighlight": "Geprägt von echter Branchenerfahrung — wir begleiten Karrieren mit vertrauenswürdiger Personalvermittlungsexpertise."
+}

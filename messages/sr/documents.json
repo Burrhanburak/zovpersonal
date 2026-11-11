@@ -1,0 +1,34 @@
+{
+  "title": "Potrebni Dokumenti",
+  "subtitle": "Osnovna dokumentacija za vašu aplikaciju za vizu",
+  "categories": {
+    "personal": {
+      "title": "Lični Dokumenti",
+      "description": "Pasoš sa najmanje 6 meseci važenja, identifikacioni dokumenti i papiri koji sadrže vaše lične informacije."
+    },
+    "education": {
+      "title": "Obrazovni Dokumenti",
+      "description": "Diplome, sertifikati i dokumenti o znanju jezika. Apostil može biti potreban za međunarodno priznavanje."
+    },
+    "professional": {
+      "title": "Profesionalni Dokumenti",
+      "description": "Pismo ponude posla, ugovor o zaposlenju, sertifikati o profesionalnim kvalifikacijama i dokumenti o iskustvu."
+    },
+    "medical": {
+      "title": "Medicinski & Pravni",
+      "description": "Medicinski izveštaj, provera kriminalne prošlosti, dokumenti o finansijskom statusu i vaše biometrijske fotografije."
+    }
+  },
+  "list": [
+    "Važeći pasoš sa najmanje 6 meseci važenja",
+    "Obrazovni sertifikati i diplome",
+    "Sertifikati o profesionalnim kvalifikacijama",
+    "Sertifikati o znanju jezika (nemački/engleski)",
+    "Pismo ponude posla ili ugovor o zaposlenju",
+    "Izveštaji o medicinskom pregledu",
+    "Provera kriminalne prošlosti",
+    "Dokaz o finansijskim sredstvima",
+    "Popunjeni obrasci za aplikaciju za vizu",
+    "Biometrijske fotografije"
+  ]
+}

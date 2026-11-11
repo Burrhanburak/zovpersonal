@@ -1,0 +1,19 @@
+{
+  "title": "Unterstützung beim Visumantragsprozess",
+  "subtitle": "Wir unterstützen Sie bei der Verwaltung Ihrer komplexen Dokumente mit unseren Tools, die Ihren Visumantragsprozess vereinfachen.",
+  "step1": {
+    "title": "Erstberatung und Bewertungsunterstützung",
+    "description": "Wir unterstützen Sie bei der Entwicklung einer personalisierten Visastrategie, indem wir Ihr Profil und Ihre Ziele analysieren.",
+    "alt": "Visa-Beratung"
+  },
+  "step2": {
+    "title": "Unterstützung bei der Dokumentenvorbereitung und -prüfung",
+    "description": "Wir unterstützen Sie während des gesamten Vorbereitungsprozesses, indem wir Ihnen helfen, auf alle erforderlichen Dokumente zuzugreifen.",
+    "alt": "Dokumentenvorbereitung"
+  },
+  "step3": {
+    "title": "Antrags- und Nachverfolgungsunterstützung",
+    "description": "Wir unterstützen Sie dabei, Ihren Antrag sicher einzureichen und ihn bis zum Abschluss kontinuierlich zu überwachen.",
+    "alt": "Antragsverfolgung"
+  }
+}

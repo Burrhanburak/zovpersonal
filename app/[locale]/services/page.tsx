@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from '@/lib/assets';
 
 import { getTranslations } from "next-intl/server";
 import { useTranslations, useLocale } from "next-intl";
@@ -232,7 +233,7 @@ export default function ServicesPage() {
                 <img 
                   alt="Vize danışmanlığı hizmetleri" 
                   className="w-full h-full object-cover object-center" 
-                  src="/ise-alım.png" 
+                  src={assetUrl("ise-alım.png")} 
                 />
               </div>
             </div>
@@ -336,7 +337,7 @@ export default function ServicesPage() {
             <div>
               <div className="flex-1 outline-none animate-in duration-300 fade-in">
                 <div className="relative">
-                  <img alt={tabContent[activeTab].category} className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]" src="/is-alim-onei.png" />
+                  <img alt={tabContent[activeTab].category} className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]" src={assetUrl("is-alim-onei.png")} />
                   <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-blue-600/80 via-transparent to-transparent"></div>
                   <div className="absolute bottom-0 left-0 flex flex-col justify-center gap-8 p-6 text-white">
                     <div className="flex flex-col gap-1.5">
@@ -385,7 +386,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/ilk-basvuru.png" alt={t('process.step1.alt')} className="z-10 aspect-video w-full rounded-xl border object-cover min-[960px]:max-h-56 min-[960px]:w-auto" />
+              <img src={assetUrl("ilk-basvuru.png")} alt={t('process.step1.alt')} className="z-10 aspect-video w-full rounded-xl border object-cover min-[960px]:max-h-56 min-[960px]:w-auto" />
             </div>
 
             {/* Step 2 */}
@@ -405,7 +406,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/belge-hazırlama-kontrol.png" alt={t('process.step2.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
+              <img src={assetUrl("belge-hazırlama-kontrol.png")} alt={t('process.step2.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
             </div>
 
             {/* Step 3 */}
@@ -423,7 +424,7 @@ export default function ServicesPage() {
                   </p>
                 </div>
               </div>
-              <img src="/takipi.png" alt={t('process.step3.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
+              <img src={assetUrl("takipi.png")} alt={t('process.step3.alt')} className="z-10 max-h-56 w-full rounded-xl border object-cover min-[960px]:aspect-video min-[960px]:w-auto" />
             </div>
           </div>
         </div>

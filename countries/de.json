@@ -9,7 +9,8 @@
     "services": "Dienstleistungen",
     "about": "Über uns",
     "contact": "Kontakt",
-    "consultation": "Arbeitgeberunterstützung"
+    "consultation": "Arbeitgeberunterstützung",
+    "blog": "Blog"
   },
   "hero": {
     "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
@@ -152,8 +153,8 @@
     }
   },
   "about": {
-      "hero": {
-    "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
+    "hero": {
+      "title": "International Zukunftsorientierte Personalvermittlung (ZOV)",
       "subtitle": "ZovPersonal verbindet qualifizierte Fachkräfte mit Europas führenden Unternehmen durch zukunftsorientierte internationale Rekrutierungsprozesse.",
       "description1": "Bei ZovPersonal sind wir darauf spezialisiert, unseren Kunden einen unschlagbaren Vorteil gegenüber Verzögerungen, Ineffizienzen und Desorganisation durch umsetzbare Erkenntnisse und nahtlose Zusammenarbeit zu bieten. Wir setzen alles daran, Ihnen die Werkzeuge zu geben, die Sie benötigen, um jeden Rekrutierungsantrag erfolgreich abzuschließen.",
       "description2": "Wir sind kundenbesessen — wir investieren die Zeit, um jeden Aspekt Ihres Prozesses zu verstehen, damit wir Ihnen helfen können, besser als je zuvor zu arbeiten. Wir sind alle gemeinsam dabei, denn Ihr Erfolg ist unser Erfolg. In unserer Firmengeschichte haben wir nie einen Kunden verloren, denn wenn Ihre Projekte erfolgreich sind, sind wir es auch."
@@ -180,7 +181,7 @@
     },
     "team": {
       "title": "Das Team",
-      "description1": "Wir begannen mit dem Aufbau von ZovPersonal und starteten . Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, Personalvermittlungs- und Arbeitgeberpartnerschaftsinnovationen für die nächsten hundert Jahre zu fördern.",
+      "description1": "Wir haben ZovPersonal mit dem Ziel aufgebaut, die Personalvermittlung und Arbeitgeberpartnerschaft neu zu denken. Jeder Prozess wurde von Grund auf neu entwickelt — ohne technische Schulden oder Legacy-Systeme. Wir sind speziell dafür entwickelt, zukunftsorientierte Personalvermittlung und nachhaltige Partnerschaften zu fördern.",
       "description2": "Unsere erfahrenen Berater verstehen die einzigartigen Bedürfnisse jedes Kunden und bieten personalisierte Lösungen. Wir sind hier, um die Komplexität von Rekrutierungsprozessen zu vereinfachen und Ihren Beschäftigungsweg reibungslos zu gestalten.",
       "description3": "Kontaktieren Sie uns für Arbeitgeberpartnerschaft.",
       "cta": "Kontaktieren Sie uns"
@@ -218,12 +219,13 @@
         "role": "Betriebsleiter"
       }
     },
-    "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Rekrutierungsprozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit 15 Jahren Infrastruktur bieten wir weltweit vertrauensvolle Personalvermittlungs- und Arbeitgeberpartnerschaftsdienste.",
+    "description": "Sie bei Ihren internationalen Karrierezielen zu begleiten und Rekrutierungsprozesse zu vereinfachen, um Möglichkeiten für die Arbeit in Ihrem Traumland zu schaffen. Mit fundierter Erfahrung bieten wir weltweit vertrauensvolle Personalvermittlungs- und Arbeitgeberpartnerschaftsdienste.",
     "features": {
       "compassion": "Empathie und Verständnis",
       "integrity": "Ehrlichkeit und Zuverlässigkeit",
       "mindGrowth": "Persönliche und berufliche Entwicklung"
-    }
+    },
+    "experienceHighlight": "Geprägt von echter Branchenerfahrung — wir begleiten Karrieren mit vertrauenswürdiger Personalvermittlungsexpertise."
   },
   "services": {
     "title": "Ihre Karriere weltweit voranbringen",
@@ -268,22 +270,40 @@
       "workVisa": {
         "title": "Rekrutierungsprozess",
         "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Europa zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
-        "stat1": { "number": "95%", "label": "erfolgreiche Rekrutierung" },
-        "stat2": { "number": "", "label": "Schneller Prozess" },
+        "stat1": {
+          "number": "95%",
+          "label": "erfolgreiche Rekrutierung"
+        },
+        "stat2": {
+          "number": "",
+          "label": "Schneller Prozess"
+        },
         "category": "Rekrutierungsprozess"
       },
       "documentation": {
         "title": "Sprachanforderungen",
         "description": "Sprachkenntnisse Zertifikate je nach Berufsart und berufliche Fähigkeitszeugnisse.",
-        "stat1": { "number": "100%", "label": "Dokumentenkonformität" },
-        "stat2": { "number": "✓", "label": "Berufliche Qualifikationszertifikate" },
+        "stat1": {
+          "number": "100%",
+          "label": "Dokumentenkonformität"
+        },
+        "stat2": {
+          "number": "✓",
+          "label": "Berufliche Qualifikationszertifikate"
+        },
         "category": "Sprachanforderungen"
       },
       "skillsAssessment": {
         "title": "Berufsqualifikationsbewertung",
         "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit Sprachkenntnisse Zertifikate je nach Berufsart und Nachweis der finanziellen Sicherheit.",
-        "stat1": { "number": "85%", "label": "erfolgreiche Anerkennung" },
-        "stat2": { "number": "15", "label": "Jahre Infrastruktur" },
+        "stat1": {
+          "number": "85%",
+          "label": "erfolgreiche Anerkennung"
+        },
+        "stat2": {
+          "number": "15",
+          "label": "Jahre Infrastruktur"
+        },
         "category": "Berufliche Qualifikation"
       }
     },
@@ -376,8 +396,9 @@
     "pageTitle": "Kontaktieren Sie uns",
     "pageSubtitle": "Wir sind hier, um Ihnen bei Ihren Visa-Beratungsanfragen zu helfen.",
     "offices": {
-      "istanbul": "🇹🇷 Istanbul Büro",
-      "berlin": "🇩🇪 Berlin Büro"
+      "istanbul": "🇩🇪 Emden Büro",
+      "berlin": "🇩🇪 Emden Büro",
+      "emden": "🇩🇪 Emden Büro"
     },
     "sections": {
       "email": "Schreiben Sie uns",
@@ -402,14 +423,12 @@
     "form": {
       "fullName": "Vollständiger Name",
       "email": "Geschäftliche E-Mail-Adresse",
-    
       "message": "Ihre Nachricht",
       "submit": "Absenden",
       "optional": "(optional)",
       "placeholders": {
         "fullName": "Vor- und Nachname",
         "email": "ich@firma.com",
-
         "message": "Schreiben Sie Ihre Nachricht"
       }
     }
@@ -423,10 +442,10 @@
     "title": "Warum uns wählen?",
     "subtitle": "Unsere besonderen Merkmale in der internationalen Visa-Beratung",
     "category": "Visa-Beratung",
-    "description": "Mit 15+ Jahren Infrastruktur sind wir Ihr vertrauensvoller Partner beim Erreichen internationaler Karriereziele. Wir machen den Unterschied mit unserem personalisierten Ansatz und hoher Erfolgsquote.",
+    "description": "Mit fundierter Expertise sind wir Ihr vertrauensvoller Partner beim Erreichen internationaler Karriereziele. Wir machen den Unterschied mit unserem personalisierten Ansatz und hoher Erfolgsquote.",
     "feature1": {
       "title": "Expertenteam",
-      "description": "Wir stehen Ihnen mit unseren Visa-Spezialisten und Rechtsberatern mit 15+ Jahren Infrastruktur zur Seite."
+      "description": "Wir stehen Ihnen mit unseren Visa-Spezialisten und Rechtsberatern mit fundierter Branchenerfahrung zur Seite."
     },
     "feature2": {
       "title": "Hohe Erfolgsquote",
@@ -592,13 +611,14 @@
     "copyright": "©2025 Alle Rechte vorbehalten, Zov Personal.",
     "legal": "Unsere Beratungsdienstleistungen dienen zu Informationszwecken und stellen keine Garantie dar. Visa-Antragsprozesse unterliegen Länderbestimmungen und Ergebnisse können variieren. Kontaktieren Sie unsere Expertenberater zur Bewertung Ihrer persönlichen Situation.",
     "email": "info@zovpersonal.com",
-    "phone": "(Türkei) | +90 555 123 45 67 (Deutschland) | +4915757295545",
-    "address": "Istanbul, Türkei, Brückstraße 59, 26725 Emden, Deutschland",
+    "phone": "+49 1512 7027836",
+    "address": "Brückstraße 59, 26725 Emden, Deutschland",
     "links": {
       "home": "Startseite",
       "services": "Dienstleistungen",
       "about": "Über uns",
-      "contact": "Kontakt"
+      "contact": "Kontakt",
+      "blog": "Blog"
     },
     "visa": {
       "requiredDocuments": "Erforderliche Dokumente",
@@ -706,28 +726,44 @@
           "title": "Bedarfsanalyse",
           "description": "Wir analysieren die aktuellen und zukünftigen Bedürfnisse Ihres Unternehmens im Detail.",
           "duration": "1-2 Tage",
-          "tools": ["KI-Analytik", "Marktforschung", "Skill-Mapping"]
+          "tools": [
+            "KI-Analytik",
+            "Marktforschung",
+            "Skill-Mapping"
+          ]
         },
         {
-          "phase": "2", 
+          "phase": "2",
           "title": "Talententdeckung",
           "description": "Wir identifizieren die am besten geeigneten Kandidaten aus unserer globalen Datenbank.",
           "duration": "3-5 Tage",
-          "tools": ["Globale Beschaffung", "Social Recruiting", "Netzwerkanalyse"]
+          "tools": [
+            "Globale Beschaffung",
+            "Social Recruiting",
+            "Netzwerkanalyse"
+          ]
         },
         {
           "phase": "3",
           "title": "Bewertung und Filterung",
           "description": "Wir wählen die besten Kandidaten durch einen mehrstufigen Bewertungsprozess aus.",
           "duration": "1-2 Wochen",
-          "tools": ["Technische Bewertung", "Kulturfit-Analyse", "Referenzprüfung"]
+          "tools": [
+            "Technische Bewertung",
+            "Kulturfit-Analyse",
+            "Referenzprüfung"
+          ]
         },
         {
           "phase": "4",
           "title": "Präsentation und Integration",
           "description": "Wir präsentieren Ihnen ausgewählte Kandidaten und verwalten den Integrationsprozess.",
           "duration": "1-3 Wochen",
-          "tools": ["Interview-Koordination", "Angebotsverwaltung", "Onboarding-Unterstützung"]
+          "tools": [
+            "Interview-Koordination",
+            "Angebotsverwaltung",
+            "Onboarding-Unterstützung"
+          ]
         }
       ]
     },
@@ -1132,8 +1168,12 @@
             "Branchenübergreifende Expertise"
           ],
           "overlayStats": {
-            "stat1": { "label": "Reduzierung der Einstellungszeit" },
-            "stat2": { "label": "Schnellere Vermittlungen" }
+            "stat1": {
+              "label": "Reduzierung der Einstellungszeit"
+            },
+            "stat2": {
+              "label": "Schnellere Vermittlungen"
+            }
           }
         },
         "quality": {
@@ -1148,8 +1188,12 @@
             "Fokus auf langfristige Bindung"
           ],
           "overlayStats": {
-            "stat1": { "label": "Erfolgsquote" },
-            "stat2": { "label": "Erfolgreiche Einstellungen" }
+            "stat1": {
+              "label": "Erfolgsquote"
+            },
+            "stat2": {
+              "label": "Erfolgreiche Einstellungen"
+            }
           }
         },
         "support": {
@@ -1164,8 +1208,12 @@
             "Kontinuierliche Betreuung nach der Einstellung"
           ],
           "overlayStats": {
-            "stat1": { "label": "Dedizierter Support" },
-            "stat2": { "label": "Kundenzufriedenheit" }
+            "stat1": {
+              "label": "Dedizierter Support"
+            },
+            "stat2": {
+              "label": "Kundenzufriedenheit"
+            }
           }
         }
       }
@@ -1239,7 +1287,7 @@
   },
   "jobSeeker": {
     "hero": {
-      "tag1": "Arbeitsuchender", 
+      "tag1": "Arbeitsuchender",
       "tag2": "Internationale Karriere",
       "title": "Finden Sie Ihren Traumjob im Ausland mit uns",
       "description": "internationale zukunftsorientierte Rekrutierungslösungen",
@@ -1254,7 +1302,11 @@
           "title": "Premium-Job",
           "subtitle": "Möglichkeiten Weltweit",
           "description": "Zugang zu exklusiven, hochbezahlten internationalen Positionen bei Top-Unternehmen in über 25 Ländern.",
-          "stats": ["25+ Länder", "5K+ Job-Vermittlungen", "95% Erfolgsquote"],
+          "stats": [
+            "25+ Länder",
+            "5K+ Job-Vermittlungen",
+            "95% Erfolgsquote"
+          ],
           "benefits": [
             "Zugang zu Premium-Jobs",
             "Verifizierte Arbeitgeber",
@@ -1262,8 +1314,14 @@
             "Hohe Gehaltspakete"
           ],
           "overlayStats": {
-            "stat1": { "value": "5K+", "label": "Job-Vermittlungen" },
-            "stat2": { "value": "25+", "label": "Länder" }
+            "stat1": {
+              "value": "5K+",
+              "label": "Job-Vermittlungen"
+            },
+            "stat2": {
+              "value": "25+",
+              "label": "Länder"
+            }
           }
         },
         "support": {
@@ -1271,7 +1329,11 @@
           "title": "Umfassende",
           "subtitle": "Karriere-Unterstützung",
           "description": "Von der Bewerbung bis zum Umzug bieten wir umfassende Unterstützung in jedem Schritt.",
-          "stats": ["24/7 Support", "Expertenberatung", "98% Zufriedenheit"],
+          "stats": [
+            "24/7 Support",
+            "Expertenberatung",
+            "98% Zufriedenheit"
+          ],
           "benefits": [
             "CV-Optimierung",
             "Interview-Coaching",
@@ -1279,8 +1341,14 @@
             "Umzugsunterstützung"
           ],
           "overlayStats": {
-            "stat1": { "value": "24/7", "label": "Support" },
-            "stat2": { "value": "98%", "label": "Zufriedenheit" }
+            "stat1": {
+              "value": "24/7",
+              "label": "Support"
+            },
+            "stat2": {
+              "value": "98%",
+              "label": "Zufriedenheit"
+            }
           }
         },
         "process": {
@@ -1288,7 +1356,11 @@
           "title": "Optimierter",
           "subtitle": "Bewerbungsprozess",
           "description": "Unser effizienter Prozess bringt Sie schneller ins Ausland mit bewährten Ergebnissen und schneller Vermittlung.",
-          "stats": ["30 Tage Durchschnitt", "95% Erfolg", "Schnelle Bearbeitung"],
+          "stats": [
+            "30 Tage Durchschnitt",
+            "95% Erfolg",
+            "Schnelle Bearbeitung"
+          ],
           "benefits": [
             "Schnelle Bearbeitung",
             "Schritt-für-Schritt Anleitung",
@@ -1296,8 +1368,14 @@
             "Schnelle Ergebnisse"
           ],
           "overlayStats": {
-            "stat1": { "value": "30", "label": "Tage Durchschnitt" },
-            "stat2": { "value": "95%", "label": "Erfolgsquote" }
+            "stat1": {
+              "value": "30",
+              "label": "Tage Durchschnitt"
+            },
+            "stat2": {
+              "value": "95%",
+              "label": "Erfolgsquote"
+            }
           }
         }
       }
@@ -1315,7 +1393,7 @@
           "description": "Verbindung mit verifizierten Arbeitgebern, die Ihre spezifischen Fähigkeiten suchen"
         },
         {
-          "title": "Vorstellungsgespräch-Vorbereitung", 
+          "title": "Vorstellungsgespräch-Vorbereitung",
           "description": "Umfassendes Interview-Coaching für internationale Positionen"
         },
         {
@@ -1380,5 +1458,10 @@
     "contact": "Kontaktieren Sie uns",
     "help": "Benötigen Sie Hilfe?",
     "contactUs": "Kontaktieren Sie uns"
+  },
+  "blog": {
+    "subtitle": "Leitfäden zu internationaler Rekrutierung, Einstellung in Deutschland und Arbeitgeberpartnerschaft.",
+    "empty": "Noch keine Beiträge in dieser Sprache.",
+    "minRead": "Min. Lesezeit"
   }
 }

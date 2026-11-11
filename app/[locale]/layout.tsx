@@ -1,3 +1,6 @@
+import { assetUrl } from '@/lib/assets';
+import { organizationSchema } from '@/lib/seo/organization';
+import { hreflangLanguages } from '@/lib/seo/hreflang';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import localFont from "next/font/local";
@@ -98,10 +101,6 @@ function generatePageSchema(pageType: string, locale: string, messages: any, pat
            },
            "query-input": "required name=search_term_string"
          },
-         "sameAs": [
-           "https://instagram.com/zovpersonal",
-           "https://facebook.com/zovpersonal"
-         ]
        };
        break;
       
@@ -116,9 +115,7 @@ function generatePageSchema(pageType: string, locale: string, messages: any, pat
         "mainEntity": {
           "@type": "Organization",
           "name": "ZovPersonal",
-          "description": about?.hero?.subtitle || about?.description,
-          "foundingDate": "2019",
-          "numberOfEmployees": "15+"
+          "description": about?.hero?.subtitle || about?.description
         }
       };
       break;
@@ -196,7 +193,7 @@ function generatePageSchema(pageType: string, locale: string, messages: any, pat
           "name": "ZovPersonal",
           "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+4915757295545",
+            "telephone": "+4915127027836",
             "contactType": "customer service",
             "availableLanguage": ["en", "tr", "de", "nl", "bg", "hr", "ro", "sr"]
           }
@@ -781,61 +778,14 @@ function generateBreadcrumbList(pageType: string, locale: string, messages: any,
   };
 }
 
-// Generate organization schema
 function generateOrganizationSchema(locale: string, messages: any) {
-  const baseUrl = `https://zovpersonal.com`;
-  const metadata = messages?.metadata;
-  
-  return {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "ZovPersonal",
-    "url": `${baseUrl}/${locale}`,
-    "logo": `${baseUrl}/logo.svg`,
-    "description": metadata?.description || "International recruitment and employer partnership services",
-    "foundingDate": "2019",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Brückstraße 59",
-      "addressLocality": "Emden",
-      "postalCode": "26725",
-      "addressCountry": "DE"
-    },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+4915757295545",
-      "contactType": "customer service",
-      "availableLanguage": ["en", "tr", "de", "nl", "bg", "hr", "ro", "sr"]
-    },
-    "sameAs": [
-      "https://instagram.com/zovpersonal",
-      "https://facebook.com/zovpersonal"
-    ]
-  };
+  return organizationSchema(locale, messages);
 }
 
-// Generate hreflang alternates
 function generateHreflangAlternates(pathname: string) {
-  const baseUrl = `https://zovpersonal.com`;
-  const locales = [
-    { code: 'en', hreflang: 'en' },
-    { code: 'tr', hreflang: 'tr' },
-    { code: 'de', hreflang: 'de' },
-    { code: 'nl', hreflang: 'nl' },
-    { code: 'bg', hreflang: 'bg' },
-    { code: 'hr', hreflang: 'hr' },
-    { code: 'ro', hreflang: 'ro' },
-    { code: 'sr', hreflang: 'sr' }
-  ];
-  
-  // Remove current locale from pathname to get the page path
-  const pathSegments = pathname.split('/').filter(Boolean);
-  const pagePath = pathSegments.length > 1 ? '/' + pathSegments.slice(1).join('/') : '';
-  
-  return locales.map(locale => ({
-    hreflang: locale.hreflang,
-    href: `${baseUrl}/${locale.code}${pagePath}`
-  }));
+  return Object.entries(hreflangLanguages(pathname))
+    .filter(([lang]) => lang !== 'x-default')
+    .map(([hreflang, href]) => ({ hreflang, href }));
 }
 
 export async function generateMetadata({
@@ -894,7 +844,7 @@ export async function generateMetadata({
           type: 'website',
           images: [
             {
-              url: "/zovpersonal.webp",
+              url: assetUrl("zovpersonal.webp"),
               width: 1920,
               height: 1080,
               alt: "ZovPersonal - International Personnel Placement",
@@ -911,7 +861,7 @@ export async function generateMetadata({
           card: 'summary_large_image',
           title: metadata.title,
           description: metadata.description,
-          images: ["/zovpersonal.webp"],
+          images: [assetUrl("zovpersonal.webp")],
           creator: '@zovpersonal',
           site: '@zovpersonal'
         },

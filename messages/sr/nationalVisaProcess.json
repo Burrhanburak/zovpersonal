@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Proces Aplikacije za Nacionalnu Radnu Viznu",
+    "description": "Nacionalna radna viza daje pravo ulaska u Nemačku za dugoročne boravke u svrhe rada. U zavisnosti od vrste rada, viza se izdaje sa periodom važenja do jedne godine. Nakon ulaska u zemlju, obično morate aplicirati za domaću boravišnu dozvolu. Ovaj tip vize je važeći samo za specifične pozicije posla i ne daje slobodu kretanja u Šengenskom prostoru."
+  },
+  "appointmentSystem": {
+    "title": "Sistem Zakazivanja",
+    "description": "Termini se daju kroz nacionalni sistem zakazivanja",
+    "ourService": "Naša Usluga:",
+    "serviceDescription": "Obrađujemo procedure zakazivanja za vas. Pravim neophodne termine i sprovodim procedure. Traženi dokumenti će biti zatraženi od vas i organizovani, zatim pratimo proces."
+  },
+  "preparation": {
+    "title": "Priprema",
+    "description": "Koristite online sistem zakazivanja za nacionalne vize da biste saznali o vašoj svrsi boravka i dokumentima koje morate podneti. Registrujte se na listi čekanja za zakazivanje za vašu svrhu boravka kroz online sistem zakazivanja uz naknadu."
+  },
+  "application": {
+    "title": "Aplikacija",
+    "description1": "Zbog uključenosti nemačkih unutrašnjih vlasti u proces, obrada dokumenata obično traje do tri meseca (ili duže u nekim slučajevima). Ako vam je potreban pasoš tokom procesa evaluacije vaše aplikacije, možete kontaktirati relevantno odeljenje za vizu navodeći broj vaše aplikacije u vašoj potpisanoj pismenoj peticiji.",
+    "description2": "Naknada za uslugu mora biti plaćena. Nakon što su vaši otisci prstiju uzeti, vaš pasoš i potrebni dokumenti se primaju od strane odeljenja za vize za proces evaluacije."
+  },
+  "afterEvaluation": {
+    "title": "Nakon Evaluacije",
+    "description": "Odmah nakon završetka procesa evaluacije aplikacija, vaš pasoš vam se vraća u koverti zajedno sa nekim originalnim dokumentima koje ste podneli, bilo u njihovim kancelarijama ili direktno poštom."
+  },
+  "note": {
+    "label": "Napomena:",
+    "text": "Cene su po osobi, a proces varira prema vrsti dosijea i dokumenata i tipu vize."
+  },
+  "processingTimes": {
+    "title": "Vremena Obrade",
+    "importantInfo": {
+      "title": "Važne Informacije",
+      "description": "Pre apliciranja, molimo planirajte vreme čekanja na termin i vreme potrebno za povratak vašeg pasoša."
+    },
+    "decisionAuthority": {
+      "title": "Nadležnost za Odluku",
+      "description": "Odluka o odobravanju ili odbijanju aplikacije donosi se samo od strane Stranih Predstavništava."
+    },
+    "holidayEffect": {
+      "title": "Efekat Praznika",
+      "description": "Vremena obrade mogu varirati zbog turskih i nemačkih zvaničnih praznika. Stoga preporučujemo apliciranje za vizu u ranijem datumu."
+    },
+    "applicationTracking": {
+      "title": "Praćenje Aplikacije",
+      "description": "Možete pratiti u kojoj fazi je vaša aplikacija kontaktiranjem nas."
+    }
+  }
+}

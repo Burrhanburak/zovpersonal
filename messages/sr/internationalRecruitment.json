@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "Međunarodno Buduće-Orijentisano Regrutovanje",
+    "description": "U modernom svetu talenti ne poznaju granice. Otkrijte radnu snagu sutrašnjice danas i ojačajte svoju kompaniju međunarodnim talentima."
+  },
+  "vision": {
+    "title": "Oblikovanje Budućnosti Poslovanja",
+    "subtitle": "Ljudski Resursi u Digitalnom Dobu",
+    "description": "Dok se tehnologija brzo razvija, najvažniji resurs ostaje čovek.",
+    "features": [
+      {
+        "title": "AI-Pokretano Uparivanje",
+        "description": "Uparujemo kandidate i pozicije koristeći algoritme veštačke inteligencije."
+      },
+      {
+        "title": "Globalni Bazen Talenata",
+        "description": "Sa našom mrežom od 50+ zemalja pronalazimo talente koje trebate."
+      },
+      {
+        "title": "Brz Proces Regrutovanja",
+        "description": "Završavamo regrutovanje u 2-4 nedelje."
+      },
+      {
+        "title": "Kulturna Integracija",
+        "description": "Nudimo programe integracije za međunarodne zaposlene."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Trendovi Radne Snage",
+    "subtitle": "Strategije Predviđanja Budućnosti",
+    "items": [
+      {
+        "trend": "Hibridni Radni Model",
+        "impact": "Talenti prelaze geografske granice",
+        "percentage": "89%",
+        "description": "Kompanije usvajaju hibridne radne modele"
+      },
+      {
+        "trend": "Digitalne Veštine",
+        "impact": "Korišćenje tehnologije u svakoj poziciji",
+        "percentage": "95%",
+        "description": "Radne uloge zahtevaju digitalne veštine"
+      },
+      {
+        "trend": "Raznolikost i Uključivanje",
+        "impact": "Povećanje performansi i inovacija",
+        "percentage": "76%",
+        "description": "Postizanje boljih finansijskih rezultata"
+      },
+      {
+        "trend": "Fokus na Održivost",
+        "impact": "Ekološki svesne preferencije zaposlenih",
+        "percentage": "73%",
+        "description": "Talenti preferiraju održive kompanije"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Naša Inovativna Metodologija Regrutovanja",
+    "subtitle": "Pristup Zasnovan na Podacima",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Analiza Potreba",
+        "description": "Analiziramo trenutne i buduće potrebe vaše kompanije.",
+        "duration": "1-2 dana",
+        "tools": [
+          "AI Analitika",
+          "Istraživanje tržišta",
+          "Mapiranje veština"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Otkrivanje Talenata",
+        "description": "Identifikujemo najprikladnije kandidate.",
+        "duration": "3-5 dana",
+        "tools": [
+          "Globalno pronalaženje",
+          "Društveno regrutovanje",
+          "Analiza mreže"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Procena i Filtriranje",
+        "description": "Biramo najbolje kandidate.",
+        "duration": "1-2 nedelje",
+        "tools": [
+          "Tehnička procena",
+          "Analiza kulturne prikladnosti",
+          "Provera referenci"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Prezentacija i Integracija",
+        "description": "Predstavljamo kandidate i upravljamo procesom integracije.",
+        "duration": "1-3 nedelje",
+        "tools": [
+          "Koordinacija intervjua",
+          "Upravljanje ponudama",
+          "Podrška za uvođenje"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Priče o Uspеhu",
+    "subtitle": "Naš Uspeh u Brojevima",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Uspešna Regrutovanja",
+        "period": "Poslednjih 12 meseci"
+      },
+      {
+        "number": "95%",
+        "label": "Zadovoljstvo Klijenata",
+        "period": "Kontinuirano"
+      },
+      {
+        "number": "2.5x",
+        "label": "Povećanje Brzine",
+        "period": "U odnosu na tradicionalne metode"
+      },
+      {
+        "number": "35+",
+        "label": "Doseg Zemalja",
+        "period": "Globalna mreža"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Otkrijte Radnu Snagu Budućnosti Danas",
+    "description": "Počnite sada da jačate svoju kompaniju međunarodnim talentima.",
+    "primaryButton": "Besplatna Konsultacija",
+    "secondaryButton": "Istražite Priče o Uspеhu"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "Recrutare Internațională Orientată spre Viitor",
+    "description": "În lumea modernă, talentele nu cunosc granițe. Descoperiți forța de muncă de mâine astăzi și întăriți-vă compania cu talente internaționale."
+  },
+  "vision": {
+    "title": "Modelarea Viitorului Afacerilor",
+    "subtitle": "Resurse Umane în Era Digitală",
+    "description": "În timp ce tehnologia evoluează rapid, cea mai importantă resursă rămâne omul.",
+    "features": [
+      {
+        "title": "Potrivire Alimentată de AI",
+        "description": "Potrivim candidații și pozițiile folosind algoritmi de inteligență artificială."
+      },
+      {
+        "title": "Bazin Global de Talente",
+        "description": "Cu rețeaua noastră din 50+ țări găsim talentele de care aveți nevoie."
+      },
+      {
+        "title": "Proces Rapid de Recrutare",
+        "description": "Finalizăm recrutarea în 2-4 săptămâni."
+      },
+      {
+        "title": "Integrare Culturală",
+        "description": "Oferim programe de integrare pentru angajații internaționali."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Tendințe ale Forței de Muncă",
+    "subtitle": "Strategii de Predicție a Viitorului",
+    "items": [
+      {
+        "trend": "Model de Lucru Hibrid",
+        "impact": "Talentele depășesc granițele geografice",
+        "percentage": "89%",
+        "description": "Companiile adoptă modele de lucru hibride"
+      },
+      {
+        "trend": "Competențe Digitale",
+        "impact": "Folosirea tehnologiei în fiecare poziție",
+        "percentage": "95%",
+        "description": "Rolurile de muncă necesită competențe digitale"
+      },
+      {
+        "trend": "Diversitate și Incluziune",
+        "impact": "Creșterea performanței și inovației",
+        "percentage": "76%",
+        "description": "Obținerea unor rezultate financiare mai bune"
+      },
+      {
+        "trend": "Focus pe Sustenabilitate",
+        "impact": "Preferințe ecologice ale angajaților",
+        "percentage": "73%",
+        "description": "Talentele preferă companiile sustenabile"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Metodologia Noastră Inovatoare de Recrutare",
+    "subtitle": "Abordare Bazată pe Date",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Analiza Nevoilor",
+        "description": "Analizăm nevoile actuale și viitoare ale companiei dumneavoastră.",
+        "duration": "1-2 zile",
+        "tools": [
+          "AI Analytics",
+          "Cercetare de piață",
+          "Maparea competențelor"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Descoperirea Talentelor",
+        "description": "Identificăm candidații cei mai potriviți.",
+        "duration": "3-5 zile",
+        "tools": [
+          "Sourcing global",
+          "Recrutare socială",
+          "Analiza rețelei"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Evaluare și Filtrare",
+        "description": "Selectăm cei mai buni candidați.",
+        "duration": "1-2 săptămâni",
+        "tools": [
+          "Evaluare tehnică",
+          "Analiza potrivirii culturale",
+          "Verificarea referințelor"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Prezentare și Integrare",
+        "description": "Prezentăm candidații și gestionăm procesul de integrare.",
+        "duration": "1-3 săptămâni",
+        "tools": [
+          "Coordonarea interviului",
+          "Gestionarea ofertelor",
+          "Suport pentru onboarding"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Povești de Succes",
+    "subtitle": "Succesul Nostru în Cifre",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Recrutări de Succes",
+        "period": "Ultimele 12 luni"
+      },
+      {
+        "number": "95%",
+        "label": "Satisfacția Clienților",
+        "period": "Continuu"
+      },
+      {
+        "number": "2.5x",
+        "label": "Creșterea Vitezei",
+        "period": "Comparativ cu metodele tradiționale"
+      },
+      {
+        "number": "35+",
+        "label": "Acoperirea Țărilor",
+        "period": "Rețea globală"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Descoperiți Forța de Muncă a Viitorului Astăzi",
+    "description": "Începeți acum să vă întăriți compania cu talente internaționale.",
+    "primaryButton": "Consultație Gratuită",
+    "secondaryButton": "Explorați Povești de Succes"
+  }
+}

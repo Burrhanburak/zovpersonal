@@ -1,0 +1,119 @@
+{
+  "carousel": {
+    "badge": "Uluslararası Gelecek Odaklı İşe Alım",
+    "title": "Uluslararası Gelecek Odaklı İşe Alım",
+    "description": "İş arayan programımız hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
+    "cards": {
+      "recruitment": {
+        "category": "Ağırlama ve Temizlik",
+        "title": "Otel ve Temizlik Personeli"
+      },
+      "partnership": {
+        "category": "İş Veren Ortaklığı",
+        "title": "Stratejik İş Ortaklıkları"
+      },
+      "visaprocess": {
+        "category": "Vize ve Belgelendirme",
+        "title": "Kapsamlı Vize İşlemleri Desteği"
+      },
+      "support": {
+        "category": "7/24 Destek",
+        "title": "Sürekli Müşteri Desteği"
+      },
+      "healthcare": {
+        "category": "Sağlık Sektörü",
+        "title": "Tıbbi Uzman İşe Alım"
+      },
+      "construction": {
+        "category": "İnşaat ve Yapı Sektörü",
+        "title": "İnşaat ve Yapı Sektörü Uzmanları"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Hizmette Mükemmellik.",
+        "description": "Otel, restoran ve temizlik sektörleri için nitelikli personel temin ederek yüksek hizmet ve hijyen standartları sağlıyoruz.",
+        "features": [
+          {
+            "title": "Onaylanmış Personel",
+            "description": "Ağırlama endüstrisi için denetlenmiş ve eğitimli profesyonellere erişim."
+          },
+          {
+            "title": "Esnek Çözümler",
+            "description": "Hem kısa hem de uzun vadeli ihtiyaçlar için isteğe bağlı personel temini."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Kalıcı iş ilişkileri kurun.",
+        "description": "İş verenler ve uluslararası yetenekler arasında stratejik ortaklıklar yaratıyoruz. Kapsamlı yaklaşımımız tüm taraflar için sürdürülebilir büyüme ve karşılıklı başarı sağlar.",
+        "features": [
+          {
+            "title": "Ortaklık Yönetimi",
+            "description": "Sürekli ilişki kurma ve destek için özel hesap yöneticileri."
+          },
+          {
+            "title": "Başarı Metrikleri",
+            "description": "Detaylı analizler ve düzenli ortaklık incelemeleri ile performans takibi."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Karmaşık vize işlemlerini basitleştirin.",
+        "description": "Uluslararası vize gereksinimlerinde güvenle ilerleyin. Uzman ekibimiz sorunsuz geçişler için tüm belgelendirme, başvuru süreçleri ve yasal uyumluluğu yönetir. Sizleri doğru şekilde yönlendirir ve süreçlerinizde destek oluyoruz.",
+        "features": [
+          {
+            "title": "Uzman Belgelendirme",
+            "description": "Gerekli tüm belgelerin %100 uyumluluk oranıyla profesyonel hazırlanması."
+          },
+          {
+            "title": "Yasal Uyumluluk",
+            "description": "Değişen göçmenlik yasaları ve gereksinimleri ile güncel kalın."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Hiç bitmeyen destek.",
+        "description": "Taahhüdümüz yerleştirmenin ötesine uzanır. Yolculukları boyunca hem iş verenler hem de çalışanlar için uzun vadeli başarı sağlamak üzere sürekli destek sağlıyoruz.",
+        "features": [
+          {
+            "title": "7/24 Ulaşılabilirlik",
+            "description": "Acil durumlar ve sürekli yardım için günün her saati destek."
+          },
+          {
+            "title": "Entegrasyon Desteği",
+            "description": "Sorunsuz geçişler için kültürel entegrasyon ve uyum sağlama hizmetleri."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Sağlık yetenek mükemmelliği.",
+        "description": "Doktorlar, bakıcılar, evde yaşlı bakımı ve bakım hizmetleri hemşireler, terapistler ve tıbbi teknisyenler dahil sağlık uzmanları için özel işe alım. Sağlık sektörünün benzersiz gereksinimlerini anlıyoruz.",
+        "features": [
+          {
+            "title": "Tıbbi Lisanslama",
+            "description": "Tıbbi lisans tanınması ve mesleki sertifikasyon konularında yardım."
+          },
+          {
+            "title": "Beceri Doğrulama",
+            "description": "Tıbbi niteliklerin ve pratik becerilerin kapsamlı değerlendirmesi."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "İnşaat sektöründe uzman iş gücü.",
+        "description": "Usta, tekniker, mimar, mühendisler, sıvacı, boyacı ve yapı uzmanları için özel olarak tasarlanmıştır. Almanya'da inşaat sektöründe nitelikli işgücüne olan yüksek talep, yabancı uzmanların bu sektöre girişini kolaylaştıran özel düzenlemeleri beraberinde getirmiştir.",
+        "features": [
+          {
+            "title": "Dil Gereksinimleri",
+            "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları."
+          },
+          {
+            "title": "Hızlı İş Başlangıcı",
+            "description": "İnşaat projelerinde acil ihtiyaçlar için hızlı yerleştirme."
+          }
+        ]
+      }
+    }
+  }
+}

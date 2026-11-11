@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "Werkzoekende",
+    "tag2": "Internationale Carrière",
+    "title": "Vind je droombaan in het buitenland met ons",
+    "description": "internationale toekomstgerichte wervingsoplossingen",
+    "startJourney": "Start je reis",
+    "viewServices": "Bekijk services"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "Werkzoekenden",
+      "opportunities": {
+        "label": "Kansen",
+        "title": "Premium Baan",
+        "subtitle": "Kansen Wereldwijd",
+        "description": "Toegang tot exclusieve goedbetaalde internationale posities bij topbedrijven in 25+ landen.",
+        "stats": [
+          "25+ Landen",
+          "5K+ Baan Plaatsingen",
+          "95% Succespercentage"
+        ],
+        "benefits": [
+          "Toegang tot Premium Banen",
+          "Geverifieerde Werkgevers",
+          "Wereldwijd Netwerk",
+          "Hoge Salarispakketten"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "Baan Plaatsingen"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Landen"
+          }
+        }
+      },
+      "support": {
+        "label": "Ondersteuning",
+        "title": "Uitgebreide",
+        "subtitle": "Carrière Ondersteuning",
+        "description": "Van sollicitatie tot verhuizing, wij bieden uitgebreide ondersteuning bij elke stap.",
+        "stats": [
+          "24/7 Ondersteuning",
+          "Expert Begeleiding",
+          "98% Tevredenheid"
+        ],
+        "benefits": [
+          "CV Optimalisatie",
+          "Interview Coaching",
+          "Visum Assistentie",
+          "Verhuisondersteuning"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Ondersteuning"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Tevredenheid"
+          }
+        }
+      },
+      "process": {
+        "label": "Proces",
+        "title": "Gestroomlijnd",
+        "subtitle": "Sollicitatieproces",
+        "description": "Ons efficiënte proces brengt u sneller aan het werk in het buitenland met bewezen resultaten en snelle plaatsing.",
+        "stats": [
+          "30 Dagen Gemiddeld",
+          "95% Succes",
+          "Snelle Verwerking"
+        ],
+        "benefits": [
+          "Snelle Verwerking",
+          "Stap-voor-Stap Begeleiding",
+          "Document Voorbereiding",
+          "Snelle Resultaten"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Dagen Gemiddeld"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Succespercentage"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Werkzoekende Services",
+    "title": "Onze Services voor Werkzoekenden",
+    "items": [
+      {
+        "title": "CV & Resume Optimalisatie",
+        "description": "Professioneel CV schrijven en optimalisatie voor internationale arbeidsmarkten"
+      },
+      {
+        "title": "Job Matching",
+        "description": "Verbinden met geverifieerde werkgevers die naar jouw specifieke vaardigheden zoeken"
+      },
+      {
+        "title": "Interview Voorbereiding",
+        "description": "Uitgebreide interview coaching voor internationale posities"
+      },
+      {
+        "title": "Visa Assistentie",
+        "description": "Volledige werkvisum aanvraag ondersteuning en documentatie"
+      }
+    ]
+  },
+  "process": {
+    "title": "Hoe het werkt",
+    "description": "Ons werkzoekende programma is ontworpen om je te helpen je droombaan in het buitenland te vinden. We bieden je de tools en bronnen die je nodig hebt om succesvol te zijn.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Profiel Beoordeling",
+        "description": "Uitgebreide vaardigheidsevaluatie en carrièredoelen analyse"
+      },
+      {
+        "step": "02",
+        "title": "Job Matching",
+        "description": "Matching met geschikte internationale jobmogelijkheden"
+      },
+      {
+        "step": "03",
+        "title": "Aanvraag Ondersteuning",
+        "description": "Professionele aanvraagvoorbereiding en indiening"
+      },
+      {
+        "step": "04",
+        "title": "Visa Verwerking",
+        "description": "Volledige werkvisum aanvraag en documentatie"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Onze Succesverhalen",
+    "description": "Bewezen track record van succesvolle job plaatsingen",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Succespercentage"
+      },
+      {
+        "number": "5K+",
+        "label": "Geplaatste Jobs"
+      },
+      {
+        "number": "25+",
+        "label": "Landen"
+      },
+      {
+        "number": "30",
+        "label": "Dagen Gemiddeld"
+      }
+    ]
+  }
+}

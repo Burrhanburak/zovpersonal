@@ -9,11 +9,12 @@
     "services": "Diensten",
     "about": "Over ons",
     "contact": "Contact",
-    "consultation": "Ondersteuning voor Werkgevers"
+    "consultation": "Ondersteuning voor Werkgevers",
+    "blog": "Blog"
   },
   "hero": {
     "title": "Internationale Toekomstgerichte Personeelsbemiddeling (ZOV)",
-    "subtitle": "Uw vertrouwde partner voor internationale carrièremogelijkheden",
+    "subtitle": "Uw betrouwbare partner voor internationale carrièremogelijkheden",
     "description": "Wij verbinden gekwalificeerde professionals met innovatieve bedrijven wereldwijd. Toekomstgerichte werving voor duurzaam succes in Duitsland en de EU.",
     "longDescription": "Uw vertrouwde partner die gekwalificeerde professionals verbindt met internationale werkgevers. Of u nu ondersteuning zoekt bij het wervingsproces of carrièremogelijkheden in het buitenland nastreeft, bereik succes met ons expertteam.",
     "cta": "Vraag een Terugbelverzoek Aan",
@@ -216,12 +217,13 @@
         "role": "Operationeel Manager"
       }
     },
-    "description": "U begeleiden naar uw internationale carrièredoelen en visumprocessen vereenvoudigen om kansen te creëren voor werken in uw droomland. Met 15 jaar infrastructuur bieden we vertrouwde visumadviesdiensten wereldwijd.",
+    "description": "U begeleiden naar uw internationale carrièredoelen en wervingsprocessen vereenvoudigen om mogelijkheden te creëren om in uw droomland te werken. Met bewezen ervaring bieden we wereldwijd betrouwbare wervings- en werkgeverspartnerschapsdiensten.",
     "features": {
       "compassion": "Empathie en Begrip",
       "integrity": "Eerlijkheid en Betrouwbaarheid",
       "mindGrowth": "Persoonlijke en Professionele Groei"
-    }
+    },
+    "experienceHighlight": "Gebouwd op echte branche-ervaring — we begeleiden carrières met betrouwbare wervingsexpertise."
   },
   "services": {
     "title": "Onze Diensten",
@@ -266,22 +268,40 @@
       "workVisa": {
         "title": "Wervingsproces",
         "description": "Het werven van internationale specialisten biedt een grote kans om het tekort aan geschoolde arbeidskrachten in Europa op te vullen. Met onze gerichte en gestructureerde aanpak structureren we uw wervingsproces effectief om gekwalificeerde zorgprofessionals uit het buitenland succesvol aan te trekken.",
-        "stat1": { "number": "95%", "label": "succesvolle werving" },
-        "stat2": { "number": "", "label": "Snel proces" },
+        "stat1": {
+          "number": "95%",
+          "label": "succesvolle werving"
+        },
+        "stat2": {
+          "number": "",
+          "label": "Snel proces"
+        },
         "category": "Wervingsproces"
       },
       "documentation": {
         "title": "Taalvereisten",
         "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid.",
-        "stat1": { "number": "100%", "label": "documentconformiteit" },
-        "stat2": { "number": "✓", "label": "Beroepskwalificatiecertificaten" },
+        "stat1": {
+          "number": "100%",
+          "label": "documentconformiteit"
+        },
+        "stat2": {
+          "number": "✓",
+          "label": "Beroepskwalificatiecertificaten"
+        },
         "category": "Taalvereisten"
       },
       "skillsAssessment": {
         "title": "Beoordeling van beroepskwalificaties",
         "description": "Van erkenningsbehoefte beoordeling tot speciale trainingsplannen, we bieden uitgebreide evaluatie en begeleiding voor erkenning van uw beroepskwalificaties volgens Duitse normen. We ondersteunen het proces met taalkenniscertificaten volgens beroepstype en bewijs van financiële zekerheid.",
-        "stat1": { "number": "85%", "label": "succesvolle erkenningen" },
-        "stat2": { "number": "15", "label": "jaar infrastructuur" },
+        "stat1": {
+          "number": "85%",
+          "label": "succesvolle erkenningen"
+        },
+        "stat2": {
+          "number": "15",
+          "label": "jaar infrastructuur"
+        },
         "category": "Beroepskwalificatie"
       }
     },
@@ -376,8 +396,9 @@
     "pageTitle": "Neem contact met ons op",
     "pageSubtitle": "We zijn hier om te helpen met uw vragen over visumadvies.",
     "offices": {
-      "istanbul": "🇹🇷 Kantoor Istanbul",
-      "berlin": "🇩🇪 Kantoor Berlijn"
+      "istanbul": "🇩🇪 Emden Kantoor",
+      "berlin": "🇩🇪 Emden Kantoor",
+      "emden": "🇩🇪 Emden Kantoor"
     },
     "sections": {
       "email": "E-mail ons",
@@ -431,14 +452,15 @@
       "applicationProcess": "Internationale Werving",
       "pricing": "Prijzen",
       "additionalServices": "Extra Diensten",
-      "nationalVisaSteps": "Nationaal Visum Stappen (90+ Dagen)"
+      "nationalVisaSteps": "Nationaal Visum Stappen (90+ Dagen)",
+      "blog": "Blog"
     },
     "description": "Professionele internationale werkvisum adviesdiensten",
     "quickLinks": "Snelle Links",
     "ourServices": "Bronnen",
     "email": "info@zovpersonal.com",
-    "phone": "(Turkije) | +90 555 123 45 67 (Duitsland) | +4915757295545",
-    "address": "Istanbul, Turkije, Brückstraße 59, 26725 Emden, Duitsland",
+    "phone": "+49 1512 7027836",
+    "address": "Brückstraße 59, 26725 Emden, Duitsland",
     "visa": {
       "requiredDocuments": "Vereiste Documenten",
       "applicationProcess": "Aanvraagproces",
@@ -490,26 +512,63 @@
         "title": "Persoonlijke Gegevens Die We Verzamelen",
         "identity": {
           "title": "Identiteits- en Contactinformatie",
-          "items": ["Naam, achternaam", "Geboortedatum en -plaats", "Nationaal ID-nummer", "Paspoortinformatie", "Telefoonnummer", "E-mailadres", "Adresinformatie"]
+          "items": [
+            "Naam, achternaam",
+            "Geboortedatum en -plaats",
+            "Nationaal ID-nummer",
+            "Paspoortinformatie",
+            "Telefoonnummer",
+            "E-mailadres",
+            "Adresinformatie"
+          ]
         },
         "visa": {
           "title": "Visumaanvraaginformatie",
-          "items": ["Opleidingsstatus", "Professionele informatie", "Inkomensstatus", "Reisgeschiedenis", "Familie status", "Gezondheidsstatus (indien vereist)"]
+          "items": [
+            "Opleidingsstatus",
+            "Professionele informatie",
+            "Inkomensstatus",
+            "Reisgeschiedenis",
+            "Familie status",
+            "Gezondheidsstatus (indien vereist)"
+          ]
         },
         "technical": {
           "title": "Technische Gegevens",
-          "items": ["IP-adres", "Browserinformatie", "Apparaatinformatie", "Gebruikersgegevens website"]
+          "items": [
+            "IP-adres",
+            "Browserinformatie",
+            "Apparaatinformatie",
+            "Gebruikersgegevens website"
+          ]
         }
       },
       "processing": {
         "title": "Doelen van Persoonsgegevensverwerking",
         "description": "We verwerken uw persoonsgegevens voor de volgende doeleinden:",
-        "purposes": ["Uitvoeren van visumaanvraagprocessen", "Verlenen van adviesdiensten", "Klantrelatiebeheer", "Voldoen aan wettelijke verplichtingen", "Verbeteren van servicekwaliteit", "Statistische analyse", "Meten van klanttevredenheid", "Nemen van veiligheidsmaatregelen"]
+        "purposes": [
+          "Uitvoeren van visumaanvraagprocessen",
+          "Verlenen van adviesdiensten",
+          "Klantrelatiebeheer",
+          "Voldoen aan wettelijke verplichtingen",
+          "Verbeteren van servicekwaliteit",
+          "Statistische analyse",
+          "Meten van klanttevredenheid",
+          "Nemen van veiligheidsmaatregelen"
+        ]
       },
       "security": {
         "title": "Gegevensbeveiliging",
         "description": "We nemen de volgende technische en administratieve maatregelen voor de beveiliging van uw persoonsgegevens:",
-        "measures": ["Versleutelde gegevensoverdracht met SSL-certificaat", "Veilige serverinfrastructuur", "Toegangscontrole en autorisatie", "Regelmatige beveiligingsupdates", "Personeelstraining en vertrouwelijkheidsovereenkomsten", "Gegevensback-up en herstelprocedures", "24/7 beveiligingsmonitoring"]
+        "measures": [
+          "Versleutelde gegevensoverdracht met SSL-certificaat",
+          "Veilige serverinfrastructuur",
+          "Toegangscontrole en autorisatie",
+          "Regelmatige beveiligingsupdates",
+          "Personeelstraining en vertrouwelijkheidsovereenkomsten",
+          "Gegevensback-up en herstelprocedures",
+          "24/7 beveiligingsmonitoring"
+        ]
       },
       "rights": {
         "title": "Rechten van Betrokkenen",
@@ -543,7 +602,11 @@
         "howToUse": {
           "title": "Hoe Kunt U Uw Rechten Uitoefenen?",
           "description": "U kunt de bovenstaande rechten uitoefenen via de volgende communicatiekanalen:",
-          "channels": ["E-mail: info@zovpersonal.com", "Schriftelijke aanvraag: Persoonlijke overhandiging of per post naar ons bedrijfsadres", "Online formulier: Aanvraagformulier op www.zovpersonal.com"]
+          "channels": [
+            "E-mail: info@zovpersonal.com",
+            "Schriftelijke aanvraag: Persoonlijke overhandiging of per post naar ons bedrijfsadres",
+            "Online formulier: Aanvraagformulier op www.zovpersonal.com"
+          ]
         }
       },
       "cookies": {
@@ -820,7 +883,6 @@
           "description": "50'den fazla ülkeden nitelendirilmiş profesyonelleri bulmak için geniş ağımızla yetenekleri buluyoruz."
         },
         {
-          "title": "Hızlı İşe Alma Süreci",
           "title": "AI-Aangedreven Matching",
           "description": "We matchen kandidaten en posities met perfecte harmonie met behulp van kunstmatige intelligentie-algoritmen."
         },
@@ -877,28 +939,44 @@
           "title": "Behoeftenanalyse",
           "description": "We analyseren de huidige en toekomstige behoeften van uw bedrijf in detail.",
           "duration": "1-2 dagen",
-          "tools": ["AI Analytics", "Marktonderzoek", "Skill Mapping"]
+          "tools": [
+            "AI Analytics",
+            "Marktonderzoek",
+            "Skill Mapping"
+          ]
         },
         {
-          "phase": "2", 
+          "phase": "2",
           "title": "Talentontdekking",
           "description": "We identificeren de meest geschikte kandidaten uit onze wereldwijde database.",
           "duration": "3-5 dagen",
-          "tools": ["Wereldwijde Sourcing", "Social Recruiting", "Netwerkanalyse"]
+          "tools": [
+            "Wereldwijde Sourcing",
+            "Social Recruiting",
+            "Netwerkanalyse"
+          ]
         },
         {
           "phase": "3",
           "title": "Beoordeling en Filtering",
           "description": "We selecteren de beste kandidaten door een meertrapsbeoordelingsproces.",
           "duration": "1-2 weken",
-          "tools": ["Technische Beoordeling", "Cultuurfit Analyse", "Referentiecontrole"]
+          "tools": [
+            "Technische Beoordeling",
+            "Cultuurfit Analyse",
+            "Referentiecontrole"
+          ]
         },
         {
           "phase": "4",
           "title": "Presentatie en Integratie",
           "description": "We presenteren geselecteerde kandidaten aan u en beheren het integratieproces.",
           "duration": "1-3 weken",
-          "tools": ["Interview Coördinatie", "Aanbod Management", "Onboarding Ondersteuning"]
+          "tools": [
+            "Interview Coördinatie",
+            "Aanbod Management",
+            "Onboarding Ondersteuning"
+          ]
         }
       ]
     },
@@ -1304,8 +1382,12 @@
             "Cross-sectorale expertise"
           ],
           "overlayStats": {
-            "stat1": { "label": "Verkorting van de aanwervingstijd" },
-            "stat2": { "label": "Snellere plaatsingen" }
+            "stat1": {
+              "label": "Verkorting van de aanwervingstijd"
+            },
+            "stat2": {
+              "label": "Snellere plaatsingen"
+            }
           }
         },
         "quality": {
@@ -1320,8 +1402,12 @@
             "Focus op langetermijnbehoud"
           ],
           "overlayStats": {
-            "stat1": { "label": "Slagingspercentage" },
-            "stat2": { "label": "Succesvolle aanwervingen" }
+            "stat1": {
+              "label": "Slagingspercentage"
+            },
+            "stat2": {
+              "label": "Succesvolle aanwervingen"
+            }
           }
         },
         "support": {
@@ -1336,8 +1422,12 @@
             "Continue ondersteuning na plaatsing"
           ],
           "overlayStats": {
-            "stat1": { "label": "Toegewijde ondersteuning" },
-            "stat2": { "label": "Klanttevredenheid" }
+            "stat1": {
+              "label": "Toegewijde ondersteuning"
+            },
+            "stat2": {
+              "label": "Klanttevredenheid"
+            }
           }
         }
       }
@@ -1411,7 +1501,7 @@
   },
   "jobSeeker": {
     "hero": {
-      "tag1": "Werkzoekende", 
+      "tag1": "Werkzoekende",
       "tag2": "Internationale Carrière",
       "title": "Vind je droombaan in het buitenland met ons",
       "description": "internationale toekomstgerichte wervingsoplossingen",
@@ -1426,7 +1516,11 @@
           "title": "Premium Baan",
           "subtitle": "Kansen Wereldwijd",
           "description": "Toegang tot exclusieve goedbetaalde internationale posities bij topbedrijven in 25+ landen.",
-          "stats": ["25+ Landen", "5K+ Baan Plaatsingen", "95% Succespercentage"],
+          "stats": [
+            "25+ Landen",
+            "5K+ Baan Plaatsingen",
+            "95% Succespercentage"
+          ],
           "benefits": [
             "Toegang tot Premium Banen",
             "Geverifieerde Werkgevers",
@@ -1434,8 +1528,14 @@
             "Hoge Salarispakketten"
           ],
           "overlayStats": {
-            "stat1": { "value": "5K+", "label": "Baan Plaatsingen" },
-            "stat2": { "value": "25+", "label": "Landen" }
+            "stat1": {
+              "value": "5K+",
+              "label": "Baan Plaatsingen"
+            },
+            "stat2": {
+              "value": "25+",
+              "label": "Landen"
+            }
           }
         },
         "support": {
@@ -1443,7 +1543,11 @@
           "title": "Uitgebreide",
           "subtitle": "Carrière Ondersteuning",
           "description": "Van sollicitatie tot verhuizing, wij bieden uitgebreide ondersteuning bij elke stap.",
-          "stats": ["24/7 Ondersteuning", "Expert Begeleiding", "98% Tevredenheid"],
+          "stats": [
+            "24/7 Ondersteuning",
+            "Expert Begeleiding",
+            "98% Tevredenheid"
+          ],
           "benefits": [
             "CV Optimalisatie",
             "Interview Coaching",
@@ -1451,8 +1555,14 @@
             "Verhuisondersteuning"
           ],
           "overlayStats": {
-            "stat1": { "value": "24/7", "label": "Ondersteuning" },
-            "stat2": { "value": "98%", "label": "Tevredenheid" }
+            "stat1": {
+              "value": "24/7",
+              "label": "Ondersteuning"
+            },
+            "stat2": {
+              "value": "98%",
+              "label": "Tevredenheid"
+            }
           }
         },
         "process": {
@@ -1460,7 +1570,11 @@
           "title": "Gestroomlijnd",
           "subtitle": "Sollicitatieproces",
           "description": "Ons efficiënte proces brengt u sneller aan het werk in het buitenland met bewezen resultaten en snelle plaatsing.",
-          "stats": ["30 Dagen Gemiddeld", "95% Succes", "Snelle Verwerking"],
+          "stats": [
+            "30 Dagen Gemiddeld",
+            "95% Succes",
+            "Snelle Verwerking"
+          ],
           "benefits": [
             "Snelle Verwerking",
             "Stap-voor-Stap Begeleiding",
@@ -1468,8 +1582,14 @@
             "Snelle Resultaten"
           ],
           "overlayStats": {
-            "stat1": { "value": "30", "label": "Dagen Gemiddeld" },
-            "stat2": { "value": "95%", "label": "Succespercentage" }
+            "stat1": {
+              "value": "30",
+              "label": "Dagen Gemiddeld"
+            },
+            "stat2": {
+              "value": "95%",
+              "label": "Succespercentage"
+            }
           }
         }
       }
@@ -1487,7 +1607,7 @@
           "description": "Verbinden met geverifieerde werkgevers die naar jouw specifieke vaardigheden zoeken"
         },
         {
-          "title": "Interview Voorbereiding", 
+          "title": "Interview Voorbereiding",
           "description": "Uitgebreide interview coaching voor internationale posities"
         },
         {
@@ -1552,5 +1672,10 @@
     "contact": "Contact opnemen",
     "help": "Hulp nodig?",
     "contactUs": "Neem contact met ons op"
+  },
+  "blog": {
+    "subtitle": "Gidsen over internationale werving, werken in Duitsland en werkgeverspartnerschap.",
+    "empty": "Nog geen berichten in deze taal.",
+    "minRead": "min lezen"
   }
 }

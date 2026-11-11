@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "title": "Uluslararası Gelecek Odaklı İşe Alım",
+    "description": "Modern dünyada yetenekler uluslararası sınırları aşar. Yarının iş gücünü bugün keşfedin ve uluslararası yeteneklerle kuruluşunuzu güçlendirin."
+  },
+  "vision": {
+    "title": "İş Dünyasının Geleceğini Şekillendirme",
+    "subtitle": "İnsan Kaynakları Dijital Dönemde",
+    "description": "Teknoloji hızla gelişirken, en önemli kaynak insandır. Uluslararası yetenekleri keşfetme ve doğru pozisyonlarda değerlendirme, işletmelerin rekabet avantajı elde etmesi için anahtardır.",
+    "features": [
+      {
+        "title": "Yapay Zeka Destekli Eşleştirme",
+        "description": "Yapay zeka algoritmalarını kullanarak adayları ve pozisyonları mükemmel uyumla eşleştiriyoruz."
+      },
+      {
+        "title": "Dünya Çapında Yetenek Havuzu",
+        "description": "50'den fazla ülkeden nitelendirilmiş profesyonelleri bulmak için geniş ağımızla yetenekleri buluyoruz."
+      },
+      {
+        "title": "AI-Aangedreven Matching",
+        "description": "We matchen kandidaten en posities met perfecte harmonie met behulp van kunstmatige intelligentie-algoritmen."
+      },
+      {
+        "title": "Wereldwijde Talentpool",
+        "description": "Met ons uitgebreide netwerk van gekwalificeerde professionals uit 50+ landen vinden we de talenten die u nodig heeft."
+      },
+      {
+        "title": "Snel Wervingsproces",
+        "description": "We voltooien werving in 2-4 weken door traditionele processen met 70% te verkorten."
+      },
+      {
+        "title": "Culturele Integratie",
+        "description": "We bieden integratieprogramma's die ervoor zorgen dat internationale werknemers zich aanpassen aan uw bedrijfscultuur."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Arbeidsmarkttrends",
+    "subtitle": "Toekomstvoorspellende Strategieën",
+    "items": [
+      {
+        "trend": "Hybride Werkmodel",
+        "impact": "Talenten overschrijden geografische grenzen",
+        "percentage": "89%",
+        "description": "Bedrijven nemen hybride werkmodellen aan"
+      },
+      {
+        "trend": "Digitale Vaardigheden",
+        "impact": "Technologie gebruik in elke positie",
+        "percentage": "95%",
+        "description": "Baanrollen vereisen digitale vaardigheden"
+      },
+      {
+        "trend": "Diversiteit en Inclusie",
+        "impact": "Prestatie- en innovatieverhoging",
+        "percentage": "76%",
+        "description": "Betere financiële resultaten behalen"
+      },
+      {
+        "trend": "Duurzaamheidsfocus",
+        "impact": "Milieubewuste werknemersvoorkeur",
+        "percentage": "73%",
+        "description": "Talenten geven voorkeur aan duurzame bedrijven"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Onze Innovatieve Wervingsmethodologie",
+    "subtitle": "Data-Gedreven Benadering",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Behoeftenanalyse",
+        "description": "We analyseren de huidige en toekomstige behoeften van uw bedrijf in detail.",
+        "duration": "1-2 dagen",
+        "tools": [
+          "AI Analytics",
+          "Marktonderzoek",
+          "Skill Mapping"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Talentontdekking",
+        "description": "We identificeren de meest geschikte kandidaten uit onze wereldwijde database.",
+        "duration": "3-5 dagen",
+        "tools": [
+          "Wereldwijde Sourcing",
+          "Social Recruiting",
+          "Netwerkanalyse"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Beoordeling en Filtering",
+        "description": "We selecteren de beste kandidaten door een meertrapsbeoordelingsproces.",
+        "duration": "1-2 weken",
+        "tools": [
+          "Technische Beoordeling",
+          "Cultuurfit Analyse",
+          "Referentiecontrole"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Presentatie en Integratie",
+        "description": "We presenteren geselecteerde kandidaten aan u en beheren het integratieproces.",
+        "duration": "1-3 weken",
+        "tools": [
+          "Interview Coördinatie",
+          "Aanbod Management",
+          "Onboarding Ondersteuning"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Succesverhalen",
+    "subtitle": "Ons Succes in Cijfers",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Succesvolle Wervingen",
+        "period": "Laatste 12 maanden"
+      },
+      {
+        "number": "95%",
+        "label": "Klanttevredenheid",
+        "period": "Continu"
+      },
+      {
+        "number": "2.5x",
+        "label": "Snelheidsverhoging",
+        "period": "Vergeleken met traditionele methoden"
+      },
+      {
+        "number": "35+",
+        "label": "Landenbereik",
+        "period": "Wereldwijd netwerk"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Ontdek de Toekomstige Arbeidskrachten Vandaag",
+    "description": "Begin nu om uw bedrijf te versterken met internationale talenten en concurrentievoordeel te behalen.",
+    "primaryButton": "Gratis Consultatie",
+    "secondaryButton": "Succesverhalen Verkennen"
+  }
+}

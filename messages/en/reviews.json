@@ -1,0 +1,52 @@
+{
+  "title": "Client Reviews",
+  "subtitle": {
+    "line1": "Experiences and opinions of",
+    "line2": "our successful clients"
+  },
+  "review1": {
+    "title": "Excellent Service",
+    "content": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process and kept me constantly informed.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Nurse - Germany",
+    "text": "Thanks to ZovPersonal, my dream of working as a nurse in Germany came true. They were with me at every step throughout the process.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Professional Approach",
+    "content": "Thanks to their professional approach and detailed guidance, I obtained my Germany work visa smoothly. The team is really knowledgeable and experienced.",
+    "name": "Engineer Busra Oz",
+    "role": "Software Developer - Netherlands",
+    "text": "Thanks to their professional approach and detailed guidance, I obtained my Germany work visa smoothly. Thank you ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Process Simplified",
+    "content": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything and provided step-by-step guidance.",
+    "name": "Teacher Nicolaus Voss",
+    "role": "Teacher - Canada",
+    "text": "When I applied for my Canada education visa, it seemed very complex. ZovPersonal simplified everything.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Reliable Partner",
+    "content": "I chose ZovPersonal to get my work permit as a doctor in Germany. I made the right decision, the process progressed very quickly.",
+    "name": "Dr. Georgi Vasilev",
+    "role": "Doctor - Bulgaria",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Excellent Result",
+    "content": "I was very worried when applying for my Australia work visa. The ZovPersonal team reassured me and played a major role in achieving successful results.",
+    "name": "Architect Marko Balković",
+    "role": "Architect - Australia",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Fast and Effective",
+    "content": "When I found a job opportunity in Germany, I had no idea about the visa process. Thanks to ZovPersonal, everything was resolved very quickly.",
+    "name": "Engineer Andrei Popescu",
+    "role": "Electrical Engineer - Romania",
+    "rating": 5
+  }
+}

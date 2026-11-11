@@ -1,4 +1,6 @@
 'use client'
+import { assetUrl } from '@/lib/assets';
+
 import React from 'react'
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowRight, CheckCircle, Users, FileText, Briefcase, Globe, Hammer, UtensilsCrossed, Wrench, Car } from "lucide-react";
@@ -20,7 +22,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
                 <img 
                   alt={t('entryGuide.imageAlt')}
                   className="w-full h-full object-cover object-center" 
-                  src="/almanya-yapboz.png" 
+                  src={assetUrl("almanya-yapboz.png")} 
                 />
               </div>
            <div className="mt-10 flex justify-between gap-8 max-sm:flex-col md:mt-14 lg:mt-20 lg:gap-12">
@@ -91,7 +93,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
         <div className="mt-8 grid gap-4 lg:grid-cols-3">
           <Link href={`/${locale}/business-process-in-germany/employee-integration`} className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5 lg:col-span-2">
             <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="/yapboz.png" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
+            <img src={assetUrl("yapboz.png")} alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
             <div className="flex h-full flex-col justify-between p-10">
               <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-building2 lucide-building-2 size-5 text-background" aria-hidden="true">
@@ -118,7 +120,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
           </Link>
           <Link href={`/${locale}/business-process-in-germany/visa-for-experienced-personal`} className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5">
             <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="/kafiyeli-personali.png" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
+            <img src={assetUrl("kafiyeli-personali.png")} alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
             <div className="flex h-full flex-col justify-between p-10">
               <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-landmark size-5 text-background" aria-hidden="true">
@@ -144,7 +146,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
           </Link>
           <Link href={`/${locale}/business-process-in-germany/accelerated-skilled-worker-procedure`} className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5">
             <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="/hızlandırılmıs-proredur.png" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
+            <img src={assetUrl("hızlandırılmıs-proredur.png")} alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
             <div className="flex h-full flex-col justify-between p-10">
               <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-layout-grid size-5 text-background" aria-hidden="true">
@@ -168,7 +170,7 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
           </Link>
           <Link href={`/${locale}/business-process-in-germany/recruitment`} className="group relative isolate h-80 overflow-hidden rounded-2xl border border-border transition-transform duration-300 hover:-translate-y-0.5 lg:col-span-2">
             <div className="absolute inset-0 -z-10 bg-gradient-to-t from-[#1c2708] to-transparent"></div>
-            <img src="/iş-alımı.png" alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
+            <img src={assetUrl("iş-alımı.png")} alt="placeholder" className="absolute inset-0 -z-20 size-full rounded-2xl object-cover grayscale-100 transition-all duration-300 group-hover:grayscale-50" />
             <div className="flex h-full flex-col justify-between p-10">
               <span className="flex size-12 items-center justify-center rounded-xl border border-background/20 bg-background/15 backdrop-blur-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-compass size-5 text-background" aria-hidden="true">

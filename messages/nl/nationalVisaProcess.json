@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Nationaal Werkvisum Aanvraagproces",
+    "description": "Het nationale werkvisum verleent het recht om Duitsland binnen te komen voor langdurig verblijf voor werkdoeleinden. Afhankelijk van het type werk wordt het visum uitgegeven met een geldigheidsduur van maximaal één jaar. Na binnenkomst in het land moet u meestal een binnenlandse verblijfsvergunning aanvragen. Dit visumtype is alleen geldig voor specifieke functies en verleent geen bewegingsvrijheid in het Schengengebied."
+  },
+  "appointmentSystem": {
+    "title": "Afspraaksysteem",
+    "description": "Afspraken worden gegeven via het nationale afspraaksysteem",
+    "ourService": "Onze Dienst:",
+    "serviceDescription": "Wij handelen de afspraakprocedures voor u af. We maken de benodigde afspraken en voeren de procedures uit. Vereiste documenten worden bij u opgevraagd en georganiseerd, en vervolgens volgen we het proces op."
+  },
+  "preparation": {
+    "title": "Voorbereiding",
+    "description": "Gebruik het online afspraaksysteem voor nationale visa om meer te weten te komen over uw verblijfsdoel en de documenten die u moet indienen. Registreer u op de wachtlijst voor afspraken voor uw verblijfsdoel via het online afspraaksysteem tegen betaling."
+  },
+  "application": {
+    "title": "Aanvraag",
+    "description1": "Vanwege de betrokkenheid van Duitse interne autoriteiten bij het proces zal de documentverwerking doorgaans tot drie maanden duren (of langer in sommige gevallen). Als u uw paspoort nodig heeft tijdens het evaluatieproces van uw aanvraag, kunt u contact opnemen met de relevante visumafdeling door uw aanvraagnummer te vermelden in uw ondertekende schriftelijke petitie.",
+    "description2": "De servicekosten moeten worden betaald. Nadat uw vingerafdrukken zijn genomen, worden uw paspoort en vereiste documenten ontvangen door de visumafdeling voor het evaluatieproces."
+  },
+  "afterEvaluation": {
+    "title": "Na Evaluatie",
+    "description": "Onmiddellijk na voltooiing van het evaluatieproces van aanvragen wordt uw paspoort samen met enkele originele documenten die u heeft ingediend, ofwel naar hun kantoren of direct per post aan u geretourneerd in een envelop."
+  },
+  "note": {
+    "label": "Opmerking:",
+    "text": "De prijs is per persoon en het proces varieert afhankelijk van het type dossier en document en het visumtype."
+  },
+  "processingTimes": {
+    "title": "Verwerkingstijden",
+    "importantInfo": {
+      "title": "Belangrijke Informatie",
+      "description": "Plan voor de aanvraag de wachttijd voor afspraken en de tijd die nodig is om uw paspoort terug te krijgen."
+    },
+    "decisionAuthority": {
+      "title": "Beslissingsautoriteit",
+      "description": "De beslissing om de aanvraag goed te keuren of af te wijzen wordt alleen genomen door de Buitenlandse Vertegenwoordigingen."
+    },
+    "holidayEffect": {
+      "title": "Feestdageffect",
+      "description": "Verwerkingstijden kunnen variëren vanwege Turkse en Duitse officiële feestdagen. Daarom raden we aan om op een vroege datum een visum aan te vragen."
+    },
+    "applicationTracking": {
+      "title": "Aanvraagtracking",
+      "description": "U kunt volgen in welke fase uw aanvraag zich bevindt door contact met ons op te nemen."
+    }
+  }
+}

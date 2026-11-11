@@ -1,0 +1,19 @@
+{
+  "title": "Vize Başvuru Süreç Desteği",
+  "subtitle": "Vize başvuru sürecinizi basitleştiren araçlarımızla, karmaşık belgelerinizi yönetme konusunda size destek oluyoruz.",
+  "step1": {
+    "title": "İlk Danışmanlık ve Değerlendirme Desteği",
+    "description": "Profilinizi ve hedeflerinizi analiz ederek size özel vize stratejisi geliştirme sürecinde size destek oluyoruz.",
+    "alt": "iş veren ortaklığı"
+  },
+  "step2": {
+    "title": "Belge Hazırlama ve Kontrol Desteği",
+    "description": "Tüm gerekli belgelerinize ulaşarak hazırlanma sürecince size destek oluyoruz.",
+    "alt": "Belge hazırlama"
+  },
+  "step3": {
+    "title": "Başvuru ve Takip Desteği",
+    "description": "Başvurunuzu güvenle yapmanız ve sonuçlanana kadar sürekli takip etmeniz için size destek sağlıyoruz.",
+    "alt": "Başvuru takibi"
+  }
+}

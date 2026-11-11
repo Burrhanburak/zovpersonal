@@ -1,0 +1,138 @@
+{
+  "title": "Gizlilik Politikası",
+  "subtitle": "ZovPersonal Danışmanlık Hizmetleri - Kişisel Verilerinizin Korunması ve Güvenliği",
+  "sections": {
+    "intro": {
+      "title": "Gizlilik Politikamız",
+      "content": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş. olarak kişisel verilerinizin güvenliği konusunda en üst düzeyde hassasiyet göstermekteyiz. Bu gizlilik politikası, hizmetlerimizi kullanırken kişisel verilerinizi nasıl topladığımızı, işlediğimizi, koruduğumuzu ve sakladığımızı açıklamaktadır.",
+      "kvkk": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında veri sorumlusu sıfatıyla, kişisel verilerinizin işlenmesinde mevzuata tam uygunluk sağlamaktayız."
+    },
+    "dataCollection": {
+      "title": "Topladığımız Kişisel Veriler",
+      "identity": {
+        "title": "Kimlik ve İletişim Bilgileri",
+        "items": [
+          "Ad, soyad",
+          "Doğum tarihi ve yeri",
+          "TC kimlik numarası",
+          "Pasaport bilgileri",
+          "Telefon numarası",
+          "E-posta adresi",
+          "Adres bilgileri"
+        ]
+      },
+      "visa": {
+        "title": "Vize Başvuru Bilgileri",
+        "items": [
+          "Eğitim durumu",
+          "Meslek bilgileri",
+          "Gelir durumu",
+          "Seyahat geçmişi",
+          "Aile durumu",
+          "Sağlık durumu (gerektiğinde)"
+        ]
+      },
+      "technical": {
+        "title": "Teknik Veriler",
+        "items": [
+          "IP adresi",
+          "Tarayıcı bilgileri",
+          "Cihaz bilgileri",
+          "Site kullanım verileri"
+        ]
+      }
+    },
+    "processing": {
+      "title": "Kişisel Verilerin İşlenme Amaçları",
+      "description": "Kişisel verilerinizi aşağıdaki amaçlarla işlemekteyiz:",
+      "purposes": [
+        "Vize başvuru süreçlerinin yürütülmesi",
+        "Danışmanlık hizmetlerinin sunulması",
+        "Müşteri ilişkileri yönetimi",
+        "Yasal yükümlülüklerin yerine getirilmesi",
+        "Hizmet kalitesinin artırılması",
+        "İstatistiksel analiz yapılması",
+        "Müşteri memnuniyetinin ölçülmesi",
+        "Güvenlik tedbirlerinin alınması"
+      ]
+    },
+    "security": {
+      "title": "Veri Güvenliği",
+      "description": "Kişisel verilerinizin güvenliği için aşağıdaki teknik ve idari tedbirleri almaktayız:",
+      "measures": [
+        "SSL sertifikası ile şifreli veri iletimi",
+        "Güvenli sunucu altyapısı",
+        "Erişim kontrolü ve yetkilendirme",
+        "Düzenli güvenlik güncellemeleri",
+        "Personel eğitimi ve gizlilik anlaşmaları",
+        "Veri yedekleme ve kurtarma prosedürleri",
+        "24/7 güvenlik izleme"
+      ]
+    },
+    "rights": {
+      "title": "Veri Sahibi Hakları",
+      "description": "KVKK kapsamında aşağıdaki haklarınız bulunmaktadır:",
+      "list": {
+        "info": {
+          "title": "Bilgi Alma Hakkı",
+          "description": "Kişisel verilerinizin işlenip işlenmediğini öğrenme hakkı"
+        },
+        "access": {
+          "title": "Erişim Hakkı",
+          "description": "İşlenen kişisel verileriniz hakkında bilgi talep etme hakkı"
+        },
+        "rectification": {
+          "title": "Düzeltme Hakkı",
+          "description": "Yanlış veya eksik verilerin düzeltilmesini isteme hakkı"
+        },
+        "erasure": {
+          "title": "Silme Hakkı",
+          "description": "Kişisel verilerinizin silinmesini talep etme hakkı"
+        },
+        "objection": {
+          "title": "İtiraz Hakkı",
+          "description": "Veri işlemeye itiraz etme ve durdurulmasını isteme hakkı"
+        },
+        "portability": {
+          "title": "Taşınabilirlik Hakkı",
+          "description": "Verilerinizin başka bir veri sorumlusuna aktarılmasını isteme hakkı"
+        }
+      },
+      "howToUse": {
+        "title": "Haklarınızı Nasıl Kullanabilirsiniz?",
+        "description": "Yukarıdaki haklarınızı kullanmak için aşağıdaki iletişim kanallarını kullanabilirsiniz:",
+        "channels": [
+          "E-posta: info@zovpersonal.com",
+          "Yazılı başvuru: Şirket adresimize elden teslim veya posta yoluyla",
+          "Online form: www.zovpersonal.com adresindeki başvuru formu"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Çerezler (Cookies)",
+      "description": "Web sitemizde kullanıcı deneyimini iyileştirmek amacıyla çerezler kullanmaktayız. Çerezler, web tarayıcınızda saklanan küçük metin dosyalarıdır. Çerez kullanımını tarayıcı ayarlarınızdan kontrol edebilirsiniz."
+    },
+    "contact": {
+      "title": "İletişim",
+      "description": "Gizlilik politikamız hakkında sorularınız için bizimle iletişime geçebilirsiniz:",
+      "company": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş.",
+      "jobSeeker": "İş Arayan",
+      "employer": "İş Veren",
+      "selectApplicantType": "Basvuru Tipi Seçin",
+      "offices": {
+        "turkey": {
+          "title": "Türkiye Ofisi",
+          "address": "Adres",
+          "phone": "Telefon",
+          "location": "Brückstraße 59, 26725 Emden, Almanya"
+        },
+        "germany": {
+          "title": "Almanya Ofisi",
+          "address": "Adres",
+          "phone": "Telefon",
+          "location": "Brückstraße 59, 26725 Emden, Almanya"
+        }
+      }
+    }
+  }
+}

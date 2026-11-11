@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "title": "Almanya Ulusal Vize - Meslekler ve Süreç",
+    "subtitle": "Almanya'da sağlık sektöründe çalışmak için ulusal vize başvuru süreciniz"
+  },
+  "navigation": {
+    "previousSlide": "Önceki slayt",
+    "nextSlide": "Sonraki slayt"
+  },
+  "carousel": {
+    "doctor": {
+      "status": "Doktor Vizesi",
+      "title": "Doktorlar için Almanya Ulusal Vizesi",
+      "description": "Almanya'da doktor olarak çalışmak isteyen tıp mezunları için kapsamlı işe alım ve iş veren ortaklığı rehberliği ve süreç yönetimi sunuyoruz. Diploma denkliği ve dil sınavı süreçlerinde profesyonel destek.",
+      "button": "Daha fazla bilgi"
+    },
+    "nurse": {
+      "status": "Hemşire Vizesi",
+      "title": "Hemşireler için Profesyonel Destek",
+      "description": "Hemşirelik mezunları için Almanya'da çalışma izni ve işe alım ve iş veren ortaklığı süreçlerinde uzman rehberlik. Mesleki yeterlilik tanıma ve dil yeterliliği süreçlerinde tam destek.",
+      "button": "Daha fazla bilgi"
+    },
+    "caregiver": {
+      "status": "Yaşlı Bakım",
+      "title": "Bakıcılar ve Yaşlı Bakım Uzmanları",
+      "description": "Yaşlı bakım sektöründe çalışmak isteyen profesyoneller için kapsamlı işe alım ve iş veren ortaklığı. Almanya'daki bakım merkezleri ile bağlantı kurma ve iş yerleştirme desteği.",
+      "button": "Daha fazla bilgi"
+    },
+    "healthTechnician": {
+      "status": "Hastane Yerleştirmesi",
+      "title": "Sağlık Teknisyenleri ve Yardımcı Personel",
+      "description": "Tıbbi teknisyen, laboratuvar uzmanı ve diğer sağlık yardımcı personeli için Almanya vize süreçleri. Mesleki sertifikasyon ve iş bulma desteği ile kapsamlı hizmet.",
+      "button": "Daha fazla bilgi"
+    },
+    "healthExpert": {
+      "status": "Uzmanlık Programı",
+      "title": "Sağlık Uzmanları ve Terapistler",
+      "description": "Fizyoterapist, psikolog, diyetisyen ve diğer sağlık uzmanları için Almanya'da çalışma fırsatları. Uzmanlık alanınıza özel işe alım ve mesleki tanıma süreçleri.",
+      "button": "Daha fazla bilgi"
+    },
+    "construction": {
+      "status": "Yüksek Talep",
+      "title": "İnşaat İşçileri",
+      "description": "İnşaat sektöründe çalışmak isteyen kalifiye işçiler için süreç rehberliği.",
+      "button": "Detaylı Bilgi"
+    },
+    "electrician": {
+      "status": "Aranan Beceri",
+      "title": "Elektrikçiler",
+      "description": "Elektrik tesisatı ve onarım işlerinde çalışmak isteyen elektrikçiler için mesleki süreç.",
+      "button": "Detaylı Bilgi"
+    },
+    "hospitality": {
+      "status": "Popüler Seçim",
+      "title": "Otel & Restoran",
+      "description": "Otel, restoran ve turizm sektöründe çalışmak isteyen profesyoneller için rehberlik.",
+      "button": "Detaylı Bilgi"
+    },
+    "logistics": {
+      "status": "Büyüyen Sektör",
+      "title": "Lojistik & Şoförlük",
+      "description": "Ulaştırma, lojistik ve şoförlük alanında çalışmak isteyen profesyoneller için süreç.",
+      "button": "Detaylı Bilgi"
+    },
+    "service": {
+      "status": "Güvenli Çalışma",
+      "title": "Hizmet Sektörü",
+      "description": "Satış, güvenlik, temizlik ve diğer hizmet sektörlerinde çalışmak isteyenler için rehberlik.",
+      "button": "Detaylı Bilgi"
+    }
+  },
+  "otherProfessions": {
+    "title": "Diğer Meslek Grupları için Ulusal Vize Hizmetleri",
+    "construction": {
+      "title": "İnşaat Sektörü",
+      "description": "İnşaat ve yapı sektöründe çalışmak isteyenler için özel işe alım ve iş veren ortaklığı. Tesisatçı, elektrikçi, marangoz ve diğer teknik personel pozisyonları."
+    },
+    "hospitality": {
+      "title": "Otel & Restoran",
+      "description": "Turizm ve gastronomi sektöründe kariyer fırsatları. Garson, aşçı, otel personeli ve diğer hizmet sektörü pozisyonları için vize süreçleri."
+    },
+    "logistics": {
+      "title": "Lojistik & Ulaşım",
+      "description": "Şoförlük ve lojistik sektöründe çalışma fırsatları. Kamyon şoförü, forklift operatörü ve depo personeli pozisyonları."
+    },
+    "cleaning": {
+      "title": "Temizlik & Hijyen",
+      "description": "Temizlik hizmetleri sektöründe istihdam imkânları. Endüstriyel temizlik, hastane temizliği ve ofis temizlik personeli."
+    },
+    "office": {
+      "title": "Büro & Yönetim",
+      "description": "Ofis çalışanları ve yönetim pozisyonları. Muhasebe, insan kaynakları, sekreterlik ve diğer büro işleri personeli."
+    },
+    "others": {
+      "title": "Diğer Meslekler",
+      "description": "Tarım, üretim, satış ve diğer meslek grupları için özel danışmanlık hizmetleri. Her meslek için uygun vize süreçleri."
+    },
+    "learnMore": "Daha fazla bilgi"
+  },
+  "process": {
+    "tabs": {
+      "jobSearch": "İş Bulma Süreci",
+      "visaApplication": "Vize Başvurusu",
+      "companyAgreements": "Şirket Anlaşmaları"
+    },
+    "content": {
+      "jobSearch": {
+        "title": "Avrupa'da İş Bulma",
+        "subtitle": "Sağlık Sektörü Odaklı",
+        "description": "Sağlık sektöründe iş bulma sürecinde profesyonel rehberlik sunuyoruz. Avrupa'daki hastaneler ve sağlık kuruluşlarıyla olan güçlü ağımız sayesinde size uygun pozisyonları bulmanıza yardımcı oluyoruz.",
+        "detail": "CV hazırlığından mülakata kadar tüm süreçte yanınızdayız.",
+        "footer": "Mesleğinize özel iş fırsatları ve kariyer danışmanlığı hizmetimiz mevcuttur."
+      },
+      "visaApplication": {
+        "title": "Başvuru Süreci Desteği",
+        "subtitle": "Başvuru Süreci",
+        "description": "Avrupa ulusal çalışma vizesi başvuru sürecinizde bilgilendirme ve yönlendirme sağlıyoruz. Süreç boyunca size destek olarak, başvurunuzu daha kolay takip etmenize yardımcı oluyoruz.",
+        "detail": "Belgelerinizi hazırlarken ve randevu alırken dikkat etmeniz gerekenler konusunda sizi bilgilendiriyoruz.",
+        "footer": "Süreç hakkında daha fazla bilgi için bize ulaşın."
+      },
+      "companyAgreements": {
+        "title": "Partner Şirketler",
+        "subtitle": "İş Garantisi",
+        "description": "Avrupa'daki partner hastane ve sağlık kuruluşları ile özel anlaşmalarımız sayesinde size doğrudan iş fırsatları sunuyoruz.",
+        "detail": "İş teklifi aldıktan sonra vize süreciniz çok daha hızlı ve güvenli şekilde ilerler.",
+        "footer": "Partner şirketlerimizle uzun vadeli kariyer planlaması yapabilirsiniz."
+      }
+    }
+  },
+  "about": {
+    "title": "Farklı bir danışmanlık anlayışı.",
+    "description": "Sağlık, hizmet, inşaat ve diğer sektörlerdeki uluslararası kariyer hedeflerinizi gerçekleştirmek için kapsamlı hizmetler sunuyoruz.",
+    "statsTitle": "Rakamlarla",
+    "stats": {
+      "experience": "Yıllık Altyapı",
+      "healthPersonnel": "Genel Personel",
+      "successRate": "Başarı Oranı",
+      "partners": "Partner Kuruluş"
+    },
+    "content": {
+      "paragraph1": "Sağlık, hizmet, inşaat ve diğer sektörler sürekli değişiyor ve gelişiyor. Avrupa'da nitelikli personel ihtiyacı her geçen gün artmaktadır. Şimdi bu fırsatı değerlendirmenin tam zamanı.",
+      "highlight": "Avrupa'da çalışmak sadece bir hayal değil. Sizin için gerçeğe dönüştürüyoruz.",
+      "paragraph2": "Yıllarca bu sektörlerde çalışan ekibimiz, farklı meslek gruplarının Avrupa'ya yerleşim süreçlerindeki tüm zorluklarla karşılaştı. Geleneksel yöntemler yeterli değil. Biz, sağlık, hizmet, inşaat ve diğer sektörler için özel olarak tasarlanmış, kapsamlı bir danışmanlık hizmeti sunuyoruz."
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Merak edilen herşey",
+    "title": "Avrupa'da iş süreci",
+    "description": "Avrupa güçlü ekonomisi, kültürü ve yüksek yaşam kalitesiyle bilinir. Ancak göçmenler için Avrupa'ya taşınmak sadece yeni bir kariyerden daha fazlası anlamına gelir; yeni bir ortamda yeni bir hayatın başlangıcıdır.",
+    "cards": {
+      "integration": {
+        "title": "Çalışan entegrasyonu",
+        "description": "Uluslararası çalışanlar Almanya'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar. İyi entegrasyon, yalnızca yeni çalışanların yeni ortamlarında kendilerini rahat hissetmelerini sağlamak için değil."
+      },
+      "experiencedVisa": {
+        "title": "Deneyimli profesyoneller için vize",
+        "description": "Deneyimli profesyonel vizesi nedir? Deneyimli profesyoneller için vize (İkamet Yasası'nın 19c Bölümü, 2. Paragrafı), alanlarında en az iki yıllık nitelikli mesleki deneyime sahip ."
+      },
+      "acceleratedProcedures": {
+        "title": "Hızlandırılmış prosedürler",
+        "description": "Hızlandırılmış kalifiye işçi prosedürü nedir? Hızlandırılmış Nitelikli İşçi Prosedürü"
+      },
+      "recruitment": {
+        "title": "İşe alım",
+        "description": "Adım adım. Uluslararası uzmanları işe almak, Almanya'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar."
+      }
+    },
+    "learnMore": "Daha Fazla Bilgi"
+  }
+}

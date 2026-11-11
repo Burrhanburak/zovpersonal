@@ -1,0 +1,119 @@
+{
+  "carousel": {
+    "badge": "Recrutare Internațională Orientată spre Viitor",
+    "title": "Recrutare Internațională Orientată spre Viitor",
+    "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să vă ajute să găsiți jobul visurilor voastre. Oferim instrumentele și resursele de care aveți nevoie pentru a reuși.",
+    "cards": {
+      "recruitment": {
+        "category": "Ospitalitate și curățenie",
+        "title": "Personal hotelier și de curățenie"
+      },
+      "partnership": {
+        "category": "Parteneriat cu Angajatorii",
+        "title": "Parteneriate Strategice de Afaceri"
+      },
+      "visaprocess": {
+        "category": "Vize și Documentație",
+        "title": "Procesare Completă de Vize"
+      },
+      "support": {
+        "category": "Suport 24/7",
+        "title": "Suport Continuu pentru Clienți"
+      },
+      "healthcare": {
+        "category": "Sectorul Sanitar",
+        "title": "Recrutarea Profesioniștilor Medicali"
+      },
+      "construction": {
+        "category": "Sectorul construcțiilor și clădirilor",
+        "title": "Specialiști în sectorul construcțiilor și clădirilor"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Excelență în servicii.",
+        "description": "Oferim personal calificat pentru sectoarele hotelier, restaurante și curățenie, asigurând standarde înalte de servicii și igienă.",
+        "features": [
+          {
+            "title": "Personal verificat",
+            "description": "Acces la profesioniști verificați și instruiți pentru industria ospitalității."
+          },
+          {
+            "title": "Soluții flexibile",
+            "description": "Personal la cerere atât pentru nevoi pe termen scurt, cât și pe termen lung."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Construiți relații de afaceri durabile.",
+        "description": "Creăm parteneriate strategice între angajatori și talente internaționale. Abordarea noastră cuprinzătoare asigură creșterea durabilă și succesul mutual pentru toate părțile implicate.",
+        "features": [
+          {
+            "title": "Managementul Parteneriatelor",
+            "description": "Manageri de cont dedicați pentru construirea continuă a relațiilor și suport."
+          },
+          {
+            "title": "Metrici de Succes",
+            "description": "Urmărirea performanței cu analize detaliate și revizuiri regulate ale parteneriatelor."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Simplificați procedurile complexe de vize.",
+        "description": "Navigați cu încredere prin cerințele internaționale de vize. Echipa noastră de experți gestionează toată documentația, procesele de aplicare și conformitatea legală pentru tranziții fără probleme.",
+        "features": [
+          {
+            "title": "Documentație de Expert",
+            "description": "Pregătirea profesională a tuturor documentelor necesare cu o rată de conformitate de 100%."
+          },
+          {
+            "title": "Conformitate Legală",
+            "description": "Rămâneți la curent cu legile și cerințele de imigrare în schimbare."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Suport care nu se oprește niciodată.",
+        "description": "Angajamentul nostru se extinde dincolo de plasare. Oferim suport continuu pentru a asigura succesul pe termen lung atât pentru angajatori, cât și pentru angajați pe parcursul călătoriei lor.",
+        "features": [
+          {
+            "title": "Disponibilitate 24/7",
+            "description": "Suport non-stop pentru probleme urgente și asistență continuă."
+          },
+          {
+            "title": "Suport pentru Integrare",
+            "description": "Servicii de integrare culturală și adaptare pentru tranziții fluide."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Excelența talentelor din sănătate.",
+        "description": "Recrutarea specializată pentru profesioniștii din sănătate, inclusiv doctori, asistente medicale, terapeuți și tehnicieni medicali. Înțelegem cerințele unice ale sectorului sanitar.",
+        "features": [
+          {
+            "title": "Licențe Medicale",
+            "description": "Asistență pentru recunoașterea licențelor medicale și certificarea profesională."
+          },
+          {
+            "title": "Validarea Competențelor",
+            "description": "Evaluarea cuprinzătoare a calificărilor medicale și a competențelor practice."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "Forță de muncă specializată în sectorul construcțiilor.",
+        "description": "Conceput special pentru maiștri, tehnicieni, arhitecți, ingineri, tencuitori, zugravi și experți în construcții. Cererea mare de forță de muncă calificată în sectorul construcțiilor din Germania a dus la reglementări speciale care facilitează intrarea specialiștilor străini în această industrie.",
+        "features": [
+          {
+            "title": "Cerințe lingvistice",
+            "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale."
+          },
+          {
+            "title": "Începerea rapidă a muncii",
+            "description": "Plasare rapidă pentru nevoi urgente în proiecte de construcții."
+          }
+        ]
+      }
+    }
+  }
+}

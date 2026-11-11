@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "Uluslararası Geleceğe Yönelik İşe Alım",
+    "description": "Modern dünyada yeteneklerin sınırları yok. Geleceğin işgücünü bugünden keşfedin ve uluslararası yeteneklerle şirketinizi güçlendirin."
+  },
+  "vision": {
+    "title": "Geleceğin İş Dünyasını Şekillendiriyoruz",
+    "subtitle": "Dijital Çağda İnsan Kaynakları",
+    "description": "Teknoloji hızla gelişirken, en önemli kaynak hala insan. Uluslararası yetenekleri keşfetmek ve onları doğru pozisyonlarda değerlendirmek, şirketlerin rekabet avantajı elde etmesinin anahtarıdır.",
+    "features": [
+      {
+        "title": "AI Destekli Eşleştirme",
+        "description": "Yapay zeka algoritmaları ile adayları ve pozisyonları mükemmel uyumla eşleştiriyoruz."
+      },
+      {
+        "title": "Küresel Yetenek Havuzu",
+        "description": "50+ ülkeden nitelikli profesyonellerle geniş ağımız sayesinde ihtiyacınız olan yetenekleri buluyoruz."
+      },
+      {
+        "title": "Hızlı İşe Alım Süreci",
+        "description": "Geleneksel süreçleri %70 kısaltarak 2-4 hafta içinde işe alım tamamlıyoruz."
+      },
+      {
+        "title": "Kültürel Entegrasyon",
+        "description": "Uluslararası çalışanların şirket kültürünüze uyumunu sağlayacak entegrasyon programları sunuyoruz."
+      }
+    ]
+  },
+  "trends": {
+    "title": "İşgücü Trendleri",
+    "subtitle": "Geleceği Öngören Stratejiler",
+    "items": [
+      {
+        "trend": "Hibrit Çalışma Modeli",
+        "impact": "Yeteneklerin coğrafi sınırları aşması",
+        "percentage": "89%",
+        "description": "Şirketlerin hibrit çalışma modelini benimsiyor"
+      },
+      {
+        "trend": "Dijital Beceriler",
+        "impact": "Her pozisyonda teknoloji kullanımı",
+        "percentage": "95%",
+        "description": "İş rollerinin dijital beceri gerektiriyor"
+      },
+      {
+        "trend": "Çeşitlilik ve Kapsayıcılık",
+        "impact": "Performans ve inovasyon artışı",
+        "percentage": "76%",
+        "description": "Daha iyi finansal sonuçlar elde ediyor"
+      },
+      {
+        "trend": "Sürdürülebilirlik Odaklı",
+        "impact": "Çevre bilincli çalışan tercihi",
+        "percentage": "73%",
+        "description": "Yeteneklerin sürdürülebilir şirketleri tercih ediyor"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "İnovatif İşe Alım Metodolojimiz",
+    "subtitle": "Veri Odaklı Yaklaşım",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "İhtiyaç Analizi",
+        "description": "Şirketinizin mevcut ve gelecekteki ihtiyaçlarını detaylı analiz ediyoruz.",
+        "duration": "1-2 gün",
+        "tools": [
+          "AI Analytics",
+          "Market Research",
+          "Skill Mapping"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Yetenek Keşfi",
+        "description": "Küresel veritabanımızdan en uygun adayları belirliyoruz.",
+        "duration": "3-5 gün",
+        "tools": [
+          "Global Sourcing",
+          "Social Recruiting",
+          "Network Analysis"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Değerlendirme ve Filtreleme",
+        "description": "Çok aşamalı değerlendirme süreciyle en iyi adayları seçiyoruz.",
+        "duration": "1-2 hafta",
+        "tools": [
+          "Technical Assessment",
+          "Culture Fit Analysis",
+          "Reference Check"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Sunum ve Entegrasyon",
+        "description": "Seçilen adayları size sunuyor ve entegrasyon sürecini yönetiyoruz.",
+        "duration": "1-3 hafta",
+        "tools": [
+          "Interview Coordination",
+          "Offer Management",
+          "Onboarding Support"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Başarı Hikayeleri",
+    "subtitle": "Rakamlarla Başarımız",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Başarılı İşe Alım",
+        "period": "Son 12 ay"
+      },
+      {
+        "number": "95%",
+        "label": "Müşteri Memnuniyeti",
+        "period": "Sürekli"
+      },
+      {
+        "number": "2.5x",
+        "label": "Hız Artışı",
+        "period": "Geleneksel yöntemlere göre"
+      },
+      {
+        "number": "35+",
+        "label": "Ülke Erişimi",
+        "period": "Küresel ağ"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Geleceğin İşgücünü Bugün Keşfedin",
+    "description": "Uluslararası yeteneklerle şirketinizi güçlendirmek ve rekabet avantajı elde etmek için hemen başlayın.",
+    "primaryButton": "Ücretsiz Konsültasyon",
+    "secondaryButton": "Başarı Hikayelerini İncele"
+  }
+}

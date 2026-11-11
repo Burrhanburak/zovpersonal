@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Nationales Arbeitsvisum Antragsprozess",
+    "description": "Das nationale Arbeitsvisum gewährt das Recht zur Einreise nach Deutschland für langfristige Aufenthalte zu Arbeitszwecken. Je nach Art der Arbeit wird das Visum mit einer Gültigkeitsdauer von bis zu einem Jahr ausgestellt. Nach der Einreise müssen Sie in der Regel eine inländische Aufenthaltserlaubnis beantragen. Dieser Visumtyp gilt nur für bestimmte Arbeitspositionen und gewährt keine Freizügigkeit im Schengen-Raum."
+  },
+  "appointmentSystem": {
+    "title": "Terminsystem",
+    "description": "Termine werden über das nationale Terminsystem vergeben",
+    "ourService": "Unser Service:",
+    "serviceDescription": "Wir kümmern uns um die Terminverfahren für Sie. Wir vereinbaren die notwendigen Termine und führen die Verfahren durch. Erforderliche Dokumente werden von Ihnen angefordert und organisiert, dann verfolgen wir den Prozess."
+  },
+  "preparation": {
+    "title": "Vorbereitung",
+    "description": "Nutzen Sie das Online-Terminsystem für nationale Visa, um Ihren Aufenthaltszweck und die einzureichenden Dokumente zu erfahren. Registrieren Sie sich gegen Gebühr über das Online-Terminsystem auf der Warteliste für Ihren Aufenthaltszweck."
+  },
+  "application": {
+    "title": "Antragstellung",
+    "description1": "Aufgrund der Beteiligung deutscher Innenbehörden am Verfahren dauert die Dokumentenbearbeitung in der Regel bis zu drei Monate (oder in einigen Fällen länger). Wenn Sie Ihren Reisepass während des Bewertungsprozesses Ihres Antrags benötigen, können Sie sich an die zuständige Visaabteilung wenden, indem Sie Ihre Antragsnummer in Ihrem unterschriebenen schriftlichen Antrag angeben.",
+    "description2": "Eine Servicegebühr muss bezahlt werden. Nach der Abnahme Ihrer Fingerabdrücke werden Ihr Reisepass und die erforderlichen Dokumente von der Visaabteilung für den Bewertungsprozess entgegengenommen."
+  },
+  "afterEvaluation": {
+    "title": "Nach der Bewertung",
+    "description": "Unmittelbar nach Abschluss des Bewertungsprozesses der Anträge wird Ihr Reisepass zusammen mit einigen von Ihnen eingereichten Originaldokumenten in einem Umschlag entweder an ihre Büros oder direkt per Post an Sie zurückgesandt."
+  },
+  "note": {
+    "label": "Hinweis:",
+    "text": "Die Preisgestaltung erfolgt pro Person, und der Prozess variiert je nach Datei- und Dokumentenvielfalt sowie Visumtyp."
+  },
+  "processingTimes": {
+    "title": "Bearbeitungszeiten",
+    "importantInfo": {
+      "title": "Wichtige Information",
+      "description": "Planen Sie vor der Antragstellung bitte die Terminwartezeit und die Zeit ein, die für die Rückgabe Ihres Reisepasses erforderlich ist."
+    },
+    "decisionAuthority": {
+      "title": "Entscheidungsbefugnis",
+      "description": "Die Entscheidung über die Genehmigung oder Ablehnung des Antrags wird nur von den Auslandsvertretungen getroffen."
+    },
+    "holidayEffect": {
+      "title": "Feiertagseffekt",
+      "description": "Die Bearbeitungszeiten können aufgrund türkischer und deutscher Feiertage variieren. Daher empfehlen wir, frühzeitig einen Visumantrag zu stellen."
+    },
+    "applicationTracking": {
+      "title": "Antragsverfolgung",
+      "description": "Sie können verfolgen, in welchem Stadium sich Ihr Antrag befindet, indem Sie uns kontaktieren."
+    }
+  }
+}

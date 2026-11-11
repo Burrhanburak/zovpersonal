@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "title": "Deutschland Nationales Visum - Berufe und Verfahren",
+    "subtitle": "Ihr nationales Visumantragsprozess für die Arbeit im deutschen Gesundheitswesen"
+  },
+  "navigation": {
+    "previousSlide": "Vorherige Folie",
+    "nextSlide": "Nächste Folie"
+  },
+  "carousel": {
+    "doctor": {
+      "status": "Arztvisum",
+      "title": "Deutsches Nationales Visum für Ärzte",
+      "description": "Wir bieten umfassende Visumberatung und Prozessmanagement für Medizinabsolventen, die als Ärzte in Deutschland arbeiten möchten. Professionelle Unterstützung bei Diplomanerkennung und Sprachprüfungsverfahren.",
+      "button": "Mehr erfahren"
+    },
+    "nurse": {
+      "status": "Krankenpflegervisum",
+      "title": "Professionelle Unterstützung für Krankenpfleger",
+      "description": "Expertenberatung für Pflegeabsolventen bei Arbeitserlaubnis und nationalen Visumverfahren in Deutschland. Vollständige Unterstützung bei der Anerkennung beruflicher Kompetenzen und Sprachkenntnissen.",
+      "button": "Mehr erfahren"
+    },
+    "caregiver": {
+      "status": "Altenpflege",
+      "title": "Betreuer und Altenpflegespezialisten",
+      "description": "Umfassende Visumberatung für Fachkräfte, die im Altenpflegebereich arbeiten möchten. Verbindung mit Pflegezentren in Deutschland und Jobvermittlungsunterstützung.",
+      "button": "Mehr erfahren"
+    },
+    "healthTechnician": {
+      "status": "Krankenhausvermittlung",
+      "title": "Gesundheitstechniker und Hilfspersonal",
+      "description": "Deutsche Visumverfahren für Medizintechniker, Laborspezialisten und andere Gesundheitshilfskräfte. Umfassender Service mit beruflicher Zertifizierung und Jobsuchunterstützung.",
+      "button": "Mehr erfahren"
+    },
+    "healthExpert": {
+      "status": "Spezialisierungsprogramm",
+      "title": "Gesundheitsspezialisten und Therapeuten",
+      "description": "Arbeitsmöglichkeiten in Deutschland für Physiotherapeuten, Psychologen, Ernährungsberater und andere Gesundheitsspezialisten. Spezialisierte Visumberatung und berufliche Anerkennungsverfahren für Ihr Fachgebiet.",
+      "button": "Mehr erfahren"
+    },
+    "construction": {
+      "status": "Hohe Nachfrage",
+      "title": "Bauarbeiter",
+      "description": "Prozessberatung für Fachkräfte, die im Baugewerbe arbeiten möchten.",
+      "button": "Mehr erfahren"
+    },
+    "electrician": {
+      "status": "Gefragte Fähigkeit",
+      "title": "Elektriker",
+      "description": "Beruflicher Prozess für Elektriker, die in Elektroinstallation und Reparatur arbeiten möchten.",
+      "button": "Mehr erfahren"
+    },
+    "hospitality": {
+      "status": "Beliebte Wahl",
+      "title": "Hotel & Restaurant",
+      "description": "Beratung für Fachkräfte, die im Hotel-, Restaurant- und Tourismussektor arbeiten möchten.",
+      "button": "Mehr erfahren"
+    },
+    "logistics": {
+      "status": "Wachsender Sektor",
+      "title": "Logistik & Fahren",
+      "description": "Prozess für Fachkräfte, die in Transport, Logistik und Fahren arbeiten möchten.",
+      "button": "Mehr erfahren"
+    },
+    "service": {
+      "status": "Sichere Beschäftigung",
+      "title": "Dienstleistungssektor",
+      "description": "Beratung für diejenigen, die im Verkauf, Sicherheit, Reinigung und anderen Dienstleistungsbereichen arbeiten möchten.",
+      "button": "Mehr erfahren"
+    }
+  },
+  "otherProfessions": {
+    "title": "Nationale Visumdienste für andere Berufsgruppen",
+    "construction": {
+      "title": "Baugewerbe",
+      "description": "Spezielle Visumberatung für diejenigen, die im Bau- und Baugewerbe arbeiten möchten. Klempner, Elektriker, Tischler und andere technische Personalpositionen."
+    },
+    "hospitality": {
+      "title": "Hotel & Restaurant",
+      "description": "Karrieremöglichkeiten im Tourismus- und Gastronomiebereich. Visumverfahren für Kellner, Koch, Hotelpersonal und andere Dienstleistungspositionen."
+    },
+    "logistics": {
+      "title": "Logistik & Transport",
+      "description": "Arbeitsmöglichkeiten im Fahr- und Logistikbereich. LKW-Fahrer, Gabelstaplerfahrer und Lagerpersonal."
+    },
+    "cleaning": {
+      "title": "Reinigung & Hygiene",
+      "description": "Beschäftigungsmöglichkeiten im Reinigungsdienstleistungsbereich. Industriereinigung, Krankenhausreinigung und Büroreinigungspersonal."
+    },
+    "office": {
+      "title": "Büro & Management",
+      "description": "Büroangestellte und Managementpositionen. Buchhaltung, Personalwesen, Sekretariat und andere Büroarbeitskräfte."
+    },
+    "others": {
+      "title": "Andere Berufe",
+      "description": "Spezielle Beratungsdienstleistungen für Landwirtschaft, Produktion, Verkauf und andere Berufsgruppen. Geeignete Visumverfahren für jeden Beruf."
+    },
+    "learnMore": "Mehr erfahren"
+  },
+  "process": {
+    "tabs": {
+      "jobSearch": "Jobsuchprozess",
+      "visaApplication": "Visumantrag",
+      "companyAgreements": "Unternehmensvereinbarungen"
+    },
+    "content": {
+      "jobSearch": {
+        "title": "Arbeit finden in Europa",
+        "subtitle": "Gesundheitswesen fokussiert",
+        "description": "Wir bieten professionelle Beratung im Jobsuchprozess im Gesundheitswesen. Dank unserem starken Netzwerk mit Krankenhäusern und Gesundheitseinrichtungen in Europa helfen wir Ihnen, für Sie geeignete Positionen zu finden.",
+        "detail": "Wir begleiten Sie durch den gesamten Prozess von der Lebenslaufvorbereitung bis zum Vorstellungsgespräch.",
+        "footer": "Wir haben Karriereberatungsdienste speziell für Ihren Beruf und Jobmöglichkeiten."
+      },
+      "visaApplication": {
+        "title": "Unterstützung im Bewerbungsprozess",
+        "subtitle": "Antragsprozess",
+        "description": "Wir bieten Informationen und Orientierungshilfen für Ihr Antragsverfahren für ein europäisches nationales Arbeitsvisum. Indem wir Sie während des gesamten Prozesses unterstützen, helfen wir Ihnen, Ihren Antrag leichter zu verfolgen.",
+        "detail": "Wir informieren Sie darüber, was Sie bei der Vorbereitung Ihrer Unterlagen und der Vereinbarung eines Termins beachten müssen.",
+        "footer": "Kontaktieren Sie uns für weitere Informationen zum Prozess."
+      },
+      "companyAgreements": {
+        "title": "Partnerunternehmen",
+        "subtitle": "Jobgarantie",
+        "description": "Dank unserer speziellen Vereinbarungen mit Partnerkrankenhäusern und Gesundheitseinrichtungen in Europa bieten wir Ihnen direkte Jobmöglichkeiten.",
+        "detail": "Nach Erhalt eines Jobangebots verläuft Ihr Visumprozess viel schneller und sicherer.",
+        "footer": "Sie können mit unseren Partnerunternehmen langfristige Karriereplanung machen."
+      }
+    }
+  },
+  "about": {
+    "title": "Eine andere Art der Beratung.",
+    "description": "Wir bieten umfassende Dienstleistungen zur Verwirklichung Ihrer internationalen Karriereziele im Gesundheitswesen, Dienstleistungssektor, Bauwesen und anderen Branchen.",
+    "statsTitle": "In Zahlen",
+    "stats": {
+      "experience": "Jahre Infrastruktur",
+      "healthPersonnel": "Allgemeines Personal",
+      "successRate": "Erfolgsquote",
+      "partners": "Partnerorganisationen"
+    },
+    "content": {
+      "paragraph1": "Gesundheitswesen, Dienstleistungssektor, Bauwesen und andere Branchen verändern und entwickeln sich ständig. Der Bedarf an qualifiziertem Personal in Europa steigt täglich. Jetzt ist die richtige Zeit, diese Gelegenheit zu nutzen.",
+      "highlight": "In Europa zu arbeiten ist nicht nur ein Traum. Wir machen es für Sie zur Realität.",
+      "paragraph2": "Unser Team, das jahrelang in diesen Sektoren gearbeitet hat, stand vor allen Herausforderungen in den Ansiedlungsprozessen verschiedener Berufsgruppen in Europa. Traditionelle Methoden reichen nicht aus. Wir bieten einen umfassenden Beratungsservice, der speziell für Gesundheitswesen, Dienstleistungen, Bauwesen und andere Branchen entwickelt wurde."
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Alles was Sie wissen müssen",
+    "title": "Arbeitsprozess in Europa",
+    "description": "Europa ist bekannt für seine starke Wirtschaft, Kultur und hohe Lebensqualität. Für Einwanderer bedeutet der Umzug nach Europa jedoch mehr als nur eine neue Karriere; es ist der Beginn eines neuen Lebens in einer neuen Umgebung.",
+    "cards": {
+      "integration": {
+        "title": "Mitarbeiterintegration",
+        "description": "Nachdem internationale Mitarbeiter erfolgreich Europa erreicht haben, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um langfristige Bindung an das Unternehmen zu gewährleisten."
+      },
+      "experiencedVisa": {
+        "title": "Visum für erfahrene Fachkräfte",
+        "description": "Was ist ein Visum für erfahrene Fachkräfte? Das Visum für erfahrene Fachkräfte (§ 19c Aufenthaltsgesetz, Absatz 2) richtet sich an Fachkräfte, die mindestens zwei Jahre qualifizierte Berufserfahrung in ihrem Bereich haben, aber keinen formalen Universitätsabschluss besitzen."
+      },
+      "acceleratedProcedures": {
+        "title": "Beschleunigte Verfahren",
+        "description": "Was ist das beschleunigte Fachkräfteverfahren? Das Beschleunigte Fachkräfteverfahren ist ein spezieller Prozess, der entwickelt wurde, um den Einwanderungs- und Anerkennungsprozess für Fachkräfte aus dem Ausland zu beschleunigen."
+      },
+      "recruitment": {
+        "title": "Rekrutierung",
+        "description": "Schritt für Schritt. Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Europa zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen."
+      }
+    },
+    "learnMore": "Mehr erfahren"
+  }
+}

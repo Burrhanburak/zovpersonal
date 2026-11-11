@@ -1,7 +1,9 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import React from 'react';
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 import { Heart, Shield, TrendingUp } from 'lucide-react';
 
 interface FeatureItemProps {
@@ -24,17 +26,6 @@ function FeatureItem({ Icon, title }: FeatureItemProps) {
 
 export default function AboutSection() {
   const t = useTranslations('about');
-
-  const stats = [
-    {
-      number: t('stats.experience.number'),
-      label: t('stats.experience.label')
-    },
-    {
-      number: t('stats.clients.number'),
-      label: t('stats.clients.label')
-    }
-  ];
 
   const features = [
     {
@@ -67,66 +58,19 @@ export default function AboutSection() {
         }}
       >
         
-        {/* Left Side - Stats */}
-        <div 
-          className="flex items-center justify-center relative overflow-visible flex-row gap-0"
-          style={{
-            width: 'min-content',
-            minWidth: 'fit-content'
-          }}
-        >
-          {/* Experience Card - Responsive */}
-          <div className="flex flex-col items-center justify-center w-[180px] sm:w-[220px] lg:w-[260px] h-[180px] sm:h-[220px] lg:h-[260px] aspect-square relative overflow-visible p-0 gap-2.5 flex-none">
-            <div 
-              className="w-[180px] sm:w-[220px] lg:w-[260px] h-[180px] sm:h-[220px] lg:h-[260px] rounded-full flex flex-row items-center justify-center gap-2.5 p-0 relative aspect-square flex-none"
-              style={{ backgroundColor: '#1c2706' }}
-            >
-              <div className="flex flex-col items-center justify-start flex-shrink-0">
-                <div className="flex flex-col justify-start flex-shrink-0">
-                  <h1 
-                    className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-white text-center"
-                    style={{ color: 'rgb(255, 255, 255)' }}
-                  >
-                    {stats[0].number}
-                  </h1>
-                </div>
-                <div className="flex flex-col justify-start flex-shrink-0">
-                  <h6 
-                    className="text-xs sm:text-sm font-medium text-white text-center px-1"
-                    style={{ color: 'rgb(255, 255, 255)' }}
-                  >
-                    {stats[0].label}
-                  </h6>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          {/* Clients Card - Responsive */}
-          <div className="flex flex-col items-center justify-center w-[140px] sm:w-[165px] lg:w-[190px] h-[140px] sm:h-[165px] lg:h-[190px] aspect-square relative overflow-visible p-0 gap-2.5 flex-none">
-            <div 
-              className="w-[140px] sm:w-[165px] lg:w-[190px] h-[140px] sm:h-[165px] lg:h-[190px] rounded-full flex flex-row items-center justify-center gap-2.5 p-0 relative aspect-square flex-none"
-              style={{ backgroundColor: '#1c2706' }}
-            >
-              <div className="flex flex-col items-center justify-start flex-shrink-0">
-                <div className="flex flex-col justify-start flex-shrink-0">
-                  <h3 
-                    className="text-2xl sm:text-3xl lg:text-3xl xl:text-4xl font-bold text-white text-center"
-                    style={{ color: 'rgb(255, 255, 255)' }}
-                  >
-                    {stats[1].number}
-                  </h3>
-                </div>
-                <div className="flex flex-col justify-start flex-shrink-0">
-                  <h6 
-                    className="text-xs sm:text-sm font-medium text-white text-center px-1"
-                    style={{ color: 'rgb(255, 255, 255)' }}
-                  >
-                    {stats[1].label}
-                  </h6>
-                </div>
-              </div>
-            </div>
+        {/* Left Side - Experience Image */}
+        <div className="relative w-full max-w-[420px] aspect-[4/3] lg:aspect-square rounded-[24px] overflow-hidden flex-shrink-0">
+          <Image
+            src={assetUrl("experience-team.jpg")}
+            alt={t('images.teamWork')}
+            fill
+            className="object-cover"
+            sizes="(max-width: 1024px) 100vw, 420px"
+          />
+          <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#1c2706]/90 to-transparent p-5 sm:p-6">
+            <p className="text-white text-sm sm:text-base font-medium">
+              {t('experienceHighlight')}
+            </p>
           </div>
         </div>
 

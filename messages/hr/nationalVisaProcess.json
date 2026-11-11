@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Postupak podnošenja zahtjeva za nacionalnu radnu vizu",
+    "description": "Nacionalna radna viza daje pravo ulaska u Njemačku radi dugotrajnog boravka u svrhu rada. Ovisno o vrsti posla, viza se izdaje s rokom valjanosti do jedne godine. Nakon ulaska u zemlju, obično trebate podnijeti zahtjev za domaću dozvolu boravka. Ova vrsta vize vrijedi samo za određene radne pozicije i ne daje slobodu kretanja u schengenskom području."
+  },
+  "appointmentSystem": {
+    "title": "Sustav za zakazivanje termina",
+    "description": "Termini se dodjeljuju putem nacionalnog sustava za zakazivanje termina",
+    "ourService": "Naša usluga:",
+    "serviceDescription": "Mi za vas obavljamo postupke zakazivanja termina. Dogovaramo potrebne termine i provodimo procedure. Potrebni dokumenti bit će zatraženi od vas i organizirani, nakon čega pratimo proces."
+  },
+  "preparation": {
+    "title": "Priprema",
+    "description": "Koristite online sustav za zakazivanje termina za nacionalne vize kako biste saznali o svrsi svog boravka i dokumentima koje trebate podnijeti. Registrirajte se na listu čekanja za termine za svrhu vašeg boravka putem online sustava za zakazivanje uz naknadu."
+  },
+  "application": {
+    "title": "Podnošenje zahtjeva",
+    "description1": "Zbog uključenosti njemačkih unutarnjih vlasti u proces, obrada dokumenata obično će trajati do tri mjeseca (ili duže u nekim slučajevima). Ako vam je putovnica potrebna tijekom postupka ocjenjivanja vašeg zahtjeva, možete se obratiti nadležnom odjelu za vize navodeći broj vašeg zahtjeva u svom potpisanom pisanom podnesku.",
+    "description2": "Naknada za uslugu mora biti plaćena. Nakon što se uzmu vaši otisci prstiju, vaša putovnica i potrebni dokumenti primaju se u odjelu za vize na postupak ocjenjivanja."
+  },
+  "afterEvaluation": {
+    "title": "Nakon ocjenjivanja",
+    "description": "Odmah nakon završetka postupka ocjenjivanja zahtjeva, vaša putovnica vraća vam se u omotnici zajedno s nekim originalnim dokumentima koje ste podnijeli, bilo u njihove urede ili izravno poštom."
+  },
+  "note": {
+    "label": "Napomena:",
+    "text": "Cijene su po osobi, a proces varira ovisno o raznolikosti datoteka i dokumenata te vrsti vize."
+  },
+  "processingTimes": {
+    "title": "Vrijeme obrade",
+    "importantInfo": {
+      "title": "Važne informacije",
+      "description": "Prije podnošenja zahtjeva, molimo vas da planirate vrijeme čekanja na termin i vrijeme potrebno za povrat vaše putovnice."
+    },
+    "decisionAuthority": {
+      "title": "Tijelo za donošenje odluka",
+      "description": "Odluku o odobrenju ili odbijanju zahtjeva donose samo strana predstavništva."
+    },
+    "holidayEffect": {
+      "title": "Učinak praznika",
+      "description": "Vrijeme obrade može varirati zbog turskih i njemačkih državnih praznika. Stoga preporučujemo podnošenje zahtjeva za vizu u ranijem terminu."
+    },
+    "applicationTracking": {
+      "title": "Praćenje zahtjeva",
+      "description": "Možete pratiti u kojoj je fazi vaš zahtjev tako da nas kontaktirate."
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Recenzii Clienți",
+  "subtitle": {
+    "line1": "Experiențele și opiniile",
+    "line2": "clienților noștri de succes"
+  },
+  "review1": {
+    "title": "Serviciu Excelent",
+    "content": "Datorită ZovPersonal, visul meu de a lucra ca asistent medical în Germania s-a împlinit. Au fost cu mine la fiecare pas pe parcursul procesului și m-au ținut constant informat.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Asistent Medical - Germania",
+    "text": "Datorită ZovPersonal, visul meu de a lucra ca asistent medical în Germania s-a împlinit. Au fost cu mine la fiecare pas pe parcursul procesului.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Abordare Profesională",
+    "content": "Datorită abordării lor profesionale și ghidării detaliate, am obținut viza de muncă pentru Germania fără probleme. Echipa este cu adevărat informată și experimentată.",
+    "name": "Inginer Busra Oz",
+    "role": "Dezvoltator Software - Olanda",
+    "text": "Datorită abordării lor profesionale și ghidării detaliate, am obținut viza de muncă pentru Germania fără probleme. Mulțumesc ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Proces Simplificat",
+    "content": "Când am aplicat pentru viza de educație în Canada, părea foarte complex. ZovPersonal a simplificat totul și a oferit ghidare pas cu pas.",
+    "name": "Profesor Nicolaus Voss",
+    "role": "Profesor - Canada",
+    "text": "Când am aplicat pentru viza de educație în Canada, părea foarte complex. ZovPersonal a simplificat totul.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Partener de Încredere",
+    "content": "Am ales ZovPersonal pentru a obține permisul de muncă ca medic în Germania. Am luat decizia corectă, procesul a decurs foarte rapid.",
+    "name": "Dr. Georgi Vasilev",
+    "role": "Medic - Bulgaria",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Rezultat Excelent",
+    "content": "Eram foarte îngrijorat când am aplicat pentru viza de muncă în Australia. Echipa ZovPersonal m-a liniștit și a avut un rol major în obținerea rezultatelor de succes.",
+    "name": "Arhitect Marko Balković",
+    "role": "Arhitect - Australia",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Rapid și Eficient",
+    "content": "Când am găsit o oportunitate de muncă în Germania, nu aveam idee despre procesul de viză. Datorită ZovPersonal, totul s-a rezolvat foarte rapid.",
+    "name": "Inginer Andrei Popescu",
+    "role": "Inginer Electric - România",
+    "rating": 5
+  }
+}

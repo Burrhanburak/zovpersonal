@@ -1,7 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+function getResend() {
+  const key = process.env.RESEND_API_KEY;
+  if (!key) {
+    throw new Error('RESEND_API_KEY is not configured');
+  }
+  return new Resend(key);
+}
 
 // Çeviri objeleri
 const translations = {
@@ -207,7 +213,7 @@ export async function POST(request: NextRequest) {
     `;
 
     // Send email using Resend
-    const result = await resend.emails.send({
+    const result = await getResend().emails.send({
       from: 'ZovPersonal <info@zovpersonal.com>', // Bu domain'i Resend'de verify etmen gerekiyor
       to: ['info@zovpersonal.com'],
       replyTo: email, // User'ın mailini reply-to olarak ekle

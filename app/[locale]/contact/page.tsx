@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { Instagram, Twitter, Linkedin, Facebook, ChevronDown } from "lucide-react";
+import { ChevronDown } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import z from "zod";
 import { zodResolver } from '@hookform/resolvers/zod';
@@ -100,56 +100,33 @@ export default function ContactPage() {
         
         <div className="mt-10 flex justify-between gap-8 max-sm:flex-col md:mt-14 lg:mt-20 lg:gap-12">
           <div>
-            <h2 className="font-semibold">{t('contact.offices.istanbul')}</h2>
+            <h2 className="font-semibold">{t('contact.offices.emden')}</h2>
             <p className="mt-3 text-muted-foreground">
-              Online<br />
-            </p>
-          </div>
-          
-          <div>
-            <h2 className="font-semibold">{t('contact.offices.berlin')}</h2>
-            <p className="mt-3 text-muted-foreground">
-              Brückstraße 59, 
-              26725 Emden<br />
-              Germany
+              Brückstraße 59,<br />
+              26725 Emden, Germany
             </p>
           </div>
           
           <div>
             <h2 className="font-semibold">{t('contact.sections.email')}</h2>
             <div className="mt-3">
-              <div>
-                <a 
-                  href="mailto:info@zovpersonal.com" 
-                  className="text-muted-foreground hover:text-foreground"
-                >
-                  info@zovpersonal.com
-                </a>
-              </div>
+              <a 
+                href="mailto:info@zovpersonal.com" 
+                className="text-muted-foreground hover:text-foreground"
+              >
+                info@zovpersonal.com
+              </a>
             </div>
           </div>
-          
+
           <div>
-            <h2 className="font-semibold">{t('contact.sections.follow')}</h2>
-            <div className="mt-3 flex gap-6 lg:gap-10 justify-center">
+            <h2 className="font-semibold">{t('contact.phone')}</h2>
+            <div className="mt-3">
               <a 
-                href={t('footer.social.instagram.url')} 
-                target="_blank"
-                rel="noopener noreferrer"
+                href="tel:+4915127027836" 
                 className="text-muted-foreground hover:text-foreground"
-                aria-label="Instagram"
               >
-                <Instagram className="size-5" />
-              </a>
-             
-              <a 
-                href={t('footer.social.facebook.url')} 
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-muted-foreground hover:text-foreground"
-                aria-label="LinkedIn"
-              >
-                <Facebook className="size-5" />
+                +49 1512 7027836
               </a>
             </div>
           </div>

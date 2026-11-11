@@ -1,0 +1,24 @@
+{
+  "title": "Berufskategorien",
+  "subtitle": "Wir spezialisieren uns auf Visa-Anträge für verschiedene Berufsfelder",
+  "healthcare": {
+    "title": "Gesundheitsfachkräfte",
+    "description": "Pflegekräfte, Ärzte, Therapeuten und andere Gesundheitsarbeiter",
+    "requirements": "Erforderliche Dokumente und Qualifikationen"
+  },
+  "engineering": {
+    "title": "Ingenieure & IT",
+    "description": "Softwareentwickler, Ingenieure und technische Spezialisten",
+    "requirements": "Technische Qualifikationsanforderungen"
+  },
+  "skilled": {
+    "title": "Facharbeiter",
+    "description": "Handwerker, Techniker und Facharbeiter",
+    "requirements": "Berufszertifizierungsanforderungen"
+  },
+  "education": {
+    "title": "Bildung & Forschung",
+    "description": "Lehrer, Forscher und akademische Fachkräfte",
+    "requirements": "Akademische Berechtigungsanforderungen"
+  }
+}

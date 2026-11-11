@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "Angajator",
+    "tag2": "Recrutare internațională",
+    "title": "Angajează talente internaționale de top orientate spre viitor",
+    "description": "Conectează-te cu profesioniști calificați din întreaga lume. Noi gestionăm recrutarea internațională orientată spre viitor, conformitatea și integrarea pentru a aduce talente globale în compania ta.",
+    "startHiring": "Începe angajarea",
+    "learnMore": "Află mai multe"
+  },
+  "benefits": {
+    "badge": "Pentru angajatori",
+    "title": "De ce să angajezi talente",
+    "subtitle": "internaționale orientate spre viitor?",
+    "description": "Extinde-ți forța de muncă cu profesioniști calificați din întreaga lume și deblochează oportunități de creștere fără precedent cu soluțiile noastre dovedite de recrutare.",
+    "stats": {
+      "countries": "25+ țări",
+      "hires": "5K+ angajări de succes",
+      "successRate": "98% rată de succes"
+    },
+    "services": [
+      "Aprovizionare cu talente",
+      "Asistență pentru viză",
+      "Conformitate",
+      "Selectarea candidaților",
+      "Asistență la integrare",
+      "Expertiză inter-industrială",
+      "Asistență disponibilă 24/7"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Eficiență",
+        "title": "Simplificat",
+        "subtitle": "Procesul de angajare",
+        "description": "Procesul nostru optimizat reduce timpul de angajare cu 30%, conectându-vă cu candidați calificați mai repede ca niciodată.",
+        "stats": [
+          "Aprovizionare globală cu talente",
+          "Procesare accelerată a vizei",
+          "Reducerea poverii administrative",
+          "Expertiză inter-industrială"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Reducerea timpului de angajare"
+          },
+          "stat2": {
+            "label": "Plasări mai rapide"
+          }
+        }
+      },
+      "quality": {
+        "label": "Calitate",
+        "title": "Calibru înalt",
+        "subtitle": "Talent",
+        "description": "Accesați o bază de 5K+ profesioniști verificați și mențineți o rată de succes de 98% în potrivirea candidaților cu rolurile.",
+        "stats": [
+          "Rețea profesională verificată",
+          "Evaluare cuprinzătoare a competențelor",
+          "Expertiză specifică industriei",
+          "Focalizare pe retenția pe termen lung"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Rata de succes"
+          },
+          "stat2": {
+            "label": "Angajări de succes"
+          }
+        }
+      },
+      "support": {
+        "label": "Asistență",
+        "title": "De la un capăt la altul",
+        "subtitle": "Asistență pentru parteneri",
+        "description": "Oferim asistență 24/7, ocupându-ne de tot, de la conformitate la integrare, pentru o integrare perfectă.",
+        "stats": [
+          "Asistență dedicată 24/7",
+          "Gestionarea completă a conformității",
+          "Asistență la integrare fără probleme",
+          "Asistență continuă post-plasare"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Asistență dedicată"
+          },
+          "stat2": {
+            "label": "Satisfacția clientului"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Servicii pentru angajatori",
+    "title": "Soluții complete de angajare internațională",
+    "items": [
+      {
+        "title": "Căutarea globală de talente",
+        "description": "Acces la profesioniști calificați din 25+ țări cu rețeaua noastră internațională extinsă și baza de date verificată de candidați."
+      },
+      {
+        "title": "Suport complet pentru vize",
+        "description": "Asistență end-to-end pentru vize incluzând pregătirea documentelor, ghidarea aplicației și managementul conformității pentru angajare fără probleme."
+      },
+      {
+        "title": "Procesare accelerată",
+        "description": "Proces accelerat de angajare cu 98% rată de succes, reducând timpul de angajare și asigurând plasarea rapidă a candidaților calificați."
+      }
+    ]
+  },
+  "process": {
+    "title": "Procesul nostru de angajare",
+    "description": "Proces simplificat pentru găsirea și angajarea celor mai buni talenți internaționale",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Definirea cerințelor",
+        "description": "Discută nevoile tale specifice de angajare și cerințele postului"
+      },
+      {
+        "step": "02",
+        "title": "Potrivirea candidaților",
+        "description": "Găsește și verifică candidați internaționale calificați"
+      },
+      {
+        "step": "03",
+        "title": "Procesul de interviu",
+        "description": "Facilitează interviurile și evaluările competențelor"
+      },
+      {
+        "step": "04",
+        "title": "Viza și integrarea",
+        "description": "Gestionează procesele de viză și integrarea netedă"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Încrederea companiilor de top",
+    "description": "Antecedentele noastre dovedite vorbesc de la sine",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Companii deservite"
+      },
+      {
+        "number": "5K+",
+        "label": "Angajări de succes"
+      },
+      {
+        "number": "25+",
+        "label": "Țări"
+      },
+      {
+        "number": "98%",
+        "label": "Satisfacția clienților"
+      }
+    ]
+  }
+}

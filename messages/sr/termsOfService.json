@@ -1,0 +1,66 @@
+{
+  "title": "Uslovi Korišćenja",
+  "subtitle": "ZovPersonal Konsultantske Usluge - Bezbednosni Propisi i Zaštita Ličnih Podataka",
+  "sections": {
+    "securityRegulations": {
+      "title": "BEZBEDNOSNI PROPISI",
+      "intro": "Obaveštenje o Bezbednosnim Propisima koji obuhvataju stvari koje moraju biti poštovane i kojima se mora pridržavati od strane aplikanata koji posećuju ZovPersonal Centre za Aplikaciju za Viznu;",
+      "description": "U skladu sa bezbednosnim zahtevima nemačkih/italijanskih predstavništava, aplikanatima koji posećuju ZovPersonal kancelarije zabranjeno je da obavljaju sledeće radnje i donose i koriste navedene predmete u ZovPersonal kancelarijama:",
+      "prohibitedItems": [
+        "Mobilni telefoni, kamere, video kamere ili bilo koji drugi uređaji koji snimaju audio/video (mp3 čitači/plejeri, prenosni računari, uređaji za snimanje na baterije, itd.)",
+        "Svi vrsta zapaljivih (šibice, upaljači, gorivo i slični zapaljivi) i oštrih (makaze, oštrila za olovke, turpije, itd.) predmeta",
+        "Oružje ili predmeti slični oružju ili bilo koji eksplozivni materijali",
+        "Kućni ljubimci (zbog alergijskih osetljivosti)",
+        "Zapečaćene koverte ili paketi",
+        "Hrana i piće",
+        "Torbe ili koferi veći od kabinske veličine, ruksaci, aktovke ili torbe sa patentnim zatvaračem (Ako imate dosijee, možete zadržati samo dosijee koji sadrže tražene dokumente)"
+      ],
+      "disclaimer": "*Gore navedena lista nije ograničena na navedene.",
+      "additionalRules": [
+        "Bezbednosni čuvari i službenici kancelarije imaju pravo da zabrane sumnjive predmete i odbiju ulazak sumnjivim osobama u naše kancelarije. Bezbednosni čuvari imaju ovlašćenje da proveravaju torbu aplikanta u bilo kom trenutku tokom procesa aplikacije za vizu.",
+        "Iz bezbednosnih razloga, trećim stranama kao što su prijatelji, rođaci ili zaposleni na radnom mestu, osim aplikanta, zabranjen je ulazak u aplikacije za vizu (Ulazak u ZovPersonal kancelarije nije moguć osim za aplikanta i osobu koja će aplicirati po punomoćju). Samo 1 osoba će biti prihvaćena da prati aplikanate koji fizički trebaju pomoć drugog, imaju oštećenja sluha ili ne mogu čitati i pisati.",
+        "Aplikanatima je zabranjeno ulaziti u oblasti osim zajedničkih oblasti rezervisanih za aplikanate u našim kancelarijama (radne oblasti osoblja, toaleti, itd.).",
+        "ZovPersonal kancelarije nemaju mesto za čuvanje gore navedenih zabranjenih predmeta. ZovPersonal kancelarije takođe ne prihvataju depozite. Aplikanati se mole da izaberu alternativne načine da ne donose takve karakteristike i tipove predmeta sa sobom pre ulaska u centar.",
+        "ZovPersonal kancelarije se snimaju kamerama 24/7 zbog naše bezbednosne politike."
+      ],
+      "footer": "Poštovano vas obaveštavamo."
+    },
+    "dataProtection": {
+      "title": "OPŠTI TEKST INFORMACIJA O ZAŠTITI I OBRADI LIČNIH PODATAKA",
+      "intro": "Kao ZovPersonal Consulting and Service Foreign Trade Inc. (\"ZovPersonal\" ili \"Kompanija\"), pokazujemo maksimalnu osetljivost prema sigurnosti vaših ličnih podataka. Sa ovom svesti, pridajemo veliku važnost obradi i čuvanju ličnih podataka koji pripadaju fizičkim osobama sa kojima Kompanija interaguje u skladu sa Zakonom o Zaštiti Ličnih Podataka br. 6698 (\"Zakon\"), sekundarnim propisima (propisi, saopštenja, cirkulari) koji su stupili i koji će stupiti na snagu na osnovu Zakona, i obavezujućim odlukama koje je donelo i koje će doneti Odbor za Zaštitu Ličnih Podataka.",
+      "dataController": {
+        "title": "Informacije o Kontroloru Podataka",
+        "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., registrovan kod Trgovinskog Registra Istanbul, je Kontrolor Podataka u skladu sa Zakonom."
+      },
+      "processingPurposes": {
+        "title": "Svrhe Obrade Ličnih Podataka",
+        "content": "Vaši lični podaci se obrađuju od strane Kompanije za svrhe obavljanja neophodnih radova od strane poslovnih jedinica Kompanije i sprovođenja aktivnosti u tom pravcu za ispunjenje komercijalnih aktivnosti Kompanije u skladu sa zakonodavstvom i politikama Kompanije, određivanje, planiranje i implementaciju kratkoročnih, srednjoročnih i dugoročnih komercijalnih politika Kompanije, ispunjenje obaveza Kompanije koje proističu iz relevantnog zakonodavstva, upravljanje odnosima sa klijentima i procesima korporativne komunikacije, upravljanje procesima prodaje usluga, upravljanje procesima pozivnog centra, i obezbeđivanje komercijalne i pravne sigurnosti fizičkih i pravnih lica sa kojima Kompanija ima poslovne odnose, unutar granica specificiranih u Zakonu, u skladu sa zakonom, pravilima poštenja, i uvek u povezanoj, ograničenoj i proporcionalnoj meri sa ovim svrhama."
+      },
+      "dataTransfer": {
+        "title": "Prenos Ličnih Podataka",
+        "content": "Vaši lični podaci se prenose u okviru gore navedenih svrha, u skladu sa uslovima specificiranim u članovima 8 i 9 Zakona, prvenstveno zakonski ovlašćenim javnim institucijama, sudskim i administrativnim vlastima, privatnim pravnim licima i fizičkim licima dozvoljenim drugim zakonodavstvom, institucijama i organizacijama ovlašćenim da revidiraju Kompaniju, institucijama za plaćanje ugovorenim za ispunjenje plaćanja i finansijskih obaveza, poslovnim partnerima od kojih se primaju usluge ili sa kojima se sarađuje za ispunjenje usluga pruženih preko pozivnog centra i za sprovođenje i razvoj aktivnosti Kompanije, i samo kada je potrebno dobavljačima Kompanije, uz preduzimanje mera bezbednosti podataka specificiranih u Zakonu."
+      },
+      "collectionMethod": {
+        "title": "Metod i Pravni Osnov za Prikupljanje Ličnih Podataka",
+        "content": "Vaši lični podaci se prikupljaju od strane ovlašćenih jedinica i zaposlenih Kompanije putem automatskih i neautomatskih metoda, usmeno, pismeno ili elektronski. U ovom kontekstu, lični podaci u kategorijama identiteta, komunikacije, lokacije, pravne transakcije, transakcije klijenta, sigurnost transakcija, upravljanje rizicima, finansije se obrađuju na osnovu pravnih razloga obrade ličnih podataka koji pripadaju strankama ugovora koji su obavezni zbog direktne povezanosti sa uspostavljanjem ili izvršenjem ugovora prikazanih u drugom stavku člana 5 Zakona, obrade podataka koji su obavezni za kontrolora podataka da ispuni svoju zakonsku obavezu, koji su javno objavljeni od strane subjekta podataka, i obrade podataka koji su obavezni za legitimne interese Kompanije, pod uslovom da ne štete osnovnim pravima i slobodama subjekta podataka."
+      },
+      "dataSubjectRights": {
+        "title": "Prava Subjekata Podataka Prema Zakonu",
+        "intro": "Možete se obratiti ZovPersonal-u u bilo kom trenutku da:",
+        "rights": [
+          "Saznate da li se vaši lični podaci obrađuju",
+          "Zatražite informacije o tome ako su vaši lični podaci obrađeni",
+          "Saznate svrhu obrade vaših ličnih podataka i da li se koriste u skladu sa njihovom svrhom",
+          "Znate treće strane kojima su vaši lični podaci preneti u zemlji ili inostranstvu",
+          "Zatražite ispravku nepotpunih ili netačno obrađenih ličnih podataka",
+          "Zatražite brisanje ili uništenje ličnih podataka u okviru uslova predviđenih u članu 7 Zakona",
+          "Zatražite da se operacije izvršene u skladu sa podstavovima (d) i (e) člana 11 Zakona obaveste trećim stranama kojima su vaši lični podaci preneti",
+          "Usprotivite se pojavi rezultata protiv vas kroz analizu vaših obrađenih podataka isključivo kroz automatizovane sisteme",
+          "Zatražite nadoknadu štete u slučaju da pretrpite štetu zbog nezakonite obrade vaših ličnih podataka"
+        ],
+        "applicationProcess": "Možete zahtevati da ostvarite svoja prava. Možete podneti svoje zahteve u vezi sa vašim pravima i primenom Zakona popunjavanjem obrasca za aplikaciju koji možete dobiti sa https://zovpersonal.com/ i slanjem na adresu kompanije putem notara, preporučenom poštom sa povratnicom ili ličnom aplikacijom u obliku vlažnog potpisa, ili potpisivanjem obrasca za aplikaciju koji ste popunili elektronski sa vašim mobilnim potpisom ili sigurnim elektronskim potpisom, a zatim slanjem na info@zovpersonal.com koristeći vašu KEP adresu ili e-mail adresu već registrovanu u sistemu za beleženje podataka Kompanije.",
+        "fees": "ZovPersonal će odgovoriti na zahteve u ovom obimu besplatno do deset stranica ako je odgovor u pisanom obliku; odgovoriće naplaćujući naknadu za svaku stranicu preko deset stranica po transakciji. Ako se odgovor na aplikaciju daje na mediju za snimanje kao što je CD ili fleš memorija, naknada koju može zahtevati Kompanija ne može preći trošak medija za snimanje."
+      }
+    }
+  }
+}

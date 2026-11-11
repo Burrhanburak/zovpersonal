@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "International Future-Oriented Recruitment",
+    "description": "In the modern world, talent knows no boundaries. Discover the workforce of tomorrow today and strengthen your company with international talents."
+  },
+  "vision": {
+    "title": "Shaping the Future of Business",
+    "subtitle": "Human Resources in the Digital Age",
+    "description": "While technology rapidly evolves, the most important resource remains human. Discovering international talents and evaluating them in the right positions is the key to companies gaining competitive advantage.",
+    "features": [
+      {
+        "title": "AI-Powered Matching",
+        "description": "We match candidates and positions with perfect harmony using artificial intelligence algorithms."
+      },
+      {
+        "title": "Global Talent Pool",
+        "description": "With our extensive network of qualified professionals from 50+ countries, we find the talents you need."
+      },
+      {
+        "title": "Fast Hiring Process",
+        "description": "We complete hiring in 2-4 weeks by shortening traditional processes by 70%."
+      },
+      {
+        "title": "Cultural Integration",
+        "description": "We offer integration programs that ensure international employees adapt to your company culture."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Workforce Trends",
+    "subtitle": "Future-Predicting Strategies",
+    "items": [
+      {
+        "trend": "Hybrid Work Model",
+        "impact": "Talents transcending geographical boundaries",
+        "percentage": "89%",
+        "description": "Companies adopting hybrid work model"
+      },
+      {
+        "trend": "Digital Skills",
+        "impact": "Technology use in every position",
+        "percentage": "95%",
+        "description": "Job roles requiring digital skills"
+      },
+      {
+        "trend": "Diversity and Inclusion",
+        "impact": "Performance and innovation increase",
+        "percentage": "76%",
+        "description": "Achieving better financial results"
+      },
+      {
+        "trend": "Sustainability-Focused",
+        "impact": "Environmentally conscious employee preference",
+        "percentage": "73%",
+        "description": "Talents preferring sustainable companies"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Our Innovative Recruitment Methodology",
+    "subtitle": "Data-Driven Approach",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Needs Analysis",
+        "description": "We analyze your company's current and future needs in detail.",
+        "duration": "1-2 days",
+        "tools": [
+          "AI Analytics",
+          "Market Research",
+          "Skill Mapping"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Talent Discovery",
+        "description": "We identify the most suitable candidates from our global database.",
+        "duration": "3-5 days",
+        "tools": [
+          "Global Sourcing",
+          "Social Recruiting",
+          "Network Analysis"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Assessment and Filtering",
+        "description": "We select the best candidates through a multi-stage assessment process.",
+        "duration": "1-2 weeks",
+        "tools": [
+          "Technical Assessment",
+          "Culture Fit Analysis",
+          "Reference Check"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Presentation and Integration",
+        "description": "We present selected candidates to you and manage the integration process.",
+        "duration": "1-3 weeks",
+        "tools": [
+          "Interview Coordination",
+          "Offer Management",
+          "Onboarding Support"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Success Stories",
+    "subtitle": "Our Success in Numbers",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Successful Hires",
+        "period": "Last 12 months"
+      },
+      {
+        "number": "95%",
+        "label": "Customer Satisfaction",
+        "period": "Continuous"
+      },
+      {
+        "number": "2.5x",
+        "label": "Speed Increase",
+        "period": "Compared to traditional methods"
+      },
+      {
+        "number": "35+",
+        "label": "Country Reach",
+        "period": "Global network"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Discover the Future Workforce Today",
+    "description": "Start now to strengthen your company with international talents and gain competitive advantage.",
+    "primaryButton": "Free Consultation",
+    "secondaryButton": "Explore Success Stories"
+  }
+}

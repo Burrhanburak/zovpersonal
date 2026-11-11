@@ -1,0 +1,24 @@
+{
+  "title": "Stručne kategorije",
+  "subtitle": "Specijalizirani smo za zahtjeve za vize za različita stručna područja",
+  "healthcare": {
+    "title": "Zdravstveni djelatnici",
+    "description": "Medicinske sestre, liječnici, terapeuti i drugi zdravstveni radnici",
+    "requirements": "Potrebni dokumenti i kvalifikacije"
+  },
+  "engineering": {
+    "title": "Inženjeri i IT",
+    "description": "Programeri, inženjeri i tehnički stručnjaci",
+    "requirements": "Uvjeti tehničke kvalifikacije"
+  },
+  "skilled": {
+    "title": "Stručni radnici",
+    "description": "Obrtnici, tehničari i kvalificirani radnici",
+    "requirements": "Uvjeti stručne certifikacije"
+  },
+  "education": {
+    "title": "Obrazovanje i istraživanje",
+    "description": "Nastavnici, istraživači i akademski stručnjaci",
+    "requirements": "Uvjeti akademskih vjerodajnica"
+  }
+}

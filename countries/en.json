@@ -9,7 +9,8 @@
     "services": "Services",
     "about": "About Us",
     "contact": "Contact",
-    "consultation": "Employer Support"
+    "consultation": "Employer Support",
+    "blog": "Blog"
   },
   "hero": {
     "title": "International Future-Oriented Personnel Placement (ZOV)",
@@ -179,7 +180,7 @@
     },
     "team": {
       "title": "The team",
-      "description1": "We started building ZovPersonal in 2019 and launched in 2022. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power recruitment and employer partnership innovation for the next hundred years.",
+      "description1": "We built ZovPersonal to rethink recruitment and employer partnership. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power future-oriented recruitment and lasting partnerships.",
       "description2": "Our experienced consultants understand each client's unique needs and provide personalized solutions. We are here to simplify the complexities of recruitment processes and make your employment journey seamless.",
       "description3": "Contact us for employer partnership.",
       "cta": "Contact Us"
@@ -217,12 +218,13 @@
         "role": "Operations Manager"
       }
     },
-    "description": "Guiding you towards your international career goals and simplifying recruitment processes to create opportunities for working in your dream country. With 15 years of infrastructure, we provide trusted recruitment and employer partnership services worldwide.",
+    "description": "Guiding you towards your international career goals and simplifying recruitment processes to create opportunities for working in your dream country. With proven experience, we provide trusted recruitment and employer partnership services worldwide.",
     "features": {
       "compassion": "Empathy and Understanding",
       "integrity": "Honesty and Reliability",
       "mindGrowth": "Personal and Professional Growth"
-    }
+    },
+    "experienceHighlight": "Built on real industry experience — guiding careers with trusted recruitment expertise."
   },
   "services": {
     "title": "Advance Your Career Globally",
@@ -267,22 +269,40 @@
       "workVisa": {
         "title": "Recruitment Process",
         "description": "Recruiting international specialists offers a great opportunity to close the skilled labor gap in Europe. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad.",
-        "stat1": { "number": "95%", "label": "successful recruitment" },
-        "stat2": { "number": "", "label": "Fast Process" },
+        "stat1": {
+          "number": "95%",
+          "label": "successful recruitment"
+        },
+        "stat2": {
+          "number": "",
+          "label": "Fast Process"
+        },
         "category": "Recruitment Process"
       },
       "documentation": {
         "title": "Language Requirements",
         "description": "Language proficiency certificates according to profession type and professional skill certificates.",
-        "stat1": { "number": "100%", "label": "document compliance" },
-        "stat2": { "number": "✓", "label": "Professional Competency Certificates" },
+        "stat1": {
+          "number": "100%",
+          "label": "document compliance"
+        },
+        "stat2": {
+          "number": "✓",
+          "label": "Professional Competency Certificates"
+        },
         "category": "Language Requirements"
       },
       "skillsAssessment": {
         "title": "Professional Qualification Assessment",
         "description": "From assessing the need for recognition to a tailored training plan, we provide comprehensive evaluation and guidance to ensure your professional qualifications are recognized according to German standards. We support the process with language proficiency certificates according to profession type and proof of financial security.",
-        "stat1": { "number": "85%", "label": "successful recognitions" },
-        "stat2": { "number": "15", "label": "years of infrastructure" },
+        "stat1": {
+          "number": "85%",
+          "label": "successful recognitions"
+        },
+        "stat2": {
+          "number": "15",
+          "label": "years of infrastructure"
+        },
         "category": "Professional Qualification"
       }
     },
@@ -373,13 +393,13 @@
     "title": "Let's Talk With Us",
     "jobSeeker": "Job Seeker",
     "employer": "Employer",
-  
     "subtitle": "Whether you're ready to schedule your first consultation or just have questions, we'd love to hear from you.",
     "pageTitle": "Contact us",
     "pageSubtitle": "We're here to help with your visa consultation inquiries.",
     "offices": {
-      "istanbul": "🇹🇷 Istanbul Office",
-      "berlin": "🇩🇪 Berlin Office"
+      "istanbul": "🇩🇪 Emden Office",
+      "berlin": "🇩🇪 Emden Office",
+      "emden": "🇩🇪 Emden Office"
     },
     "sections": {
       "email": "Email us",
@@ -402,7 +422,6 @@
     "form": {
       "fullName": "Full name",
       "email": "Work email address",
-    
       "message": "Your message",
       "submit": "Submit",
       "optional": "(optional)",
@@ -422,26 +441,27 @@
     "ctaTitle": "Smarter Consulting.\nMove Forward with Confidence",
     "ctaSubtitle": "Access a new era with hybrid solutions, advanced tools, and enterprise-level consulting services.",
     "ctaButton": "Get Started",
-    "ctaSecondary": "View Our Services", 
+    "ctaSecondary": "View Our Services",
     "supportingText": "Your trusted partner for international visa consulting and career guidance.",
     "copyright": "Copyright ©2025. All rights reserved.",
     "links": {
       "home": "Home",
-      "services": "Services", 
+      "services": "Services",
       "about": "About",
       "contact": "Contact",
       "requiredDocuments": "Required Documents",
       "applicationProcess": "International Recruitment",
       "pricing": "Pricing",
       "additionalServices": "Additional Services",
-      "nationalVisaSteps": "National Visa Steps (90+ Days)"
+      "nationalVisaSteps": "National Visa Steps (90+ Days)",
+      "blog": "Blog"
     },
     "description": "Professional international work visa consulting services",
     "quickLinks": "Quick Links",
     "ourServices": "Resources",
     "email": "info@zovpersonal.com",
-    "phone": "(Turkey) | +90 555 123 45 67 (Germany) | +4915757295545",
-    "address": "Istanbul, Turkey, Brückstraße 59, 26725 Emden, Germany",
+    "phone": "+49 1512 7027836",
+    "address": "Brückstraße 59, 26725 Emden, Germany",
     "visa": {
       "requiredDocuments": "Required Documents",
       "applicationProcess": "Application Process",
@@ -492,26 +512,63 @@
         "title": "Personal Data We Collect",
         "identity": {
           "title": "Identity and Contact Information",
-          "items": ["Name, surname", "Date and place of birth", "National ID number", "Passport information", "Phone number", "Email address", "Address information"]
+          "items": [
+            "Name, surname",
+            "Date and place of birth",
+            "National ID number",
+            "Passport information",
+            "Phone number",
+            "Email address",
+            "Address information"
+          ]
         },
         "visa": {
           "title": "Visa Application Information",
-          "items": ["Education status", "Professional information", "Income status", "Travel history", "Family status", "Health status (when required)"]
+          "items": [
+            "Education status",
+            "Professional information",
+            "Income status",
+            "Travel history",
+            "Family status",
+            "Health status (when required)"
+          ]
         },
         "technical": {
           "title": "Technical Data",
-          "items": ["IP address", "Browser information", "Device information", "Website usage data"]
+          "items": [
+            "IP address",
+            "Browser information",
+            "Device information",
+            "Website usage data"
+          ]
         }
       },
       "processing": {
         "title": "Purposes of Personal Data Processing",
         "description": "We process your personal data for the following purposes:",
-        "purposes": ["Conducting visa application processes", "Providing consulting services", "Customer relationship management", "Fulfilling legal obligations", "Improving service quality", "Statistical analysis", "Measuring customer satisfaction", "Taking security measures"]
+        "purposes": [
+          "Conducting visa application processes",
+          "Providing consulting services",
+          "Customer relationship management",
+          "Fulfilling legal obligations",
+          "Improving service quality",
+          "Statistical analysis",
+          "Measuring customer satisfaction",
+          "Taking security measures"
+        ]
       },
       "security": {
         "title": "Data Security",
         "description": "We take the following technical and administrative measures for the security of your personal data:",
-        "measures": ["Encrypted data transmission with SSL certificate", "Secure server infrastructure", "Access control and authorization", "Regular security updates", "Staff training and confidentiality agreements", "Data backup and recovery procedures", "24/7 security monitoring"]
+        "measures": [
+          "Encrypted data transmission with SSL certificate",
+          "Secure server infrastructure",
+          "Access control and authorization",
+          "Regular security updates",
+          "Staff training and confidentiality agreements",
+          "Data backup and recovery procedures",
+          "24/7 security monitoring"
+        ]
       },
       "rights": {
         "title": "Data Subject Rights",
@@ -545,7 +602,11 @@
         "howToUse": {
           "title": "How Can You Exercise Your Rights?",
           "description": "You can use the following communication channels to exercise the above rights:",
-          "channels": ["Email: info@zovpersonal.com", "Written application: Hand delivery or mail to our company address", "Online form: Application form at www.zovpersonal.com"]
+          "channels": [
+            "Email: info@zovpersonal.com",
+            "Written application: Hand delivery or mail to our company address",
+            "Online form: Application form at www.zovpersonal.com"
+          ]
         }
       },
       "cookies": {
@@ -561,11 +622,11 @@
             "title": "Turkey Office",
             "address": "Address",
             "phone": "Phone",
-            "location": "Istanbul, Turkey"
+            "location": "Brückstraße 59, 26725 Emden, Germany"
           },
           "germany": {
             "title": "Germany Office",
-            "address": "Address", 
+            "address": "Address",
             "phone": "Phone",
             "location": "Berlin, Germany"
           }
@@ -643,10 +704,10 @@
     "title": "Why Choose Us?",
     "subtitle": "Our distinctive features in international visa consultancy",
     "category": "Visa Consultancy",
-    "description": "With 15+ years of infrastructure, we are your trusted partner in achieving international career goals. We make a difference with our personalized approach and high success rate.",
+    "description": "With proven expertise, we are your trusted partner in reaching international career goals. We make the difference with our personalized approach and high success rate.",
     "feature1": {
       "title": "Expert Team",
-      "description": "We stand by you with our visa specialists and legal advisors with 15+ years of infrastructure."
+      "description": "We stand by you with our visa specialists and legal consultants, backed by deep industry experience."
     },
     "feature2": {
       "title": "High Success Rate",
@@ -1097,8 +1158,12 @@
             "Cross-Industry Expertise"
           ],
           "overlayStats": {
-            "stat1": { "label": "Time-to-Hire Reduction" },
-            "stat2": { "label": "Faster Placements" }
+            "stat1": {
+              "label": "Time-to-Hire Reduction"
+            },
+            "stat2": {
+              "label": "Faster Placements"
+            }
           }
         },
         "quality": {
@@ -1113,8 +1178,12 @@
             "Long-Term Retention Focus"
           ],
           "overlayStats": {
-            "stat1": { "label": "Success Rate" },
-            "stat2": { "label": "Successful Hires" }
+            "stat1": {
+              "label": "Success Rate"
+            },
+            "stat2": {
+              "label": "Successful Hires"
+            }
           }
         },
         "support": {
@@ -1129,8 +1198,12 @@
             "Continuous Post-Placement Support"
           ],
           "overlayStats": {
-            "stat1": { "label": "Dedicated Support" },
-            "stat2": { "label": "Client Satisfaction" }
+            "stat1": {
+              "label": "Dedicated Support"
+            },
+            "stat2": {
+              "label": "Client Satisfaction"
+            }
           }
         }
       }
@@ -1203,28 +1276,44 @@
           "title": "Needs Analysis",
           "description": "We analyze your company's current and future needs in detail.",
           "duration": "1-2 days",
-          "tools": ["AI Analytics", "Market Research", "Skill Mapping"]
+          "tools": [
+            "AI Analytics",
+            "Market Research",
+            "Skill Mapping"
+          ]
         },
         {
-          "phase": "2", 
+          "phase": "2",
           "title": "Talent Discovery",
           "description": "We identify the most suitable candidates from our global database.",
           "duration": "3-5 days",
-          "tools": ["Global Sourcing", "Social Recruiting", "Network Analysis"]
+          "tools": [
+            "Global Sourcing",
+            "Social Recruiting",
+            "Network Analysis"
+          ]
         },
         {
           "phase": "3",
           "title": "Assessment and Filtering",
           "description": "We select the best candidates through a multi-stage assessment process.",
           "duration": "1-2 weeks",
-          "tools": ["Technical Assessment", "Culture Fit Analysis", "Reference Check"]
+          "tools": [
+            "Technical Assessment",
+            "Culture Fit Analysis",
+            "Reference Check"
+          ]
         },
         {
           "phase": "4",
           "title": "Presentation and Integration",
           "description": "We present selected candidates to you and manage the integration process.",
           "duration": "1-3 weeks",
-          "tools": ["Interview Coordination", "Offer Management", "Onboarding Support"]
+          "tools": [
+            "Interview Coordination",
+            "Offer Management",
+            "Onboarding Support"
+          ]
         }
       ]
     },
@@ -1357,8 +1446,12 @@
             "Cross-Industry Expertise"
           ],
           "overlayStats": {
-            "stat1": { "label": "Time-to-Hire Reduction" },
-            "stat2": { "label": "Faster Placements" }
+            "stat1": {
+              "label": "Time-to-Hire Reduction"
+            },
+            "stat2": {
+              "label": "Faster Placements"
+            }
           }
         },
         "quality": {
@@ -1373,8 +1466,12 @@
             "Long-Term Retention Focus"
           ],
           "overlayStats": {
-            "stat1": { "label": "Success Rate" },
-            "stat2": { "label": "Successful Hires" }
+            "stat1": {
+              "label": "Success Rate"
+            },
+            "stat2": {
+              "label": "Successful Hires"
+            }
           }
         },
         "support": {
@@ -1389,8 +1486,12 @@
             "Continuous Post-Placement Support"
           ],
           "overlayStats": {
-            "stat1": { "label": "Dedicated Support" },
-            "stat2": { "label": "Client Satisfaction" }
+            "stat1": {
+              "label": "Dedicated Support"
+            },
+            "stat2": {
+              "label": "Client Satisfaction"
+            }
           }
         }
       }
@@ -1424,7 +1525,7 @@
         },
         {
           "step": "02",
-          "title": "Candidate Matching", 
+          "title": "Candidate Matching",
           "description": "Find and screen qualified international candidates"
         },
         {
@@ -1464,7 +1565,7 @@
   },
   "jobSeeker": {
     "hero": {
-      "tag1": "Job Seeker", 
+      "tag1": "Job Seeker",
       "tag2": "International Career",
       "title": "Find Your Dream Job Abroad with us",
       "description": "international future-oriented recruitment solutions",
@@ -1479,7 +1580,11 @@
           "title": "Premium Job",
           "subtitle": "Opportunities Worldwide",
           "description": "Access exclusive high-paying international positions with top companies across 25+ countries.",
-          "stats": ["25+ Countries", "5K+ Jobs Placed", "95% Success Rate"],
+          "stats": [
+            "25+ Countries",
+            "5K+ Jobs Placed",
+            "95% Success Rate"
+          ],
           "benefits": [
             "Access to Premium Jobs",
             "Verified Employers",
@@ -1487,8 +1592,14 @@
             "High Salary Packages"
           ],
           "overlayStats": {
-            "stat1": { "value": "5K+", "label": "Jobs Placed" },
-            "stat2": { "value": "25+", "label": "Countries" }
+            "stat1": {
+              "value": "5K+",
+              "label": "Jobs Placed"
+            },
+            "stat2": {
+              "value": "25+",
+              "label": "Countries"
+            }
           }
         },
         "support": {
@@ -1496,7 +1607,11 @@
           "title": "Complete",
           "subtitle": "Career Support",
           "description": "From application to relocation, we provide comprehensive support every step of the way.",
-          "stats": ["24/7 Support", "Expert Guidance", "98% Satisfaction"],
+          "stats": [
+            "24/7 Support",
+            "Expert Guidance",
+            "98% Satisfaction"
+          ],
           "benefits": [
             "CV Optimization",
             "Interview Coaching",
@@ -1504,8 +1619,14 @@
             "Relocation Support"
           ],
           "overlayStats": {
-            "stat1": { "value": "24/7", "label": "Support" },
-            "stat2": { "value": "98%", "label": "Satisfaction" }
+            "stat1": {
+              "value": "24/7",
+              "label": "Support"
+            },
+            "stat2": {
+              "value": "98%",
+              "label": "Satisfaction"
+            }
           }
         },
         "process": {
@@ -1513,7 +1634,11 @@
           "title": "Streamlined",
           "subtitle": "Application Process",
           "description": "Our efficient process gets you working abroad faster with proven results and quick placement.",
-          "stats": ["30 Days Avg", "95% Success", "Fast Processing"],
+          "stats": [
+            "30 Days Avg",
+            "95% Success",
+            "Fast Processing"
+          ],
           "benefits": [
             "Fast Processing",
             "Step-by-Step Guidance",
@@ -1521,8 +1646,14 @@
             "Quick Results"
           ],
           "overlayStats": {
-            "stat1": { "value": "30", "label": "Days Average" },
-            "stat2": { "value": "95%", "label": "Success Rate" }
+            "stat1": {
+              "value": "30",
+              "label": "Days Average"
+            },
+            "stat2": {
+              "value": "95%",
+              "label": "Success Rate"
+            }
           }
         }
       }
@@ -1540,7 +1671,7 @@
           "description": "Connect with verified employers looking for your specific skills"
         },
         {
-          "title": "Interview Preparation", 
+          "title": "Interview Preparation",
           "description": "Comprehensive interview coaching for international positions"
         },
         {
@@ -1605,5 +1736,10 @@
     "contact": "Contact Us",
     "help": "Need help?",
     "contactUs": "Contact us"
+  },
+  "blog": {
+    "subtitle": "Guides on international recruitment, Germany hiring, and employer partnership.",
+    "empty": "No posts in this language yet.",
+    "minRead": "min read"
   }
 }

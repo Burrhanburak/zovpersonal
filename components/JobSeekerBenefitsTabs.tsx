@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from '@/lib/assets';
 
 import { useState } from "react";
 import Image from "next/image";
@@ -12,15 +13,15 @@ interface TabData {
 const tabsData: TabData[] = [
   {
     id: "opportunities",
-    image: "/kafiyeli-personali.png"
+    image: assetUrl("kafiyeli-personali.png")
   },
   {
     id: "support", 
-    image: "/hızlandırılmıs-proredur.png"
+    image: assetUrl("hızlandırılmıs-proredur.png")
   },
   {
     id: "process",
-    image: "/takipi.png"
+    image: assetUrl("takipi.png")
   }
 ];
 

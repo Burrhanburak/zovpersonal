@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "İş Veren",
+    "tag2": "Uluslararası İşe Alım",
+    "title": "En İyi Uluslararası Gelecek Odaklı Yetenekleri İşe Alın",
+    "description": "Dünya çapında yetenekli profesyonellerle bağlantı kurun. Uluslararası gelecek odaklı işe alım, uyumluluk ve işe alım süreçlerini yönetiyoruz.",
+    "startHiring": "İşe Alıma Başla",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "benefits": {
+    "badge": "İş Verenler İçin",
+    "title": "Neden Uluslararası",
+    "subtitle": "Gelecek Odaklı Yetenekleri İşe Almalısınız?",
+    "description": "Dünyanın dört bir yanından nitelikli profesyonellerle işgücünüzü genişletin ve kanıtlanmış işe alım çözümlerimizle benzersiz büyüme fırsatlarının kilidini açın.",
+    "stats": {
+      "countries": "25+ Ülke",
+      "hires": "5K+ Başarılı İşe Alım",
+      "successRate": "%98 Başarı Oranı"
+    },
+    "services": [
+      "Yetenek Tedariği",
+      "Vize Desteği",
+      "Uygunluk",
+      "Aday Değerlendirme",
+      "İşe Başlatma Desteği",
+      "Sektörler Arası Uzmanlık",
+      "7/24 Destek Mevcut"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Verimlilik",
+        "title": "Optimize Edilmiş",
+        "subtitle": "İşe Alım Süreci",
+        "description": "Optimize edilmiş sürecimiz, işe alım süresini %30 azaltarak sizi nitelikli adaylarla her zamankinden daha hızlı bir şekilde buluşturur.",
+        "stats": [
+          "Küresel Yetenek Tedariği",
+          "Hızlandırılmış Vize İşlemleri",
+          "Azaltılmış İdari Yük",
+          "Sektörler Arası Uzmanlık"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "İşe Alım Süresinde Azalma"
+          },
+          "stat2": {
+            "label": "Daha Hızlı Yerleştirmeler"
+          }
+        }
+      },
+      "quality": {
+        "label": "Kalite",
+        "title": "Yüksek Kalibreli",
+        "subtitle": "Yetenek",
+        "description": "5K+ doğrulanmış profesyonelden oluşan bir havuza erişin ve adayları rollerle eşleştirmede %98'lik bir başarı oranını koruyun.",
+        "stats": [
+          "Denetlenmiş Profesyonel Ağı",
+          "Kapsamlı Beceri Değerlendirmesi",
+          "Sektöre Özgü Uzmanlık",
+          "Uzun Vadeli Elde Tutma Odaklı"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Başarı Oranı"
+          },
+          "stat2": {
+            "label": "Başarılı İşe Alımlar"
+          }
+        }
+      },
+      "support": {
+        "label": "Destek",
+        "title": "Uçtan Uca",
+        "subtitle": "Ortak Desteği",
+        "description": "Sorunsuz bir entegrasyon için uyumluluktan işe alıma kadar her şeyi ele alarak 7/24 destek sağlıyoruz.",
+        "stats": [
+          "7/24 Özel Destek",
+          "Tam Döngü Uyumluluk Yönetimi",
+          "Sorunsuz İşe Alım Yardımı",
+          "Yerleştirme Sonrası Sürekli Destek"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Özel Destek"
+          },
+          "stat2": {
+            "label": "Müşteri Memnuniyeti"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "İşveren Hizmetleri",
+    "title": "Kapsamlı Uluslararası İşe Alım Çözümleri",
+    "items": [
+      {
+        "title": "Küresel Yetenek Bulma",
+        "description": "Geniş uluslararası ağımız ve doğrulanmış aday veritabanımız ile 25+ ülkeden nitelikli profesyonellere erişim sağlıyoruz."
+      },
+      {
+        "title": "Kapsamlı Vize Desteği",
+        "description": "Belge hazırlama, başvuru rehberliği ve uyum yönetimi dahil olmak üzere baştan sona vize desteği sunuyoruz."
+      },
+      {
+        "title": "Hızlı İşlem",
+        "description": "%98 başarı oranı ile hızlandırılmış işe alım süreci, işe alım süresini kısaltır ve nitelikli adayların hızlı yerleştirilmesini sağlar."
+      }
+    ]
+  },
+  "process": {
+    "title": "İşe Alım Sürecimiz",
+    "description": "En iyi uluslararası yetenekleri bulmak ve işe almak için düzenli ve akıcı süreç",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Gereksinimleri Belirleme",
+        "description": "Özel işe alım ihtiyaçlarınızı ve iş gereksinimlerinizi görüşelim"
+      },
+      {
+        "step": "02",
+        "title": "Aday Eşleştirme",
+        "description": "Nitelikli uluslararası adayları bulup değerlendirin"
+      },
+      {
+        "step": "03",
+        "title": "Mülakat Süreci",
+        "description": "Mülakatları ve yetenek değerlendirmelerini kolaylaştırıyoruz"
+      },
+      {
+        "step": "04",
+        "title": "Vize ve İşe Başlatma",
+        "description": "Vize süreçlerini yönetip sorunsuz işe başlatma sağlıyoruz"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Önde Gelen Şirketler Tarafından Güveniliyor",
+    "description": "Kanıtlanmış başarı kaydımız kendi kendini anlatıyor",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Hizmet Verilen Şirket"
+      },
+      {
+        "number": "5K+",
+        "label": "Başarılı İşe Alım"
+      },
+      {
+        "number": "25+",
+        "label": "Ülke"
+      },
+      {
+        "number": "98%",
+        "label": "Müşteri Memnuniyeti"
+      }
+    ]
+  }
+}

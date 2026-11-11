@@ -1,0 +1,63 @@
+{
+  "ctaTitle": "Consultanță mai Inteligentă.\nAvansează cu Încredere",
+  "ctaSubtitle": "Accesează o nouă eră cu soluții hibride, instrumente avansate și servicii de consultanță la nivel de întreprindere.",
+  "ctaButton": "Începe Acum",
+  "ctaSecondary": "Vezi Serviciile Noastre",
+  "supportingText": "Partenerul tău de încredere pentru consultanța internațională pentru vize și ghidarea carierei.",
+  "copyright": "Drepturi de autor ©2025. Toate drepturile rezervate.",
+  "links": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre",
+    "contact": "Contact",
+    "requiredDocuments": "Documente Necesare",
+    "applicationProcess": "Procesul de Cerere pentru Viza Națională",
+    "pricing": "Prețuri",
+    "additionalServices": "Servicii Suplimentare",
+    "nationalVisaSteps": "Pașii Vizei Naționale (90+ Zile)",
+    "blog": "Blog"
+  },
+  "description": "Servicii profesionale de consultanță pentru vize de muncă internaționale",
+  "quickLinks": "Linkuri Rapide",
+  "ourServices": "Resurse",
+  "email": "info@zovpersonal.com",
+  "phone": "+49 1512 7027836",
+  "address": "Brückstraße 59, 26725 Emden, Germania",
+  "visa": {
+    "requiredDocuments": "Documente Necesare",
+    "applicationProcess": "Recrutare Internațională",
+    "pricing": "Prețuri",
+    "additionalServices": "Servicii Suplimentare",
+    "nationalVisaSteps": "Pașii Vizei Naționale",
+    "professions": "Procesul Profesional",
+    "businessProcess": "Procesul de afaceri în Germania"
+  },
+  "social": {
+    "instagram": {
+      "url": "https://instagram.com/zovpersonal",
+      "alt": "Urmărește-ne pe Instagram"
+    },
+    "facebook": {
+      "url": "https://facebook.com/zovpersonal",
+      "alt": "Urmărește-ne pe Facebook"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "jobSeeker": "Căutător de muncă",
+    "employer": "Angajator",
+    "selectApplicantType": "Selectați tipul de candidat"
+  },
+  "services": {
+    "workVisa": "Cereri de Vize de Muncă",
+    "skillsAssessment": "Evaluarea Abilităților",
+    "documentation": "Pregătirea Documentelor",
+    "consultation": "Consultație Personală"
+  },
+  "legal": "Serviciile noastre de consultanță sunt doar în scop informativ și nu constituie garanții. Procesele de cerere de viză sunt supuse reglementărilor țării și rezultatele pot varia. Vă rugăm să contactați consultanții noștri experți pentru a evalua situația dvs. personală.",
+  "privacy": "Politica de Confidențialitate",
+  "terms": "Termeni de Serviciu",
+  "rightsReserved": "Toate drepturile rezervate"
+}

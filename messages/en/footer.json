@@ -1,0 +1,62 @@
+{
+  "ctaTitle": "Smarter Consulting.\nMove Forward with Confidence",
+  "ctaSubtitle": "Access a new era with hybrid solutions, advanced tools, and enterprise-level consulting services.",
+  "ctaButton": "Get Started",
+  "ctaSecondary": "View Our Services",
+  "supportingText": "Your trusted partner for international visa consulting and career guidance.",
+  "copyright": "Copyright ©2025. All rights reserved.",
+  "links": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "requiredDocuments": "Required Documents",
+    "applicationProcess": "International Recruitment",
+    "pricing": "Pricing",
+    "additionalServices": "Additional Services",
+    "nationalVisaSteps": "National Visa Steps (90+ Days)",
+    "blog": "Blog"
+  },
+  "description": "Professional international work visa consulting services",
+  "quickLinks": "Quick Links",
+  "ourServices": "Resources",
+  "email": "info@zovpersonal.com",
+  "phone": "+49 1512 7027836",
+  "address": "Brückstraße 59, 26725 Emden, Germany",
+  "visa": {
+    "requiredDocuments": "Required Documents",
+    "applicationProcess": "Application Process",
+    "pricing": "Pricing",
+    "additionalServices": "Additional Services",
+    "nationalVisaSteps": "National Visa Steps",
+    "professions": "Profession Process",
+    "businessProcess": "Business Process in Germany"
+  },
+  "social": {
+    "instagram": {
+      "url": "https://instagram.com/zovpersonal",
+      "alt": "Follow us on Instagram"
+    },
+    "facebook": {
+      "url": "https://facebook.com/zovpersonal",
+      "alt": "Follow us on Facebook"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "employer": "Employer",
+    "jobSeeker": "Job Seeker"
+  },
+  "services": {
+    "workVisa": "Work Visa Applications",
+    "skillsAssessment": "Skills Assessment",
+    "documentation": "Document Preparation",
+    "consultation": "Personal Consultation"
+  },
+  "legal": "Our consulting services are for informational purposes only and do not constitute guarantees. Visa application processes are subject to country regulations and results may vary. Please contact our expert consultants to evaluate your personal situation.",
+  "privacy": "Privacy Policy",
+  "terms": "Terms of Service",
+  "rightsReserved": "All rights reserved"
+}

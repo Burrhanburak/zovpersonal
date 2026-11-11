@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "International Future-Oriented Personnel Placement (ZOV)",
+    "subtitle": "ZovPersonal connects qualified professionals with Europe's leading companies through future-focused international recruitment processes.",
+    "description1": "At ZovPersonal, we are dedicated to providing our customers with an unbeatable edge over delays, inefficiencies, and disorganisation through actionable insights and seamless collaboration. We'll stop at nothing to give you the tools you need to get every recruitment application across the finish line.",
+    "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can help you operate better than ever before. We're all in this together because your success is our success. In our history as a company, we've never lost a customer, because when your projects succeed, so do we."
+  },
+  "stats": {
+    "experience": {
+      "number": "15+",
+      "label": "Years of Infrastructure"
+    },
+    "satisfaction": "95%",
+    "clients": {
+      "number": "5K+",
+      "label": "Successful Clients"
+    },
+    "visas": {
+      "number": "10K+",
+      "label": "Successful Placements"
+    },
+    "countries": {
+      "number": "25+",
+      "label": "Target Countries"
+    }
+  },
+  "team": {
+    "title": "The team",
+    "description1": "We built ZovPersonal to rethink recruitment and employer partnership. Every process has been designed from the ground up — with no technical debt or legacy systems. We are purpose-built to power future-oriented recruitment and lasting partnerships.",
+    "description2": "Our experienced consultants understand each client's unique needs and provide personalized solutions. We are here to simplify the complexities of recruitment processes and make your employment journey seamless.",
+    "description3": "Contact us for employer partnership.",
+    "cta": "Contact Us"
+  },
+  "company": {
+    "description1": "At ZovPersonal, we are dedicated to transforming international recruitment processes and providing our customers with an unbeatable edge over delays and inefficiencies. Through actionable insights and seamless collaboration, we provide the tools needed for every recruitment application to succeed.",
+    "description2": "We're customer-obsessed — investing the time to understand every aspect of your process so that we can provide better service than ever before. We're all in this together because your success is our success. In our company history, we've never lost a customer, because when your projects succeed, so do we."
+  },
+  "images": {
+    "teamWork": "Team collaboration",
+    "officeSpace": "Office workspace",
+    "consulting": "Consulting services",
+    "success": "Success stories"
+  },
+  "partners": {
+    "title": "Our partners",
+    "partner1": {
+      "name": "Anna Schneider",
+      "role": "Recruitment Specialist"
+    },
+    "partner2": {
+      "name": "Ayşe Demir",
+      "role": "Legal Advisor"
+    },
+    "partner3": {
+      "name": "Ali Kaya",
+      "role": "Business Development"
+    },
+    "partner4": {
+      "name": "Fatma Öz",
+      "role": "Client Relations"
+    },
+    "partner5": {
+      "name": "Lukas Wagner",
+      "role": "Operations Manager"
+    }
+  },
+  "description": "Guiding you towards your international career goals and simplifying recruitment processes to create opportunities for working in your dream country. With proven experience, we provide trusted recruitment and employer partnership services worldwide.",
+  "features": {
+    "compassion": "Empathy and Understanding",
+    "integrity": "Honesty and Reliability",
+    "mindGrowth": "Personal and Professional Growth"
+  },
+  "experienceHighlight": "Built on real industry experience — guiding careers with trusted recruitment expertise."
+}

@@ -1,4 +1,5 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import React, { useState } from 'react';
 import { useTranslations, useLocale } from 'next-intl';
@@ -255,7 +256,7 @@ export default function ContactSection() {
           {/* Right Side - Image */}
           <div className="flex-1 max-w-[555px] w-full h-[400px] lg:h-[600px] relative rounded-[20px] overflow-hidden">
             <Image
-              src="/contacti.png"
+              src={assetUrl("contacti.png")}
               alt={t('imageAlt')}
               fill
               className="object-cover object-center"

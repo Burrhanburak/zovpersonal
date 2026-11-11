@@ -1,0 +1,19 @@
+{
+  "title": "Ondersteuning bij het visumaanvraagproces",
+  "subtitle": "Wij ondersteunen u bij het beheren van uw complexe documenten met onze tools die uw visumaanvraagproces vereenvoudigen.",
+  "step1": {
+    "title": "Ondersteuning bij eerste consult en beoordeling",
+    "description": "Wij ondersteunen u bij het ontwikkelen van een gepersonaliseerde visumstrategie door uw profiel en doelen te analyseren.",
+    "alt": "Visumadvies"
+  },
+  "step2": {
+    "title": "Ondersteuning bij documentvoorbereiding en -beoordeling",
+    "description": "Wij ondersteunen u gedurende het hele voorbereidingsproces door u te helpen toegang te krijgen tot al uw benodigde documenten.",
+    "alt": "Documentvoorbereiding"
+  },
+  "step3": {
+    "title": "Ondersteuning bij aanvraag en opvolging",
+    "description": "Wij bieden ondersteuning om u te helpen uw aanvraag veilig in te dienen en deze continu te volgen tot de voltooiing.",
+    "alt": "Aanvraagopvolging"
+  }
+}

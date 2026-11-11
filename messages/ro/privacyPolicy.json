@@ -1,0 +1,135 @@
+{
+  "title": "Politica de Confidențialitate",
+  "subtitle": "ZovPersonal Servicii de Consultanță - Protecția și Securitatea Datelor Tale Personale",
+  "sections": {
+    "intro": {
+      "title": "Politica Noastră de Confidențialitate",
+      "content": "Ca ZovPersonal Consulting and Service Foreign Trade Inc., manifestăm cel mai înalt nivel de sensibilitate cu privire la securitatea datelor tale personale. Această politică de confidențialitate explică modul în care colectăm, procesăm, protejăm și stocăm datele tale personale atunci când utilizezi serviciile noastre.",
+      "kvkk": "Ca controlori de date conform Legii privind Protecția Datelor Personale Nr. 6698 (KVKK), asigurăm conformitatea deplină cu legislația în procesarea datelor tale personale."
+    },
+    "dataCollection": {
+      "title": "Date Personale Colectate",
+      "identity": {
+        "title": "Informații de Identitate și Contact",
+        "items": [
+          "Nume, prenume",
+          "Data și locul nașterii",
+          "Număr de identificare național",
+          "Informații pașaport",
+          "Număr de telefon",
+          "Adresă de e-mail",
+          "Informații adresă"
+        ]
+      },
+      "visa": {
+        "title": "Informații pentru Cererea de Viză",
+        "items": [
+          "Statut educațional",
+          "Informații profesionale",
+          "Statut financiar",
+          "Istoric de călătorie",
+          "Statut familial",
+          "Stare de sănătate (când este necesar)"
+        ]
+      },
+      "technical": {
+        "title": "Date Tehnice",
+        "items": [
+          "Adresă IP",
+          "Informații despre browser",
+          "Informații despre dispozitiv",
+          "Date de utilizare a site-ului"
+        ]
+      }
+    },
+    "processing": {
+      "title": "Scopurile Procesării Datelor Personale",
+      "description": "Procesăm datele tale personale în următoarele scopuri:",
+      "purposes": [
+        "Desfășurarea proceselor de cerere de viză",
+        "Furnizarea de servicii de consultanță",
+        "Managementul relațiilor cu clienții",
+        "Îndeplinirea obligațiilor legale",
+        "Îmbunătățirea calității serviciilor",
+        "Analiză statistică",
+        "Măsurarea satisfacției clienților",
+        "Luarea măsurilor de securitate"
+      ]
+    },
+    "security": {
+      "title": "Securitatea Datelor",
+      "description": "Luăm următoarele măsuri tehnice și administrative pentru securitatea datelor tale personale:",
+      "measures": [
+        "Transmisie criptată a datelor cu certificat SSL",
+        "Infrastructură de server securizată",
+        "Control de acces și autorizare",
+        "Actualizări regulate de securitate",
+        "Instruirea personalului și acorduri de confidențialitate",
+        "Proceduri de backup și recuperare a datelor",
+        "Monitorizare de securitate 24/7"
+      ]
+    },
+    "rights": {
+      "title": "Drepturile Subiectului Datelor",
+      "description": "Ai următoarele drepturi conform KVKK:",
+      "list": {
+        "info": {
+          "title": "Dreptul la Informare",
+          "description": "Dreptul de a afla dacă datele tale personale sunt procesate"
+        },
+        "access": {
+          "title": "Dreptul de Acces",
+          "description": "Dreptul de a solicita informații despre datele tale personale procesate"
+        },
+        "rectification": {
+          "title": "Dreptul la Rectificare",
+          "description": "Dreptul de a solicita corectarea datelor incorecte sau incomplete"
+        },
+        "erasure": {
+          "title": "Dreptul la Ștergere",
+          "description": "Dreptul de a solicita ștergerea datelor tale personale"
+        },
+        "objection": {
+          "title": "Dreptul la Obiecție",
+          "description": "Dreptul de a obiecta asupra procesării datelor și de a solicita încetarea acesteia"
+        },
+        "portability": {
+          "title": "Dreptul la Portabilitate",
+          "description": "Dreptul de a solicita transferul datelor tale către un alt controlor de date"
+        }
+      },
+      "howToUse": {
+        "title": "Cum Îți Poți Exersa Drepturile?",
+        "description": "Poți utiliza următoarele canale de comunicare pentru a-ți exersa drepturile de mai sus:",
+        "channels": [
+          "E-mail: info@zovpersonal.com",
+          "Cerere scrisă: Livrare personală sau prin poștă la adresa companiei noastre",
+          "Formular online: Formular de cerere la www.zovpersonal.com"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Cookie-uri",
+      "description": "Folosim cookie-uri pe site-ul nostru pentru a îmbunătăți experiența utilizatorului. Cookie-urile sunt fișiere text mici stocate în browser-ul tău web. Poți controla utilizarea cookie-urilor din setările browser-ului tău."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Ne poți contacta pentru întrebări legate de politica noastră de confidențialitate:",
+      "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+      "offices": {
+        "turkey": {
+          "title": "Birou Turcia",
+          "address": "Adresă",
+          "phone": "Telefon",
+          "location": "Brückstraße 59, 26725 Emden, Germania"
+        },
+        "germany": {
+          "title": "Birou Germania",
+          "address": "Adresă",
+          "phone": "Telefon",
+          "location": "Berlin, Germania"
+        }
+      }
+    }
+  }
+}

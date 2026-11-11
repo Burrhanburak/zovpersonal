@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "Послодавац",
+    "tag2": "Међународно запошљавање",
+    "title": "Запослите врхунске међународне таленте усмерене на будућност",
+    "description": "Повежите се са квалификованим професионалцима широм света. Ми управљамо међународним регрутовањем усмереним на будућност, усклађеност и увођење како бисмо довели глобалне таленте у вашу компанију.",
+    "startHiring": "Почните са запошљавањем",
+    "learnMore": "Сазнајте више"
+  },
+  "benefits": {
+    "badge": "За послодавце",
+    "title": "Зашто запослити међународне",
+    "subtitle": "таленте усмерене на будућност?",
+    "description": "Проширите своју радну снагу квалификованим професионалцима из целог света и откључајте невиђене могућности раста нашим доказаним решењима за регрутовање.",
+    "stats": {
+      "countries": "25+ земаља",
+      "hires": "5K+ uspešnih zapošljavanja",
+      "successRate": "98% stopa uspeha"
+    },
+    "services": [
+      "Pronalaženje talenata",
+      "Pomoć oko vize",
+      "Usklađenost",
+      "Provera kandidata",
+      "Podrška pri zapošljavanju",
+      "Međusektorska stručnost",
+      "Podrška dostupna 24/7"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Efikasnost",
+        "title": "Pojednostavljen",
+        "subtitle": "Proces zapošljavanja",
+        "description": "Naš optimizovani proces smanjuje vreme do zapošljavanja za 30%, povezujući vas sa kvalifikovanim kandidatima brže nego ikada.",
+        "stats": [
+          "Globalno pronalaženje talenata",
+          "Ubrzana obrada vize",
+          "Smanjeno administrativno opterećenje",
+          "Međusektorska stručnost"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Smanjenje vremena do zapošljavanja"
+          },
+          "stat2": {
+            "label": "Brže zapošljavanje"
+          }
+        }
+      },
+      "quality": {
+        "label": "Kvalitet",
+        "title": "Visokog kalibra",
+        "subtitle": "Talenat",
+        "description": "Pristupite bazi od 5K+ proverenih stručnjaka i održavajte stopu uspeha od 98% u spajanju kandidata sa pozicijama.",
+        "stats": [
+          "Proverena profesionalna mreža",
+          "Sveobuhvatna procena veština",
+          "Stručnost specifična za industriju",
+          "Fokus na dugoročno zadržavanje"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Stopa uspeha"
+          },
+          "stat2": {
+            "label": "Uspešna zapošljavanja"
+          }
+        }
+      },
+      "support": {
+        "label": "Podrška",
+        "title": "Sveobuhvatna",
+        "subtitle": "Partnerska podrška",
+        "description": "Pružamo podršku 24/7, baveći se svime, od usklađenosti do uvođenja u posao, za besprekornu integraciju.",
+        "stats": [
+          "Podrška posvećena 24/7",
+          "Upravljanje usklađenošću u punom ciklusu",
+          "Besprikorna pomoć pri zapošljavanju",
+          "Kontinuirana podrška nakon zapošljavanja"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Posvećena podrška"
+          },
+          "stat2": {
+            "label": "Zadovoljstvo klijenata"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Usluge za poslodavce",
+    "title": "Свеобухватна међународна решења за запошљавање",
+    "items": [
+      {
+        "title": "Глобално проналажење талената",
+        "description": "Приступ квалификованим професионалцима из 25+ земаља са нашом опсежном међународном мрежом и верификованом базом података кандидата."
+      },
+      {
+        "title": "Свеобухватна подршка за визе",
+        "description": "Помоћ од почетка до краја за визе укључујући припрему докумената, водич за пријаву и управљање усклађеност за беспрекорно запошљавање."
+      },
+      {
+        "title": "Убрзана обрада",
+        "description": "Убрзани процес запошљавања са 98% стопом успеха, смањује време запошљавања и обезбеђује брзо постављање квалификованих кандидата."
+      }
+    ]
+  },
+  "process": {
+    "title": "Наш процес запошљавања",
+    "description": "Оптимизован процес за проналажење и запошљавање најбољих међународних талената",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Дефинишите захтеве",
+        "description": "Расправите своје специфичне потребе за запошљавање и захтеве посла"
+      },
+      {
+        "step": "02",
+        "title": "Усклађивање кандидата",
+        "description": "Пронађите и прегледајте квалификоване међународне кандидате"
+      },
+      {
+        "step": "03",
+        "title": "Процес интервјуа",
+        "description": "Олакшајте интервјуе и процене вештина"
+      },
+      {
+        "step": "04",
+        "title": "Виза и увођење",
+        "description": "Управљајте процесима виза и глатко увођење"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Верују нам водеће компаније",
+    "description": "Наш доказан успех говори сам за себе",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Опслужених компанија"
+      },
+      {
+        "number": "5К+",
+        "label": "Успешних запошљавања"
+      },
+      {
+        "number": "25+",
+        "label": "Земаља"
+      },
+      {
+        "number": "98%",
+        "label": "Задовољство клијената"
+      }
+    ]
+  }
+}

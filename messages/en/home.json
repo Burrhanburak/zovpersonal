@@ -1,0 +1,119 @@
+{
+  "carousel": {
+    "badge": "International Future-Oriented Recruitment",
+    "title": "International Future-Oriented Recruitment",
+    "description": "Our job seeker program is designed to help you find your dream job. We provide the tools and resources you need to succeed.",
+    "cards": {
+      "recruitment": {
+        "category": "Hospitality & Cleaning",
+        "title": "Hotel and Cleaning Staff"
+      },
+      "partnership": {
+        "category": "Employer Partnership",
+        "title": "Strategic Business Partnerships"
+      },
+      "visaprocess": {
+        "category": "Visa & Documentation",
+        "title": "Complete Visa Processing Support"
+      },
+      "support": {
+        "category": "24/7 Support",
+        "title": "Ongoing Client Support"
+      },
+      "healthcare": {
+        "category": "Healthcare Sector",
+        "title": "Medical Professionals Recruitment"
+      },
+      "construction": {
+        "category": "Construction and Building Sector",
+        "title": "Construction and Building Sector Specialists"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Excellence in Service.",
+        "description": "We provide qualified personnel for the hotel, restaurant, and cleaning sectors, ensuring high standards of service and hygiene.",
+        "features": [
+          {
+            "title": "Vetted Staff",
+            "description": "Access to vetted and trained professionals for the hospitality industry."
+          },
+          {
+            "title": "Flexible Solutions",
+            "description": "On-demand staffing for both short-term and long-term needs."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Build lasting business relationships.",
+        "description": "We create strategic partnerships between employers and international talent. Our comprehensive approach ensures sustainable growth and mutual success for all parties involved.",
+        "features": [
+          {
+            "title": "Partnership Management",
+            "description": "Dedicated account managers for ongoing relationship building and support."
+          },
+          {
+            "title": "Success Metrics",
+            "description": "Track performance with detailed analytics and regular partnership reviews."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Simplify complex visa procedures.",
+        "description": "Navigate international visa requirements with confidence. Our expert team handles all documentation, application processes, and legal compliance for seamless transitions. We guide you properly and support you throughout your processes.",
+        "features": [
+          {
+            "title": "Expert Documentation",
+            "description": "Professional preparation of all required documents with 100% compliance rate."
+          },
+          {
+            "title": "Legal Compliance",
+            "description": "Stay up-to-date with changing immigration laws and requirements."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Support that never stops.",
+        "description": "Our commitment extends beyond placement. We provide continuous support to ensure long-term success for both employers and employees throughout their journey.",
+        "features": [
+          {
+            "title": "24/7 Availability",
+            "description": "Round-the-clock support for urgent matters and ongoing assistance."
+          },
+          {
+            "title": "Integration Support",
+            "description": "Cultural integration and adaptation services for smooth transitions."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Healthcare talent excellence.",
+        "description": "Specialized recruitment for healthcare professionals including doctors, caregivers, home elderly care and care services nurses, therapists, and medical technicians. We understand the unique requirements of the healthcare sector.",
+        "features": [
+          {
+            "title": "Medical Licensing",
+            "description": "Assistance with medical license recognition and professional certification."
+          },
+          {
+            "title": "Skills Validation",
+            "description": "Comprehensive assessment of medical qualifications and practical skills."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "Specialized workforce in the construction sector.",
+        "description": "Specially designed for masters, technicians, architects, engineers, plasterers, painters, and building experts. The high demand for qualified labor in the German construction sector has led to special regulations that facilitate the entry of foreign specialists into this industry.",
+        "features": [
+          {
+            "title": "Language Requirements",
+            "description": "Language proficiency certificates according to profession type and professional skill certificates."
+          },
+          {
+            "title": "Quick Start to Work",
+            "description": "Fast placement for urgent needs in construction projects."
+          }
+        ]
+      }
+    }
+  }
+}

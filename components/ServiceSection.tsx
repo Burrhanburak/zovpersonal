@@ -1,4 +1,5 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import React from 'react';
 import { useTranslations } from 'next-intl';
@@ -91,7 +92,7 @@ export default function ServiceSection() {
             {/* Column 2 - Center Image */}
             <div className="w-full md:w-1/3 h-[300px] md:h-[400px] lg:h-[500px] relative">
               <Image
-                src="/hizmetlerimiz.png"
+                src={assetUrl("hizmetlerimiz.png")}
                 alt="Service Center Image"
                 fill
                 className="object-cover rounded-2xl"

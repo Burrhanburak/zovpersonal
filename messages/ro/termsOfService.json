@@ -1,0 +1,66 @@
+{
+  "title": "Termeni de Serviciu",
+  "subtitle": "ZovPersonal Servicii de Consultanță - Reglementări de Securitate și Protecția Datelor Personale",
+  "sections": {
+    "securityRegulations": {
+      "title": "REGLEMENTĂRI DE SECURITATE",
+      "intro": "Anunț privind reglementările de securitate referitoare la aspectele care trebuie respectate de solicitanții care vizitează Centrele de Cereri de Vize ZovPersonal;",
+      "description": "În conformitate cu cerințele de securitate ale reprezentanțelor germane/italiene, solicitanților care vizitează birourile ZovPersonal le este interzis să efectueze următoarele acțiuni și să aducă și să utilizeze obiectele specificate în birourile ZovPersonal:",
+      "prohibitedItems": [
+        "Telefoane mobile, camere foto, camere video sau orice alte dispozitive care înregistrează audio/video (playere mp3, computere portabile, dispozitive de înregistrare alimentate cu baterii etc.)",
+        "Toate tipurile de obiecte inflamabile (chibrituri, brichete, combustibil și alte obiecte combustibile similare) și tăietoare (foarfece, ascuțitoare, pile etc.)",
+        "Arme sau obiecte asemănătoare armelor sau orice materiale explozive",
+        "Animale de companie (din cauza sensibilităților alergice)",
+        "Plicuri sau pachete sigilate",
+        "Mâncare și băuturi",
+        "Genți sau valize mai mari decât dimensiunea bagajului de cabină, rucsacuri, serviete sau genți cu fermoar (Dacă aveți dosare, puteți păstra doar dosarele care conțin documentele solicitate)"
+      ],
+      "disclaimer": "*Lista de mai sus nu se limitează la cele specificate.",
+      "additionalRules": [
+        "Gardienii de securitate și oficialii biroului au dreptul de a interzice obiectele suspecte și de a refuza intrarea persoanelor suspecte în birourile noastre. Gardienii de securitate au autoritatea de a verifica geanta solicitantului în orice moment în timpul procesului de cerere de viză.",
+        "Din motive de securitate, terților, cum ar fi prietenii, rudele sau angajații locului de muncă, alții decât solicitantul, le este interzis să depună cereri de viză (Accesul în birourile ZovPersonal nu este posibil, cu excepția solicitantului și a persoanei care va aplica prin procură). Doar o singură persoană va fi acceptată pentru a însoți solicitanții care au nevoie fizic de ajutorul altei persoane, au deficiențe de auz sau nu pot citi și scrie.",
+        "Solicitanților le este interzis să intre în alte zone decât spațiile comune rezervate solicitanților în birourile noastre (zonele de lucru ale personalului, toaletele etc.).",
+        "Birourile ZovPersonal nu dispun de spațiu de depozitare pentru obiectele interzise menționate mai sus. Birourile ZovPersonal nu acceptă nici depozite. Solicitanții sunt rugați să aleagă metode alternative pentru a nu aduce astfel de obiecte înainte de a intra în centru.",
+        "Birourile ZovPersonal sunt înregistrate cu camere 24/7 datorită politicii noastre de securitate."
+      ],
+      "footer": "Vă informăm cu respect."
+    },
+    "dataProtection": {
+      "title": "INFORMAȚII GENERALE PRIVIND PROTECȚIA ȘI PROCESAREA DATELOR PERSONALE",
+      "intro": "Ca ZovPersonal Consulting and Service Foreign Trade Inc. („ZovPersonal” sau „Compania”), manifestăm maximă sensibilitate față de securitatea datelor tale personale. Cu această conștientizare, acordăm o mare importanță procesării și stocării datelor personale aparținând persoanelor fizice cu care Compania interacționează, în conformitate cu Legea privind Protecția Datelor Personale Nr. 6698 („Legea”), reglementările secundare (regulamente, comunicate, circulare) care au fost și vor fi puse în aplicare pe baza Legii și deciziile obligatorii luate și care vor fi luate de Consiliul pentru Protecția Datelor Personale.",
+      "dataController": {
+        "title": "Informații Despre Controlorul de Date",
+        "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., înregistrată la Direcția de Registru Comercial Istanbul, este Controlorul de Date conform Legii."
+      },
+      "processingPurposes": {
+        "title": "Scopurile Procesării Datelor Personale",
+        "content": "Datele tale personale sunt procesate de Companie în scopurile de a efectua activitățile necesare de către unitățile de afaceri ale Companiei și de a desfășura activități în această direcție pentru îndeplinirea activităților comerciale ale Companiei în conformitate cu legislația și politicile Companiei, determinarea, planificarea și implementarea politicilor comerciale pe termen scurt, mediu și lung ale Companiei, îndeplinirea obligațiilor Companiei care decurg din legislația relevantă, gestionarea relațiilor cu clienții și procesele de comunicare corporativă, gestionarea proceselor de vânzare a serviciilor, gestionarea proceselor call center și asigurarea securității comerciale și juridice a persoanelor fizice și juridice cu care Compania are relații de afaceri, în limitele specificate în Lege, în conformitate cu legea, regulile de onestitate și întotdeauna într-un mod conectat, limitat și proporțional cu aceste scopuri."
+      },
+      "dataTransfer": {
+        "title": "Transferul Datelor Personale",
+        "content": "Datele tale personale sunt transferate în cadrul scopurilor menționate mai sus, în conformitate cu condițiile specificate în Articolele 8 și 9 ale Legii, în principal către instituții publice autorizate legal, autorități judiciare și administrative, persoane juridice și fizice de drept privat permise de alte legislații, instituții și organizații autorizate să auditeze Compania, instituții de plată contractate pentru îndeplinirea plăților și obligațiilor financiare, parteneri de afaceri de la care se primesc servicii sau cu care se colaborează pentru îndeplinirea serviciilor furnizate prin call center și pentru desfășurarea și dezvoltarea activităților Companiei și, doar atunci când este necesar, către furnizorii Companiei, luând măsurile de securitate a datelor specificate în Lege."
+      },
+      "collectionMethod": {
+        "title": "Metoda și Baza Legală pentru Colectarea Datelor Personale",
+        "content": "Datele tale personale sunt colectate de unitățile și angajații autorizați ai Companiei prin metode automate și neautomate, verbal, în scris sau în mediul electronic. În acest context, datele personale din categoriile de identitate, comunicare, locație, tranzacție legală, tranzacție cu clienții, securitatea tranzacțiilor, gestionarea riscurilor, finanțe sunt procesate pe baza motivelor legale de procesare a datelor personale aparținând părților contractului fiind obligatorie datorită relației directe cu stabilirea sau executarea unui contract, așa cum se arată în al doilea paragraf al Articolului 5 al Legii, procesarea datelor fiind obligatorie pentru controlorul de date pentru a-și îndeplini obligația legală, fiind făcute publice de subiectul datelor însuși și procesarea datelor fiind obligatorie pentru interesele legitime ale Companiei, cu condiția să nu dăuneze drepturilor și libertăților fundamentale ale subiectului datelor."
+      },
+      "dataSubjectRights": {
+        "title": "Drepturile Subiecților Datelor Conform Legii",
+        "intro": "Poți solicita la ZovPersonal în orice moment să:",
+        "rights": [
+          "Afli dacă datele tale personale sunt procesate",
+          "Soliciti informații despre aceasta dacă datele tale personale au fost procesate",
+          "Afli scopul procesării datelor tale personale și dacă sunt utilizate în conformitate cu scopul lor",
+          "Cunoști terții cărora datele tale personale sunt transferate în țară sau în străinătate",
+          "Soliciti corectarea datelor personale incomplete sau procesate incorect",
+          "Soliciti ștergerea sau distrugerea datelor personale în cadrul condițiilor stipulate în Articolul 7 al Legii",
+          "Soliciti ca operațiunile efectuate în conformitate cu subparagrafele (d) și (e) ale Articolului 11 al Legii să fie notificate terților cărora datele tale personale au fost transferate",
+          "Obiectezi asupra apariției unui rezultat împotriva ta prin analiza datelor tale procesate exclusiv prin sisteme automate",
+          "Soliciti compensații pentru daune în cazul în care suferi daune din cauza procesării ilegale a datelor tale personale"
+        ],
+        "applicationProcess": "Poți solicita să îți exerciți drepturile. Poți trimite cererile tale referitoare la drepturile tale și aplicarea Legii prin completarea formularului de cerere pe care îl poți obține de la https://zovpersonal.com/ și trimițându-l la adresa companiei prin notar, poștă recomandată cu confirmare de primire sau cu cererea ta personală în format de semnătură umedă, sau prin semnarea formularului de cerere completat electronic cu semnătura ta mobilă sau semnătura electronică securizată și apoi trimițându-l la info@zovpersonal.com folosind adresa ta KEP sau adresa de e-mail deja înregistrată în sistemul de înregistrare a datelor al Companiei.",
+        "fees": "ZovPersonal va răspunde gratuit la cererile în acest domeniu până la zece pagini dacă este necesar un răspuns scris; va răspunde percepând o taxă pentru fiecare pagină peste zece pagini pe tranzacție. Dacă răspunsul la cerere este dat pe un mediu de înregistrare, cum ar fi CD sau memorie flash, taxa care poate fi cerută de Companie nu poate depăși costul mediului de înregistrare."
+      }
+    }
+  }
+}

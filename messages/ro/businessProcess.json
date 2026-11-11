@@ -1,0 +1,103 @@
+{
+  "slugPages": {
+    "employeeIntegration": {
+      "title": "Procese de Integrare a Angajaților",
+      "subtitle": "Suport cuprinzător pentru integrarea cu succes în Germania",
+      "description": "Oferim programe de integrare special concepute pentru angajații internaționali pentru a se integra cu succes în Germania.",
+      "section1": {
+        "title": "Integrarea Angajaților",
+        "content": "După ce angajații internaționali sosesc cu succes în Germania, începe procesul critic al integrării. Integrarea bună este importantă nu doar pentru a se asigura că noii angajați se simt confortabil în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie. Companiile pot aduce o contribuție semnificativă prin măsuri țintite menite să ofere un start lin pentru noii profesioniști."
+      },
+      "section2": {
+        "title": "Servicii de Suport",
+        "content": "Oferim servicii cuprinzătoare inclusiv formare lingvistică, orientare culturală, consultanță juridică și suport pentru integrarea socială."
+      },
+      "benefits": "Adaptare rapidă, satisfacție ridicată la locul de muncă și succes pe termen lung"
+    },
+    "experiencedVisa": {
+      "title": "Viza pentru Profesioniști Experimentați",
+      "subtitle": "Program special de vize pentru specialiști experimentați calificați",
+      "description": "Oferim procese accelerate de vize și oportunități speciale pentru profesioniștii cu cel puțin 2 ani de experiență profesională.",
+      "section1": {
+        "title": "Condițiile Vizei",
+        "content": "Sub Secțiunea 19c din Legea Rezidenței, categorie specială de vize pentru profesioniștii cu cel puțin doi ani de experiență în domeniul lor. Poți aplica fără cerința unei diplome universitare."
+      },
+      "section2": {
+        "title": "Procesul de Cerere",
+        "content": "Oferim ghidare profesională pentru evaluarea certificatelor tale de experiență, recunoașterea calificărilor profesionale și procesele accelerate de cerere."
+      },
+      "benefits": "Proces rapid, condiții flexibile și evaluare orientată pe experiență"
+    },
+    "acceleratedProcedure": {
+      "title": "Procedura Accelerată pentru Lucrători Calificați",
+      "subtitle": "Proces rapid și eficient de cerere de viză",
+      "description": "Reducem procesul tău de viză cu procedura accelerată special concepută pentru lucrătorii calificați.",
+      "section1": {
+        "title": "Proces Accelerat",
+        "content": "Procedură specială care înjumătățește timpul standard de cerere de viză. Evaluare prioritară și rezultate rapide."
+      },
+      "section2": {
+        "title": "Avantaje",
+        "content": "Optimizăm procesul tău cu timpi scurți de așteptare, procesare prioritară și atribuirea unui consultant dedicat."
+      },
+      "benefits": "Proces de 2-3 săptămâni, procesare prioritară și rezultate garantate"
+    },
+    "recruitment": {
+      "title": "Servicii Internaționale de Recrutare",
+      "subtitle": "Conectând profesioniștii calificați cu Germania",
+      "description": "Serviciile noastre experte în recrutarea talentelor internaționale pentru a răspunde nevoilor de forță de muncă ale Germaniei.",
+      "section1": {
+        "title": "Strategia de Recrutare",
+        "content": "Potrivim candidații potriviți cu pozițiile potrivite prin campanii de recrutare țintite. Dezvoltăm abordări specifice sectorului."
+      },
+      "section2": {
+        "title": "Managementul Procesului",
+        "content": "Gestionăm întregul proces de recrutare inclusiv sourcing-ul candidaților, evaluarea, procesele de vize și plasarea locurilor de muncă."
+      },
+      "benefits": "Pool mare de candidați, potrivire de calitate și garanție de proces"
+    }
+  },
+  "common": {
+    "advantagesTitle": "Avantaje",
+    "processTitle": "Proces",
+    "processDescription": "Rezultate sigure cu ghidare pas cu pas",
+    "step1Title": "1. Evaluarea Inițială",
+    "step1Description": "Realizăm analiza situației și evaluarea eligibilității.",
+    "step2Title": "2. Pregătirea Documentelor",
+    "step2Description": "Pregătim profesional toate documentele necesare.",
+    "step3Title": "3. Procesul de Cerere",
+    "step3Description": "Urmărim și gestionăm cererea ta.",
+    "step4Title": "4. Rezultat și Urmărire",
+    "step4Description": "Finalizarea procesului și serviciile de urmărire.",
+    "ctaTitle": "Să începem imediat",
+    "ctaDescription": "Contactează echipa noastră de experți pentru a-ți începe procesul.",
+    "contactButton": "Intră în contact",
+    "backButton": "Înapoi"
+  },
+  "entryGuide": {
+    "imageAlt": "Servicii de consultanță pentru vize",
+    "title": "Ghid de intrare în Germania",
+    "preparation": {
+      "title": "1. Pregătirea și colectarea informațiilor",
+      "content": "Ca ZOV Personal, oferim consultanță completă cu privire la cerințele și pașii necesari înainte de a intra în Germania. Echipa noastră de experți oferă informații detaliate despre opțiunile de viză și condițiile prealabile aferente, oferind îndrumare personalizată."
+    },
+    "partnership": {
+      "title": "2. Parteneriat cu angajatorii și sprijin pentru găsirea unui loc de muncă",
+      "content": "Datorită rețelei extinse de angajatori a ZOV Personal, stabilim legături directe cu companii de încredere din Germania. În cadrul programului nostru de parteneriat cu angajatorii, acoperim:",
+      "items": [
+        "Găsirea de posturi potrivite pentru calificările dumneavoastră",
+        "Negocieri ale contractului de muncă",
+        "Coordonarea procesului de viză cu angajatorul",
+        "Gestionarea procedurilor de obținere a permisului de muncă"
+      ]
+    },
+    "advantage": {
+      "title": "Avantajul ZOV Personal",
+      "content": "Cu un proces de pregătire cuprinzător, nu există obstacole în calea unui început de succes în Germania. Echipa experimentată a ZOV Personal oferă sprijin profesional la fiecare pas, de la aplicarea pentru viză până la începerea jobului. Pășiți cu încredere în viața profesională din Germania cu rețeaua noastră de parteneriate cu angajatori și consultanță de specialitate."
+    },
+    "cta": {
+      "ready": "Sunteți gata să începeți călătoria în Germania?",
+      "contact": "Contactați ZOV Personal acum pentru a începe procesul de viză și a vă planifica cariera în Germania!"
+    }
+  }
+}

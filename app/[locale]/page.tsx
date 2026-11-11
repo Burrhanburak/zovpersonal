@@ -1,3 +1,4 @@
+import { assetUrl } from '@/lib/assets';
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 import { Tag } from "@/components/ui/tag";
@@ -70,7 +71,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/zovpersonal.webp"
+            src={assetUrl("zovpersonal.webp")}
             alt="Background"
             width={1920}
             height={1080}
@@ -114,35 +115,10 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
                 {t('hero.title')}
               </h1>
-              
-              {/* Subtitle */}
-              {t('hero.subtitle') && (
-                <h2 className="text-lg md:text-xl text-gray-200 mt-4 font-medium">
-                  {t('hero.subtitle')}
-                </h2>
-              )}
-            </div>
 
-            {/* Right Side */}
-            <div className="flex flex-1 flex-col gap-8 max-w-[352px] lg:max-w-[330px] xl:max-w-[352px]">
-              {/* Description */}
-              <div className="flex flex-col justify-start">
-                <p 
-                  className="text-white text-base leading-relaxed"
-                  style={{
-                    whiteSpace: 'pre-wrap',
-                    wordBreak: 'break-word',
-                    wordWrap: 'break-word'
-                  }}
-                >
-                  {t('hero.longDescription')}
-                </p>
-              </div>
-              
-              {/* CTA Button */}
               <Link
                 href={`/${locale}/contact`}
-                className="bg-white text-[rgb(28,39,6)] px-8 py-4 rounded-[60px] text-base font-medium hover:bg-gray-100 transition-colors text-center inline-block w-fit"
+                className="mt-6 bg-white text-[rgb(28,39,6)] px-8 py-4 rounded-[60px] text-base font-medium hover:bg-gray-100 transition-colors text-center inline-block w-fit"
               >
                 {t('hero.cta')}
               </Link>
@@ -183,26 +159,19 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
       
-      <section className="container max-w-5xl border-y py-5">
-        <h2 className="font-mono text-sm font-semibold tracking-widest text-accent-foreground">{t('professionProcess.about.statsTitle')}</h2>
-        <div className="mt-6 grid grid-cols-2 gap-8 md:grid-cols-4">
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">15+</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.experience')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">2.5K</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.healthPersonnel')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">95%</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.successRate')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">150+</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.partners')}</p>
-          </div>
+      <section className="container max-w-5xl border-y py-8">
+        <div className="relative w-full aspect-[21/9] overflow-hidden rounded-2xl">
+          <Image
+            src={assetUrl("danismanlik-anlayisi.jpg")}
+            alt={t('professionProcess.about.title')}
+            fill
+            className="object-cover"
+            sizes="(max-width: 1024px) 100vw, 1024px"
+          />
         </div>
+        <p className="mt-4 text-lg font-medium text-muted-foreground">
+          {t('about.experienceHighlight')}
+        </p>
       </section>
       
       <section className="container max-w-5xl py-10 md:py-12 lg:py-15">

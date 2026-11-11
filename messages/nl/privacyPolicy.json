@@ -1,0 +1,135 @@
+{
+  "title": "Privacybeleid",
+  "subtitle": "ZovPersonal Adviesdiensten - Bescherming en Beveiliging van Uw Persoonsgegevens",
+  "sections": {
+    "intro": {
+      "title": "Ons Privacybeleid",
+      "content": "Als ZovPersonal Consulting and Service Foreign Trade Inc. tonen we de hoogste mate van zorgvuldigheid met betrekking tot de beveiliging van uw persoonsgegevens. Dit privacybeleid legt uit hoe we uw persoonsgegevens verzamelen, verwerken, beschermen en opslaan wanneer u onze diensten gebruikt.",
+      "kvkk": "Als gegevensbeheerders onder de Wet op de Bescherming van Persoonsgegevens Nr. 6698 (KVKK) zorgen we voor volledige naleving van de wetgeving bij de verwerking van uw persoonsgegevens."
+    },
+    "dataCollection": {
+      "title": "Persoonlijke Gegevens Die We Verzamelen",
+      "identity": {
+        "title": "Identiteits- en Contactinformatie",
+        "items": [
+          "Naam, achternaam",
+          "Geboortedatum en -plaats",
+          "Nationaal ID-nummer",
+          "Paspoortinformatie",
+          "Telefoonnummer",
+          "E-mailadres",
+          "Adresinformatie"
+        ]
+      },
+      "visa": {
+        "title": "Visumaanvraaginformatie",
+        "items": [
+          "Opleidingsstatus",
+          "Professionele informatie",
+          "Inkomensstatus",
+          "Reisgeschiedenis",
+          "Familie status",
+          "Gezondheidsstatus (indien vereist)"
+        ]
+      },
+      "technical": {
+        "title": "Technische Gegevens",
+        "items": [
+          "IP-adres",
+          "Browserinformatie",
+          "Apparaatinformatie",
+          "Gebruikersgegevens website"
+        ]
+      }
+    },
+    "processing": {
+      "title": "Doelen van Persoonsgegevensverwerking",
+      "description": "We verwerken uw persoonsgegevens voor de volgende doeleinden:",
+      "purposes": [
+        "Uitvoeren van visumaanvraagprocessen",
+        "Verlenen van adviesdiensten",
+        "Klantrelatiebeheer",
+        "Voldoen aan wettelijke verplichtingen",
+        "Verbeteren van servicekwaliteit",
+        "Statistische analyse",
+        "Meten van klanttevredenheid",
+        "Nemen van veiligheidsmaatregelen"
+      ]
+    },
+    "security": {
+      "title": "Gegevensbeveiliging",
+      "description": "We nemen de volgende technische en administratieve maatregelen voor de beveiliging van uw persoonsgegevens:",
+      "measures": [
+        "Versleutelde gegevensoverdracht met SSL-certificaat",
+        "Veilige serverinfrastructuur",
+        "Toegangscontrole en autorisatie",
+        "Regelmatige beveiligingsupdates",
+        "Personeelstraining en vertrouwelijkheidsovereenkomsten",
+        "Gegevensback-up en herstelprocedures",
+        "24/7 beveiligingsmonitoring"
+      ]
+    },
+    "rights": {
+      "title": "Rechten van Betrokkenen",
+      "description": "U heeft de volgende rechten onder KVKK:",
+      "list": {
+        "info": {
+          "title": "Recht op Informatie",
+          "description": "Recht om te weten of uw persoonsgegevens worden verwerkt"
+        },
+        "access": {
+          "title": "Recht op Toegang",
+          "description": "Recht om informatie op te vragen over uw verwerkte persoonsgegevens"
+        },
+        "rectification": {
+          "title": "Recht op Correctie",
+          "description": "Recht om correctie van onjuiste of onvolledige gegevens te vragen"
+        },
+        "erasure": {
+          "title": "Recht op Verwijdering",
+          "description": "Recht om verwijdering van uw persoonsgegevens te vragen"
+        },
+        "objection": {
+          "title": "Recht op Bezwaar",
+          "description": "Recht om bezwaar te maken tegen gegevensverwerking en te vragen om stopzetting"
+        },
+        "portability": {
+          "title": "Recht op Overdraagbaarheid",
+          "description": "Recht om overdracht van uw gegevens naar een andere gegevensbeheerder te vragen"
+        }
+      },
+      "howToUse": {
+        "title": "Hoe Kunt U Uw Rechten Uitoefenen?",
+        "description": "U kunt de bovenstaande rechten uitoefenen via de volgende communicatiekanalen:",
+        "channels": [
+          "E-mail: info@zovpersonal.com",
+          "Schriftelijke aanvraag: Persoonlijke overhandiging of per post naar ons bedrijfsadres",
+          "Online formulier: Aanvraagformulier op www.zovpersonal.com"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "We gebruiken cookies op onze website om de gebruikerservaring te verbeteren. Cookies zijn kleine tekstbestanden die in uw webbrowser worden opgeslagen. U kunt het gebruik van cookies beheren via uw browserinstellingen."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "U kunt contact met ons opnemen voor vragen over ons privacybeleid:",
+      "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+      "offices": {
+        "turkey": {
+          "title": "Kantoor Turkije",
+          "address": "Adres",
+          "phone": "Telefoon",
+          "location": "Istanbul, Turkije"
+        },
+        "germany": {
+          "title": "Kantoor Duitsland",
+          "address": "Adres",
+          "phone": "Telefoon",
+          "location": "Berlijn, Duitsland"
+        }
+      }
+    }
+  }
+}

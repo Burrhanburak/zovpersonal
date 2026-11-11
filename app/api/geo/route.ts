@@ -19,15 +19,12 @@ export async function GET(request: NextRequest) {
   } else if (vercelCountryHeader) {
     finalCountry = vercelCountryHeader;
     source = 'Vercel Header (Production)';
-  } else if (isDevelopment) {
-    const acceptLanguage = request.headers.get('accept-language') || '';
-    if (acceptLanguage.startsWith('tr')) finalCountry = 'TR';
-    else if (acceptLanguage.startsWith('de')) finalCountry = 'DE';
-    else finalCountry = 'US';
-    source = 'Accept-Language Fallback (Dev)';
   } else {
-    finalCountry = 'US'; // Canlıda hiçbir şey bulunamazsa varsayılan
-    source = 'Default Fallback (Production)';
+    // IP alınamazsa varsayılan İngilizce (US)
+    finalCountry = 'US';
+    source = isDevelopment
+      ? 'Default Fallback (Dev - no IP)'
+      : 'Default Fallback (Production - no IP)';
   }
 
   const responseData = {

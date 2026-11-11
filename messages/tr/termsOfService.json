@@ -1,0 +1,66 @@
+{
+  "title": "Hizmet Koşulları",
+  "subtitle": "ZovPersonal Danışmanlık Hizmetleri - Güvenlik Düzenlemeleri ve Kişisel Verilerin Korunması",
+  "sections": {
+    "securityRegulations": {
+      "title": "GÜVENLİK DÜZENLEMELERİ",
+      "intro": "ZovPersonal Vize Başvuru Merkezini Ziyaret Eden Başvuru Sahiplerine Yönelik Dikkat Edilmesi ve Uyulması Gereken Hususları Kapsayan Güvenlik Düzenlemeleri Duyurusudur;",
+      "description": "Almanya/İtalya temsilciliklerinin güvenlik gereklilikleri uyarınca, ZovPersonal ofislerini ziyaret eden başvuru sahiplerinin aşağıda belirtilen eylemleri gerçekleştirmeleri ve belirtilen eşyaları ZovPersonal ofislerine sokmaları ve kullanmaları yasaktır:",
+      "prohibitedItems": [
+        "Cep telefonu, fotoğraf makinesi, kamera veya başka herhangi bir şekilde ses/video kaydı yapan cihazlar (mp3 okuyucu/çalıcı, taşınabilir bilgisayar, pilli kayıt cihazları, vb.)",
+        "Yanıcı (kibrit, çakmak, yakıt ve benzeri gibi tutuşabilir) ve kesici (makas, kalemtıraş, törpü, vb.) her türlü nesne",
+        "Silah veya silah benzeri nesneler ya da herhangi bir patlayıcı malzeme",
+        "Evcil hayvan (Alerjik hassasiyetler sebebiyle)",
+        "Mühürlü zarflar ya da paketler",
+        "Yiyecek ve içecek",
+        "Kabin boyundan büyük çanta veya bavul ya da valiz, sırt çantaları, evrak çantaları veya fermuarlı çantalar (Dosya bulunduruluyorsa yalnızca istenilen belgeleri içeren dosya bulundurulabilir)"
+      ],
+      "disclaimer": "*Yukarıdaki liste belirtilenlerle sınırlı değildir.",
+      "additionalRules": [
+        "Güvenlik görevlileri ve ofis yetkilileri şüpheli gördüğü eşyaları yasaklama ve şüpheli şahısları ofislerimize kabul etmeme hakkına sahiptirler. Güvenlik görevlisi, vize başvuru işlemi sırasında istediği zaman başvuru sahibinin çantasını kontrol etme yetkisine sahiptir.",
+        "Güvenlik nedenlerinden dolayı, vize başvurularında başvuru sahibi haricinde arkadaş, akraba ya da işyeri çalışanları gibi 3. Kişilerin giriş yapmaları yasaktır (Başvuru sahibi ve vekâleten başvuru yapacak kişi dışında ZovPersonal ofislerine giriş mümkün değildir). Fiziksel olarak bir başkasının yardımına ihtiyaç duyan kişilere, duyma bozukluğu olan ya da okuma yazma bilmeyen başvuru sahiplerine refakat etmek üzere sadece 1 kişi kabul edilecektir.",
+        "Başvuru sahiplerinin, ofislerimizde başvuru sahipleri için ayrılmış olan ortak alanlar dışındaki alanlara (personel çalışma alanları, WC vb.) girişi yasaktır.",
+        "ZovPersonal ofislerinde yukarıda belirtilen yasaklı eşyaları muhafaza edecek herhangi bir yer bulunmamaktadır. Ayrıca ZovPersonal ofisleri emanet de kabul etmez. Başvuru sahiplerinden, merkeze girmeden önce bu özellikte ve tipte eşyaları yanlarında getirmemek üzere alternatif yolları tercih etmeleri rica olunur.",
+        "ZovPersonal ofisleri güvenlik politikamız gereği 7/24 kamera ile kayıt altına alınmaktadır."
+      ],
+      "footer": "Önemle bilgilerinize sunarız."
+    },
+    "dataProtection": {
+      "title": "KİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ HAKKINDA GENEL AYDINLATMA METNİ",
+      "intro": "ZovPersonal Danışmanlık ve Hizmet Dış Ticaret A.Ş. (\"ZovPersonal\" veya \"Şirket\") olarak kişisel verilerinizin güvenliği hususuna azami hassasiyet göstermekteyiz. Bu bilinçle, Şirket'in etkileşim içerisine olduğu gerçek kişilere ait kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (\"Kanun\")'na, Kanun'a bağlı yürürlüğe koyulan ve koyulacak ikincil düzenlemelere (yönetmelik, tebliğ, genelge) ve bağlayıcı nitelikteki Kişisel Verileri Koruma Kurul'u tarafından alınmış ve alınacak kararlara uygun olarak işlenerek, muhafaza edilmesine büyük önem atfetmekteyiz.",
+      "dataController": {
+        "title": "Veri Sorumlusuna İlişkin Bilgiler",
+        "content": "Kanun uyarınca İstanbul Ticaret Sicil Müdürlüğü'nde kayıtlı ZovPersonal DANIŞMANLIK VE HİZMET DIŞ TİCARET A.Ş. Veri Sorumlusu'dur."
+      },
+      "processingPurposes": {
+        "title": "Kişisel Verilerin İşlenme Amaçları",
+        "content": "Kişisel verileriniz Şirket tarafından; Şirket'in yürüttüğü ticari faaliyetlerin mevzuata ve Şirket politikalarına uygun olarak yerine getirilmesi için Şirket'in iş birimleri tarafından gerekli çalışmaların yapılması ve bu doğrultuda faaliyetlerin yürütülmesi, Şirket'in kısa, orta ve uzun vadede ticari politikalarının tespit edilmesi, planlanması ve uygulanması, Şirket'in ilgili mevzuattan doğan yükümlülüklerin yerine getirilmesi, müşteri ilişkileri ve kurumsal iletişim süreçlerinin yönetilmesi, hizmet satış süreçlerinin yönetilmesi, çağrı merkezi süreçlerinin yönetilmesi ve Şirket'in iş ilişkisi içerisinde olduğu gerçek ve tüzel kişilerin ticari ve hukuki emniyetinin sağlanması amaçlarıyla Kanun'da belirtilen sınırlar çerçevesinde hukuka, dürüstlük kurallarına uygun ve işbu amaçlarla her daim bağlantılı, sınırlı ve ölçülü şekilde işlenmektedir."
+      },
+      "dataTransfer": {
+        "title": "Kişisel Verilerin Aktarılması",
+        "content": "Kişisel verileriniz yukarıda belirtilen amaçlar dahilinde, Kanun'un 8. ve 9. maddesinde belirtilen şartlara uygun olarak başta kanunen yetkili kamu kuruluşlarına, adli ve idari makamlara, sair mevzuatta izin verilen özel hukuk tüzel ve gerçek kişilerine, Şirket'i denetime yetkili kurum ve kuruluşlara, ödemelerin ve mali yükümlülüklerin yerine getirilmesi adına anlaşmalı olunan ödeme kuruluşlarına, çağrı merkezi üzerinden sağlanan hizmetlerin yerine getirilmesi ve Şirket'in faaliyetlerinin yürütülmesi ve geliştirilmesi için hizmet alınan veya işbirliği içerisinde olunan iş ortaklarına ve sadece gerektiğinde Şirket'in tedarikçilerine Kanun'da belirtilen veri güvenliği tedbirleri alınmak suretiyle aktarılmaktadır."
+      },
+      "collectionMethod": {
+        "title": "Kişisel Verilerin Toplanma Yöntemi ve Hukuki Sebebi",
+        "content": "Kişisel verileriniz, Şirket'in yetkili birim ve çalışanları tarafından otomatik ve otomatik olmayan yöntemlerle, sözlü, yazılı veya elektronik ortamda toplanmaktadır. Bu kapsamda kimlik, iletişim, lokasyon, hukuki işlem, müşteri işlem, işlem güvenliği, risk yönetimi, finans kategorisinde yer alan kişisel veriler; Kanun'un 5. Maddesinin ikinci fıkrasında gösterilen bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olmasından dolayı sözleşmenin taraflarına ait kişisel verilerin işlenmesinin zorunlu olması, veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için veri işlemenin zorunlu olması, ilgili kişinin kendisi tarafından alenileştirilmiş olması ve ilgili kişinin temel hak ve özgürlüklerinize zarar vermemek kaydıyla Şirketin meşru menfaatleri için veri işlemenin zorunlu olması hukuki sebeplerine dayalı olarak işlenmektedir."
+      },
+      "dataSubjectRights": {
+        "title": "Veri Sahiplerinin Kanun Kapsamındaki Hakları",
+        "intro": "Dilediğiniz zaman ZovPersonal'a başvurarak;",
+        "rights": [
+          "Kişisel verilerinizin işlenip işlenmediğini öğrenme",
+          "Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme",
+          "Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme",
+          "Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme",
+          "Kişisel verilerinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme",
+          "Kanun'un 7. maddesinde öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme",
+          "Kanun'un 11. maddesinin (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme",
+          "İşlenen verilerinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kendiniz aleyhine bir sonucun ortaya çıkmasına itiraz etme",
+          "Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme"
+        ],
+        "applicationProcess": "Haklarınızı kullanmayı talep edebilirsiniz. Haklarınıza ve Kanunun uygulanmasına ilişkin taleplerinizi, https://zovpersonal.com/ adresinden temin edebileceğiniz başvuru formunu doldurarak ıslak imzalı şekilde şirket adresine noter kanalıyla, iadeli taahhütlü posta yoluyla veya şahsi başvurunuzla ya da elektronik ortamda doldurduğunuz başvuru formunu mobil imzanızla, güvenli elektronik imzanızla imzaladıktan sonra KEP adresinizi veya Şirket'in veri kayıt sisteminde halihazırda kayıtlı olan e-posta adresinizi kullanarak info@zovpersonal.com adresine iletebilirsiniz.",
+        "fees": "ZovPersonal, bu kapsamdaki taleplere yazılı olarak cevap verilecekse, on sayfaya kadar ücret almadan; on sayfanın üzerindeki her sayfa için işlem başına ücret alarak yanıtlandıracaktır. Başvuruya cevabın CD, flash bellek gibi bir kayıt ortamında verilmesi halinde Şirket tarafından talep edilebilecek ücret kayıt ortamının maliyetini geçemeyecektir."
+      }
+    }
+  }
+}

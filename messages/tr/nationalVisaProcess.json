@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Ulusal Çalışma Vizesi Başvuru Süreci",
+    "description": "Ulusal çalışma vizesi, Almanya'da çalışma amacıyla uzun süreli kalış için giriş hakkı verir. Çalışma türüne bağlı olarak vize bir yıla kadar geçerlilik süresi ile verilmektedir. Ülkeye giriş yaptıktan sonra genellikle yurt içi oturma iznine başvurmanız gerekir. Bu vize türü sadece belirli iş pozisyonları için geçerlidir ve Schengen bölgesinde serbest dolaşım hakkı vermez."
+  },
+  "appointmentSystem": {
+    "title": "Randevu Sistemi",
+    "description": "Randevular ulusal randevu sistemi üzerinden verilmektedir",
+    "ourService": "Bizim Hizmetimiz:",
+    "serviceDescription": "Sizin için randevu işlemleriyle biz ilgileniyoruz. Gerekli randevuları alıp işlemleri biz yürütüyoruz. Gerekli evraklar sizden istenilecek ve düzenlenecek, sonrasında süreç takibi yapıyoruz."
+  },
+  "preparation": {
+    "title": "Hazırlık",
+    "description": "Ulusal vizeler için online randevu sistemini kullanarak kalış amacınızı ve teslim etmeniz gereken belgeleri öğrenin. Kalış amacınıza uygun randevu bekleme listesine online randevu sisteminden ücret karşılığında kayıt olun."
+  },
+  "application": {
+    "title": "Uygulama",
+    "description1": "Başvurular Alman iç makamlarının sürece dahil olması nedeniyle belgenin işlenmesi genellikle üç aya kadar (veya bazı durumlarda daha uzun) sürecektir. Başvurunuzun değerlendirilme sürecinde pasaportunuza ihtiyaç duymanız halinde, imzalı yazılı dilekçenizde başvuru numaranızı belirterek ilgili vize bölümü ile irtibata geçebilirsiniz.",
+    "description2": "Hizmet ücreti ödenmesi gerekmektedir. Pasaportunuz ve gerekli evraklarınız parmak iziniz alındıktan sonra, vize bölümü tarafından değerlendirme süreci için teslim alınmaktadır."
+  },
+  "afterEvaluation": {
+    "title": "Değerlendirme Sonrası",
+    "description": "Başvuruların değerlendirme süreci tamamlandıktan hemen sonra, pasaportunuz sunmuş olduğunuz bazı orijinal evraklar ile birlikte zarf içerisinde ofislerine veya doğrudan posta yoluyla tarafınıza geri gönderilmektedir."
+  },
+  "note": {
+    "label": "Not:",
+    "text": "Ücretlendirme kişi başı olup, dosya ve evrak çeşitliliği ile süreç, vize türüne göre değişiklik gösterir."
+  },
+  "processingTimes": {
+    "title": "İşlem Süreleri",
+    "importantInfo": {
+      "title": "Önemli Bilgilendirme",
+      "description": "Başvuruda bulunmadan önce lütfen randevu bekleme süresini ve pasaportunuzu iade etmek için gerekli süreyi de planlayınız."
+    },
+    "decisionAuthority": {
+      "title": "Karar Verme Yetkisi",
+      "description": "Başvurunun onaylanması veya reddedilmesi kararı yalnızca Dış Temsilcilikler tarafından verilir."
+    },
+    "holidayEffect": {
+      "title": "Tatil Günleri Etkisi",
+      "description": "Türk ve Alman resmi tatilleri sebebiyle işlem sürelerinde değişiklik olabilmektedir. Bu nedenle erken bir tarihte vize başvurusunda bulunmanızı öneririz."
+    },
+    "applicationTracking": {
+      "title": "Başvuru Takibi",
+      "description": "Başvurunuzun hangi aşamada olduğunu iletişime geçerek takip edebilirsiniz."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Let's Talk With Us",
+  "jobSeeker": "Job Seeker",
+  "employer": "Employer",
+  "subtitle": "Whether you're ready to schedule your first consultation or just have questions, we'd love to hear from you.",
+  "pageTitle": "Contact us",
+  "pageSubtitle": "We're here to help with your visa consultation inquiries.",
+  "offices": {
+    "istanbul": "🇩🇪 Emden Office",
+    "berlin": "🇩🇪 Emden Office",
+    "emden": "🇩🇪 Emden Office"
+  },
+  "sections": {
+    "email": "Email us",
+    "follow": "Follow us",
+    "inquiries": "Inquiries"
+  },
+  "selectApplicantType": "Select Applicant Type",
+  "namePlaceholder": "Name",
+  "emailPlaceholder": "Email Address",
+  "datePlaceholder": "Select Date",
+  "messagePlaceholder": "Message",
+  "submitButton": "Book Now",
+  "sending": "Sending...",
+  "successMessage": "Your message has been sent successfully! We will get back to you soon.",
+  "errorMessage": "An error occurred while sending the message. Please try again.",
+  "imageAlt": "Contact us for visa consulting",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "form": {
+    "fullName": "Full name",
+    "email": "Work email address",
+    "message": "Your message",
+    "submit": "Submit",
+    "optional": "(optional)",
+    "placeholders": {
+      "fullName": "First and last name",
+      "email": "me@mail.com",
+      "message": "Write your message"
+    }
+  }
+}

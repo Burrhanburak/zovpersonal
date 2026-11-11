@@ -7,14 +7,15 @@
   "nav": {
     "home": "Ana Sayfa",
     "services": "Hizmetler",
-    "about": "Hakkımızda", 
+    "about": "Hakkımızda",
     "contact": "İletişim",
-    "consultation": "İşveren Desteği"
+    "consultation": "İşveren Desteği",
+    "blog": "Blog"
   },
   "hero": {
     "title": "Uluslararası Gelecek Odaklı Personel Yerleştirme (ZOV)",
-    "subtitle": "Yurtdışında Çalışmanın Kapısı",
-          "description": "Almanya, AB ülkeleri ve daha fazlası için nitelikli personel istihdamında uzman rehberlik. Bireyler ve işletmeler için profesyonel işe alım hizmetleri.",
+    "subtitle": "",
+    "description": "Almanya, AB ülkeleri ve daha fazlası için nitelikli personel istihdamında uzman rehberlik. Bireyler ve işletmeler için profesyonel işe alım hizmetleri.",
     "longDescription": "Nitelikli profesyonelleri uluslararası işverenlerle buluşturan güvenilir ortağınız. İster işe alım sürecinizde destek arıyor olun, ister yurt dışında kariyer fırsatları peşinde olun, uzman ekibimizle başarıya ulaşın.",
     "cta": "Arama Talebinde Bulunun",
     "secondary_cta": "Daha Fazla Bilgi",
@@ -35,7 +36,7 @@
   "home": {
     "carousel": {
       "badge": "Uluslararası Gelecek Odaklı İşe Alım",
-      "title": "Uluslararası Gelecek Odaklı İşe Alım", 
+      "title": "Uluslararası Gelecek Odaklı İşe Alım",
       "description": "İş arayan programımız hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
       "cards": {
         "recruitment": {
@@ -178,7 +179,7 @@
     },
     "team": {
       "title": "Ekibimiz",
-      "description1": "ZovPersonal'ı profesyonel işe alım ve iş veren ortaklığı sektöründe öncü olmak amacıyla kurduk. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Gelecek nesiller boyunca işe alım ve iş veren ortaklığı inovasyonunu güçlendirmek için özel olarak inşa edildik.",
+      "description1": "ZovPersonal'ı profesyonel işe alım ve iş veren ortaklığı sektöründe öncü olmak amacıyla kurduk. Her süreç sıfırdan tasarlandı — teknik borç veya eski sistemler yok. Gelecek odaklı işe alım ve kalıcı ortaklıkları güçlendirmek için özel olarak inşa edildik.",
       "description2": "Deneyimli danışmanlarımız, her müşterinin benzersiz ihtiyaçlarını anlayarak kişiselleştirilmiş çözümler sunar. Uluslararası işe alım süreçlerindeki karmaşıklığı basitleştirip, başvuru sürecinizi sorunsuz hale getirmek için buradayız.",
       "description3": "iş veren ortaklığı için iletişime geçin.",
       "cta": "İletişime Geçin"
@@ -216,12 +217,13 @@
         "role": "Operasyon Müdürü"
       }
     },
-    "description": "Uluslararası kariyer hedeflerinize ulaşmanızda rehberlik etmek ve işe alım süreçlerini basitleştirerek hayalinizdeki ülkede çalışma fırsatı yaratmak. 15 yıllık altyapımızla, dünya çapında güvenilir işe alım ve iş veren ortaklığı hizmeti sunuyoruz.",
+    "description": "Uluslararası kariyer hedeflerinize ulaşmanızda rehberlik etmek ve işe alım süreçlerini basitleştirerek hayalinizdeki ülkede çalışma fırsatı yaratmak. Tecrübemizle, dünya çapında güvenilir işe alım ve iş veren ortaklığı hizmeti sunuyoruz.",
     "features": {
       "compassion": "Empati ve Anlayış",
-      "integrity": "Dürüstlük ve Güvenilirlik", 
+      "integrity": "Dürüstlük ve Güvenilirlik",
       "mindGrowth": "Kişisel ve Mesleki Gelişim"
-    }
+    },
+    "experienceHighlight": "Sektör tecrübemizle — güvenilir işe alım uzmanlığıyla kariyerlere rehberlik ediyoruz."
   },
   "services": {
     "title": "Kariyerinizi Küresel Ölçekte İlerletin",
@@ -266,28 +268,46 @@
       "workVisa": {
         "title": "İşe Alım Süreci",
         "description": "Uluslararası uzmanları işe almak, Avrupa'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
-        "stat1": { "number": "95%", "label": "başarılı işe alım" },
-        "stat2": { "number": "", "label": "Hızlı Süreç" },
+        "stat1": {
+          "number": "95%",
+          "label": "başarılı işe alım"
+        },
+        "stat2": {
+          "number": "",
+          "label": "Hızlı Süreç"
+        },
         "category": "İşe Alım Süreci"
       },
       "documentation": {
         "title": "Dil Gereksinimleri",
         "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları.",
-        "stat1": { "number": "100%", "label": "belge uyumu" },
-        "stat2": { "number": "✓", "label": "Mesleki yeterlilik sertifika" },
+        "stat1": {
+          "number": "100%",
+          "label": "belge uyumu"
+        },
+        "stat2": {
+          "number": "✓",
+          "label": "Mesleki yeterlilik sertifika"
+        },
         "category": "Dil Gereksinimleri"
       },
       "skillsAssessment": {
         "title": "Mesleki Yeterlilik Değerlendirmesi",
         "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları ile süreci destekliyoruz.",
-        "stat1": { "number": "85%", "label": "başarılı tanınma" },
-        "stat2": { "number": "15", "label": "yıllık altyapı" },
+        "stat1": {
+          "number": "85%",
+          "label": "başarılı tanınma"
+        },
+        "stat2": {
+          "number": "15",
+          "label": "yıllık altyapı"
+        },
         "category": "Mesleki Yeterlilik"
       }
     },
     "tabButtons": {
       "workVisa": "İşe Alım",
-      "documentation": "Dil Gereksinimleri", 
+      "documentation": "Dil Gereksinimleri",
       "skillsAssessment": "Mesleki Yeterlilik"
     }
   },
@@ -374,8 +394,9 @@
     "pageTitle": "İletişim",
     "pageSubtitle": "iş veren ortaklığı konusundaki sorularınız için buradayız.",
     "offices": {
-      "istanbul": "🇹🇷 İstanbul Ofisi",
-      "berlin": "🇩🇪 Bremen Ofisi"
+      "istanbul": "🇩🇪 Emden Ofisi",
+      "berlin": "🇩🇪 Emden Ofisi",
+      "emden": "🇩🇪 Emden Ofisi"
     },
     "sections": {
       "email": "E-posta ile bize ulaşın",
@@ -424,13 +445,14 @@
     "copyright": "©2025 Tüm hakları saklıdır, Zov Personal.",
     "legal": "Danışmanlık hizmetlerimiz bilgilendirme amaçlıdır ve garanti teşkil etmez. Vize başvuru süreçleri ülke yönetmeliklerine tabidir ve sonuçlar değişiklik gösterebilir. Kişisel durumunuzu değerlendirmek için uzman danışmanlarımızla iletişime geçiniz.",
     "email": "info@zovpersonal.com",
-    "phone": "(Türkiye) | +90 538 596 99 43 (Almanya) | +4915757295545",
-    "address": "İstanbul, Türkiye, Brückstraße 59, 26725 Emden, Almanya",
+    "phone": "+49 1512 7027836",
+    "address": "Brückstraße 59, 26725 Emden, Almanya",
     "links": {
       "home": "Ana Sayfa",
       "services": "Hizmetler",
-      "about": "Hakkında", 
-      "contact": "İletişim"
+      "about": "Hakkında",
+      "contact": "İletişim",
+      "blog": "Blog"
     },
     "visa": {
       "requiredDocuments": "Gerekli Evraklar",
@@ -464,7 +486,7 @@
     "ourServices": "Kaynaklar",
     "services": {
       "workVisa": "İş Vizesi Başvuruları",
-      "skillsAssessment": "Yetenek Değerlendirmesi", 
+      "skillsAssessment": "Yetenek Değerlendirmesi",
       "documentation": "Belge Hazırlama",
       "consultation": "Kişisel Danışmanlık"
     },
@@ -485,26 +507,63 @@
         "title": "Topladığımız Kişisel Veriler",
         "identity": {
           "title": "Kimlik ve İletişim Bilgileri",
-          "items": ["Ad, soyad", "Doğum tarihi ve yeri", "TC kimlik numarası", "Pasaport bilgileri", "Telefon numarası", "E-posta adresi", "Adres bilgileri"]
+          "items": [
+            "Ad, soyad",
+            "Doğum tarihi ve yeri",
+            "TC kimlik numarası",
+            "Pasaport bilgileri",
+            "Telefon numarası",
+            "E-posta adresi",
+            "Adres bilgileri"
+          ]
         },
         "visa": {
-          "title": "Vize Başvuru Bilgileri", 
-          "items": ["Eğitim durumu", "Meslek bilgileri", "Gelir durumu", "Seyahat geçmişi", "Aile durumu", "Sağlık durumu (gerektiğinde)"]
+          "title": "Vize Başvuru Bilgileri",
+          "items": [
+            "Eğitim durumu",
+            "Meslek bilgileri",
+            "Gelir durumu",
+            "Seyahat geçmişi",
+            "Aile durumu",
+            "Sağlık durumu (gerektiğinde)"
+          ]
         },
         "technical": {
           "title": "Teknik Veriler",
-          "items": ["IP adresi", "Tarayıcı bilgileri", "Cihaz bilgileri", "Site kullanım verileri"]
+          "items": [
+            "IP adresi",
+            "Tarayıcı bilgileri",
+            "Cihaz bilgileri",
+            "Site kullanım verileri"
+          ]
         }
       },
       "processing": {
         "title": "Kişisel Verilerin İşlenme Amaçları",
         "description": "Kişisel verilerinizi aşağıdaki amaçlarla işlemekteyiz:",
-        "purposes": ["Vize başvuru süreçlerinin yürütülmesi", "Danışmanlık hizmetlerinin sunulması", "Müşteri ilişkileri yönetimi", "Yasal yükümlülüklerin yerine getirilmesi", "Hizmet kalitesinin artırılması", "İstatistiksel analiz yapılması", "Müşteri memnuniyetinin ölçülmesi", "Güvenlik tedbirlerinin alınması"]
+        "purposes": [
+          "Vize başvuru süreçlerinin yürütülmesi",
+          "Danışmanlık hizmetlerinin sunulması",
+          "Müşteri ilişkileri yönetimi",
+          "Yasal yükümlülüklerin yerine getirilmesi",
+          "Hizmet kalitesinin artırılması",
+          "İstatistiksel analiz yapılması",
+          "Müşteri memnuniyetinin ölçülmesi",
+          "Güvenlik tedbirlerinin alınması"
+        ]
       },
       "security": {
         "title": "Veri Güvenliği",
         "description": "Kişisel verilerinizin güvenliği için aşağıdaki teknik ve idari tedbirleri almaktayız:",
-        "measures": ["SSL sertifikası ile şifreli veri iletimi", "Güvenli sunucu altyapısı", "Erişim kontrolü ve yetkilendirme", "Düzenli güvenlik güncellemeleri", "Personel eğitimi ve gizlilik anlaşmaları", "Veri yedekleme ve kurtarma prosedürleri", "24/7 güvenlik izleme"]
+        "measures": [
+          "SSL sertifikası ile şifreli veri iletimi",
+          "Güvenli sunucu altyapısı",
+          "Erişim kontrolü ve yetkilendirme",
+          "Düzenli güvenlik güncellemeleri",
+          "Personel eğitimi ve gizlilik anlaşmaları",
+          "Veri yedekleme ve kurtarma prosedürleri",
+          "24/7 güvenlik izleme"
+        ]
       },
       "rights": {
         "title": "Veri Sahibi Hakları",
@@ -515,7 +574,7 @@
             "description": "Kişisel verilerinizin işlenip işlenmediğini öğrenme hakkı"
           },
           "access": {
-            "title": "Erişim Hakkı", 
+            "title": "Erişim Hakkı",
             "description": "İşlenen kişisel verileriniz hakkında bilgi talep etme hakkı"
           },
           "rectification": {
@@ -538,7 +597,11 @@
         "howToUse": {
           "title": "Haklarınızı Nasıl Kullanabilirsiniz?",
           "description": "Yukarıdaki haklarınızı kullanmak için aşağıdaki iletişim kanallarını kullanabilirsiniz:",
-          "channels": ["E-posta: info@zovpersonal.com", "Yazılı başvuru: Şirket adresimize elden teslim veya posta yoluyla", "Online form: www.zovpersonal.com adresindeki başvuru formu"]
+          "channels": [
+            "E-posta: info@zovpersonal.com",
+            "Yazılı başvuru: Şirket adresimize elden teslim veya posta yoluyla",
+            "Online form: www.zovpersonal.com adresindeki başvuru formu"
+          ]
         }
       },
       "cookies": {
@@ -557,10 +620,10 @@
             "title": "Türkiye Ofisi",
             "address": "Adres",
             "phone": "Telefon",
-            "location": "Istanbul, Türkiye"
+            "location": "Brückstraße 59, 26725 Emden, Almanya"
           },
           "germany": {
-            "title": "Almanya Ofisi", 
+            "title": "Almanya Ofisi",
             "address": "Adres",
             "phone": "Telefon",
             "location": "Brückstraße 59, 26725 Emden, Almanya"
@@ -639,10 +702,10 @@
     "title": "Neden Bizi Seçmelisiniz?",
     "subtitle": "Uluslararası işe alım ve iş veren ortaklığında fark yaratan özelliklerimiz",
     "category": "İşe Alım ve İş Veren Ortaklığı",
-    "description": "15+ yıl altyapımızla, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
+    "description": "Tecrübemizle, müşterilerimizin uluslararası kariyer hedeflerine ulaşmalarında güvenilir ortağınızız. Kişiselleştirilmiş yaklaşımımız ve yüksek başarı oranımızla fark yaratıyoruz.",
     "feature1": {
       "title": "Uzman Ekip",
-      "description": "15+ yıl altyapılı vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
+      "description": "Sektör tecrübeli vize uzmanları ve hukuk danışmanlarımızla yanınızdayız."
     },
     "feature2": {
       "title": "Yüksek Başarı Oranı",
@@ -1139,28 +1202,44 @@
           "title": "İhtiyaç Analizi",
           "description": "Şirketinizin mevcut ve gelecekteki ihtiyaçlarını detaylı analiz ediyoruz.",
           "duration": "1-2 gün",
-          "tools": ["AI Analytics", "Market Research", "Skill Mapping"]
+          "tools": [
+            "AI Analytics",
+            "Market Research",
+            "Skill Mapping"
+          ]
         },
         {
-          "phase": "2", 
+          "phase": "2",
           "title": "Yetenek Keşfi",
           "description": "Küresel veritabanımızdan en uygun adayları belirliyoruz.",
           "duration": "3-5 gün",
-          "tools": ["Global Sourcing", "Social Recruiting", "Network Analysis"]
+          "tools": [
+            "Global Sourcing",
+            "Social Recruiting",
+            "Network Analysis"
+          ]
         },
         {
           "phase": "3",
           "title": "Değerlendirme ve Filtreleme",
           "description": "Çok aşamalı değerlendirme süreciyle en iyi adayları seçiyoruz.",
           "duration": "1-2 hafta",
-          "tools": ["Technical Assessment", "Culture Fit Analysis", "Reference Check"]
+          "tools": [
+            "Technical Assessment",
+            "Culture Fit Analysis",
+            "Reference Check"
+          ]
         },
         {
           "phase": "4",
           "title": "Sunum ve Entegrasyon",
           "description": "Seçilen adayları size sunuyor ve entegrasyon sürecini yönetiyoruz.",
           "duration": "1-3 hafta",
-          "tools": ["Interview Coordination", "Offer Management", "Onboarding Support"]
+          "tools": [
+            "Interview Coordination",
+            "Offer Management",
+            "Onboarding Support"
+          ]
         }
       ]
     },
@@ -1293,8 +1372,12 @@
             "Sektörler Arası Uzmanlık"
           ],
           "overlayStats": {
-            "stat1": { "label": "İşe Alım Süresinde Azalma" },
-            "stat2": { "label": "Daha Hızlı Yerleştirmeler" }
+            "stat1": {
+              "label": "İşe Alım Süresinde Azalma"
+            },
+            "stat2": {
+              "label": "Daha Hızlı Yerleştirmeler"
+            }
           }
         },
         "quality": {
@@ -1309,8 +1392,12 @@
             "Uzun Vadeli Elde Tutma Odaklı"
           ],
           "overlayStats": {
-            "stat1": { "label": "Başarı Oranı" },
-            "stat2": { "label": "Başarılı İşe Alımlar" }
+            "stat1": {
+              "label": "Başarı Oranı"
+            },
+            "stat2": {
+              "label": "Başarılı İşe Alımlar"
+            }
           }
         },
         "support": {
@@ -1325,8 +1412,12 @@
             "Yerleştirme Sonrası Sürekli Destek"
           ],
           "overlayStats": {
-            "stat1": { "label": "Özel Destek" },
-            "stat2": { "label": "Müşteri Memnuniyeti" }
+            "stat1": {
+              "label": "Özel Destek"
+            },
+            "stat2": {
+              "label": "Müşteri Memnuniyeti"
+            }
           }
         }
       }
@@ -1400,7 +1491,7 @@
   },
   "jobSeeker": {
     "hero": {
-      "tag1": "İş Arayan", 
+      "tag1": "İş Arayan",
       "tag2": "Uluslararası Kariyer",
       "title": "Bizimle Yurtdışında Hayalinizdeki İşi Bulun",
       "description": "uluslararası gelecek odaklı işe alım çözümleri",
@@ -1415,7 +1506,11 @@
           "title": "Premium İş",
           "subtitle": "Dünya Çapında Fırsatlar",
           "description": "25+ ülkedeki önde gelen şirketlerle özel yüksek maaşlı uluslararası pozisyonlara erişim.",
-          "stats": ["25+ Ülke", "5K+ İş Yerleştirme", "95% Başarı Oranı"],
+          "stats": [
+            "25+ Ülke",
+            "5K+ İş Yerleştirme",
+            "95% Başarı Oranı"
+          ],
           "benefits": [
             "Premium İşlere Erişim",
             "Doğrulanmış İşverenler",
@@ -1423,8 +1518,14 @@
             "Yüksek Maaş Paketleri"
           ],
           "overlayStats": {
-            "stat1": { "value": "5K+", "label": "İş Yerleştirme" },
-            "stat2": { "value": "25+", "label": "Ülke" }
+            "stat1": {
+              "value": "5K+",
+              "label": "İş Yerleştirme"
+            },
+            "stat2": {
+              "value": "25+",
+              "label": "Ülke"
+            }
           }
         },
         "support": {
@@ -1432,7 +1533,11 @@
           "title": "Kapsamlı",
           "subtitle": "Kariyer Desteği",
           "description": "Başvurudan taşınmaya kadar, her adımda kapsamlı destek sağlıyoruz.",
-          "stats": ["24/7 Destek", "Uzman Rehberlik", "98% Memnuniyet"],
+          "stats": [
+            "24/7 Destek",
+            "Uzman Rehberlik",
+            "98% Memnuniyet"
+          ],
           "benefits": [
             "CV Optimizasyonu",
             "Mülakat Koçluğu",
@@ -1440,8 +1545,14 @@
             "Taşınma Desteği"
           ],
           "overlayStats": {
-            "stat1": { "value": "24/7", "label": "Destek" },
-            "stat2": { "value": "98%", "label": "Memnuniyet" }
+            "stat1": {
+              "value": "24/7",
+              "label": "Destek"
+            },
+            "stat2": {
+              "value": "98%",
+              "label": "Memnuniyet"
+            }
           }
         },
         "process": {
@@ -1449,7 +1560,11 @@
           "title": "Düzenli",
           "subtitle": "Başvuru Süreci",
           "description": "Verimli sürecimiz sizi kanıtlanmış sonuçlar ve hızlı yerleştirme ile yurtdışında daha hızlı çalışmaya başlatır.",
-          "stats": ["30 Gün Ortalama", "95% Başarı", "Hızlı İşlem"],
+          "stats": [
+            "30 Gün Ortalama",
+            "95% Başarı",
+            "Hızlı İşlem"
+          ],
           "benefits": [
             "Hızlı İşlem",
             "Adım Adım Rehberlik",
@@ -1457,8 +1572,14 @@
             "Hızlı Sonuçlar"
           ],
           "overlayStats": {
-            "stat1": { "value": "30", "label": "Gün Ortalama" },
-            "stat2": { "value": "95%", "label": "Başarı Oranı" }
+            "stat1": {
+              "value": "30",
+              "label": "Gün Ortalama"
+            },
+            "stat2": {
+              "value": "95%",
+              "label": "Başarı Oranı"
+            }
           }
         }
       }
@@ -1476,7 +1597,7 @@
           "description": "Özel becerilerinizi arayan doğrulanmış işverenlerle bağlantı kurma"
         },
         {
-          "title": "Mülakat Hazırlığı", 
+          "title": "Mülakat Hazırlığı",
           "description": "Uluslararası pozisyonlar için kapsamlı mülakat koçluğu"
         },
         {
@@ -1541,5 +1662,10 @@
     "contact": "İletişime Geç",
     "help": "Yardıma mı ihtiyacınız var?",
     "contactUs": "Bizimle iletişime geçin"
+  },
+  "blog": {
+    "subtitle": "Uluslararası işe alım, Almanya istihdamı ve işveren ortaklığı rehberleri.",
+    "empty": "Bu dilde henüz yazı yok.",
+    "minRead": "dk okuma"
   }
 }

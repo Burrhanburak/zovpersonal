@@ -1,4 +1,5 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import React from 'react';
 import { useTranslations } from 'next-intl';
@@ -6,7 +7,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useParams } from 'next/navigation';
 import { Logo } from '@/components/logo';
-import { ArrowUpRight, Instagram, Twitter, Linkedin, Eye, Facebook } from 'lucide-react';
+import { ArrowUpRight, Eye } from 'lucide-react';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -83,6 +84,7 @@ export default function Footer() {
                     { label: t('links.home'), href: `/${locale}` },
                     { label: t('links.services'), href: `/${locale}/services` },
                     { label: t('links.about'), href: `/${locale}/about` },
+                    { label: t('links.blog'), href: `/${locale}/blog` },
                     { label: t('links.contact'), href: `/${locale}/contact` }
                   ].map((link, index) => (
                     <Link
@@ -175,35 +177,6 @@ export default function Footer() {
                 </div>
               </div>
               
-              {/* Social Links */}
-              <div className="flex items-center gap-4">
-                {[
-                  { 
-                    href: t('social.instagram.url'), 
-                    icon: Instagram,
-                    alt: "Instagram"
-                  },
-                  { 
-                      href: t('social.facebook.url'), 
-                    icon: Facebook,
-                    alt: "facebook"
-                  },
-                
-                ].map((social, index) => {
-                  const IconComponent = social.icon;
-                  return (
-                    <Link
-                      key={index}
-                      href={social.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="opacity-60 hover:opacity-100 transition-opacity duration-300 text-white"
-                    >
-                      <IconComponent className="w-6 h-6" />
-                    </Link>
-                  );
-                })}
-              </div>
             </div>
           </div>
         </div>
@@ -213,7 +186,7 @@ export default function Footer() {
         {/* Logo Background */}
         <div className="absolute bottom-[-9px] left-1/2 transform -translate-x-1/2 w-[300px] sm:w-[500px] md:w-[800px] lg:w-[1200px] xl:w-[1400px] h-[40px] sm:h-[66px] md:h-[106px] lg:h-[159px] xl:h-[186px] opacity-40 pointer-events-none z-0">
           <Image
-            src="/ZovPersonalfot.png"
+            src={assetUrl("ZovPersonalfot.png")}
             alt="Background logo"
             fill
             className="object-contain"

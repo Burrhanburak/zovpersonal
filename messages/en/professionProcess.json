@@ -1,0 +1,171 @@
+{
+  "title": "Professional Process",
+  "hero": {
+    "title": "Germany National Visa - Professions and Process",
+    "subtitle": "Your national visa application process to work in Germany's healthcare sector"
+  },
+  "navigation": {
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide"
+  },
+  "carousel": {
+    "doctor": {
+      "status": "Doctor Visa",
+      "title": "Germany National Visa for Doctors",
+      "description": "We provide comprehensive visa guidance and process management for medical graduates who want to work as doctors in Germany. Professional support in diploma recognition and language exam processes.",
+      "button": "Learn more"
+    },
+    "nurse": {
+      "status": "Nurse Visa",
+      "title": "Professional Support for Nurses",
+      "description": "Expert guidance for nursing graduates in work permit and national visa processes in Germany. Full support in professional competency recognition and language proficiency processes.",
+      "button": "Learn more"
+    },
+    "caregiver": {
+      "status": "Elderly Care",
+      "title": "Caregivers and Elderly Care Specialists",
+      "description": "Comprehensive visa consultancy for professionals who want to work in the elderly care sector. Connection with care centers in Germany and job placement support.",
+      "button": "Learn more"
+    },
+    "healthTechnician": {
+      "status": "Hospital Placement",
+      "title": "Health Technicians and Support Staff",
+      "description": "Germany visa processes for medical technicians, laboratory specialists and other healthcare support personnel. Comprehensive service with professional certification and job finding support.",
+      "button": "Learn more"
+    },
+    "healthExpert": {
+      "status": "Specialization Program",
+      "title": "Health Specialists and Therapists",
+      "description": "Work opportunities in Germany for physiotherapists, psychologists, dietitians and other health specialists. Specialized visa consultancy and professional recognition processes for your field of expertise.",
+      "button": "Learn more"
+    },
+    "construction": {
+      "status": "High Demand",
+      "title": "Construction Workers",
+      "description": "Process guidance for skilled workers who want to work in the construction sector.",
+      "button": "Learn More"
+    },
+    "electrician": {
+      "status": "Sought-After Skill",
+      "title": "Electricians",
+      "description": "Professional process for electricians who want to work in electrical installation and repair.",
+      "button": "Learn More"
+    },
+    "hospitality": {
+      "status": "Popular Choice",
+      "title": "Hotel & Restaurant",
+      "description": "Guidance for professionals who want to work in hotel, restaurant and tourism sector.",
+      "button": "Learn More"
+    },
+    "logistics": {
+      "status": "Growing Sector",
+      "title": "Logistics & Driving",
+      "description": "Process for professionals who want to work in transportation, logistics and driving.",
+      "button": "Learn More"
+    },
+    "service": {
+      "status": "Secure Employment",
+      "title": "Service Sector",
+      "description": "Guidance for those who want to work in sales, security, cleaning and other service sectors.",
+      "button": "Learn More"
+    }
+  },
+  "otherProfessions": {
+    "title": "National Visa Services for Other Professional Groups",
+    "construction": {
+      "title": "Construction Sector",
+      "description": "Special visa consultancy for those who want to work in construction and building sector. Plumber, electrician, carpenter and other technical personnel positions."
+    },
+    "hospitality": {
+      "title": "Hotel & Restaurant",
+      "description": "Career opportunities in tourism and gastronomy sector. Visa processes for waiter, chef, hotel staff and other service sector positions."
+    },
+    "logistics": {
+      "title": "Logistics & Transportation",
+      "description": "Work opportunities in driving and logistics sector. Truck driver, forklift operator and warehouse staff positions."
+    },
+    "cleaning": {
+      "title": "Cleaning & Hygiene",
+      "description": "Employment opportunities in cleaning services sector. Industrial cleaning, hospital cleaning and office cleaning personnel."
+    },
+    "office": {
+      "title": "Office & Management",
+      "description": "Office workers and management positions. Accounting, human resources, secretarial and other office work personnel."
+    },
+    "others": {
+      "title": "Other Professions",
+      "description": "Special consultancy services for agriculture, production, sales and other professional groups. Appropriate visa processes for every profession."
+    },
+    "learnMore": "Learn more"
+  },
+  "process": {
+    "tabs": {
+      "jobSearch": "Job Search Process",
+      "visaApplication": "Visa Application",
+      "companyAgreements": "Company Agreements"
+    },
+    "content": {
+      "jobSearch": {
+        "title": "Finding Work in Europe",
+        "subtitle": "Healthcare Sector Focused",
+        "description": "We provide professional guidance in the job search process in the healthcare sector. Thanks to our strong network with hospitals and healthcare institutions in Europe, we help you find positions suitable for you.",
+        "detail": "We are with you throughout the entire process from CV preparation to interview.",
+        "footer": "We have career counseling services specific to your profession and job opportunities."
+      },
+      "visaApplication": {
+        "title": "Application Process Support",
+        "subtitle": "Application Process",
+        "description": "We provide information and guidance on your European national work visa application process. By supporting you throughout the process, we help you track your application more easily.",
+        "detail": "We inform you about what to consider when preparing your documents and scheduling an appointment.",
+        "footer": "Contact us for more information about the process."
+      },
+      "companyAgreements": {
+        "title": "Partner Companies",
+        "subtitle": "Job Guarantee",
+        "description": "Thanks to our special agreements with partner hospitals and healthcare institutions in Europe, we offer you direct job opportunities.",
+        "detail": "After receiving a job offer, your visa process proceeds much faster and more securely.",
+        "footer": "You can make long-term career planning with our partner companies."
+      }
+    }
+  },
+  "about": {
+    "title": "A different kind of consultancy.",
+    "description": "We offer comprehensive services to achieve your international career goals in healthcare, service, construction and other sectors.",
+    "statsTitle": "By the numbers",
+    "stats": {
+      "experience": "Years of Infrastructure",
+      "healthPersonnel": "General Personnel",
+      "successRate": "Success Rate",
+      "partners": "Partner Organizations"
+    },
+    "content": {
+      "paragraph1": "Healthcare, service, construction and other sectors are constantly changing and developing. The need for qualified personnel in Europe is increasing every day. Now is the right time to seize this opportunity.",
+      "highlight": "Working in Europe is not just a dream. We make it a reality for you.",
+      "paragraph2": "Our team, which has worked in these sectors for years, has faced all the challenges in the settlement processes of different professional groups in Europe. Traditional methods are not sufficient. We offer a comprehensive consultancy service specially designed for healthcare, service, construction and other sectors."
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Everything you need to know",
+    "title": "Work process in Europe",
+    "description": "Europe is known for its strong economy, culture and high quality of life. However, for immigrants, moving to Europe means more than just a new career; it is the beginning of a new life in a new environment.",
+    "cards": {
+      "integration": {
+        "title": "Employee integration",
+        "description": "After international employees successfully reach Europe, the critical process of integration begins. Good integration is important not only to ensure that new employees feel comfortable in their new environment, but also to ensure long-term commitment to the company."
+      },
+      "experiencedVisa": {
+        "title": "Visa for experienced professionals",
+        "description": "What is an experienced professional visa? The visa for experienced professionals (Section 19c of the Residence Act, Paragraph 2) is aimed at skilled workers who have at least two years of qualified professional experience in their field but do not have a formal university degree."
+      },
+      "acceleratedProcedures": {
+        "title": "Accelerated procedures",
+        "description": "What is the accelerated skilled worker procedure? The Accelerated Skilled Worker Procedure is a special process developed to accelerate the immigration and recognition process for skilled workers from abroad."
+      },
+      "recruitment": {
+        "title": "Recruitment",
+        "description": "Step by step. Recruiting international specialists offers a tremendous opportunity to address the skills shortage in Europe. However, for this process to be successful, companies need to adopt a targeted and structured approach."
+      }
+    },
+    "learnMore": "Learn More"
+  }
+}

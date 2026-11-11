@@ -1,0 +1,57 @@
+{
+  "ctaTitle": "Pametnije savjetovanje.\nNapredujte s povjerenjem",
+  "ctaSubtitle": "Pristupite novoj eri s hibridnim rješenjima, naprednim alatima i uslugama savjetovanja na razini poduzeća.",
+  "ctaButton": "Započnite",
+  "ctaSecondary": "Pogledajte naše usluge",
+  "supportingText": "Vaš pouzdan partner za međunarodno savjetovanje o vizama i vođenje karijere.",
+  "copyright": "©2025 Sva prava pridržana, Zov Personal.",
+  "legal": "Naše usluge savjetovanja su samo u informativne svrhe i ne predstavljaju jamstva. Postupci podnošenja zahtjeva za vizu podložni su propisima zemlje i rezultati se mogu razlikovati. Molimo kontaktirajte naše stručne savjetnike kako biste procijenili svoju osobnu situaciju.",
+  "email": "info@zovpersonal.com",
+  "phone": "+49 1512 7027836",
+  "address": "Brückstraße 59, 26725 Emden, Njemačka",
+  "links": {
+    "home": "Početna",
+    "services": "Usluge",
+    "about": "O nama",
+    "contact": "Kontakt",
+    "blog": "Blog"
+  },
+  "visa": {
+    "requiredDocuments": "Potrebni dokumenti",
+    "applicationProcess": "Međunarodno zapošljavanje",
+    "pricing": "Cijene",
+    "additionalServices": "Dodatne usluge",
+    "nationalVisaSteps": "Koraci za nacionalnu vizu",
+    "professions": "Stručni proces",
+    "businessProcess": "Poslovni proces u Njemačkoj"
+  },
+  "social": {
+    "instagram": {
+      "url": "https://instagram.com/zovpersonal",
+      "alt": "Pratite nas na Instagramu"
+    },
+    "facebook": {
+      "url": "https://facebook.com/zovpersonal",
+      "alt": "Pratite nas na Facebooku"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "employer": "Poslodavac",
+    "jobSeeker": "Tražitelj posla"
+  },
+  "description": "Profesionalne usluge međunarodnog savjetovanja za radne vize",
+  "quickLinks": "Brze poveznice",
+  "ourServices": "Resursi",
+  "services": {
+    "workVisa": "Zahtjevi za radnu vizu",
+    "skillsAssessment": "Procjena vještina",
+    "documentation": "Priprema dokumenata",
+    "consultation": "Osobno savjetovanje"
+  },
+  "privacy": "Pravila o privatnosti",
+  "terms": "Uvjeti pružanja usluge",
+  "rightsReserved": "Sva prava pridržana"
+}

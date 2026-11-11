@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "Međunarodno zapošljavanje usmjereno na budućnost",
+    "description": "U suvremenom svijetu talent ne poznaje granice. Otkrijte radnu snagu sutrašnjice danas i ojačajte svoju tvrtku međunarodnim talentima."
+  },
+  "vision": {
+    "title": "Oblikovanje budućnosti poslovanja",
+    "subtitle": "Ljudski resursi u digitalnom dobu",
+    "description": "Dok se tehnologija brzo razvija, najvažniji resurs ostaje čovjek. Otkrivanje međunarodnih talenata i njihovo vrednovanje na pravim pozicijama ključno je za stjecanje konkurentske prednosti tvrtki.",
+    "features": [
+      {
+        "title": "Uparivanje pomoću umjetne inteligencije",
+        "description": "Savršeno usklađujemo kandidate i pozicije koristeći algoritme umjetne inteligencije."
+      },
+      {
+        "title": "Globalni bazen talenata",
+        "description": "S našom širokom mrežom kvalificiranih stručnjaka iz više od 50 zemalja pronalazimo talente koje trebate."
+      },
+      {
+        "title": "Brz proces zapošljavanja",
+        "description": "Zapošljavanje završavamo za 2-4 tjedna, skraćujući tradicionalne procese za 70%."
+      },
+      {
+        "title": "Kulturna integracija",
+        "description": "Nudimo programe integracije koji osiguravaju prilagodbu međunarodnih zaposlenika kulturi vaše tvrtke."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Trendovi radne snage",
+    "subtitle": "Strategije koje predviđaju budućnost",
+    "items": [
+      {
+        "trend": "Hibridni model rada",
+        "impact": "Talenti koji nadilaze geografske granice",
+        "percentage": "89%",
+        "description": "Tvrtke koje usvajaju hibridni model rada"
+      },
+      {
+        "trend": "Digitalne vještine",
+        "impact": "Upotreba tehnologije na svakom radnom mjestu",
+        "percentage": "95%",
+        "description": "Radna mjesta koja zahtijevaju digitalne vještine"
+      },
+      {
+        "trend": "Raznolikost i uključenost",
+        "impact": "Povećanje performansi i inovacija",
+        "percentage": "76%",
+        "description": "Postizanje boljih financijskih rezultata"
+      },
+      {
+        "trend": "Održivost",
+        "impact": "Preferencije ekološki osviještenih zaposlenika",
+        "percentage": "73%",
+        "description": "Talenti preferiraju održive tvrtke"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Naša inovativna metodologija zapošljavanja",
+    "subtitle": "Pristup temeljen na podacima",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Analiza potreba",
+        "description": "Detaljno analiziramo trenutne i buduće potrebe vaše tvrtke.",
+        "duration": "1-2 dana",
+        "tools": [
+          "Analitika pomoću UI",
+          "Istraživanje tržišta",
+          "Mapiranje vještina"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Otkrivanje talenata",
+        "description": "Identificiramo najprikladnije kandidate iz naše globalne baze podataka.",
+        "duration": "3-5 dana",
+        "tools": [
+          "Globalno pronalaženje",
+          "Društveno zapošljavanje",
+          "Analiza mreže"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Procjena i filtriranje",
+        "description": "Odabiremo najbolje kandidate kroz višestupanjski proces procjene.",
+        "duration": "1-2 tjedna",
+        "tools": [
+          "Tehnička procjena",
+          "Analiza kulturne usklađenosti",
+          "Provjera referenci"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Prezentacija i integracija",
+        "description": "Predstavljamo vam odabrane kandidate i upravljamo procesom integracije.",
+        "duration": "1-3 tjedna",
+        "tools": [
+          "Koordinacija intervjua",
+          "Upravljanje ponudama",
+          "Podrška pri uhodavanju"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Priče o uspjehu",
+    "subtitle": "Naš uspjeh u brojkama",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Uspješna zapošljavanja",
+        "period": "Zadnjih 12 mjeseci"
+      },
+      {
+        "number": "95%",
+        "label": "Zadovoljstvo kupaca",
+        "period": "Kontinuirano"
+      },
+      {
+        "number": "2.5x",
+        "label": "Povećanje brzine",
+        "period": "U usporedbi s tradicionalnim metodama"
+      },
+      {
+        "number": "35+",
+        "label": "Doseg u zemljama",
+        "period": "Globalna mreža"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Otkrijte radnu snagu budućnosti danas",
+    "description": "Počnite sada jačati svoju tvrtku međunarodnim talentima i steći konkurentsku prednost.",
+    "primaryButton": "Besplatno savjetovanje",
+    "secondaryButton": "Istražite priče o uspjehu"
+  }
+}

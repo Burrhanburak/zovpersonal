@@ -1,0 +1,34 @@
+{
+  "title": "Gerekli Belgeler",
+  "subtitle": "Vize başvurunuz için temel evraklar",
+  "categories": {
+    "personal": {
+      "title": "Kişisel Belgeler",
+      "description": "En az 6 aylık geçerlilik süresi olan pasaport, kimlik belgeleri ve kişisel bilgilerinizi içeren evraklar."
+    },
+    "education": {
+      "title": "Eğitim Belgeleri",
+      "description": "Diploma, sertifika ve dil yeterlilik belgeleriniz. Uluslararası tanınırlık için apostille gerekebilir."
+    },
+    "professional": {
+      "title": "Mesleki Belgeler",
+      "description": "İş teklifi mektubu, iş sözleşmesi, mesleki yeterlilik sertifikaları ve deneyim belgeleri."
+    },
+    "medical": {
+      "title": "Sağlık ve Hukuki",
+      "description": "Sağlık raporu, sabıka kaydı, mali durum belgeleri ve biyometrik fotoğraflarınız."
+    }
+  },
+  "list": [
+    "En az 6 ay geçerlilikli pasaport",
+    "Eğitim sertifikaları ve diplomalar",
+    "Meslek yeterlilik sertifikaları",
+    "Dil yeterlilik sertifikaları (Almanca/İngilizce)",
+    "İş teklifi mektubu veya iş sözleşmesi",
+    "Tıbbi muayene raporları",
+    "Sabıka kaydı",
+    "Mali durumu gösteren belgeler",
+    "Doldurulmuş vize başvuru formları",
+    "Biyometrik fotoğraflar"
+  ]
+}

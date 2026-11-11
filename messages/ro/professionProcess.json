@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "title": "Proces profesional",
+    "subtitle": "Procesul tău de cerere de viză națională pentru a lucra în sectorul sănătății din Germania"
+  },
+  "navigation": {
+    "previousSlide": "Slide Anterior",
+    "nextSlide": "Slide Următor"
+  },
+  "carousel": {
+    "doctor": {
+      "status": "Viza pentru Medici",
+      "title": "Viza Națională Germană pentru Medici",
+      "description": "Oferim ghidare completă pentru vize și gestionarea proceselor pentru absolvenții de medicină care doresc să lucreze ca medici în Germania. Suport profesional în procesele de recunoaștere a diplomei și examenele de limbă.",
+      "button": "Află mai multe"
+    },
+    "nurse": {
+      "status": "Viza pentru Asistenți Medicali",
+      "title": "Suport Profesional pentru Asistenți Medicali",
+      "description": "Ghidare expertă pentru absolvenții de asistență medicală în procesele de permis de muncă și viza națională în Germania. Suport complet în recunoașterea competențelor profesionale și procesele de competență lingvistică.",
+      "button": "Află mai multe"
+    },
+    "caregiver": {
+      "status": "Îngrijire Vârstnici",
+      "title": "Îngrijitori și Specialiști în Îngrijirea Vârstnicilor",
+      "description": "Consultanță completă pentru vize pentru profesioniștii care doresc să lucreze în sectorul îngrijirii vârstnicilor. Conexiune cu centre de îngrijire din Germania și suport pentru plasarea locurilor de muncă.",
+      "button": "Află mai multe"
+    },
+    "healthTechnician": {
+      "status": "Plasare în Spitale",
+      "title": "Tehnicieni de Sănătate și Personal de Suport",
+      "description": "Procese de vize germane pentru tehnicieni medicali, specialiști de laborator și alt personal de suport în domeniul sănătății. Serviciu complet cu certificare profesională și suport pentru găsirea unui loc de muncă.",
+      "button": "Află mai multe"
+    },
+    "healthExpert": {
+      "status": "Program de Specializare",
+      "title": "Specialiști în Sănătate și Terapeuți",
+      "description": "Oportunități de muncă în Germania pentru fizioterapeuți, psihologi, dieteticieni și alți specialiști în sănătate. Consultanță specializată pentru vize și procese de recunoaștere profesională pentru domeniul tău de expertiză.",
+      "button": "Află mai multe"
+    },
+    "construction": {
+      "status": "Cerere Mare",
+      "title": "Muncitori în Construcții",
+      "description": "Ghidare procesului pentru muncitori calificați care doresc să lucreze în sectorul construcțiilor.",
+      "button": "Află mai multe"
+    },
+    "electrician": {
+      "status": "Abilitate Căutată",
+      "title": "Electricieni",
+      "description": "Proces profesional pentru electricieni care doresc să lucreze în instalații electrice și reparații.",
+      "button": "Află mai multe"
+    },
+    "hospitality": {
+      "status": "Alegere Populară",
+      "title": "Hotel și Restaurant",
+      "description": "Ghidare pentru profesioniștii care doresc să lucreze în sectorul hotelier, restaurant și turism.",
+      "button": "Află mai multe"
+    },
+    "logistics": {
+      "status": "Sector în Creștere",
+      "title": "Logistică și Transport",
+      "description": "Proces pentru profesioniștii care doresc să lucreze în transport, logistică și condus.",
+      "button": "Află mai multe"
+    },
+    "service": {
+      "status": "Angajare Sigură",
+      "title": "Sectorul Serviciilor",
+      "description": "Ghidare pentru cei care doresc să lucreze în vânzări, securitate, curățenie și alte sectoare de servicii.",
+      "button": "Află mai multe"
+    }
+  },
+  "otherProfessions": {
+    "title": "Servicii de Vize Naționale pentru Alte Grupuri Profesionale",
+    "construction": {
+      "title": "Sectorul Construcțiilor",
+      "description": "Consultanță specială pentru vize pentru cei care doresc să lucreze în sectorul construcțiilor și al clădirilor. Instalator, electrician, tâmplar și alte poziții de personal tehnic."
+    },
+    "hospitality": {
+      "title": "Hotel și Restaurant",
+      "description": "Oportunități de carieră în sectorul turismului și gastronomiei. Procese de vize pentru ospătar, bucătar, personal hotelier și alte poziții din sectorul serviciilor."
+    },
+    "logistics": {
+      "title": "Logistică și Transport",
+      "description": "Oportunități de muncă în sectorul transporturilor și logisticii. Șofer de camion, operator de stivuitor și personal de depozit."
+    },
+    "cleaning": {
+      "title": "Curățenie și Igienă",
+      "description": "Oportunități de angajare în sectorul serviciilor de curățenie. Curățenie industrială, curățenie în spitale și personal de curățenie pentru birouri."
+    },
+    "office": {
+      "title": "Birou și Management",
+      "description": "Lucrători de birou și poziții de management. Contabilitate, resurse umane, secretariat și alte poziții de lucru în birou."
+    },
+    "others": {
+      "title": "Alte Profesii",
+      "description": "Servicii de consultanță speciale pentru agricultură, producție, vânzări și alte grupuri profesionale. Procese de vize adecvate pentru fiecare profesie."
+    },
+    "learnMore": "Află mai multe"
+  },
+  "process": {
+    "tabs": {
+      "jobSearch": "Procesul de Căutare a unui Loc de Muncă",
+      "visaApplication": "Cererea de Viză",
+      "companyAgreements": "Acorduri cu Companiile"
+    },
+    "content": {
+      "jobSearch": {
+        "title": "Găsirea unui Loc de Muncă în Europa",
+        "subtitle": "Concentrat pe Sectorul Sănătății",
+        "description": "Oferim ghidare profesională în procesul de căutare a unui loc de muncă în sectorul sănătății. Datorită rețelei noastre puternice cu spitalele și instituțiile de sănătate din Europa, te ajutăm să găsești poziții potrivite pentru tine.",
+        "detail": "Suntem cu tine pe tot parcursul procesului, de la pregătirea CV-ului până la interviu.",
+        "footer": "Avem servicii de consiliere în carieră specifice profesiei tale și oportunităților de muncă."
+      },
+      "visaApplication": {
+        "title": "Viza Națională de Muncă",
+        "subtitle": "Procesul de Cerere",
+        "description": "Gestionăm toate etapele pentru tine în procesul de cerere pentru viza națională de muncă în Europa. Suport profesional de la pregătirea documentelor până la programarea întâlnirilor.",
+        "detail": "Pregătim toate documentele necesare corect pentru a accelera procesul de aprobare a vizei.",
+        "footer": "Poți aplica pentru viza ta cu încredere datorită ratei noastre mari de succes."
+      },
+      "companyAgreements": {
+        "title": "Companii Partenere",
+        "subtitle": "Garanție de Loc de Muncă",
+        "description": "Datorită acordurilor noastre speciale cu spitale și instituții de sănătate partenere din Europa, îți oferim oportunități directe de muncă.",
+        "detail": "După ce primești o ofertă de muncă, procesul tău de viză decurge mult mai rapid și mai sigur.",
+        "footer": "Poți face planificarea carierei pe termen lung cu companiile noastre partenere."
+      }
+    }
+  },
+  "about": {
+    "title": "Un alt fel de consultanță.",
+    "description": "Oferim servicii complete pentru a vă atinge obiectivele de carieră internațională în sectorul sănătății, servicii, construcții și alte sectoare.",
+    "statsTitle": "În cifre",
+    "stats": {
+      "experience": "Ani de Infrastructură",
+      "healthPersonnel": "Personal general",
+      "successRate": "Rata de succes",
+      "partners": "Organizații partenere"
+    },
+    "content": {
+      "paragraph1": "Sectorul sănătății se schimbă și se dezvoltă constant. Nevoia de personal medical în Germania crește în fiecare zi. Acum este momentul potrivit pentru a profita de această oportunitate.",
+      "highlight": "Lucrul în Germania nu este doar un vis. Noi îl transformăm în realitate pentru tine.",
+      "paragraph2": "Echipa noastră, care a lucrat în acest sector ani de zile, s-a confruntat cu toate provocările din procesele de stabilire a personalului medical în Germania. Metodele tradiționale nu sunt suficiente. Oferim un serviciu de consultanță cuprinzător special conceput pentru personalul medical."
+    }
+  },
+  "architectureSection": {
+    "subtitle": "Tot ce trebuie să știi",
+    "title": "Procesul de Lucru în Germania",
+    "description": "Germania este cunoscută pentru economia sa puternică, cultura sa și calitatea ridicată a vieții. Cu toate acestea, pentru imigranți, mutarea în Germania înseamnă mai mult decât o nouă carieră; este începutul unei noi vieți într-un mediu nou.",
+    "cards": {
+      "integration": {
+        "title": "Integrarea Angajaților",
+        "description": "După ce angajații internaționali ajung cu succes în Europa, începe procesul critic de integrare. O integrare bună este importantă nu doar pentru a asigura confortul noilor angajați în noul lor mediu, ci și pentru a asigura angajamentul pe termen lung față de companie."
+      },
+      "experiencedVisa": {
+        "title": "Viza pentru Profesioniști Experimentați",
+        "description": "Ce este viza pentru profesioniști experimentați? Viza pentru profesioniști experimentați (Secțiunea 19c din Legea Rezidenței, Paragraful 2) este destinată lucrătorilor calificați care au cel puțin doi ani de experiență profesională calificată în domeniul lor, dar nu au o diplomă universitară formală."
+      },
+      "acceleratedProcedures": {
+        "title": "Proceduri Accelerate",
+        "description": "Ce este procedura accelerată pentru lucrătorii calificați? Procedura Accelerată pentru Lucrători Calificați este un proces special dezvoltat pentru a accelera procesul de imigrare și recunoaștere pentru lucrătorii calificați din străinătate."
+      },
+      "recruitment": {
+        "title": "Recrutare",
+        "description": "Pas cu pas. Recrutarea specialiștilor internaționali oferă o oportunitate uriașă pentru a aborda deficitul de competențe din Europa. Cu toate acestea, pentru ca acest proces să fie de succes, companiile trebuie să adopte o abordare țintită și structurată."
+      }
+    },
+    "learnMore": "Află Mai Multe"
+  }
+}

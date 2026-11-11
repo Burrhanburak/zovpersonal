@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next'
+import { getAllPostPaths } from '@/lib/blog'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://zovpersonal.com'
@@ -10,6 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: '', priority: 1.0, changeFrequency: 'daily' as const },
     { path: '/about', priority: 0.9, changeFrequency: 'weekly' as const },
     { path: '/services', priority: 0.9, changeFrequency: 'weekly' as const },
+    { path: '/blog', priority: 0.8, changeFrequency: 'weekly' as const },
     { path: '/contact', priority: 0.8, changeFrequency: 'monthly' as const },
     { path: '/employer', priority: 0.8, changeFrequency: 'weekly' as const },
     { path: '/job-seeker', priority: 0.8, changeFrequency: 'weekly' as const },
@@ -105,6 +107,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   })
   
+  // Blog posts
+  for (const post of getAllPostPaths()) {
+    sitemap.push({
+      url: `${baseUrl}/${post.locale}/blog/${post.slug}`,
+      lastModified: currentDate,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  }
+
   // Add root redirect (will redirect to /en based on geo-detection)
   sitemap.push({
     url: baseUrl,

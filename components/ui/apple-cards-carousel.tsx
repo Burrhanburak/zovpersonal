@@ -18,7 +18,7 @@ import { useOutsideClick } from "@/hook/use-outside-click";
 
 
 interface CarouselProps {
-  items: JSX.Element[];
+  items: React.JSX.Element[];
   initialScroll?: number;
 }
 

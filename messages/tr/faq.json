@@ -1,0 +1,26 @@
+{
+  "title": "Sıkça Sorulan Sorular",
+  "description": "Uluslararası Gelecek Odaklı İşe Alım süreçlerinde destek veriyoruz.",
+  "items": [
+    {
+      "question": "ZOV Personal hangi ülkelerde hizmet vermektedir?",
+      "answer": "Sırbistan, Romanya, Hırvatistan, Bulgaristan, Hollanda, Almanya ve Türkiye olmak üzere birçok ülkede işe alım ve işveren ortaklığı hizmetleri sunuyoruz."
+    },
+    {
+      "question": "İşe alım nasıl gerçekleşiyor?",
+      "answer": "İşe alım sürecimiz adım adım şekilde gerçekleşir. Önce niteliklerinizi değerlendiririz, sonra uygun pozisyonları bulur, mülakatları koordine ederiz. Partner şirketlerimiz aracılığıyla hızlı ve güvenli işe yerleştirme sağlarız."
+    },
+    {
+      "question": "Avrupa'da iş bulma süreci nasıl işliyor?",
+      "answer": "Avrupa'da iş bulma sürecinde size rehberlik ederiz. CV hazırlama, pozisyon eşleştirme, mülakat koordinasyonu ve vize süreçlerini yönetiyoruz. Geniş işveren ağımız sayesinde size uygun iş fırsatlarını sunuyoruz."
+    },
+    {
+      "question": "Avrupa'da çalışan entegrasyonu nasıl işliyor?",
+      "answer": "Uluslararası çalışanlar Avrupa'ya başarıyla ulaştıktan sonra, entegrasyonun kritik süreci başlar."
+    },
+    {
+      "question": "Avrupa'daki yükümlülükler nelerdir?",
+      "answer": "Avrupa'ya göç eden vasıflı işçiler, çalışma hayatlarına ve günlük yaşamlarına sorunsuz bir başlangıç sağlamak için yerine getirilmesi gereken bir dizi yükümlülüğe tabidir."
+    }
+  ]
+}

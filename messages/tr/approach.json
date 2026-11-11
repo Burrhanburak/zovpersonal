@@ -1,0 +1,26 @@
+{
+  "title": "Hizmet Anlayışımız",
+  "subtitle": "Vize başvuru sürecinizi nasıl yönetiyoruz",
+  "holisticApproach": "Bütüncül bir yaklaşımla, vize sürecinizin her aşamasında yanınızda oluyoruz.",
+  "personalizedCare": "Kişiselleştirilmiş bakım anlayışımızla her müşterinin özel ihtiyaçlarını karşılıyoruz.",
+  "compassionateProfessionals": "Empati sahibi uzmanlarımız, süreç boyunca size destek oluyor.",
+  "flexibleScheduling": "Esnek randevu sistemimizle size uygun zamanlarda hizmet veriyoruz.",
+  "confidentialSpace": "Gizli ve güvenli bir ortamda kişisel bilgilerinizi paylaşabilirsiniz.",
+  "imageAlt": "iş veren ortaklığı yaklaşımımız",
+  "step1": {
+    "title": "Analiz ve Planlama",
+    "description": "Kişisel durumunuzu detaylı analiz ederek en uygun vize stratejisini belirliyoruz."
+  },
+  "step2": {
+    "title": "Belge Hazırlığı",
+    "description": "Tüm belgelerinizi uluslararası standartlarda hazırlayıp kontrol ediyoruz."
+  },
+  "step3": {
+    "title": "Başvuru ve Takip",
+    "description": "Başvurunuzu yapıyor ve sonuçlanana kadar sürekli takip ediyoruz."
+  },
+  "step4": {
+    "title": "Başarı ve Destek",
+    "description": "Vize alındıktan sonra da yerleşim sürecinde rehberlik ediyoruz."
+  }
+}

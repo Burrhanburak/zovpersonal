@@ -1,0 +1,86 @@
+{
+  "title": "Serviciile noastre",
+  "subtitle": "Conectăm profesioniști talentați cu companii de top din Germania și din întreaga lume.",
+  "workVisa": {
+    "title": "Asistență pentru viză de muncă",
+    "description": "Sprijin complet și îndrumare în recrutarea specialiștilor internaționali din diverse țări, inclusiv Serbia, Bulgaria, Croația, România, Olanda, Germania și Turcia."
+  },
+  "skillsAssessment": {
+    "title": "Evaluarea Competențelor",
+    "description": "Evaluarea profesională a calificărilor dumneavoastră și potrivirea cu oportunitățile de angajare internaționale."
+  },
+  "documentation": {
+    "title": "Cerințe lingvistice",
+    "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale."
+  },
+  "consultation": {
+    "title": "Consultanță Personală",
+    "description": "Sesiuni de consultație unu-la-unu pentru a înțelege nevoile dvs. specifice și obiectivele de carieră."
+  },
+  "countries": {
+    "title": "Ne consolidăm cu cele mai bune echipe de recrutare și parteneriat cu angajatorii din lume.",
+    "subtitle": "De la startup-uri de generație următoare la organizații consacrate.",
+    "countryNames": {
+      "germany": "Germania",
+      "austria": "Austria",
+      "netherlands": "Olanda",
+      "switzerland": "Elveția",
+      "belgium": "Belgia",
+      "luxembourg": "Luxemburg",
+      "denmark": "Danemarca",
+      "romania": "România",
+      "croatia": "Croația",
+      "bulgaria": "Bulgaria",
+      "sweden": "Suedia",
+      "finland": "Finlanda",
+      "serbia": "Serbia",
+      "turkey": "Turcia"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Procesul de recrutare",
+      "description": "Recrutarea specialiștilor internaționali oferă o oportunitate excelentă de a acoperi deficitul de forță de muncă calificată din Europa. Prin abordarea noastră țintită și structurată, structurăm eficient procesul dvs. de recrutare pentru a atrage cu succes profesioniști calificați din domeniul sănătății din străinătate.",
+      "stat1": {
+        "number": "95%",
+        "label": "recrutare de succes"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Proces Rapid"
+      },
+      "category": "Procesul de recrutare"
+    },
+    "documentation": {
+      "title": "Cerințe lingvistice",
+      "description": "Certificate de competență lingvistică în funcție de tipul de profesie și certificate de competențe profesionale.",
+      "stat1": {
+        "number": "100%",
+        "label": "conformitatea documentelor"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Certificate de competență profesională"
+      },
+      "category": "Cerințe lingvistice"
+    },
+    "skillsAssessment": {
+      "title": "Evaluarea calificărilor profesionale",
+      "description": "De la evaluarea nevoii de recunoaștere la planuri speciale de formare, oferim evaluare cuprinzătoare și îndrumări pentru recunoașterea calificărilor profesionale în conformitate cu standardele germane. Sprijinim procesul cu certificate de competență lingvistică în funcție de tipul de profesie și dovada siguranței financiare.",
+      "stat1": {
+        "number": "85%",
+        "label": "recunoaștere reușită"
+      },
+      "stat2": {
+        "number": "12",
+        "label": "ani experiență"
+      },
+      "category": "Calificări Profesionale"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Recrutare",
+    "documentation": "Cerințe lingvistice",
+    "skillsAssessment": "Calificare profesională"
+  }
+}

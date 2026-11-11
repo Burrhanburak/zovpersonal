@@ -1,0 +1,119 @@
+{
+  "carousel": {
+    "badge": "Internationale Toekomstgerichte Werving",
+    "title": "Internationale Toekomstgerichte Werving",
+    "description": "Ons werkzoekersprogramma is ontworpen om u te helpen uw droombaan te vinden. Wij bieden de tools en middelen die u nodig heeft om te slagen.",
+    "cards": {
+      "recruitment": {
+        "category": "Horeca & Schoonmaak",
+        "title": "Hotel- en Schoonmaakpersoneel"
+      },
+      "partnership": {
+        "category": "Werkgeverspartnerschap",
+        "title": "Strategische Bedrijfspartnerschappen"
+      },
+      "visaprocess": {
+        "category": "Visa & Documentatie",
+        "title": "Complete Visa Verwerking"
+      },
+      "support": {
+        "category": "24/7 Ondersteuning",
+        "title": "Continue Klantondersteuning"
+      },
+      "healthcare": {
+        "category": "Zorgverlening Sector",
+        "title": "Medische Professionals Werving"
+      },
+      "construction": {
+        "category": "Bouw- en constructiesector",
+        "title": "Specialisten in de bouw- en constructiesector"
+      }
+    },
+    "content": {
+      "recruitment": {
+        "highlight": "Uitmuntendheid in Service.",
+        "description": "Wij leveren gekwalificeerd personeel voor de hotel-, restaurant- en schoonmaaksector, en garanderen hoge normen van service en hygiëne.",
+        "features": [
+          {
+            "title": "Gevestigd Personeel",
+            "description": "Toegang tot doorgelicht en opgeleid personeel voor de horeca."
+          },
+          {
+            "title": "Flexibele Oplossingen",
+            "description": "Personeel op aanvraag voor zowel korte als lange termijn behoeften."
+          }
+        ]
+      },
+      "partnership": {
+        "highlight": "Bouw blijvende zakelijke relaties.",
+        "description": "We creëren strategische partnerschappen tussen werkgevers en internationaal talent. Onze uitgebreide aanpak zorgt voor duurzame groei en wederzijds succes voor alle betrokkenen.",
+        "features": [
+          {
+            "title": "Partnerschapbeheer",
+            "description": "Toegewijde accountmanagers voor voortdurende relatieopbouw en ondersteuning."
+          },
+          {
+            "title": "Succes Metrics",
+            "description": "Prestatie bijhouden met gedetailleerde analyses en regelmatige partnerschapbeoordelingen."
+          }
+        ]
+      },
+      "visaprocess": {
+        "highlight": "Vereenvoudig complexe visa procedures.",
+        "description": "Navigeer met vertrouwen door internationale visa vereisten. Ons expertteam behandelt alle documentatie, aanvraagprocessen en juridische compliance voor naadloze overgangen.",
+        "features": [
+          {
+            "title": "Expert Documentatie",
+            "description": "Professionele voorbereiding van alle vereiste documenten met 100% compliance ratio."
+          },
+          {
+            "title": "Juridische Compliance",
+            "description": "Blijf up-to-date met veranderende immigratiewetten en vereisten."
+          }
+        ]
+      },
+      "support": {
+        "highlight": "Ondersteuning die nooit stopt.",
+        "description": "Onze toewijding reikt verder dan plaatsing. We bieden continue ondersteuning om langdurig succes voor zowel werkgevers als werknemers gedurende hun reis te verzekeren.",
+        "features": [
+          {
+            "title": "24/7 Beschikbaarheid",
+            "description": "Rond-de-klok ondersteuning voor urgente zaken en voortdurende assistentie."
+          },
+          {
+            "title": "Integratie Ondersteuning",
+            "description": "Culturele integratie en aanpassingsdiensten voor soepele overgangen."
+          }
+        ]
+      },
+      "healthcare": {
+        "highlight": "Zorgverlening talent excellentie.",
+        "description": "Gespecialiseerde werving voor zorgprofessionals inclusief artsen, verpleegkundigen, therapeuten en medische technici. We begrijpen de unieke vereisten van de zorgsector.",
+        "features": [
+          {
+            "title": "Medische Licentie",
+            "description": "Assistentie bij medische licentie erkenning en professionele certificering."
+          },
+          {
+            "title": "Vaardigheden Validatie",
+            "description": "Uitgebreide beoordeling van medische kwalificaties en praktische vaardigheden."
+          }
+        ]
+      },
+      "construction": {
+        "highlight": "Gespecialiseerde arbeidskrachten in de bouwsector.",
+        "description": "Speciaal ontworpen voor meesters, technici, architecten, ingenieurs, stukadoors, schilders en bouwexperts. De grote vraag naar gekwalificeerd personeel in de Duitse bouwsector heeft geleid tot speciale regelingen die de toegang voor buitenlandse specialisten tot deze industrie vergemakkelijken.",
+        "features": [
+          {
+            "title": "Taalvereisten",
+            "description": "Taalkenniscertificaten volgens beroepstype en certificaten van beroepsvaardigheid."
+          },
+          {
+            "title": "Snelle start van het werk",
+            "description": "Snelle plaatsing voor dringende behoeften in bouwprojecten."
+          }
+        ]
+      }
+    }
+  }
+}

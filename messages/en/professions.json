@@ -1,0 +1,24 @@
+{
+  "title": "Professional Categories",
+  "subtitle": "We specialize in visa applications for various professional fields",
+  "healthcare": {
+    "title": "Healthcare Professionals",
+    "description": "Nurses, doctors, therapists, and other healthcare workers",
+    "requirements": "Required documents and qualifications"
+  },
+  "engineering": {
+    "title": "Engineers & IT",
+    "description": "Software developers, engineers, and technical specialists",
+    "requirements": "Technical qualification requirements"
+  },
+  "skilled": {
+    "title": "Skilled Workers",
+    "description": "Craftsmen, technicians, and skilled laborers",
+    "requirements": "Professional certification requirements"
+  },
+  "education": {
+    "title": "Education & Research",
+    "description": "Teachers, researchers, and academic professionals",
+    "requirements": "Academic credential requirements"
+  }
+}

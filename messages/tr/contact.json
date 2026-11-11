@@ -1,0 +1,43 @@
+{
+  "title": "Bizimle İletişime Geçin",
+  "subtitle": "İlk danışmanlığınızı planlamaya hazır olsanız da sadece sorularınız olsa da, sizden haber almayı çok isteriz. İş Arayan ve İş Verenler için farklı hizmetler sunuyoruz.",
+  "pageTitle": "İletişim",
+  "pageSubtitle": "iş veren ortaklığı konusundaki sorularınız için buradayız.",
+  "offices": {
+    "istanbul": "🇩🇪 Emden Ofisi",
+    "berlin": "🇩🇪 Emden Ofisi",
+    "emden": "🇩🇪 Emden Ofisi"
+  },
+  "sections": {
+    "email": "E-posta ile bize ulaşın",
+    "follow": "Bizi takip edin",
+    "inquiries": "Sorularınız"
+  },
+  "jobSeeker": "İş Arayan",
+  "employer": "İş Veren",
+  "selectApplicantType": "Basvuru Tipi Seçin",
+  "namePlaceholder": "İsim",
+  "emailPlaceholder": "E-posta Adresi",
+  "datePlaceholder": "Tarih Seçin",
+  "messagePlaceholder": "Mesaj",
+  "submitButton": "İletişime Geç",
+  "sending": "Gönderiliyor...",
+  "successMessage": "Mesajınız başarıyla gönderildi! En kısa zamanda size dönüş yapacağız.",
+  "errorMessage": "Mesaj gönderilirken bir hata oluştu. Lütfen tekrar deneyin.",
+  "imageAlt": "İş veren ortaklığı icin bizimle iletişime geçin",
+  "phone": "Telefon",
+  "email": "E-posta",
+  "address": "Adres",
+  "form": {
+    "fullName": "Ad Soyad",
+    "email": "İş E-posta Adresi",
+    "message": "Mesajınız",
+    "submit": "Gönder",
+    "optional": "(opsiyonel)",
+    "placeholders": {
+      "fullName": "Ad ve soyad",
+      "email": "ornek@gmail.com",
+      "message": "Mesajınızı yazın"
+    }
+  }
+}

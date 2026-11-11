@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "Arbeitgeber",
+    "tag2": "Internationale Einstellung",
+    "title": "Stellen Sie Top-internationale zukunftsorientierte Talente ein",
+    "description": "Verbinden Sie sich mit qualifizierten Fachkräften weltweit. Wir handhaben internationale zukunftsorientierte Rekrutierung, Compliance und Onboarding, um globale Talente in Ihr Unternehmen zu bringen.",
+    "startHiring": "Mit der Einstellung beginnen",
+    "learnMore": "Mehr erfahren"
+  },
+  "benefits": {
+    "badge": "Für Arbeitgeber",
+    "title": "Warum internationale",
+    "subtitle": "zukunftsorientierte Talente einstellen?",
+    "description": "Erweitern Sie Ihre Belegschaft mit qualifizierten Fachkräften aus aller Welt und erschließen Sie beispiellose Wachstumschancen mit unseren bewährten Rekrutierungslösungen.",
+    "stats": {
+      "countries": "25+ Länder",
+      "hires": "5K+ Erfolgreiche Einstellungen",
+      "successRate": "98% Erfolgsquote"
+    },
+    "services": [
+      "Talentbeschaffung",
+      "Visa-Unterstützung",
+      "Compliance",
+      "Kandidatenauswahl",
+      "Einarbeitungsunterstützung",
+      "Branchenübergreifende Expertise",
+      "24/7 Support verfügbar"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Effizienz",
+        "title": "Optimierter",
+        "subtitle": "Einstellungsprozess",
+        "description": "Unser optimierter Prozess reduziert die Einstellungszeit um 30 % und verbindet Sie schneller als je zuvor mit qualifizierten Kandidaten.",
+        "stats": [
+          "Globale Talentbeschaffung",
+          "Beschleunigte Visabearbeitung",
+          "Reduzierter Verwaltungsaufwand",
+          "Branchenübergreifende Expertise"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Reduzierung der Einstellungszeit"
+          },
+          "stat2": {
+            "label": "Schnellere Vermittlungen"
+          }
+        }
+      },
+      "quality": {
+        "label": "Qualität",
+        "title": "Hochkarätige",
+        "subtitle": "Talente",
+        "description": "Greifen Sie auf einen Pool von über 5.000 verifizierten Fachkräften zu und halten Sie eine Erfolgsquote von 98 % bei der Vermittlung von Kandidaten.",
+        "stats": [
+          "Geprüftes Fachkräfte-Netzwerk",
+          "Umfassende Kompetenzbewertung",
+          "Branchenspezifische Expertise",
+          "Fokus auf langfristige Bindung"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Erfolgsquote"
+          },
+          "stat2": {
+            "label": "Erfolgreiche Einstellungen"
+          }
+        }
+      },
+      "support": {
+        "label": "Support",
+        "title": "End-to-End",
+        "subtitle": "Partner-Support",
+        "description": "Wir bieten rund um die Uhr Unterstützung und kümmern uns um alles von der Compliance bis zur Einarbeitung für eine nahtlose Integration.",
+        "stats": [
+          "24/7 dedizierter Support",
+          "Vollständiges Compliance-Management",
+          "Nahtlose Einarbeitungsunterstützung",
+          "Kontinuierliche Betreuung nach der Einstellung"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Dedizierter Support"
+          },
+          "stat2": {
+            "label": "Kundenzufriedenheit"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Arbeitgeber-Services",
+    "title": "Umfassende internationale Einstellungslösungen",
+    "items": [
+      {
+        "title": "Globale Talentbeschaffung",
+        "description": "Zugang zu qualifizierten Fachkräften aus 25+ Ländern mit unserem umfangreichen internationalen Netzwerk und verifizierten Kandidatendatenbank."
+      },
+      {
+        "title": "Umfassende Visum-Unterstützung",
+        "description": "End-to-End-Visa-Unterstützung einschließlich Dokumentenvorbereitung, Antragsberatung und Compliance-Management für nahtlose Einstellungen."
+      },
+      {
+        "title": "Schnellverfahren",
+        "description": "Beschleunigter Einstellungsprozess mit 98% Erfolgsquote, Reduzierung der Time-to-Hire und Gewährleistung schneller Platzierung qualifizierter Kandidaten."
+      }
+    ]
+  },
+  "process": {
+    "title": "Unser Einstellungsprozess",
+    "description": "Optimierter Prozess zur Suche und Einstellung der besten internationalen Talente",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Anforderungen definieren",
+        "description": "Besprechen Sie Ihre spezifischen Einstellungsbedürfnisse und Jobanforderungen"
+      },
+      {
+        "step": "02",
+        "title": "Kandidatenabgleich",
+        "description": "Finden und screenen Sie qualifizierte internationale Kandidaten"
+      },
+      {
+        "step": "03",
+        "title": "Bewerbungsgespräch",
+        "description": "Erleichtern Sie Interviews und Fähigkeitsbewertungen"
+      },
+      {
+        "step": "04",
+        "title": "Visum & Onboarding",
+        "description": "Handhaben Sie Visa-Prozesse und reibungsloses Onboarding"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Vertraut von führenden Unternehmen",
+    "description": "Unsere bewährte Erfolgsgeschichte spricht für sich",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Betreute Unternehmen"
+      },
+      {
+        "number": "5K+",
+        "label": "Erfolgreiche Einstellungen"
+      },
+      {
+        "number": "25+",
+        "label": "Länder"
+      },
+      {
+        "number": "98%",
+        "label": "Kundenzufriedenheit"
+      }
+    ]
+  }
+}

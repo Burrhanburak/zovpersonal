@@ -1,0 +1,43 @@
+{
+  "title": "Sprechen wir miteinander",
+  "subtitle": "Ob Sie bereit sind, Ihre erste Beratung zu planen oder einfach nur Fragen haben, wir würden gerne von Ihnen hören.",
+  "pageTitle": "Kontaktieren Sie uns",
+  "pageSubtitle": "Wir sind hier, um Ihnen bei Ihren Visa-Beratungsanfragen zu helfen.",
+  "offices": {
+    "istanbul": "🇩🇪 Emden Büro",
+    "berlin": "🇩🇪 Emden Büro",
+    "emden": "🇩🇪 Emden Büro"
+  },
+  "sections": {
+    "email": "Schreiben Sie uns",
+    "follow": "Folgen Sie uns",
+    "inquiries": "Anfragen"
+  },
+  "jobSeeker": "Arbeitsuchender",
+  "employer": "Arbeitgeber",
+  "selectApplicantType": "Wählen Sie den Antragstyp aus",
+  "namePlaceholder": "Name",
+  "emailPlaceholder": "E-Mail-Adresse",
+  "datePlaceholder": "Datum wählen",
+  "messagePlaceholder": "Nachricht",
+  "submitButton": "Jetzt buchen",
+  "sending": "Wird gesendet...",
+  "successMessage": "Ihre Nachricht wurde erfolgreich gesendet! Wir werden uns bald bei Ihnen melden.",
+  "errorMessage": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+  "imageAlt": "Kontaktieren Sie uns für Visa-Beratung",
+  "phone": "Telefon",
+  "email": "E-Mail",
+  "address": "Adresse",
+  "form": {
+    "fullName": "Vollständiger Name",
+    "email": "Geschäftliche E-Mail-Adresse",
+    "message": "Ihre Nachricht",
+    "submit": "Absenden",
+    "optional": "(optional)",
+    "placeholders": {
+      "fullName": "Vor- und Nachname",
+      "email": "ich@firma.com",
+      "message": "Schreiben Sie Ihre Nachricht"
+    }
+  }
+}

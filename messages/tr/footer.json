@@ -1,0 +1,58 @@
+{
+  "ctaTitle": "Daha akıllı danışmanlık.\nGüvenle ilerleyin",
+  "ctaSubtitle": "Hibrit çözümler, gelişmiş araçlar ve kurumsal düzeyde danışmanlık hizmetleriyle yeni bir çağa erişin.",
+  "ctaButton": "Başlayın",
+  "ctaSecondary": "Hizmetlerimizi Görün",
+  "supportingText": "Uluslararası işe alım ve kariyer rehberliğinde güvenilir ortağınız.",
+  "copyright": "©2025 Tüm hakları saklıdır, Zov Personal.",
+  "legal": "Danışmanlık hizmetlerimiz bilgilendirme amaçlıdır ve garanti teşkil etmez. Vize başvuru süreçleri ülke yönetmeliklerine tabidir ve sonuçlar değişiklik gösterebilir. Kişisel durumunuzu değerlendirmek için uzman danışmanlarımızla iletişime geçiniz.",
+  "email": "info@zovpersonal.com",
+  "phone": "+49 1512 7027836",
+  "address": "Brückstraße 59, 26725 Emden, Almanya",
+  "links": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "blog": "Blog"
+  },
+  "visa": {
+    "requiredDocuments": "Gerekli Evraklar",
+    "applicationProcess": "Uluslararası İşe Alım",
+    "pricing": "Ücretlendirme",
+    "additionalServices": "Ek Hizmetlerimiz",
+    "nationalVisaSteps": "Ulusal Vize Adımları",
+    "professions": "Meslek Grupları ve Süreçleri",
+    "businessProcess": "Almanya'da İş Süreci"
+  },
+  "social": {
+    "instagram": {
+      "url": "https://instagram.com/zovpersonal",
+      "alt": "Bizi Instagram'da takip edin"
+    },
+    "facebook": {
+      "url": "https://facebook.com/zovpersonal",
+      "alt": "Bizi Facebook'ta takip edin"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "jobSeeker": "İş Arayan",
+    "employer": "İş Veren",
+    "selectApplicantType": "Basvuru Tipi Seçin"
+  },
+  "description": "Profesyonel uluslararası işe alım ve personel bulma hizmetleri",
+  "quickLinks": "Hızlı Bağlantılar",
+  "ourServices": "Kaynaklar",
+  "services": {
+    "workVisa": "İş Vizesi Başvuruları",
+    "skillsAssessment": "Yetenek Değerlendirmesi",
+    "documentation": "Belge Hazırlama",
+    "consultation": "Kişisel Danışmanlık"
+  },
+  "privacy": "Gizlilik Politikası",
+  "terms": "Hizmet Koşulları",
+  "rightsReserved": "Tüm hakları saklıdır"
+}

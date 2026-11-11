@@ -1,0 +1,66 @@
+{
+  "title": "Terms of Service",
+  "subtitle": "ZovPersonal Consulting Services - Security Regulations and Personal Data Protection",
+  "sections": {
+    "securityRegulations": {
+      "title": "SECURITY REGULATIONS",
+      "intro": "Security Regulations Announcement covering matters that must be observed and complied with by applicants visiting ZovPersonal Visa Application Centers;",
+      "description": "In accordance with the security requirements of German/Italian representations, applicants visiting ZovPersonal offices are prohibited from performing the following actions and bringing and using the specified items in ZovPersonal offices:",
+      "prohibitedItems": [
+        "Mobile phones, cameras, video cameras or any other devices that record audio/video (mp3 readers/players, portable computers, battery-powered recording devices, etc.)",
+        "All kinds of flammable (matches, lighters, fuel and similar combustible) and cutting (scissors, pencil sharpeners, files, etc.) objects",
+        "Weapons or weapon-like objects or any explosive materials",
+        "Pets (due to allergic sensitivities)",
+        "Sealed envelopes or packages",
+        "Food and beverages",
+        "Bags or suitcases larger than cabin size, backpacks, briefcases or zippered bags (If you have files, you can only keep files containing the requested documents)"
+      ],
+      "disclaimer": "*The above list is not limited to those specified.",
+      "additionalRules": [
+        "Security guards and office officials have the right to prohibit suspicious items and refuse entry to suspicious persons to our offices. Security guards have the authority to check the applicant's bag at any time during the visa application process.",
+        "For security reasons, third parties such as friends, relatives or workplace employees other than the applicant are prohibited from entering visa applications (Entry to ZovPersonal offices is not possible except for the applicant and the person who will apply by proxy). Only 1 person will be accepted to accompany applicants who physically need someone else's help, have hearing impairments or cannot read and write.",
+        "Applicants are prohibited from entering areas other than the common areas reserved for applicants in our offices (staff work areas, toilets, etc.).",
+        "ZovPersonal offices do not have any place to store the prohibited items mentioned above. ZovPersonal offices also do not accept deposits. Applicants are requested to choose alternative ways not to bring such characteristics and types of items with them before entering the center.",
+        "ZovPersonal offices are recorded with cameras 24/7 due to our security policy."
+      ],
+      "footer": "We respectfully inform you."
+    },
+    "dataProtection": {
+      "title": "GENERAL INFORMATION TEXT ON THE PROTECTION AND PROCESSING OF PERSONAL DATA",
+      "intro": "As ZovPersonal Consulting and Service Foreign Trade Inc. (\"ZovPersonal\" or \"Company\"), we show maximum sensitivity to the security of your personal data. With this awareness, we attach great importance to the processing and storage of personal data belonging to natural persons with whom the Company interacts in accordance with the Personal Data Protection Law No. 6698 (\"Law\"), secondary regulations (regulations, communiqués, circulars) that have been and will be put into effect based on the Law, and binding decisions taken and to be taken by the Personal Data Protection Board.",
+      "dataController": {
+        "title": "Information About the Data Controller",
+        "content": "ZovPersonal CONSULTING AND SERVICE FOREIGN TRADE INC., registered with the Istanbul Trade Registry Directorate, is the Data Controller in accordance with the Law."
+      },
+      "processingPurposes": {
+        "title": "Purposes of Processing Personal Data",
+        "content": "Your personal data is processed by the Company for the purposes of carrying out the necessary work by the Company's business units and conducting activities in this direction for the fulfillment of the Company's commercial activities in accordance with legislation and Company policies, determining, planning and implementing the Company's short, medium and long-term commercial policies, fulfilling the Company's obligations arising from relevant legislation, managing customer relations and corporate communication processes, managing service sales processes, managing call center processes, and ensuring the commercial and legal security of natural and legal persons with whom the Company has business relations, within the limits specified in the Law, in accordance with the law, honesty rules, and always in a connected, limited and proportionate manner with these purposes."
+      },
+      "dataTransfer": {
+        "title": "Transfer of Personal Data",
+        "content": "Your personal data is transferred within the scope of the above-mentioned purposes, in accordance with the conditions specified in Articles 8 and 9 of the Law, primarily to legally authorized public institutions, judicial and administrative authorities, private law legal entities and natural persons permitted by other legislation, institutions and organizations authorized to audit the Company, payment institutions contracted for the fulfillment of payments and financial obligations, business partners from whom services are received or with whom cooperation is established for the fulfillment of services provided through the call center and for the conduct and development of the Company's activities, and only when necessary to the Company's suppliers, by taking the data security measures specified in the Law."
+      },
+      "collectionMethod": {
+        "title": "Method and Legal Basis for Collecting Personal Data",
+        "content": "Your personal data is collected by the Company's authorized units and employees through automatic and non-automatic methods, verbally, in writing or in electronic environment. In this context, personal data in the categories of identity, communication, location, legal transaction, customer transaction, transaction security, risk management, finance are processed based on the legal reasons of processing personal data belonging to the parties of the contract being mandatory due to being directly related to the establishment or performance of a contract shown in the second paragraph of Article 5 of the Law, processing data being mandatory for the data controller to fulfill its legal obligation, being made public by the data subject himself, and processing data being mandatory for the legitimate interests of the Company, provided that it does not harm the fundamental rights and freedoms of the data subject."
+      },
+      "dataSubjectRights": {
+        "title": "Rights of Data Subjects Under the Law",
+        "intro": "You can apply to ZovPersonal at any time to:",
+        "rights": [
+          "Learn whether your personal data is being processed",
+          "Request information about this if your personal data has been processed",
+          "Learn the purpose of processing your personal data and whether they are used in accordance with their purpose",
+          "Know the third parties to whom your personal data is transferred domestically or abroad",
+          "Request correction of incomplete or incorrectly processed personal data",
+          "Request deletion or destruction of personal data within the framework of the conditions stipulated in Article 7 of the Law",
+          "Request that the operations carried out in accordance with subparagraphs (d) and (e) of Article 11 of the Law be notified to third parties to whom your personal data has been transferred",
+          "Object to the emergence of a result against you through the analysis of your processed data exclusively through automated systems",
+          "Request compensation for damages in case you suffer damage due to illegal processing of your personal data"
+        ],
+        "applicationProcess": "You can request to exercise your rights. You can submit your requests regarding your rights and the application of the Law by filling out the application form that you can obtain from https://zovpersonal.com/ and sending it to the company address via notary, registered mail with return receipt or with your personal application in wet signature form, or by signing the application form you filled out electronically with your mobile signature or secure electronic signature and then sending it to info@zovpersonal.com using your KEP address or the e-mail address already registered in the Company's data recording system.",
+        "fees": "ZovPersonal will respond to requests in this scope free of charge up to ten pages if a written response is to be given; it will respond by charging a fee for each page over ten pages per transaction. If the response to the application is given on a recording medium such as CD or flash memory, the fee that may be requested by the Company cannot exceed the cost of the recording medium."
+      }
+    }
+  }
+}

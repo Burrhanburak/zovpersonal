@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "İş Arayan",
+    "tag2": "Uluslararası Kariyer",
+    "title": "Bizimle Yurtdışında Hayalinizdeki İşi Bulun",
+    "description": "uluslararası gelecek odaklı işe alım çözümleri",
+    "startJourney": "Yolculuğunuza Başlayın",
+    "viewServices": "Hizmetleri Görüntüle"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "İş Arayanlar",
+      "opportunities": {
+        "label": "Fırsatlar",
+        "title": "Premium İş",
+        "subtitle": "Dünya Çapında Fırsatlar",
+        "description": "25+ ülkedeki önde gelen şirketlerle özel yüksek maaşlı uluslararası pozisyonlara erişim.",
+        "stats": [
+          "25+ Ülke",
+          "5K+ İş Yerleştirme",
+          "95% Başarı Oranı"
+        ],
+        "benefits": [
+          "Premium İşlere Erişim",
+          "Doğrulanmış İşverenler",
+          "Küresel Ağ",
+          "Yüksek Maaş Paketleri"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "İş Yerleştirme"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Ülke"
+          }
+        }
+      },
+      "support": {
+        "label": "Destek",
+        "title": "Kapsamlı",
+        "subtitle": "Kariyer Desteği",
+        "description": "Başvurudan taşınmaya kadar, her adımda kapsamlı destek sağlıyoruz.",
+        "stats": [
+          "24/7 Destek",
+          "Uzman Rehberlik",
+          "98% Memnuniyet"
+        ],
+        "benefits": [
+          "CV Optimizasyonu",
+          "Mülakat Koçluğu",
+          "Vize Yardımı",
+          "Taşınma Desteği"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Destek"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Memnuniyet"
+          }
+        }
+      },
+      "process": {
+        "label": "Süreç",
+        "title": "Düzenli",
+        "subtitle": "Başvuru Süreci",
+        "description": "Verimli sürecimiz sizi kanıtlanmış sonuçlar ve hızlı yerleştirme ile yurtdışında daha hızlı çalışmaya başlatır.",
+        "stats": [
+          "30 Gün Ortalama",
+          "95% Başarı",
+          "Hızlı İşlem"
+        ],
+        "benefits": [
+          "Hızlı İşlem",
+          "Adım Adım Rehberlik",
+          "Belge Hazırlama",
+          "Hızlı Sonuçlar"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Gün Ortalama"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Başarı Oranı"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "İş Arayan Hizmetleri",
+    "title": "İş Arayanlar İçin Hizmetlerimiz",
+    "items": [
+      {
+        "title": "CV ve Özgeçmiş Optimizasyonu",
+        "description": "Uluslararası iş piyasaları için profesyonel CV yazımı ve optimizasyonu"
+      },
+      {
+        "title": "İş Eşleştirme",
+        "description": "Özel becerilerinizi arayan doğrulanmış işverenlerle bağlantı kurma"
+      },
+      {
+        "title": "Mülakat Hazırlığı",
+        "description": "Uluslararası pozisyonlar için kapsamlı mülakat koçluğu"
+      },
+      {
+        "title": "Vize Yardımı",
+        "description": "Kapsamlı çalışma vizesi başvuru desteği ve dokümantasyon"
+      }
+    ]
+  },
+  "process": {
+    "title": "Nasıl Çalışır",
+    "description": "İş arayan programımız yurtdışında hayalinizdeki işi bulmanıza yardımcı olmak için tasarlanmıştır. Başarılı olmanız için gereken araçları ve kaynakları sağlıyoruz.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Profil Değerlendirmesi",
+        "description": "Kapsamlı beceri değerlendirmesi ve kariyer hedefleri analizi"
+      },
+      {
+        "step": "02",
+        "title": "İş Eşleştirme",
+        "description": "Uygun uluslararası iş fırsatlarıyla eşleştirme"
+      },
+      {
+        "step": "03",
+        "title": "Başvuru Desteği",
+        "description": "Profesyonel başvuru hazırlığı ve sunumu"
+      },
+      {
+        "step": "04",
+        "title": "Vize İşlemleri",
+        "description": "Kapsamlı çalışma vizesi başvurusu ve dokümantasyon"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Başarı Rakamlarımız",
+    "description": "Kanıtlanmış başarılı iş yerleştirme rekoru",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Başarı Oranı"
+      },
+      {
+        "number": "5K+",
+        "label": "Yerleştirilen İş"
+      },
+      {
+        "number": "25+",
+        "label": "Ülke"
+      },
+      {
+        "number": "30",
+        "label": "Gün Ortalama"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Privacy Policy",
+  "subtitle": "ZovPersonal Consulting Services - Protection and Security of Your Personal Data",
+  "sections": {
+    "intro": {
+      "title": "Our Privacy Policy",
+      "content": "As ZovPersonal Consulting and Service Foreign Trade Inc., we show the highest level of sensitivity regarding the security of your personal data. This privacy policy explains how we collect, process, protect and store your personal data when using our services.",
+      "kvkk": "As data controllers under the Personal Data Protection Law No. 6698 (KVKK), we ensure full compliance with legislation in the processing of your personal data."
+    },
+    "dataCollection": {
+      "title": "Personal Data We Collect",
+      "identity": {
+        "title": "Identity and Contact Information",
+        "items": [
+          "Name, surname",
+          "Date and place of birth",
+          "National ID number",
+          "Passport information",
+          "Phone number",
+          "Email address",
+          "Address information"
+        ]
+      },
+      "visa": {
+        "title": "Visa Application Information",
+        "items": [
+          "Education status",
+          "Professional information",
+          "Income status",
+          "Travel history",
+          "Family status",
+          "Health status (when required)"
+        ]
+      },
+      "technical": {
+        "title": "Technical Data",
+        "items": [
+          "IP address",
+          "Browser information",
+          "Device information",
+          "Website usage data"
+        ]
+      }
+    },
+    "processing": {
+      "title": "Purposes of Personal Data Processing",
+      "description": "We process your personal data for the following purposes:",
+      "purposes": [
+        "Conducting visa application processes",
+        "Providing consulting services",
+        "Customer relationship management",
+        "Fulfilling legal obligations",
+        "Improving service quality",
+        "Statistical analysis",
+        "Measuring customer satisfaction",
+        "Taking security measures"
+      ]
+    },
+    "security": {
+      "title": "Data Security",
+      "description": "We take the following technical and administrative measures for the security of your personal data:",
+      "measures": [
+        "Encrypted data transmission with SSL certificate",
+        "Secure server infrastructure",
+        "Access control and authorization",
+        "Regular security updates",
+        "Staff training and confidentiality agreements",
+        "Data backup and recovery procedures",
+        "24/7 security monitoring"
+      ]
+    },
+    "rights": {
+      "title": "Data Subject Rights",
+      "description": "You have the following rights under KVKK:",
+      "list": {
+        "info": {
+          "title": "Right to Information",
+          "description": "Right to learn whether your personal data is being processed"
+        },
+        "access": {
+          "title": "Right of Access",
+          "description": "Right to request information about your processed personal data"
+        },
+        "rectification": {
+          "title": "Right to Rectification",
+          "description": "Right to request correction of incorrect or incomplete data"
+        },
+        "erasure": {
+          "title": "Right to Erasure",
+          "description": "Right to request deletion of your personal data"
+        },
+        "objection": {
+          "title": "Right to Object",
+          "description": "Right to object to data processing and request its cessation"
+        },
+        "portability": {
+          "title": "Right to Portability",
+          "description": "Right to request transfer of your data to another data controller"
+        }
+      },
+      "howToUse": {
+        "title": "How Can You Exercise Your Rights?",
+        "description": "You can use the following communication channels to exercise the above rights:",
+        "channels": [
+          "Email: info@zovpersonal.com",
+          "Written application: Hand delivery or mail to our company address",
+          "Online form: Application form at www.zovpersonal.com"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "We use cookies on our website to improve user experience. Cookies are small text files stored in your web browser. You can control cookie usage from your browser settings."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "You can contact us for questions about our privacy policy:",
+      "company": "ZovPersonal Consulting and Service Foreign Trade Inc.",
+      "offices": {
+        "turkey": {
+          "title": "Turkey Office",
+          "address": "Address",
+          "phone": "Phone",
+          "location": "Brückstraße 59, 26725 Emden, Germany"
+        },
+        "germany": {
+          "title": "Germany Office",
+          "address": "Address",
+          "phone": "Phone",
+          "location": "Berlin, Germany"
+        }
+      }
+    }
+  }
+}

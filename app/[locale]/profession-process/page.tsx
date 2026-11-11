@@ -1,4 +1,5 @@
 'use client';
+import { assetUrl } from '@/lib/assets';
 
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowRight, CheckCircle, Users, FileText, Briefcase, Globe, Hammer, UtensilsCrossed, Wrench, Car } from "lucide-react";
@@ -6,6 +7,7 @@ import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function ProfessionPage() {
   const t = useTranslations();
@@ -30,7 +32,7 @@ export default function ProfessionPage() {
   const carouselData = [
     {
       id: 1,
-      image: "/doctor.png",
+      image: assetUrl("doctor.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-stethoscope m-auto size-4" aria-hidden="true">
           <path d="M11 2v2"></path>
@@ -51,7 +53,7 @@ export default function ProfessionPage() {
     },
     {
       id: 2,
-      image: "/nurse.png",
+      image: assetUrl("nurse.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-user-check m-auto size-4" aria-hidden="true">
           <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
@@ -72,7 +74,7 @@ export default function ProfessionPage() {
     },
     {
       id: 3,
-      image: "/hastabakıcı.png",
+      image: assetUrl("hastabakıcı.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-hand-helping m-auto size-4" aria-hidden="true">
           <path d="M11 12h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 14"></path>
@@ -92,7 +94,7 @@ export default function ProfessionPage() {
     },
     {
       id: 4,
-      image: "/saglıkteknik.webp",
+      image: assetUrl("saglıkteknik.webp"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-activity m-auto size-4" aria-hidden="true">
           <path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"></path>
@@ -114,7 +116,7 @@ export default function ProfessionPage() {
     },
     {
       id: 5,
-      image: "/fizyoterapist.png",
+      image: assetUrl("fizyoterapist.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-brain m-auto size-4" aria-hidden="true">
           <path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"></path>
@@ -141,7 +143,7 @@ export default function ProfessionPage() {
     },
     {
       id: 6,
-      image: "/insaat.png",
+      image: assetUrl("insaat.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-hard-hat m-auto size-4" aria-hidden="true">
           <path d="M2 18h20"></path>
@@ -163,7 +165,7 @@ export default function ProfessionPage() {
     },
     {
       id: 7,
-      image: "/elektrikci.png",
+      image: assetUrl("elektrikci.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-zap m-auto size-4" aria-hidden="true">
           <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path>
@@ -180,7 +182,7 @@ export default function ProfessionPage() {
     },
     {
       id: 8,
-      image: "/garson.png",
+      image: assetUrl("garson.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-utensils m-auto size-4" aria-hidden="true">
           <path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"></path>
@@ -200,7 +202,7 @@ export default function ProfessionPage() {
     },
     {
       id: 9,
-      image: "/lojistik.png",
+      image: assetUrl("lojistik.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-truck m-auto size-4" aria-hidden="true">
           <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"></path>
@@ -224,7 +226,7 @@ export default function ProfessionPage() {
     },
     {
       id: 10,
-      image: "/is-alim-onei.png",
+      image: assetUrl("is-alim-onei.png"),
       icon1: (
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-shopping-cart m-auto size-4" aria-hidden="true">
           <circle cx="8" cy="21" r="1"></circle>
@@ -722,26 +724,19 @@ const locale = useLocale(); // Bu otomatik olarak aktif dil döner: 'tr', 'en', 
         </div>
       </section>
       
-      <section className="container max-w-5xl border-y py-5">
-        <h2 className="font-mono text-sm font-semibold tracking-widest text-accent-foreground">{t('professionProcess.about.statsTitle')}</h2>
-        <div className="mt-6 grid grid-cols-2 gap-8 md:grid-cols-4">
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">15+</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.experience')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">2.5K</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.healthPersonnel')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">95%</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.successRate')}</p>
-          </div>
-          <div>
-            <h3 className="text-4xl font-medium tracking-tight md:text-5xl lg:text-6xl">150+</h3>
-            <p className="mt-1 font-medium text-muted-foreground">{t('professionProcess.about.stats.partners')}</p>
-          </div>
+      <section className="container max-w-5xl border-y py-8">
+        <div className="relative w-full aspect-[21/9] overflow-hidden rounded-2xl">
+          <Image
+            src={assetUrl("experience-team.jpg")}
+            alt={t('about.images.teamWork')}
+            fill
+            className="object-cover"
+            sizes="(max-width: 1024px) 100vw, 1024px"
+          />
         </div>
+        <p className="mt-4 text-lg font-medium text-muted-foreground">
+          {t('about.experienceHighlight')}
+        </p>
       </section>
       
       <section className="container max-w-5xl py-10 md:py-12 lg:py-15">

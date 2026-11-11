@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "Căutător de locuri de muncă",
+    "tag2": "Carieră internațională",
+    "title": "Găsește jobul visurilor tale în străinătate cu noi",
+    "description": "soluții internaționale de recrutare orientate spre viitor",
+    "startJourney": "Începe călătoria ta",
+    "viewServices": "Vezi serviciile"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "Căutători de locuri de muncă",
+      "opportunities": {
+        "label": "Oportunități",
+        "title": "Loc de Muncă Premium",
+        "subtitle": "Oportunități Mondiale",
+        "description": "Acces la poziții internaționale exclusive cu salarii mari la companii de top din 25+ țări.",
+        "stats": [
+          "25+ Țări",
+          "5K+ Locuri Plasate",
+          "95% Rata de Succes"
+        ],
+        "benefits": [
+          "Acces la Locuri Premium",
+          "Angajatori Verificați",
+          "Rețea Globală",
+          "Pachete Salariale Mari"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "Locuri Plasate"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Țări"
+          }
+        }
+      },
+      "support": {
+        "label": "Suport",
+        "title": "Complet",
+        "subtitle": "Suport de Carieră",
+        "description": "De la aplicare la relocare, oferim suport complet la fiecare pas.",
+        "stats": [
+          "24/7 Suport",
+          "Ghidare Expert",
+          "98% Satisfacție"
+        ],
+        "benefits": [
+          "Optimizare CV",
+          "Coaching Interviu",
+          "Asistență Viză",
+          "Suport Relocare"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Suport"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Satisfacție"
+          }
+        }
+      },
+      "process": {
+        "label": "Proces",
+        "title": "Simplificat",
+        "subtitle": "Proces de Aplicare",
+        "description": "Procesul nostru eficient vă aduce mai repede la muncă în străinătate cu rezultate dovedite.",
+        "stats": [
+          "30 Zile Medie",
+          "95% Succes",
+          "Procesare Rapidă"
+        ],
+        "benefits": [
+          "Procesare Rapidă",
+          "Ghidare Pas cu Pas",
+          "Pregătire Documente",
+          "Rezultate Rapide"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Zile Medie"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Rata de Succes"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Servicii pentru căutătorii de locuri de muncă",
+    "title": "Serviciile noastre pentru căutătorii de locuri de muncă",
+    "items": [
+      {
+        "title": "Optimizarea CV-ului și a resumului",
+        "description": "Scrierea profesională de CV și optimizarea pentru piețele internaționale de muncă"
+      },
+      {
+        "title": "Potrivirea joburilor",
+        "description": "Conectarea cu angajatori verificați care caută abilitățile tale specifice"
+      },
+      {
+        "title": "Pregătirea pentru interviu",
+        "description": "Coaching cuprinzător pentru interviu pentru poziții internaționale"
+      },
+      {
+        "title": "Asistență pentru viză",
+        "description": "Suport complet pentru cererea de viză de muncă și documentație"
+      }
+    ]
+  },
+  "process": {
+    "title": "Cum funcționează",
+    "description": "Programul nostru pentru căutătorii de locuri de muncă este conceput să te ajute să găsești jobul visurilor tale în străinătate. Îți oferim instrumentele și resursele de care ai nevoie pentru a reuși.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Evaluarea profilului",
+        "description": "Evaluarea cuprinzătoare a abilităților și analiza obiectivelor de carieră"
+      },
+      {
+        "step": "02",
+        "title": "Potrivirea joburilor",
+        "description": "Potrivirea cu oportunitățile internaționale de muncă potrivite"
+      },
+      {
+        "step": "03",
+        "title": "Sprijin pentru cerere",
+        "description": "Pregătirea profesională și depunerea cererii"
+      },
+      {
+        "step": "04",
+        "title": "Procesarea vizei",
+        "description": "Cererea completă pentru viza de muncă și documentația"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Numerele noastre de succes",
+    "description": "Istoric dovedit de plasări de succes la locuri de muncă",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Rata de succes"
+      },
+      {
+        "number": "5K+",
+        "label": "Locuri de muncă plasate"
+      },
+      {
+        "number": "25+",
+        "label": "Țări"
+      },
+      {
+        "number": "30",
+        "label": "Zile în medie"
+      }
+    ]
+  }
+}

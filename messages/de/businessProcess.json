@@ -1,0 +1,102 @@
+{
+  "entryGuide": {
+    "imageAlt": "Visa-Beratungsdienste",
+    "title": "Einreiseführer für Deutschland",
+    "preparation": {
+      "title": "1. Vorbereitung und Informationssammlung",
+      "content": "Als ZOV Personal bieten wir umfassende Beratung zu den Anforderungen und notwendigen Schritten vor der Einreise nach Deutschland. Unser Expertenteam liefert detaillierte Informationen zu Visaoptionen und den damit verbundenen Voraussetzungen und bietet eine personalisierte Betreuung."
+    },
+    "partnership": {
+      "title": "2. Arbeitgeberpartnerschaft und Unterstützung bei der Jobsuche",
+      "content": "Dank des breiten Arbeitgebernetzwerks von ZOV Personal stellen wir direkte Verbindungen zu zuverlässigen Unternehmen in Deutschland her. Im Rahmen unseres Arbeitgeberpartnerschaftsprogramms:",
+      "items": [
+        "Finden von passenden Stellen für Ihre Qualifikationen",
+        "Verhandlungen von Arbeitsverträgen",
+        "Koordination des Visumprozesses mit dem Arbeitgeber",
+        "Verwaltung der Arbeitserlaubnisverfahren"
+      ]
+    },
+    "advantage": {
+      "title": "Der ZOV Personal Vorteil",
+      "content": "Mit einem umfassenden Vorbereitungsprozess steht einem erfolgreichen Start in Deutschland nichts mehr im Wege. Das erfahrene Team von ZOV Personal bietet professionelle Unterstützung bei jedem Schritt, von Ihrem Visumantrag bis zum Arbeitsbeginn. Treten Sie mit unserem Arbeitgeber-Partnernetzwerk und unserer fachkundigen Beratung selbstbewusst in Ihr Berufsleben in Deutschland ein."
+    },
+    "cta": {
+      "ready": "Sind Sie bereit, Ihre Reise nach Deutschland zu beginnen?",
+      "contact": "Kontaktieren Sie ZOV Personal jetzt, um Ihren Visumsprozess zu starten und Ihre Karriere in Deutschland zu planen!"
+    }
+  },
+  "slugPages": {
+    "employeeIntegration": {
+      "title": "Mitarbeiterintegrationsprozesse",
+      "subtitle": "Umfassende Unterstützung für erfolgreiche Integration in Deutschland",
+      "description": "Wir bieten speziell entwickelte Integrationsprogramme für internationale Mitarbeiter, um sich erfolgreich in Deutschland zu integrieren.",
+      "section1": {
+        "title": "Mitarbeiterintegration",
+        "content": "Nachdem internationale Mitarbeiter erfolgreich in Deutschland angekommen sind, beginnt der kritische Prozess der Integration. Eine gute Integration ist wichtig, nicht nur um sicherzustellen, dass sich neue Mitarbeiter in ihrer neuen Umgebung wohl fühlen, sondern auch um eine langfristige Bindung an das Unternehmen zu gewährleisten. Unternehmen können mit gezielten Maßnahmen, die darauf abzielen, neuen Fachkräften einen reibungslosen Start zu ermöglichen, einen wichtigen Beitrag leisten."
+      },
+      "section2": {
+        "title": "Unterstützungsdienste",
+        "content": "Wir bieten umfassende Dienstleistungen einschließlich Sprachausbildung, kultureller Orientierung, Rechtsberatung und sozialer Integrationsunterstützung."
+      },
+      "benefits": "Schnelle Anpassung, hohe Arbeitszufriedenheit und langfristiger Erfolg"
+    },
+    "experiencedVisa": {
+      "title": "Visum für erfahrene Fachkräfte",
+      "subtitle": "Spezielles Visumprogramm für qualifizierte erfahrene Spezialisten",
+      "description": "Wir bieten beschleunigte Visumverfahren und spezielle Möglichkeiten für Fachkräfte mit mindestens 2 Jahren Berufserfahrung.",
+      "section1": {
+        "title": "Visum für erfahrene Fachkräfte",
+        "content": "Das Visum für erfahrene Fachkräfte (§ 19c Abs. 2 des Aufenthaltsgesetzes) richtet sich an qualifizierte Arbeitskräfte, die mindestens zwei Jahre qualifizierte Berufserfahrung in ihrem Bereich haben, aber keinen formalen Universitätsabschluss besitzen. Das Visum ermöglicht es diesen Fachkräften, in Deutschland zu arbeiten, insbesondere in Berufen, die stark nachgefragt sind. Dieses Visum wurde eingeführt, um der Nachfrage nach Fachkräften zu begegnen und den deutschen Arbeitsmarkt zu stärken."
+      },
+      "section2": {
+        "title": "Antragsprozess",
+        "content": "Wir bieten professionelle Beratung für die Bewertung Ihrer Erfahrungsnachweise, die Anerkennung beruflicher Qualifikationen und beschleunigte Antragsverfahren."
+      },
+      "benefits": "Schneller Prozess, flexible Bedingungen und erfahrungsorientierte Bewertung"
+    },
+    "acceleratedProcedure": {
+      "title": "Beschleunigtes Fachkräfteverfahren",
+      "subtitle": "Schneller und effizienter Visumantragsprozess",
+      "description": "Wir verkürzen Ihren Visumprozess mit dem speziell für Fachkräfte entwickelten beschleunigten Verfahren.",
+      "section1": {
+        "title": "Was ist das beschleunigte Fachkräfteverfahren?",
+        "content": "Das Beschleunigte Fachkräfteverfahren ist ein spezieller Prozess, der entwickelt wurde, um den Einwanderungs- und Anerkennungsprozess für Fachkräfte aus dem Ausland zu beschleunigen. Sein primäres Ziel ist es, Unternehmen dabei zu helfen, dringend benötigte Fachkräfte schneller nach Deutschland zu bringen und den Fachkräftemangel effektiver zu bekämpfen. Dieses Verfahren basiert auf enger Zusammenarbeit zwischen Arbeitgebern, Einwanderungsbehörden und Anerkennungsstellen, um bürokratische Hürden zu minimieren und Genehmigungen schnell zu erteilen."
+      },
+      "section2": {
+        "title": "Vorteile",
+        "content": "Wir optimieren Ihren Prozess mit kurzen Wartezeiten, Prioritätsbearbeitung und spezieller Beraterbetreuung."
+      }
+    },
+    "recruitment": {
+      "title": "Internationale Rekrutierungsdienstleistungen",
+      "subtitle": "Wir bringen qualifizierte Fachkräfte mit Deutschland zusammen",
+      "description": "Unsere Expertendienste bei der Rekrutierung internationaler Talente zur Deckung des Arbeitskräftebedarfs in Deutschland.",
+      "section1": {
+        "title": "Rekrutierung",
+        "content": "Die Rekrutierung internationaler Spezialisten bietet eine enorme Chance, dem Fachkräftemangel in Deutschland zu begegnen. Damit dieser Prozess erfolgreich ist, müssen Unternehmen jedoch einen gezielten und strukturierten Ansatz verfolgen. Diese Schritt-für-Schritt-Anleitung zeigt Ihnen, wie Sie Ihren Rekrutierungsprozess effektiv strukturieren, um qualifizierte Spezialisten aus dem Ausland erfolgreich zu gewinnen."
+      },
+      "section2": {
+        "title": "Prozessmanagement",
+        "content": "Wir verwalten den gesamten Rekrutierungsprozess einschließlich Kandidatensuche, Bewertung, Visumverfahren und Jobvermittlung."
+      },
+      "benefits": "Großer Kandidatenpool, qualitatives Matching und Prozessgarantie"
+    }
+  },
+  "common": {
+    "advantagesTitle": "Vorteile",
+    "processTitle": "Prozess",
+    "processDescription": "Sichere Ergebnisse mit Schritt-für-Schritt-Anleitung",
+    "step1Title": "1. Erstbewertung",
+    "step1Description": "Wir führen eine Situationsanalyse und Eignungsbewertung durch.",
+    "step2Title": "2. Dokumentenvorbereitung",
+    "step2Description": "Wir bereiten alle erforderlichen Dokumente professionell vor.",
+    "step3Title": "3. Antragsprozess",
+    "step3Description": "Wir verfolgen und verwalten Ihren Antrag.",
+    "step4Title": "4. Ergebnis und Nachverfolgung",
+    "step4Description": "Abschluss des Prozesses und Nachbetreuungsdienste.",
+    "ctaTitle": "Lassen Sie uns sofort beginnen",
+    "ctaDescription": "Kontaktieren Sie unser Expertenteam, um Ihren Prozess zu starten.",
+    "contactButton": "Kontakt aufnehmen",
+    "backButton": "Zurück"
+  }
+}

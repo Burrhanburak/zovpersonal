@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "Tražitelj posla",
+    "tag2": "Međunarodna karijera",
+    "title": "Pronađite posao iz snova u inozemstvu s nama",
+    "description": "međunarodna buduće orijentirana rješenja za zapošljavanje",
+    "startJourney": "Započnite svoje putovanje",
+    "viewServices": "Pogledajte usluge"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "Tražitelji posla",
+      "opportunities": {
+        "label": "Prilike",
+        "title": "Premium Posao",
+        "subtitle": "Prilike Širom Svijeta",
+        "description": "Pristup ekskluzivnim visokoplećenim međunarodnim pozicijama u vrhunskim kompanijama u 25+ zemalja.",
+        "stats": [
+          "25+ Zemalja",
+          "5K+ Plasiranih Poslova",
+          "95% Uspješnost"
+        ],
+        "benefits": [
+          "Pristup Premium Poslovima",
+          "Provjereni Poslodavci",
+          "Globalna Mreža",
+          "Visoki Paketi Plaća"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "Plasirani Poslovi"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Zemalja"
+          }
+        }
+      },
+      "support": {
+        "label": "Podrška",
+        "title": "Sveobuhvatna",
+        "subtitle": "Karijerna Podrška",
+        "description": "Od prijave do preseljenja, pružamo sveobuhvatnu podršku u svakom koraku.",
+        "stats": [
+          "24/7 Podrška",
+          "Stručno Vodstvo",
+          "98% Zadovoljstvo"
+        ],
+        "benefits": [
+          "CV Optimizacija",
+          "Intervju Coaching",
+          "Visa Pomoć",
+          "Podrška Preseljavanja"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Podrška"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Zadovoljstvo"
+          }
+        }
+      },
+      "process": {
+        "label": "Proces",
+        "title": "Pojednostavljen",
+        "subtitle": "Proces Prijave",
+        "description": "Naš efikasan proces vas brže dovodi do rada u inozemstvu s dokazanim rezultatima.",
+        "stats": [
+          "30 Dana Prosjek",
+          "95% Uspjeh",
+          "Brza Obrada"
+        ],
+        "benefits": [
+          "Brza Obrada",
+          "Korak-po-Korak Vodstvo",
+          "Priprema Dokumenata",
+          "Brzi Rezultati"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Dana Prosjek"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Stopa Uspjeha"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Usluge za tražitelje posla",
+    "title": "Naše usluge za tražitelje posla",
+    "items": [
+      {
+        "title": "CV i životopis optimizacija",
+        "description": "Profesionalno pisanje CV-a i optimizacija za međunarodna tržišta rada"
+      },
+      {
+        "title": "Povezivanje posla",
+        "description": "Povezivanje s verificiranim poslodavcima koji traže vaše specifične vještine"
+      },
+      {
+        "title": "Priprema za intervju",
+        "description": "Sveobuhvatno coachiranje za intervju za međunarodne pozicije"
+      },
+      {
+        "title": "Pomoć s vizom",
+        "description": "Potpuna podrška za prijavu radne vize i dokumentacija"
+      }
+    ]
+  },
+  "process": {
+    "title": "Kako funkcionira",
+    "description": "Naš program za tražitelje posla dizajniran je da vam pomogne pronaći posao iz snova u inozemstvu. Pružamo vam alate i resurse potrebne za uspjeh.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Procjena profila",
+        "description": "Sveobuhvatna procjena vještina i analiza karijernih ciljeva"
+      },
+      {
+        "step": "02",
+        "title": "Povezivanje posla",
+        "description": "Povezivanje s prikladnim međunarodnim mogućnostima posla"
+      },
+      {
+        "step": "03",
+        "title": "Podrška za prijavu",
+        "description": "Profesionalna priprema i podnošenje prijave"
+      },
+      {
+        "step": "04",
+        "title": "Obrada vize",
+        "description": "Potpuna prijava radne vize i dokumentacija"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Naši brojevi uspjeha",
+    "description": "Dokazana povijest uspješnih poslova",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Stopa uspjeha"
+      },
+      {
+        "number": "5K+",
+        "label": "Postavljeni poslovi"
+      },
+      {
+        "number": "25+",
+        "label": "Zemlje"
+      },
+      {
+        "number": "30",
+        "label": "Dana prosjek"
+      }
+    ]
+  }
+}

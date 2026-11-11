@@ -1,3 +1,4 @@
+import { assetUrl } from '@/lib/assets';
 import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
@@ -28,7 +29,7 @@ export default function manifest(): MetadataRoute.Manifest {
     categories: ['business', 'productivity', 'employment'],
     screenshots: [
       {
-        src: '/zovpersonal.webp',
+        src: assetUrl('zovpersonal.webp'),
         sizes: '1920x1080',
         type: 'image/webp',
         form_factor: 'wide'

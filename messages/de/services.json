@@ -1,0 +1,86 @@
+{
+  "title": "Ihre Karriere weltweit voranbringen",
+  "subtitle": "Wir verbinden talentierte Fachkräfte mit führenden Unternehmen in Deutschland und weltweit.",
+  "workVisa": {
+    "title": "Unterstützung bei Arbeitsvisa",
+    "description": "Volle Unterstützung und Anleitung bei der Rekrutierung internationaler Fachkräfte aus verschiedenen Ländern, darunter Serbien, Bulgarien, Kroatien, Rumänien, die Niederlande, Deutschland und die Türkei."
+  },
+  "skillsAssessment": {
+    "title": "Kompetenzbewertung",
+    "description": "Professionelle Bewertung Ihrer Qualifikationen und Abgleich mit internationalen Stellenangeboten."
+  },
+  "documentation": {
+    "title": "Sprachanforderungen",
+    "description": "Sprachkenntnisse Zertifikate je nach Berufsart und berufliche Fähigkeitszeugnisse."
+  },
+  "consultation": {
+    "title": "Persönliche Beratung",
+    "description": "Eins-zu-eins-Beratungssitzungen, um Ihre spezifischen Bedürfnisse und Karriereziele zu verstehen."
+  },
+  "countries": {
+    "title": "Wir stärken uns mit den besten Rekrutierungs- und Arbeitgeberpartnerschaftsteams der Welt.",
+    "subtitle": "Von innovativen Start-ups bis hin zu etablierten Organisationen.",
+    "countryNames": {
+      "germany": "Deutschland",
+      "austria": "Österreich",
+      "netherlands": "Niederlande",
+      "switzerland": "Schweiz",
+      "belgium": "Belgien",
+      "luxembourg": "Luxemburg",
+      "denmark": "Dänemark",
+      "romania": "Rumänien",
+      "croatia": "Kroatien",
+      "bulgaria": "Bulgarien",
+      "sweden": "Schweden",
+      "finland": "Finnland",
+      "serbia": "Serbien",
+      "turkey": "Türkei"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Rekrutierungsprozess",
+      "description": "Die Rekrutierung internationaler Spezialisten bietet enorme Chancen, den Fachkräftemangel in Europa zu beheben. Mit unserem gezielten und strukturierten Ansatz gestalten wir Ihren Rekrutierungsprozess effektiv, um qualifizierte Gesundheitsfachkräfte aus dem Ausland erfolgreich zu gewinnen.",
+      "stat1": {
+        "number": "95%",
+        "label": "erfolgreiche Rekrutierung"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Schneller Prozess"
+      },
+      "category": "Rekrutierungsprozess"
+    },
+    "documentation": {
+      "title": "Sprachanforderungen",
+      "description": "Sprachkenntnisse Zertifikate je nach Berufsart und berufliche Fähigkeitszeugnisse.",
+      "stat1": {
+        "number": "100%",
+        "label": "Dokumentenkonformität"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Berufliche Qualifikationszertifikate"
+      },
+      "category": "Sprachanforderungen"
+    },
+    "skillsAssessment": {
+      "title": "Berufsqualifikationsbewertung",
+      "description": "Von der Bewertung des Anerkennungsbedarfs bis hin zu speziellen Ausbildungsplänen bieten wir umfassende Bewertung und Beratung für die Anerkennung Ihrer Berufsqualifikationen nach deutschen Standards. Wir unterstützen den Prozess mit Sprachkenntnisse Zertifikate je nach Berufsart und Nachweis der finanziellen Sicherheit.",
+      "stat1": {
+        "number": "85%",
+        "label": "erfolgreiche Anerkennung"
+      },
+      "stat2": {
+        "number": "15",
+        "label": "Jahre Infrastruktur"
+      },
+      "category": "Berufliche Qualifikation"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Rekrutierung",
+    "documentation": "Sprachanforderungen",
+    "skillsAssessment": "Berufsqualifikation"
+  }
+}

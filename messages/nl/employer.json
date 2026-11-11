@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "tag1": "Werkgever",
+    "tag2": "Internationale Werving",
+    "title": "Stel Top Internationale Toekomstgerichte Talenten in",
+    "description": "Maak verbinding met getalenteerde professionals wereldwijd. Wij behandelen internationale toekomstgerichte werving, compliance en onboarding om wereldwijd talent naar uw bedrijf te brengen.",
+    "startHiring": "Begin met Werven",
+    "learnMore": "Meer Informatie"
+  },
+  "benefits": {
+    "badge": "Voor Werkgevers",
+    "title": "Waarom Internationale",
+    "subtitle": "Toekomstgerichte Talenten Werven?",
+    "description": "Breid uw personeel uit met gekwalificeerde professionals van over de hele wereld en ontsluit ongekende groeimogelijkheden met onze bewezen wervingsoplossingen.",
+    "stats": {
+      "countries": "25+ Landen",
+      "hires": "5K+ succesvolle aanwervingen",
+      "successRate": "98% slagingspercentage"
+    },
+    "services": [
+      "Talent Sourcing",
+      "Visumassistentie",
+      "Naleving",
+      "Kandidaat Screening",
+      "Ondersteuning bij onboarding",
+      "Cross-sectorale expertise",
+      "24/7 ondersteuning beschikbaar"
+    ],
+    "tabs": {
+      "efficiency": {
+        "label": "Efficiëntie",
+        "title": "Gestroomlijnd",
+        "subtitle": "Wervingsproces",
+        "description": "Ons geoptimaliseerde proces verkort de tijd tot aanwerving met 30%, waardoor u sneller dan ooit in contact komt met gekwalificeerde kandidaten.",
+        "stats": [
+          "Wereldwijde talentenjacht",
+          "Versnelde visumverwerking",
+          "Minder administratieve lasten",
+          "Cross-sectorale expertise"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Verkorting van de aanwervingstijd"
+          },
+          "stat2": {
+            "label": "Snellere plaatsingen"
+          }
+        }
+      },
+      "quality": {
+        "label": "Kwaliteit",
+        "title": "Hoog kaliber",
+        "subtitle": "Talent",
+        "description": "Krijg toegang tot een pool van 5K+ geverifieerde professionals en handhaaf een slagingspercentage van 98% bij het matchen van kandidaten met functies.",
+        "stats": [
+          "Geverifieerd professioneel netwerk",
+          "Uitgebreide vaardigheidsbeoordeling",
+          "Industriespecifieke expertise",
+          "Focus op langetermijnbehoud"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Slagingspercentage"
+          },
+          "stat2": {
+            "label": "Succesvolle aanwervingen"
+          }
+        }
+      },
+      "support": {
+        "label": "Ondersteuning",
+        "title": "End-to-end",
+        "subtitle": "Partnerondersteuning",
+        "description": "Wij bieden 24/7 assistentie en regelen alles van naleving tot onboarding voor een naadloze integratie.",
+        "stats": [
+          "24/7 toegewijde ondersteuning",
+          "Volledig cyclusbeheer van naleving",
+          "Naadloze onboarding-assistentie",
+          "Continue ondersteuning na plaatsing"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "label": "Toegewijde ondersteuning"
+          },
+          "stat2": {
+            "label": "Klanttevredenheid"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Diensten voor werkgevers",
+    "title": "Uitgebreide Internationale Wervingsoplossingen",
+    "items": [
+      {
+        "title": "Wereldwijde Talentbeschafffing",
+        "description": "Toegang tot gekwalificeerde professionals uit 25+ landen met ons uitgebreide internationale netwerk en geverifieerde kandidatendatabase."
+      },
+      {
+        "title": "Uitgebreide Visum Ondersteuning",
+        "description": "End-to-end visum assistentie inclusief documentvoorbereiding, aanvragbegeleiding en compliance management voor naadloze werving."
+      },
+      {
+        "title": "Versnelde Verwerking",
+        "description": "Versneld wervingsproces met 98% succespercentage, verkorting van time-to-hire en zorgen voor snelle plaatsing van gekwalificeerde kandidaten."
+      }
+    ]
+  },
+  "process": {
+    "title": "Ons Wervingsproces",
+    "description": "Gestroomlijnd proces om de beste internationale talenten te vinden en in te huren",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Vereisten Definiëren",
+        "description": "Bespreek uw specifieke wervingsbehoeften en functievereisten"
+      },
+      {
+        "step": "02",
+        "title": "Kandidaat Matching",
+        "description": "Vind en screen gekwalificeerde internationale kandidaten"
+      },
+      {
+        "step": "03",
+        "title": "Interview Proces",
+        "description": "Faciliteer interviews en vaardigheidsevaluaties"
+      },
+      {
+        "step": "04",
+        "title": "Visum & Onboarding",
+        "description": "Behandel visumprocessen en soepele onboarding"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Vertrouwd door Leidende Bedrijven",
+    "description": "Onze bewezen staat van dienst spreekt voor zich",
+    "items": [
+      {
+        "number": "500+",
+        "label": "Bediende Bedrijven"
+      },
+      {
+        "number": "5K+",
+        "label": "Succesvolle Wervingen"
+      },
+      {
+        "number": "25+",
+        "label": "Landen"
+      },
+      {
+        "number": "98%",
+        "label": "Klanttevredenheid"
+      }
+    ]
+  }
+}

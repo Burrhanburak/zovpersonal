@@ -1,0 +1,34 @@
+{
+  "title": "Vereiste Documenten",
+  "subtitle": "Essentiële papieren voor uw visumaanvraag",
+  "categories": {
+    "personal": {
+      "title": "Persoonlijke Documenten",
+      "description": "Paspoort met minimaal 6 maanden geldigheid, identiteitsdocumenten en papierwerk met uw persoonlijke informatie."
+    },
+    "education": {
+      "title": "Opleidingsdocumenten",
+      "description": "Diploma's, certificaten en taalcertificaten. Een apostille kan vereist zijn voor internationale erkenning."
+    },
+    "professional": {
+      "title": "Professionele Documenten",
+      "description": "Aanbiedingsbrief, arbeidscontract, professionele kwalificatiecertificaten en ervaringsdocumenten."
+    },
+    "medical": {
+      "title": "Medisch & Juridisch",
+      "description": "Medisch rapport, strafbladcontrole, documenten over financiële status en uw biometrische foto's."
+    }
+  },
+  "list": [
+    "Geldig paspoort met minimaal 6 maanden geldigheid",
+    "Opleidingscertificaten en diploma's",
+    "Professionele kwalificatiecertificaten",
+    "Taalcertificaten (Duits/Engels)",
+    "Aanbiedingsbrief of arbeidscontract",
+    "Medische onderzoeksrapporten",
+    "Strafbladcontrole",
+    "Bewijs van financiële middelen",
+    "Ingevulde visumaanvraagformulieren",
+    "Biometrische foto's"
+  ]
+}

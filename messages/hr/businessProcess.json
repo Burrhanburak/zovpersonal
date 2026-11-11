@@ -1,0 +1,102 @@
+{
+  "entryGuide": {
+    "imageAlt": "Usluge savjetovanja za vize",
+    "title": "Vodič za ulazak u Njemačku",
+    "preparation": {
+      "title": "1. Priprema i prikupljanje informacija",
+      "content": "Kao ZOV Personal, pružamo sveobuhvatno savjetovanje o zahtjevima i potrebnim koracima prije ulaska u Njemačku. Naš stručni tim nudi detaljne informacije o opcijama viza i povezanim preduvjetima, pružajući personalizirane smjernice."
+    },
+    "partnership": {
+      "title": "2. Partnerstvo s poslodavcima i podrška pri pronalaženju posla",
+      "content": "Zahvaljujući širokoj mreži poslodavaca ZOV Personala, uspostavljamo izravne veze s pouzdanim tvrtkama u Njemačkoj. U sklopu našeg programa partnerstva s poslodavcima pokrivamo:",
+      "items": [
+        "Pronalaženje radnih mjesta prikladnih za vaše kvalifikacije",
+        "Pregovori o ugovoru o radu",
+        "Koordinacija procesa vize s poslodavcem",
+        "Upravljanje postupcima za radnu dozvolu"
+      ]
+    },
+    "advantage": {
+      "title": "Prednost ZOV Personala",
+      "content": "Sveobuhvatnim postupkom pripreme nema prepreka za vaš uspješan početak u Njemačkoj. Iskusni tim ZOV Personala pruža stručnu podršku na svakom koraku, od vaše prijave za vizu do početka rada. Zakoračite samouvjereno u svoj profesionalni život u Njemačkoj uz našu partnersku mrežu poslodavaca i stručno savjetovanje."
+    },
+    "cta": {
+      "ready": "Jeste li spremni započeti svoje putovanje u Njemačku?",
+      "contact": "Kontaktirajte ZOV Personal sada kako biste započeli proces vize i planirali svoju karijeru u Njemačkoj!"
+    }
+  },
+  "slugPages": {
+    "employeeIntegration": {
+      "title": "Procesi integracije zaposlenika",
+      "subtitle": "Sveobuhvatna podrška za uspješnu integraciju u Njemačkoj",
+      "description": "Nudimo posebno dizajnirane integracijske programe za međunarodne zaposlenike kako bi se uspješno integrirali u Njemačkoj.",
+      "section1": {
+        "title": "Integracija zaposlenika",
+        "content": "Nakon što međunarodni zaposlenici uspješno stignu u Njemačku, počinje kritični proces integracije. Dobra integracija je važna ne samo da bi se novi zaposlenici osjećali ugodno u svom novom okruženju, već i da bi se osigurala dugoročna predanost tvrtki. Tvrtke mogu dati značajan doprinos ciljanim mjerama usmjerenim na osiguravanje glatkog početka za nove stručnjake."
+      },
+      "section2": {
+        "title": "Usluge podrške",
+        "content": "Nudimo sveobuhvatne usluge uključujući jezičnu obuku, kulturnu orijentaciju, pravno savjetovanje i podršku za društvenu integraciju."
+      },
+      "benefits": "Brza prilagodba, visoko zadovoljstvo na radnom mjestu i dugoročni uspjeh"
+    },
+    "experiencedVisa": {
+      "title": "Viza za iskusne profesionalce",
+      "subtitle": "Poseban program viza za kvalificirane iskusne stručnjake",
+      "description": "Nudimo ubrzane procese viza i posebne mogućnosti za profesionalce s najmanje 2 godine profesionalnog iskustva.",
+      "section1": {
+        "title": "Viza za iskusne profesionalce",
+        "content": "Viza za iskusne profesionalce (odjeljak 19c, stavak 2 Zakona o boravku) namijenjena je stručnjacima koji imaju najmanje dvije godine kvalificiranog profesionalnog iskustva u svom području, ali nemaju formalnu sveučilišnu diplomu. Viza omogućuje tim stručnjacima da rade u Njemačkoj, posebno u profesijama koje su vrlo tražene. Ova viza uvedena je kako bi se zadovoljila potražnja za stručnjacima i ojačalo njemačko tržište rada."
+      },
+      "section2": {
+        "title": "Proces prijave",
+        "content": "Nudimo profesionalno vodstvo za evaluaciju vaših certifikata iskustva, priznavanje profesionalnih kvalifikacija i ubrzane procese prijave."
+      },
+      "benefits": "Brz proces, fleksibilni uvjeti i evaluacija orijentirana na iskustvo"
+    },
+    "acceleratedProcedure": {
+      "title": "Ubrzani postupak za stručnjake",
+      "subtitle": "Brz i učinkovit proces prijave vize",
+      "description": "Skraćujemo vaš proces vize s ubrzanim postupkom posebno dizajniranim za stručnjake.",
+      "section1": {
+        "title": "Što je ubrzani postupak za stručnjake?",
+        "content": "Ubrzani postupak za stručnjake poseban je postupak razvijen za ubrzavanje procesa imigracije i priznavanja za stručnjake iz inozemstva. Njegova primarna svrha je pomoći tvrtkama da brže dovedu hitno potrebne stručnjake u Njemačku i učinkovitije se bore protiv nedostatka vještina. Ovaj se postupak temelji na uskoj suradnji između poslodavaca, imigracijskih vlasti i institucija za priznavanje kako bi se smanjile birokratske prepreke i brzo izdale dozvole."
+      },
+      "section2": {
+        "title": "Prednosti",
+        "content": "Optimiziramo vaš proces kratkim vremenima čekanja, prioritetnom obradom i imenovanjem posebnog savjetnika."
+      }
+    },
+    "recruitment": {
+      "title": "Međunarodne usluge zapošljavanja",
+      "subtitle": "Povezujemo kvalificirane profesionalce s Njemačkom",
+      "description": "Naše stručne usluge u zapošljavanju međunarodnih talenata za zadovoljavanje potreba Njemačke za radnom snagom.",
+      "section1": {
+        "title": "Zapošljavanje",
+        "content": "Zapošljavanje međunarodnih stručnjaka nudi ogromnu priliku za rješavanje nedostatka vještina u Njemačkoj. Međutim, da bi ovaj proces bio uspješan, tvrtke moraju usvojiti ciljani i strukturirani pristup. Ovaj vodič korak po korak pokazat će vam kako učinkovito strukturirati svoj proces zapošljavanja kako biste uspješno privukli kvalificirane stručnjake iz inozemstva."
+      },
+      "section2": {
+        "title": "Upravljanje procesom",
+        "content": "Upravljamo cijelim procesom zapošljavanja uključujući pronalaženje kandidata, evaluaciju, procese viza i zapošljavanje."
+      },
+      "benefits": "Veliki bazen kandidata, kvalitetno uparivanje i jamstvo procesa"
+    }
+  },
+  "common": {
+    "advantagesTitle": "Prednosti",
+    "processTitle": "Proces",
+    "processDescription": "Sigurni rezultati s vodstvom korak po korak",
+    "step1Title": "1. Početna evaluacija",
+    "step1Description": "Provodimo analizu situacije i procjenu podobnosti.",
+    "step2Title": "2. Priprema dokumenata",
+    "step2Description": "Profesionalno pripremamo sve potrebne dokumente.",
+    "step3Title": "3. Proces prijave",
+    "step3Description": "Pratimo i upravljamo vašom prijavom.",
+    "step4Title": "4. Rezultat i praćenje",
+    "step4Description": "Završetak procesa i usluge praćenja.",
+    "ctaTitle": "Počnimo odmah",
+    "ctaDescription": "Kontaktirajte naš stručni tim da započnete svoj proces.",
+    "contactButton": "Stupite u kontakt",
+    "backButton": "Natrag"
+  }
+}

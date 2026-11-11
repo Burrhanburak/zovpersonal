@@ -1,0 +1,19 @@
+{
+  "title": "Podrška u procesu podnošenja zahtjeva za vizu",
+  "subtitle": "Pružamo vam podršku u upravljanju vašim složenim dokumentima pomoću naših alata koji pojednostavljuju postupak podnošenja zahtjeva za vizu.",
+  "step1": {
+    "title": "Podrška za početno savjetovanje i procjenu",
+    "description": "Pružamo vam podršku u razvoju personalizirane strategije za vizu analizom vašeg profila i ciljeva.",
+    "alt": "Savjetovanje za vizu"
+  },
+  "step2": {
+    "title": "Podrška za pripremu i pregled dokumenata",
+    "description": "Pružamo vam podršku tijekom cijelog procesa pripreme pomažući vam da pristupite svim potrebnim dokumentima.",
+    "alt": "Priprema dokumenata"
+  },
+  "step3": {
+    "title": "Podrška za prijavu i praćenje",
+    "description": "Pružamo podršku kako bismo vam pomogli da sigurno podnesete svoj zahtjev i kontinuirano ga pratite do završetka.",
+    "alt": "Praćenje prijave"
+  }
+}

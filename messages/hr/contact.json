@@ -1,0 +1,43 @@
+{
+  "title": "Razgovarajmo s nama",
+  "subtitle": "Bilo da ste spremni zakazati svoje prvo savjetovanje ili samo imate pitanja, voljeli bismo čuti od vas.",
+  "pageTitle": "Kontaktirajte nas",
+  "pageSubtitle": "Ovdje smo da vam pomognemo s vašim upitima o savjetovanju o vizi.",
+  "offices": {
+    "istanbul": "🇩🇪 Ured Emden",
+    "berlin": "🇩🇪 Ured Emden",
+    "emden": "🇩🇪 Ured Emden"
+  },
+  "sections": {
+    "email": "Pošaljite nam e-poštu",
+    "follow": "Pratite nas",
+    "inquiries": "Upiti"
+  },
+  "jobSeeker": "Tražitelj posla",
+  "employer": "Poslodavac",
+  "selectApplicantType": "Odaberite vrstu podnositelja zahtjeva",
+  "namePlaceholder": "Ime",
+  "emailPlaceholder": "E-mail adresa",
+  "datePlaceholder": "Odaberite datum",
+  "messagePlaceholder": "Poruka",
+  "submitButton": "Rezerviraj sada",
+  "sending": "Slanje...",
+  "successMessage": "Vaša poruka je uspješno poslana! Uskoro ćemo vam se javiti.",
+  "errorMessage": "Došlo je do pogreške prilikom slanja poruke. Molimo pokušajte ponovo.",
+  "imageAlt": "Kontaktirajte nas za savjetovanje o vizi",
+  "phone": "Telefon",
+  "email": "E-mail",
+  "address": "Adresa",
+  "form": {
+    "fullName": "Puno ime",
+    "email": "Radna e-mail adresa",
+    "message": "Vaša poruka",
+    "submit": "Pošalji",
+    "optional": "(neobavezno)",
+    "placeholders": {
+      "fullName": "Ime i prezime",
+      "email": "ja@mail.com",
+      "message": "Napišite svoju poruku"
+    }
+  }
+}

@@ -1,4 +1,5 @@
 "use client";
+import { assetUrl } from '@/lib/assets';
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
@@ -23,7 +24,7 @@ export default function EmployerBenefitsTabs() {
       subtitle: t('employer.benefits.tabs.efficiency.subtitle'),
       description: t('employer.benefits.tabs.efficiency.description'),
       stats: t.raw('employer.benefits.tabs.efficiency.stats'),
-      image: '/is-veren-two.png',
+      image: assetUrl('is-veren-two.png'),
       overlayStats: [
         { value: '30%', label: t('employer.benefits.tabs.efficiency.overlayStats.stat1.label') },
         { value: '2x', label: t('employer.benefits.tabs.efficiency.overlayStats.stat2.label') },
@@ -34,7 +35,7 @@ export default function EmployerBenefitsTabs() {
       subtitle: t('employer.benefits.tabs.quality.subtitle'),
       description: t('employer.benefits.tabs.quality.description'),
       stats: t.raw('employer.benefits.tabs.quality.stats'),
-      image: '/hizmet.png',
+      image: assetUrl('hizmet.png'),
       overlayStats: [
         { value: '98%', label: t('employer.benefits.tabs.quality.overlayStats.stat1.label') },
         { value: '5K+', label: t('employer.benefits.tabs.quality.overlayStats.stat2.label') },
@@ -45,7 +46,7 @@ export default function EmployerBenefitsTabs() {
       subtitle: t('employer.benefits.tabs.support.subtitle'),
       description: t('employer.benefits.tabs.support.description'),
       stats: t.raw('employer.benefits.tabs.support.stats'),
-      image: '/takipi.png',
+      image: assetUrl('takipi.png'),
       overlayStats: [
         { value: '24/7', label: t('employer.benefits.tabs.support.overlayStats.stat1.label') },
         { value: '100%', label: t('employer.benefits.tabs.support.overlayStats.stat2.label') },

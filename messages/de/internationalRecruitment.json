@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "title": "Internationale Zukunftsorientierte Personalbeschaffung",
+    "description": "In der modernen Welt kennen Talente keine Grenzen. Entdecken Sie die Arbeitskräfte von morgen heute und stärken Sie Ihr Unternehmen mit internationalen Talenten."
+  },
+  "vision": {
+    "title": "Die Zukunft der Geschäftswelt gestalten",
+    "subtitle": "Personalwesen im Digitalen Zeitalter",
+    "description": "Während sich die Technologie schnell entwickelt, bleibt die wichtigste Ressource der Mensch. Internationale Talente zu entdecken und sie in den richtigen Positionen zu bewerten, ist der Schlüssel für Unternehmen, um Wettbewerbsvorteile zu erlangen.",
+    "features": [
+      {
+        "title": "KI-gestützte Übereinstimmung",
+        "description": "Wir bringen Kandidaten und Positionen mit perfekter Harmonie zusammen, indem wir Algorithmen der künstlichen Intelligenz verwenden."
+      },
+      {
+        "title": "Globaler Talentpool",
+        "description": "Mit unserem umfangreichen Netzwerk qualifizierter Fachkräfte aus über 50 Ländern finden wir die Talente, die Sie benötigen."
+      },
+      {
+        "title": "Schneller Einstellungsprozess",
+        "description": "Wir schließen Einstellungen in 2-4 Wochen ab, indem wir traditionelle Prozesse um 70% verkürzen."
+      },
+      {
+        "title": "Kulturelle Integration",
+        "description": "Wir bieten Integrationsprogramme, die sicherstellen, dass sich internationale Mitarbeiter an Ihre Unternehmenskultur anpassen."
+      }
+    ]
+  },
+  "trends": {
+    "title": "Arbeitsmarkttrends",
+    "subtitle": "Zukunftsprognostizierende Strategien",
+    "items": [
+      {
+        "trend": "Hybrides Arbeitsmodell",
+        "impact": "Talente überschreiten geografische Grenzen",
+        "percentage": "89%",
+        "description": "Unternehmen übernehmen hybride Arbeitsmodelle"
+      },
+      {
+        "trend": "Digitale Fähigkeiten",
+        "impact": "Technologieeinsatz in jeder Position",
+        "percentage": "95%",
+        "description": "Jobrollen erfordern digitale Fähigkeiten"
+      },
+      {
+        "trend": "Vielfalt und Inklusion",
+        "impact": "Leistungs- und Innovationssteigerung",
+        "percentage": "76%",
+        "description": "Erzielen bessere finanzielle Ergebnisse"
+      },
+      {
+        "trend": "Nachhaltigkeitsfokus",
+        "impact": "Umweltbewusste Mitarbeiterpräferenz",
+        "percentage": "73%",
+        "description": "Talente bevorzugen nachhaltige Unternehmen"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Unsere Innovative Rekrutierungsmethodik",
+    "subtitle": "Datengestützter Ansatz",
+    "steps": [
+      {
+        "phase": "1",
+        "title": "Bedarfsanalyse",
+        "description": "Wir analysieren die aktuellen und zukünftigen Bedürfnisse Ihres Unternehmens im Detail.",
+        "duration": "1-2 Tage",
+        "tools": [
+          "KI-Analytik",
+          "Marktforschung",
+          "Skill-Mapping"
+        ]
+      },
+      {
+        "phase": "2",
+        "title": "Talententdeckung",
+        "description": "Wir identifizieren die am besten geeigneten Kandidaten aus unserer globalen Datenbank.",
+        "duration": "3-5 Tage",
+        "tools": [
+          "Globale Beschaffung",
+          "Social Recruiting",
+          "Netzwerkanalyse"
+        ]
+      },
+      {
+        "phase": "3",
+        "title": "Bewertung und Filterung",
+        "description": "Wir wählen die besten Kandidaten durch einen mehrstufigen Bewertungsprozess aus.",
+        "duration": "1-2 Wochen",
+        "tools": [
+          "Technische Bewertung",
+          "Kulturfit-Analyse",
+          "Referenzprüfung"
+        ]
+      },
+      {
+        "phase": "4",
+        "title": "Präsentation und Integration",
+        "description": "Wir präsentieren Ihnen ausgewählte Kandidaten und verwalten den Integrationsprozess.",
+        "duration": "1-3 Wochen",
+        "tools": [
+          "Interview-Koordination",
+          "Angebotsverwaltung",
+          "Onboarding-Unterstützung"
+        ]
+      }
+    ]
+  },
+  "success": {
+    "title": "Erfolgsgeschichten",
+    "subtitle": "Unser Erfolg in Zahlen",
+    "stats": [
+      {
+        "number": "500+",
+        "label": "Erfolgreiche Einstellungen",
+        "period": "Letzte 12 Monate"
+      },
+      {
+        "number": "95%",
+        "label": "Kundenzufriedenheit",
+        "period": "Kontinuierlich"
+      },
+      {
+        "number": "2.5x",
+        "label": "Geschwindigkeitssteigerung",
+        "period": "Im Vergleich zu traditionellen Methoden"
+      },
+      {
+        "number": "35+",
+        "label": "Länderreichweite",
+        "period": "Globales Netzwerk"
+      }
+    ]
+  },
+  "callToAction": {
+    "title": "Entdecken Sie die Zukunft der Arbeitskräfte heute",
+    "description": "Beginnen Sie jetzt, Ihr Unternehmen mit internationalen Talenten zu stärken und Wettbewerbsvorteile zu erlangen.",
+    "primaryButton": "Kostenlose Beratung",
+    "secondaryButton": "Erfolgsgeschichten erkunden"
+  }
+}

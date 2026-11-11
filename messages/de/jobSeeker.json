@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "tag1": "Arbeitsuchender",
+    "tag2": "Internationale Karriere",
+    "title": "Finden Sie Ihren Traumjob im Ausland mit uns",
+    "description": "internationale zukunftsorientierte Rekrutierungslösungen",
+    "startJourney": "Starten Sie Ihre Reise",
+    "viewServices": "Services anzeigen"
+  },
+  "benefits": {
+    "tabs": {
+      "badge": "Arbeitsuchende",
+      "opportunities": {
+        "label": "Möglichkeiten",
+        "title": "Premium-Job",
+        "subtitle": "Möglichkeiten Weltweit",
+        "description": "Zugang zu exklusiven, hochbezahlten internationalen Positionen bei Top-Unternehmen in über 25 Ländern.",
+        "stats": [
+          "25+ Länder",
+          "5K+ Job-Vermittlungen",
+          "95% Erfolgsquote"
+        ],
+        "benefits": [
+          "Zugang zu Premium-Jobs",
+          "Verifizierte Arbeitgeber",
+          "Globales Netzwerk",
+          "Hohe Gehaltspakete"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "5K+",
+            "label": "Job-Vermittlungen"
+          },
+          "stat2": {
+            "value": "25+",
+            "label": "Länder"
+          }
+        }
+      },
+      "support": {
+        "label": "Unterstützung",
+        "title": "Umfassende",
+        "subtitle": "Karriere-Unterstützung",
+        "description": "Von der Bewerbung bis zum Umzug bieten wir umfassende Unterstützung in jedem Schritt.",
+        "stats": [
+          "24/7 Support",
+          "Expertenberatung",
+          "98% Zufriedenheit"
+        ],
+        "benefits": [
+          "CV-Optimierung",
+          "Interview-Coaching",
+          "Visa-Hilfe",
+          "Umzugsunterstützung"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "24/7",
+            "label": "Support"
+          },
+          "stat2": {
+            "value": "98%",
+            "label": "Zufriedenheit"
+          }
+        }
+      },
+      "process": {
+        "label": "Prozess",
+        "title": "Optimierter",
+        "subtitle": "Bewerbungsprozess",
+        "description": "Unser effizienter Prozess bringt Sie schneller ins Ausland mit bewährten Ergebnissen und schneller Vermittlung.",
+        "stats": [
+          "30 Tage Durchschnitt",
+          "95% Erfolg",
+          "Schnelle Bearbeitung"
+        ],
+        "benefits": [
+          "Schnelle Bearbeitung",
+          "Schritt-für-Schritt Anleitung",
+          "Dokumentenvorbereitung",
+          "Schnelle Ergebnisse"
+        ],
+        "overlayStats": {
+          "stat1": {
+            "value": "30",
+            "label": "Tage Durchschnitt"
+          },
+          "stat2": {
+            "value": "95%",
+            "label": "Erfolgsquote"
+          }
+        }
+      }
+    }
+  },
+  "services": {
+    "badge": "Arbeitsuchenden-Services",
+    "title": "Unsere Services für Arbeitsuchende",
+    "items": [
+      {
+        "title": "CV & Lebenslauf-Optimierung",
+        "description": "Professionelles CV-Schreiben und Optimierung für internationale Arbeitsmärkte"
+      },
+      {
+        "title": "Job-Matching",
+        "description": "Verbindung mit verifizierten Arbeitgebern, die Ihre spezifischen Fähigkeiten suchen"
+      },
+      {
+        "title": "Vorstellungsgespräch-Vorbereitung",
+        "description": "Umfassendes Interview-Coaching für internationale Positionen"
+      },
+      {
+        "title": "Visa-Unterstützung",
+        "description": "Umfassende Arbeitsvisum-Antragsunterstützung und Dokumentation"
+      }
+    ]
+  },
+  "process": {
+    "title": "Wie es funktioniert",
+    "description": "Unser Arbeitsuchenden-Programm ist darauf ausgelegt, Ihnen zu helfen, Ihren Traumjob im Ausland zu finden. Wir stellen Ihnen die Tools und Ressourcen zur Verfügung, die Sie für den Erfolg benötigen.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Profil-Bewertung",
+        "description": "Umfassende Fähigkeitsbewertung und Karriereziel-Analyse"
+      },
+      {
+        "step": "02",
+        "title": "Job-Matching",
+        "description": "Abgleich mit geeigneten internationalen Jobmöglichkeiten"
+      },
+      {
+        "step": "03",
+        "title": "Bewerbungsunterstützung",
+        "description": "Professionelle Bewerbungsvorbereitung und -einreichung"
+      },
+      {
+        "step": "04",
+        "title": "Visa-Bearbeitung",
+        "description": "Umfassende Arbeitsvisum-Antragstellung und Dokumentation"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Unsere Erfolgszahlen",
+    "description": "Bewährte Erfolgsgeschichte bei erfolgreichen Jobvermittlungen",
+    "items": [
+      {
+        "number": "95%",
+        "label": "Erfolgsquote"
+      },
+      {
+        "number": "5K+",
+        "label": "Vermittelte Jobs"
+      },
+      {
+        "number": "25+",
+        "label": "Länder"
+      },
+      {
+        "number": "30",
+        "label": "Tage Durchschnitt"
+      }
+    ]
+  }
+}

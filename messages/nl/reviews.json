@@ -1,0 +1,52 @@
+{
+  "title": "Klantenbeoordelingen",
+  "subtitle": {
+    "line1": "Ervaringen en meningen van",
+    "line2": "onze succesvolle klanten"
+  },
+  "review1": {
+    "title": "Uitstekende Service",
+    "content": "Dankzij ZovPersonal is mijn droom om als verpleegkundige in Duitsland te werken uitgekomen. Ze waren bij elke stap van het proces bij me en hielden me constant op de hoogte.",
+    "name": "Dr. Mehmet Kaya",
+    "role": "Verpleegkundige - Duitsland",
+    "text": "Dankzij ZovPersonal is mijn droom om als verpleegkundige in Duitsland te werken uitgekomen. Ze waren bij elke stap van het proces bij me.",
+    "rating": 5
+  },
+  "review2": {
+    "title": "Professionele Aanpak",
+    "content": "Dankzij hun professionele aanpak en gedetailleerde begeleiding heb ik mijn Duitse werkvisum soepel verkregen. Het team is echt deskundig en ervaren.",
+    "name": "Ingenieur Busra Oz",
+    "role": "Softwareontwikkelaar - Nederland",
+    "text": "Dankzij hun professionele aanpak en gedetailleerde begeleiding heb ik mijn Duitse werkvisum soepel verkregen. Bedankt ZovPersonal!",
+    "rating": 5
+  },
+  "review3": {
+    "title": "Proces Vereenvoudigd",
+    "content": "Toen ik mijn Canada onderwijsvisum aanvroeg, leek het erg complex. ZovPersonal heeft alles vereenvoudigd en stap-voor-stap begeleiding geboden.",
+    "name": "Leraar Nicolaus Voss",
+    "role": "Leraar - Canada",
+    "text": "Toen ik mijn Canada onderwijsvisum aanvroeg, leek het erg complex. ZovPersonal heeft alles vereenvoudigd.",
+    "rating": 5
+  },
+  "review4": {
+    "title": "Betrouwbare Partner",
+    "content": "Ik koos ZovPersonal om mijn werkvergunning als arts in Duitsland te krijgen. Ik heb de juiste beslissing genomen, het proces verliep erg snel.",
+    "name": "Dr. Georgi Vasilev",
+    "role": "Arts - Bulgarije",
+    "rating": 5
+  },
+  "review5": {
+    "title": "Uitstekend Resultaat",
+    "content": "Ik was erg bezorgd bij het aanvragen van mijn Australische werkvisum. Het ZovPersonal-team stelde me gerust en speelde een grote rol in het behalen van succesvolle resultaten.",
+    "name": "Architect Marko Balković",
+    "role": "Architect - Australië",
+    "rating": 5
+  },
+  "review6": {
+    "title": "Snel en Effectief",
+    "content": "Toen ik een baanmogelijkheid in Duitsland vond, had ik geen idee over het visumproces. Dankzij ZovPersonal werd alles erg snel opgelost.",
+    "name": "Ingenieur Andrei Popescu",
+    "role": "Elektricien - Roemenië",
+    "rating": 5
+  }
+}

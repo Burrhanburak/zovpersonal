@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Internationale Toekomstgerichte Personeelsbemiddeling (ZOV)",
+    "subtitle": "ZovPersonal verbindt gekwalificeerde professionals met Europa's toonaangevende bedrijven door toekomstgerichte internationale wervingsprocessen.",
+    "description1": "Bij ZovPersonal zijn we toegewijd aan het bieden van een ongeëvenaard voordeel tegen vertragingen, inefficiënties en wanorde door middel van bruikbare inzichten en naadloze samenwerking. We stoppen niet voordat u de tools heeft om elke wervingsaanvraag succesvol af te ronden.",
+    "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we u beter dan ooit kunnen helpen opereren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
+  },
+  "stats": {
+    "experience": {
+      "number": "15+",
+      "label": "Jaren Infrastructuur"
+    },
+    "clients": {
+      "number": "5K+",
+      "label": "Succesvolle Klanten"
+    },
+    "visas": {
+      "number": "10K+",
+      "label": "Succesvolle Plaatsingen"
+    },
+    "countries": {
+      "number": "25+",
+      "label": "Doellanden"
+    }
+  },
+  "team": {
+    "title": "Het team",
+    "description1": "We begonnen met het bouwen van ZovPersonal in 2019 en lanceerden in 2022. Elk proces is vanaf de grond opgebouwd — zonder technische schulden of verouderde systemen. We zijn speciaal ontworpen om werving en werkgeverspartnerschap innovatie te ondersteunen voor de komende honderd jaar.",
+    "description2": "Onze ervaren adviseurs begrijpen de unieke behoeften van elke klant en bieden gepersonaliseerde oplossingen. We zijn hier om de complexiteiten van wervingsprocessen te vereenvoudigen en uw arbeidsreis naadloos te maken.",
+    "description3": "Neem contact met ons op voor werkgeverspartnerschap.",
+    "cta": "Neem Contact Op"
+  },
+  "company": {
+    "description1": "Bij ZovPersonal zijn we toegewijd aan het transformeren van internationale wervingsprocessen en het bieden van een ongeëvenaard voordeel tegen vertragingen en inefficiënties. Door middel van bruikbare inzichten en naadloze samenwerking bieden we de tools die nodig zijn om elke wervingsaanvraag te laten slagen.",
+    "description2": "We zijn klantgericht — we investeren tijd om elk aspect van uw proces te begrijpen, zodat we betere service kunnen bieden dan ooit tevoren. We doen dit samen, want uw succes is ons succes. In onze bedrijfsgeschiedenis hebben we nog nooit een klant verloren, want als uw projecten slagen, doen wij dat ook."
+  },
+  "images": {
+    "teamWork": "Samenwerking team",
+    "officeSpace": "Kantoorruimte",
+    "consulting": "Adviesdiensten",
+    "success": "Succesverhalen"
+  },
+  "partners": {
+    "title": "Onze partners",
+    "partner1": {
+      "name": "Anna Schneider",
+      "role": "Wervingsspecialist"
+    },
+    "partner2": {
+      "name": "Ayşe Demir",
+      "role": "Juridisch Adviseur"
+    },
+    "partner3": {
+      "name": "Ali Kaya",
+      "role": "Bedrijfsontwikkeling"
+    },
+    "partner4": {
+      "name": "Fatma Öz",
+      "role": "Klantrelaties"
+    },
+    "partner5": {
+      "name": "Lukas Wagner",
+      "role": "Operationeel Manager"
+    }
+  },
+  "description": "U begeleiden naar uw internationale carrièredoelen en wervingsprocessen vereenvoudigen om mogelijkheden te creëren om in uw droomland te werken. Met bewezen ervaring bieden we wereldwijd betrouwbare wervings- en werkgeverspartnerschapsdiensten.",
+  "features": {
+    "compassion": "Empathie en Begrip",
+    "integrity": "Eerlijkheid en Betrouwbaarheid",
+    "mindGrowth": "Persoonlijke en Professionele Groei"
+  },
+  "experienceHighlight": "Gebouwd op echte branche-ervaring — we begeleiden carrières met betrouwbare wervingsexpertise."
+}

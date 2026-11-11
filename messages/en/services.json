@@ -1,0 +1,86 @@
+{
+  "title": "Advance Your Career Globally",
+  "subtitle": "Connecting talented professionals with leading companies in Germany and worldwide.",
+  "workVisa": {
+    "title": "Work Visa Assistance",
+    "description": "Full support and guidance in recruiting international specialists from various countries, including Serbia, Bulgaria, Croatia, Romania, the Netherlands, Germany, and Turkey."
+  },
+  "skillsAssessment": {
+    "title": "Skills Assessment",
+    "description": "Professional evaluation of your qualifications and matching with international job opportunities."
+  },
+  "documentation": {
+    "title": "Language Requirements",
+    "description": "Language proficiency certificates according to profession type and professional skill certificates."
+  },
+  "consultation": {
+    "title": "Personal Consultation",
+    "description": "One-on-one consultation sessions to understand your specific needs and career goals."
+  },
+  "countries": {
+    "title": "We strengthen with the world's best recruitment and employer partnership teams.",
+    "subtitle": "From next-generation startups to established organizations.",
+    "countryNames": {
+      "germany": "Germany",
+      "austria": "Austria",
+      "netherlands": "Netherlands",
+      "switzerland": "Switzerland",
+      "belgium": "Belgium",
+      "luxembourg": "Luxembourg",
+      "denmark": "Denmark",
+      "romania": "Romania",
+      "croatia": "Croatia",
+      "bulgaria": "Bulgaria",
+      "sweden": "Sweden",
+      "finland": "Finland",
+      "serbia": "Serbia",
+      "turkey": "Turkey"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "Recruitment Process",
+      "description": "Recruiting international specialists offers a great opportunity to close the skilled labor gap in Europe. With our targeted and structured approach, we effectively structure your recruitment process to successfully attract qualified healthcare professionals from abroad.",
+      "stat1": {
+        "number": "95%",
+        "label": "successful recruitment"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Fast Process"
+      },
+      "category": "Recruitment Process"
+    },
+    "documentation": {
+      "title": "Language Requirements",
+      "description": "Language proficiency certificates according to profession type and professional skill certificates.",
+      "stat1": {
+        "number": "100%",
+        "label": "document compliance"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Professional Competency Certificates"
+      },
+      "category": "Language Requirements"
+    },
+    "skillsAssessment": {
+      "title": "Professional Qualification Assessment",
+      "description": "From assessing the need for recognition to a tailored training plan, we provide comprehensive evaluation and guidance to ensure your professional qualifications are recognized according to German standards. We support the process with language proficiency certificates according to profession type and proof of financial security.",
+      "stat1": {
+        "number": "85%",
+        "label": "successful recognitions"
+      },
+      "stat2": {
+        "number": "15",
+        "label": "years of infrastructure"
+      },
+      "category": "Professional Qualification"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "Recruitment",
+    "documentation": "Language Requirements",
+    "skillsAssessment": "Professional Qualification"
+  }
+}

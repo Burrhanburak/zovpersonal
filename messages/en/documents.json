@@ -1,0 +1,34 @@
+{
+  "title": "Required Documents",
+  "subtitle": "Essential paperwork for your visa application",
+  "categories": {
+    "personal": {
+      "title": "Personal Documents",
+      "description": "Passport with at least 6 months validity, identity documents and paperwork containing your personal information."
+    },
+    "education": {
+      "title": "Educational Documents",
+      "description": "Diplomas, certificates and language proficiency documents. Apostille may be required for international recognition."
+    },
+    "professional": {
+      "title": "Professional Documents",
+      "description": "Job offer letter, employment contract, professional qualification certificates and experience documents."
+    },
+    "medical": {
+      "title": "Medical & Legal",
+      "description": "Medical report, criminal background check, financial status documents and your biometric photographs."
+    }
+  },
+  "list": [
+    "Valid passport with at least 6 months validity",
+    "Educational certificates and diplomas",
+    "Professional qualification certificates",
+    "Language proficiency certificates (German/English)",
+    "Job offer letter or employment contract",
+    "Medical examination reports",
+    "Criminal background check",
+    "Proof of financial means",
+    "Completed visa application forms",
+    "Biometric photographs"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Erforderliche Dokumente",
+  "subtitle": "Wesentliche Unterlagen für Ihren Visa-Antrag",
+  "categories": {
+    "personal": {
+      "title": "Persönliche Dokumente",
+      "description": "Reisepass mit mindestens 6 Monaten Gültigkeit, Ausweisdokumente und Unterlagen mit Ihren persönlichen Informationen."
+    },
+    "education": {
+      "title": "Bildungsdokumente",
+      "description": "Diplome, Zertifikate und Sprachkenntnisse. Apostille kann für internationale Anerkennung erforderlich sein."
+    },
+    "professional": {
+      "title": "Berufliche Dokumente",
+      "description": "Stellenangebotsschreiben, Arbeitsvertrag, Berufsqualifikationszertifikate und Erfahrungsdokumente."
+    },
+    "medical": {
+      "title": "Medizinische & Rechtliche",
+      "description": "Ärztlicher Bericht, Führungszeugnis, Finanznachweise und Ihre biometrischen Fotos."
+    }
+  },
+  "list": [
+    "Gültiger Reisepass mit mindestens 6 Monaten Gültigkeit",
+    "Bildungszertifikate und Diplome",
+    "Berufsqualifikationszertifikate",
+    "Sprachzertifikate (Deutsch/Englisch)",
+    "Stellenangebot oder Arbeitsvertrag",
+    "Ärztliche Untersuchungsberichte",
+    "Führungszeugnis",
+    "Nachweis finanzieller Mittel",
+    "Ausgefüllte Visa-Antragsformulare",
+    "Biometrische Fotos"
+  ]
+}

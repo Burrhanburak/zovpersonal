@@ -1,0 +1,86 @@
+{
+  "title": "Kariyerinizi Küresel Ölçekte İlerletin",
+  "subtitle": "Yetenekli profesyonelleri Almanya ve tüm dünyadaki lider şirketlerle buluşturuyoruz.",
+  "workVisa": {
+    "title": "Çalışma Vizesi Yardımı",
+    "description": "Sırbistan, Bulgaristan, Hırvatistan, Romanya, Hollanda, Almanya ve Türkiye dahil çeşitli ülkelerden uluslararası uzmanları işe almada tam destek ve rehberlik."
+  },
+  "skillsAssessment": {
+    "title": "Beceri Değerlendirmesi",
+    "description": "Niteliklerinizin profesyonel değerlendirilmesi ve uluslararası iş fırsatlarıyla eşleştirilmesi."
+  },
+  "documentation": {
+    "title": "Dil Gereksinimleri",
+    "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları."
+  },
+  "consultation": {
+    "title": "Kişisel Danışmanlık",
+    "description": "Özel ihtiyaçlarınızı ve kariyer hedeflerinizi anlamak için birebir danışmanlık seansları."
+  },
+  "countries": {
+    "title": "Dünyanın en iyi işe alım ve iş veren ortaklığı ekipleriyle güçlendiriyoruz.",
+    "subtitle": "Yeni nesil girişimlerden köklü kuruluşlara.",
+    "countryNames": {
+      "germany": "Almanya",
+      "austria": "Avusturya",
+      "netherlands": "Hollanda",
+      "switzerland": "İsviçre",
+      "belgium": "Belçika",
+      "luxembourg": "Lüksemburg",
+      "denmark": "Danimarka",
+      "romania": "Romanya",
+      "croatia": "Hırvatistan",
+      "bulgaria": "Bulgaristan",
+      "sweden": "İsveç",
+      "finland": "Finlandiya",
+      "serbia": "Sırbistan",
+      "turkey": "Türkiye"
+    }
+  },
+  "tabContent": {
+    "workVisa": {
+      "title": "İşe Alım Süreci",
+      "description": "Uluslararası uzmanları işe almak, Avrupa'daki beceri eksikliğini gidermek için muazzam bir fırsat sunar. Hedefli ve yapılandırılmış yaklaşımımızla, yurtdışından nitelikli sağlık uzmanlarını başarılı bir şekilde çekmek için işe alım sürecinizi etkili bir şekilde yapılandırıyoruz.",
+      "stat1": {
+        "number": "95%",
+        "label": "başarılı işe alım"
+      },
+      "stat2": {
+        "number": "",
+        "label": "Hızlı Süreç"
+      },
+      "category": "İşe Alım Süreci"
+    },
+    "documentation": {
+      "title": "Dil Gereksinimleri",
+      "description": "Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları.",
+      "stat1": {
+        "number": "100%",
+        "label": "belge uyumu"
+      },
+      "stat2": {
+        "number": "✓",
+        "label": "Mesleki yeterlilik sertifika"
+      },
+      "category": "Dil Gereksinimleri"
+    },
+    "skillsAssessment": {
+      "title": "Mesleki Yeterlilik Değerlendirmesi",
+      "description": "Tanıma ihtiyacı değerlendirmesinden özel eğitim planına kadar, mesleki yeterliliklerinizin Alman standartlarına uygun olarak tanınması için kapsamlı değerlendirme ve rehberlik sağlıyoruz. Meslek türüne göre dil yeterliliği sertifikaları ve mesleki beceri sertifikaları ile süreci destekliyoruz.",
+      "stat1": {
+        "number": "85%",
+        "label": "başarılı tanınma"
+      },
+      "stat2": {
+        "number": "15",
+        "label": "yıllık altyapı"
+      },
+      "category": "Mesleki Yeterlilik"
+    }
+  },
+  "tabButtons": {
+    "workVisa": "İşe Alım",
+    "documentation": "Dil Gereksinimleri",
+    "skillsAssessment": "Mesleki Yeterlilik"
+  }
+}
