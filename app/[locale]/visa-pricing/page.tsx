@@ -143,7 +143,7 @@ export default async function VisaPricingPage() {
               }`}>
                 {plan.popular && (
                   <div className="absolute -top-4 left-1/2 transform -translate-x-1/2">
-                    <div className="bg-blue-500 text-white px-4 py-2 rounded-full text-sm font-medium flex items-center">
+                    <div className="bg-[rgb(28,39,6)] text-white px-4 py-2 rounded-lg text-sm font-medium flex items-center">
                       <Star className="w-4 h-4 mr-1" />
                       Most Popular
                     </div>
@@ -165,10 +165,10 @@ export default async function VisaPricingPage() {
                   ))}
                 </ul>
 
-                <button className={`w-full py-4 px-6 rounded-full font-semibold transition-colors duration-300 ${
+                <button className={`btn-cta w-full font-semibold ${
                   plan.popular 
-                    ? 'bg-blue-600 text-white hover:bg-blue-700' 
-                    : 'bg-gray-100 text-gray-900 hover:bg-gray-200'
+                    ? 'btn-cta-solid' 
+                    : 'bg-[#eef2e6] text-[rgb(28,39,6)] hover:bg-[#d5dec5]'
                 }`}>
                   Get Started
                 </button>
@@ -226,28 +226,28 @@ export default async function VisaPricingPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="bg-purple-600 py-20">
+      <section className="bg-[rgb(28,39,6)] py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
             Ready to Begin Your Visa Journey?
           </h2>
-          <p className="text-xl text-purple-100 mb-8">
+          <p className="text-xl text-white/80 mb-8">
             Schedule a free consultation to discuss your specific needs and get a personalized quote.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
               href="#contact" 
-              className="inline-flex items-center justify-center px-8 py-4 bg-white text-purple-600 font-semibold rounded-full hover:bg-gray-100 transition-colors duration-300"
+              className="btn-cta btn-cta-light font-semibold"
             >
               Schedule Free Consultation
-              <ArrowRight className="ml-2 w-5 h-5" />
+              <ArrowRight className="w-5 h-5" />
             </a>
             <a 
               href="/additional-services" 
-              className="inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-purple-600 transition-colors duration-300"
+              className="btn-cta btn-cta-outline-light font-semibold"
             >
               Explore Additional Services
-              <ArrowRight className="ml-2 w-5 h-5" />
+              <ArrowRight className="w-5 h-5" />
             </a>
           </div>
         </div>

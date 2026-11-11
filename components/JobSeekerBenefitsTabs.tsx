@@ -52,19 +52,6 @@ export default function JobSeekerBenefitsTabs() {
                   </p>
                 </div>
                 
-                {/* Stats */}
-                <div className="mt-6 flex flex-wrap gap-2">
-                  {currentTabData.stats.map((stat: string, index: number) => (
-                    <span key={index} className={`text-xs px-2 py-1 rounded-full ${
-                      index === 0 ? 'bg-green-100 text-green-800' :
-                      index === 1 ? 'bg-blue-100 text-blue-800' :
-                      'bg-blue-100 text-blue-800'
-                    }`}>
-                      {stat}
-                    </span>
-                  ))}
-                </div>
-
                 {/* Benefits List */}
                 <div className="flex flex-col gap-3 mt-6">
                   {currentTabData.benefits.map((benefit: string, index: number) => (
@@ -85,15 +72,15 @@ export default function JobSeekerBenefitsTabs() {
             </div>
             
             {/* Tab Buttons */}
-            <div className="bg-muted text-muted-foreground inline-flex w-fit items-center justify-center mx-auto h-12 rounded-full p-2 lg:mx-0">
+            <div className="bg-muted text-muted-foreground inline-flex w-fit items-center justify-center mx-auto h-12 rounded-xl p-1.5 lg:mx-0">
               {tabsData.map((tab) => (
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
-                  className={`inline-flex flex-1 items-center justify-center gap-1.5 border border-transparent text-sm font-medium whitespace-nowrap transition-all focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 h-full rounded-full px-4 py-2 ${
+                  className={`inline-flex flex-1 items-center justify-center gap-1.5 border border-transparent text-sm font-medium whitespace-nowrap transition-colors disabled:pointer-events-none disabled:opacity-50 h-full rounded-lg px-4 py-2 ${
                     activeTab === tab.id
-                      ? 'bg-background text-foreground shadow-sm'
-                      : 'text-muted-foreground hover:text-foreground'
+                      ? 'bg-background text-[rgb(28,39,6)] shadow-sm'
+                      : 'text-muted-foreground hover:text-[rgb(28,39,6)]'
                   }`}
                 >
                   {tabsT(`${tab.id}.label`)}
@@ -113,16 +100,10 @@ export default function JobSeekerBenefitsTabs() {
                   height={440}
                   className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]"
                 />
-                <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-blue-600/80 via-transparent to-transparent"></div>
-                <div className="absolute bottom-0 left-0 flex flex-col justify-center gap-8 p-6 text-white">
-                  <div className="flex flex-col gap-1.5">
-                    <p className="text-4xl font-medium lg:text-5xl">{currentTabData.overlayStats.stat1.value}</p>
-                    <p className="font-medium">{currentTabData.overlayStats.stat1.label}</p>
-                  </div>
-                  <div className="flex flex-col gap-1.5">
-                    <p className="text-4xl font-medium lg:text-5xl">{currentTabData.overlayStats.stat2.value}</p>
-                    <p className="font-medium">{currentTabData.overlayStats.stat2.label}</p>
-                  </div>
+                <div className="absolute inset-0 rounded-3xl bg-gradient-to-t from-[rgb(28,39,6)]/70 via-transparent to-transparent" />
+                <div className="absolute bottom-0 left-0 p-6 text-white">
+                  <p className="text-xl font-medium md:text-2xl">{currentTabData.title}</p>
+                  <p className="mt-1 text-sm text-white/85">{currentTabData.subtitle}</p>
                 </div>
               </div>
             </div>

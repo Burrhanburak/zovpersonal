@@ -27,12 +27,6 @@ const IndustriesCarousel = () => {
     category: t(`cards.${key}.category`),
   }));
   
-  const statBadges = [
-      { key: 'healthcare', label: '500+ Healthcare', icon: '🏥', className: 'bg-green-100 text-green-800' },
-      { key: 'construction', label: '300+ Construction', icon: '🏗️', className: 'bg-yellow-100 text-yellow-800' },
-      { key: 'recruitment', label: '400+ Hospitality', icon: '🧹', className: 'bg-blue-100 text-blue-800' },
-  ];
-
   const nextSlide = () => {
     setCurrentSlide((prev) => (prev === industries.length - 1 ? 0 : prev + 1));
   };
@@ -58,19 +52,11 @@ const IndustriesCarousel = () => {
               </h2>
               <p className="mt-8 text-xl text-muted-foreground">{t('description')}</p>
               
-               <div className="mt-6 flex flex-wrap gap-2">
-                 {statBadges.map(badge => (
-                    <span key={badge.key} className={`${badge.className} text-xs px-2 py-1 rounded-full`}>
-                        {badge.icon} {badge.label}
-                    </span>
-                 ))}
-               </div>
-
               <div className="mt-8 hidden items-center gap-4 md:flex">
                 <button 
                   data-slot="carousel-previous" 
                   onClick={prevSlide}
-                  className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 rounded-full static size-12 translate-x-0 translate-y-0"
+                  className="inline-flex items-center justify-center size-11 rounded-xl border border-[rgb(28,39,6)]/15 bg-background text-[rgb(28,39,6)] shadow-xs hover:bg-[rgb(28,39,6)]/5 transition-colors"
                 >
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-left" aria-hidden="true"><path d="m12 19-7-7 7-7"></path><path d="M19 12H5"></path></svg>
                   <span className="sr-only">Previous slide</span>
@@ -78,7 +64,7 @@ const IndustriesCarousel = () => {
                 <button 
                   data-slot="carousel-next" 
                   onClick={nextSlide}
-                  className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50 rounded-full static size-12 translate-x-0 translate-y-0"
+                  className="inline-flex items-center justify-center size-11 rounded-xl border border-[rgb(28,39,6)]/15 bg-background text-[rgb(28,39,6)] shadow-xs hover:bg-[rgb(28,39,6)]/5 transition-colors"
                 >
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
                   <span className="sr-only">Next slide</span>

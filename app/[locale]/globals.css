@@ -255,6 +255,60 @@
   background: #9ca3af;
 }
 
+/* Shared CTA button look — olive brand, soft radius (no pills) */
+.btn-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  padding: 0.875rem 1.75rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-cta-solid {
+  background: rgb(28, 39, 6);
+  color: #fff;
+}
+
+.btn-cta-solid:hover {
+  background: rgb(28, 39, 6, 0.9);
+}
+
+.btn-cta-light {
+  background: #fff;
+  color: rgb(28, 39, 6);
+}
+
+.btn-cta-light:hover {
+  background: rgb(255, 255, 255, 0.9);
+}
+
+.btn-cta-outline {
+  border: 1.5px solid rgb(28, 39, 6);
+  background: transparent;
+  color: rgb(28, 39, 6);
+}
+
+.btn-cta-outline:hover {
+  background: rgb(28, 39, 6);
+  color: #fff;
+}
+
+.btn-cta-outline-light {
+  border: 1.5px solid rgb(255, 255, 255, 0.75);
+  background: transparent;
+  color: #fff;
+}
+
+.btn-cta-outline-light:hover {
+  background: #fff;
+  color: rgb(28, 39, 6);
+}
+
 /* Blog MDX article spacing (no typography plugin) */
 .blog-prose {
   color: rgb(55 65 50);

@@ -52,7 +52,7 @@ export default async function InternationalRecruitmentPage({ params }: PageProps
           <div>
             <h3 className="text-xl font-semibold mb-3">{t('internationalRecruitment.success.title')}</h3>
             <p>
-              {t('internationalRecruitment.success.subtitle')} - {t('internationalRecruitment.success.stats.0.label')}: {t('internationalRecruitment.success.stats.0.number')}
+              {t('internationalRecruitment.success.subtitle')}
             </p>
           </div>
         </div>

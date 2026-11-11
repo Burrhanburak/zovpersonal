@@ -34,14 +34,14 @@ export default async function InternationalRecruitmentPage({ params }: PageProps
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href={`/${locale}/contact`}
-              className="bg-primary text-primary-foreground hover:bg-primary/90 px-8 py-4 rounded-full text-lg font-medium transition-colors inline-flex items-center gap-2"
+              className="btn-cta btn-cta-solid text-lg"
             >
               {t('internationalRecruitment.callToAction.primaryButton')}
               <ArrowRight className="w-5 h-5" />
             </Link>
             <Link
               href={`/${locale}/about`}
-              className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-4 rounded-full text-lg font-medium transition-colors"
+              className="btn-cta btn-cta-outline text-lg"
             >
               {t('internationalRecruitment.callToAction.secondaryButton')}
             </Link>
@@ -177,40 +177,10 @@ export default async function InternationalRecruitmentPage({ params }: PageProps
         </div>
       </section>
 
-      {/* Success Stats Section */}
-      <section className="py-24 bg-gradient-to-br from-blue-600 to-purple-700 text-white">
-        <div className="container max-w-6xl mx-auto px-4">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl font-semibold mb-4 lg:text-4xl">
-              {t('internationalRecruitment.success.title')}
-            </h2>
-            <p className="text-lg text-blue-100">
-              {t('internationalRecruitment.success.subtitle')}
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {t.raw('internationalRecruitment.success.stats').map((stat: any, index: number) => (
-              <div key={index} className="text-center bg-white/10 backdrop-blur-sm rounded-xl p-6">
-                <div className="text-4xl font-bold mb-2">
-                  {stat.number}
-                </div>
-                <div className="text-xl font-medium mb-1">
-                  {stat.label}
-                </div>
-                <div className="text-blue-200 text-sm">
-                  {stat.period}
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Call to Action Section */}
       <section className="py-24">
         <div className="container max-w-4xl mx-auto px-4 text-center">
-          <h2 className="text-3xl font-semibold mb-6 lg:text-4xl">
+          <h2 className="text-3xl font-semibold mb-6 lg:text-4xl text-[rgb(28,39,6)]">
             {t('internationalRecruitment.callToAction.title')}
           </h2>
           <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto">
@@ -220,14 +190,14 @@ export default async function InternationalRecruitmentPage({ params }: PageProps
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href={`/${locale}/contact`}
-              className="bg-primary text-primary-foreground hover:bg-primary/90 px-8 py-4 rounded-full text-lg font-medium transition-colors inline-flex items-center gap-2"
+              className="btn-cta btn-cta-solid text-lg"
             >
               {t('internationalRecruitment.callToAction.primaryButton')}
               <ArrowRight className="w-5 h-5" />
             </Link>
             <Link
               href={`/${locale}/about`}
-              className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-4 rounded-full text-lg font-medium transition-colors"
+              className="btn-cta btn-cta-outline text-lg"
             >
               {t('internationalRecruitment.callToAction.secondaryButton')}
             </Link>

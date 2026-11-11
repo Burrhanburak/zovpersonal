@@ -81,7 +81,7 @@ export default function Header() {
               <PrefetchLink
                 href="/contact"
                 className={cn(
-                  'bg-white text-[rgb(28,39,6)] rounded-[20px] font-medium hover:bg-white/90 transition-all duration-300',
+                  'btn-cta btn-cta-light',
                   isScrolled ? 'px-5 py-2.5 text-xs' : 'px-6 py-3 text-sm'
                 )}
               >
@@ -125,7 +125,7 @@ export default function Header() {
                 <PrefetchLink
                   href="/contact"
                   onClick={() => setMenuState(false)}
-                  className="bg-white text-[rgb(28,39,6)] px-6 py-3 rounded-[60px] text-base font-medium hover:bg-white/90 transition-colors duration-150 text-center"
+                  className="btn-cta btn-cta-light text-center"
                 >
                   {t('consultation')}
                 </PrefetchLink>

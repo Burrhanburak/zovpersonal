@@ -225,7 +225,7 @@ export default function ContactSection() {
                 <Button
                   type="submit"
                   disabled={isSubmitting}
-                  className="w-full h-14 bg-[rgb(28,39,6)] hover:bg-[rgb(28,39,6)]/90 disabled:bg-[rgb(28,39,6)]/50 disabled:cursor-not-allowed text-white rounded-[60px] font-satoshi-medium text-base transition-all duration-200 hover:scale-[1.02] disabled:hover:scale-100"
+                  className="btn-cta btn-cta-solid w-full h-14 disabled:opacity-50 disabled:cursor-not-allowed font-satoshi-medium"
                 >
                   {isSubmitting ? (
                     <div className="flex items-center gap-2">

@@ -53,13 +53,13 @@ export default async function EmployerPage({ params }: { params: Promise<{ local
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
               <Link
                 href={`/${locale}/contact`}
-                className="bg-white text-[rgb(28,39,6)] px-8 py-4 rounded-[60px] text-lg font-medium hover:bg-gray-100 transition-colors text-center"
+                className="btn-cta btn-cta-light text-lg text-center"
               >
                 {t("employer.hero.startHiring")}
               </Link>
               <Link
                 href={`/${locale}/services`}
-                className="border-2 border-white text-white px-8 py-4 rounded-[60px] text-lg font-medium hover:bg-white hover:text-[rgb(28,39,6)] transition-colors text-center"
+                className="btn-cta btn-cta-outline-light text-lg text-center"
               >
                 {t("employer.hero.learnMore")}
               </Link>
@@ -140,28 +140,6 @@ export default async function EmployerPage({ params }: { params: Promise<{ local
                     <div className="border-t-2 border-dashed border-gray-300"></div>
                   </div>
                 )}
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Stats Section */}
-      <section className="py-20 bg-[rgb(28,39,6)] text-white p-10 rounded-2xl m-3">
-        <div className="max-w-[1200px] mx-auto px-4 md:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              {t("employer.stats.title")}
-            </h2>
-            <p className="text-xl opacity-90">
-              {t("employer.stats.description")}
-            </p>
-          </div>
-          <div className="grid md:grid-cols-4 gap-8 text-center">
-            {t.raw("employer.stats.items").map((stat: any, index: number) => (
-              <div key={index}>
-                <div className="text-4xl md:text-5xl font-bold mb-2">{stat.number}</div>
-                <div className="text-xl opacity-90">{stat.label}</div>
               </div>
             ))}
           </div>

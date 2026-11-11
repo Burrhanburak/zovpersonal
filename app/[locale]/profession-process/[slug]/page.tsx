@@ -1634,10 +1634,10 @@ export default function Page() {
                     <>
                       <p className="text-base leading-relaxed mb-6">
                         {isTurkish 
-                          ? 'İnşaat sektöründe 300\'den fazla usta, tekniker ve mühendisinin Almanya\'da başarılı kariyer kurmasına yardımcı olduk.'
+                          ? 'İnşaat sektöründeki usta, tekniker ve mühendislerin Almanya kariyer süreçlerinde yanlarında oluyoruz.'
                           : isGerman 
-                          ? 'Wir haben über 300 Meister, Techniker und Ingenieure im Bausektor dabei unterstützt, eine erfolgreiche Karriere in Deutschland aufzubauen.'
-                          : 'We have helped over 300 masters, technicians and engineers in the construction sector build successful careers in Germany.'
+                          ? 'Wir begleiten Meister, Techniker und Ingenieure im Bausektor auf dem Weg zu einer Karriere in Deutschland.'
+                          : 'We support masters, technicians and engineers in the construction sector as they build careers in Germany.'
                         }
                       </p>
                       
@@ -1649,27 +1649,6 @@ export default function Page() {
                           : '"Thanks to ZOV Personal, I realized my dreams in the construction sector. I work as a project manager in a construction company in Germany."'
                         }
                       </blockquote>
-                      
-                      <div className="grid md:grid-cols-3 gap-4 my-6">
-                        <div className="bg-orange-50 dark:bg-orange-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-orange-600 dark:text-orange-400">92%</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarı oranı' : isGerman ? 'Erfolgsquote' : 'Success rate'}
-                          </div>
-                        </div>
-                        <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">6-10</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Ortalama ay süre' : isGerman ? 'Durchschnittliche Dauer (Monate)' : 'Average months duration'}
-                          </div>
-                        </div>
-                        <div className="bg-green-50 dark:bg-green-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-green-600 dark:text-green-400">300+</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarılı yerleştirme' : isGerman ? 'Erfolgreiche Vermittlungen' : 'Successful placements'}
-                          </div>
-                        </div>
-                      </div>
                       
                       <p className="text-base leading-relaxed">
                         {isTurkish 
@@ -1684,10 +1663,10 @@ export default function Page() {
                     <>
                       <p className="text-base leading-relaxed mb-6">
                         {isTurkish 
-                          ? 'Şimdiye kadar 150\'den fazla doktorun Almanya\'da başarılı kariyer kurmasına yardımcı olduk.'
+                          ? 'Doktorların Almanya\'da başarılı kariyer kurma süreçlerinde yanlarında oluyoruz.'
                           : isGerman 
-                          ? 'Wir haben bisher über 150 Ärzten geholfen, eine erfolgreiche Karriere in Deutschland aufzubauen.'
-                          : 'We have helped over 150 doctors build successful careers in Germany so far.'
+                          ? 'Wir begleiten Ärztinnen und Ärzte auf dem Weg zu einer erfolgreichen Karriere in Deutschland.'
+                          : 'We support doctors as they build successful careers in Germany.'
                         }
                       </p>
                       
@@ -1699,27 +1678,6 @@ export default function Page() {
                           : '"Thanks to ZOV Personal, my dream of working as a cardiologist in Germany came true. They were with me every step of the recognition process."'
                         }
                       </blockquote>
-                      
-                      <div className="grid md:grid-cols-3 gap-4 my-6">
-                        <div className="bg-red-50 dark:bg-red-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-red-600 dark:text-red-400">98%</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarı oranı' : isGerman ? 'Erfolgsquote' : 'Success rate'}
-                          </div>
-                        </div>
-                        <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">12-18</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Ortalama ay süre' : isGerman ? 'Durchschnittliche Dauer (Monate)' : 'Average months duration'}
-                          </div>
-                        </div>
-                        <div className="bg-green-50 dark:bg-green-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-green-600 dark:text-green-400">150+</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarılı yerleştirme' : isGerman ? 'Erfolgreiche Vermittlungen' : 'Successful placements'}
-                          </div>
-                        </div>
-                      </div>
                       
                       <p className="text-base leading-relaxed">
                         {isTurkish 
@@ -1734,10 +1692,10 @@ export default function Page() {
                     <>
                       <p className="text-base leading-relaxed mb-6">
                         {isTurkish 
-                          ? 'Şimdiye kadar 500\'den fazla profesyonelin Almanya\'da kariyer kurmasına yardımcı olduk.'
+                          ? 'Profesyonellerin Almanya\'da kariyer kurma süreçlerinde yanlarında oluyoruz.'
                           : isGerman 
-                          ? 'Wir haben bisher über 500 Fachkräften geholfen, eine Karriere in Deutschland aufzubauen.'
-                          : 'We have helped over 500 professionals build careers in Germany so far.'
+                          ? 'Wir begleiten Fachkräfte auf dem Weg zu einer Karriere in Deutschland.'
+                          : 'We support professionals as they build careers in Germany.'
                         }
                       </p>
                       
@@ -1749,27 +1707,6 @@ export default function Page() {
                           : '"Working with ZOV Personal was one of the best decisions in my process of settling in Germany. Everything became much easier thanks to their professional approach."'
                         }
                       </blockquote>
-                      
-                      <div className="grid md:grid-cols-3 gap-4 my-6">
-                        <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">95%</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarı oranı' : isGerman ? 'Erfolgsquote' : 'Success rate'}
-                          </div>
-                        </div>
-                        <div className="bg-green-50 dark:bg-green-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-green-600 dark:text-green-400">8</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Ortalama ay süre' : isGerman ? 'Durchschnittliche Dauer (Monate)' : 'Average months duration'}
-                          </div>
-                        </div>
-                        <div className="bg-purple-50 dark:bg-purple-900/20 p-4 rounded-lg text-center">
-                          <div className="text-2xl font-bold text-purple-600 dark:text-purple-400">500+</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">
-                            {isTurkish ? 'Başarılı yerleştirme' : isGerman ? 'Erfolgreiche Vermittlungen' : 'Successful placements'}
-                          </div>
-                        </div>
-                      </div>
                       
                       <p className="text-base leading-relaxed">
                         {isTurkish 

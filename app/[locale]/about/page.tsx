@@ -75,7 +75,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                 </div>
                 <div className="mt-8">
                   <Link href={`/${locale}/contact`}>
-                    <Button className="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground shadow-sm hover:bg-primary/90 h-10 rounded-lg px-8">
+                    <Button size="lg">
                       {t('team.cta')}
                     </Button>
                   </Link>

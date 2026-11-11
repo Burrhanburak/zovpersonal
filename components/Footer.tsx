@@ -54,16 +54,15 @@ export default function Footer() {
               <div className="flex flex-col sm:flex-row items-center gap-4">
                 <Link
                   href={`/${locale}/contact`}
-                  className="relative group flex items-center justify-center gap-3 px-6 py-3 bg-transparent border border-white/10 rounded-full text-white text-sm leading-[129%] hover:bg-white/5 transition-all duration-300"
+                  className="btn-cta btn-cta-outline-light text-sm"
                 >
                   <span>{t('ctaButton')}</span>
                   <ArrowUpRight className="w-4 h-4" />
-                  <div className="absolute inset-0 bg-[rgb(130,255,199)] rounded-[60px] blur-[20px] opacity-0 group-hover:opacity-20 transition-opacity duration-300" />
                 </Link>
                 
                 <Link
                   href={`/${locale}/services`}
-                  className="flex items-center gap-3 px-6 py-3 bg-white border border-white rounded-full text-black text-sm leading-[129%] hover:bg-white/90 transition-all duration-300"
+                  className="btn-cta btn-cta-light text-sm"
                 >
                   <Eye className="w-4 h-4" />
                   <span>{t('ctaSecondary')}</span>

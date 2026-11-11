@@ -150,22 +150,16 @@ export default function ServicesPage() {
               <p className="text-muted-foreground text-base mt-4 md:text-lg lg:text-xl">
                 {t('services.subtitle')}
               </p>
-              <div className="mt-6 flex flex-col sm:flex-row items-start gap-3 sm:gap-4">
-                <Link href={`/${locale}/contact`}>
-                  <button className="w-full sm:w-auto inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow-sm hover:bg-primary/90 h-10 px-6 py-2">
-                    {t('nav.consultation')}
-                  </button>
+              <div className="mt-6 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
+                <Link href={`/${locale}/contact`} className="btn-cta btn-cta-solid text-sm sm:text-base">
+                  {t('nav.consultation')}
                 </Link>
-                <Link href={`/${locale}/about`}>
-                  <button className="w-full sm:w-auto inline-flex items-center justify-center whitespace-nowrap rounded-lg text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input hover:bg-accent hover:text-accent-foreground px-4 py-2 h-10 gap-2 bg-gradient-to-r from-background to-transparent shadow-md">
-                    <span className="truncate text-start">
-                      {t('nav.about')}
-                    </span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right">
-                      <path d="M5 12h14"></path>
-                      <path d="m12 5 7 7-7 7"></path>
-                    </svg>
-                  </button>
+                <Link href={`/${locale}/about`} className="btn-cta btn-cta-outline text-sm sm:text-base">
+                  {t('nav.about')}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M5 12h14"></path>
+                    <path d="m12 5 7 7-7 7"></path>
+                  </svg>
                 </Link>
               </div>
             </div>
@@ -295,42 +289,30 @@ export default function ServicesPage() {
                   </div>
                 </div>
               </div>
-              <div className="bg-gray-100 text-gray-600 flex w-full max-w-full items-center justify-center h-12 rounded-full p-2 overflow-hidden">
+              <div className="bg-[#eef2e6] text-[rgb(28,39,6)] flex w-full max-w-full items-center justify-center h-12 rounded-xl p-1.5 overflow-hidden">
                 <button 
-                  onClick={() => {
-                    console.log('🔘 İş Vizesi button clicked');
-                    handleTabChange('workVisa');
-                  }}
-                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-all h-full rounded-full px-2 md:px-4 py-2 ${
-                    activeTab === 'workVisa' ? 'bg-white text-gray-900 shadow-sm' : 'text-gray-900 hover:bg-gray-50'
+                  onClick={() => handleTabChange('workVisa')}
+                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-colors h-full rounded-lg px-2 md:px-4 py-2 ${
+                    activeTab === 'workVisa' ? 'bg-white text-[rgb(28,39,6)] shadow-sm' : 'hover:bg-white/60'
                   }`}
                 >
                   {t('services.tabButtons.workVisa')}
-                  {activeTab === 'workVisa' && <span className="ml-1">✓</span>}
                 </button>
                 <button 
-                  onClick={() => {
-                    console.log('📄 Belge Hazırlama button clicked');
-                    handleTabChange('documentation');
-                  }}
-                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-all h-full rounded-full px-2 md:px-4 py-2 ${
-                    activeTab === 'documentation' ? 'bg-white text-gray-900 shadow-sm' : 'text-gray-900 hover:bg-gray-50'
+                  onClick={() => handleTabChange('documentation')}
+                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-colors h-full rounded-lg px-2 md:px-4 py-2 ${
+                    activeTab === 'documentation' ? 'bg-white text-[rgb(28,39,6)] shadow-sm' : 'hover:bg-white/60'
                   }`}
                 >
                   {t('services.tabButtons.documentation')}
-                  {activeTab === 'documentation' && <span className="ml-1">✓</span>}
                 </button>
                 <button 
-                  onClick={() => {
-                    console.log('🎯 Yetenek Değerlendirmesi button clicked');
-                    handleTabChange('skillsAssessment');
-                  }}
-                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-all h-full rounded-full px-2 md:px-4 py-2 ${
-                    activeTab === 'skillsAssessment' ? 'bg-white text-gray-900 shadow-sm' : 'text-gray-900 hover:bg-gray-50'
+                  onClick={() => handleTabChange('skillsAssessment')}
+                  className={`flex flex-1 items-center justify-center gap-1.5 border border-transparent text-xs md:text-sm font-medium whitespace-nowrap transition-colors h-full rounded-lg px-2 md:px-4 py-2 ${
+                    activeTab === 'skillsAssessment' ? 'bg-white text-[rgb(28,39,6)] shadow-sm' : 'hover:bg-white/60'
                   }`}
                 >
                   {t('services.tabButtons.skillsAssessment')}
-                  {activeTab === 'skillsAssessment' && <span className="ml-1">✓</span>}
                 </button>
               </div>
             </div>
@@ -338,16 +320,10 @@ export default function ServicesPage() {
               <div className="flex-1 outline-none animate-in duration-300 fade-in">
                 <div className="relative">
                   <img alt={tabContent[activeTab].category} className="h-[440px] w-full rounded-3xl object-cover lg:h-[540px]" src={assetUrl("is-alim-onei.png")} />
-                  <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-blue-600/80 via-transparent to-transparent"></div>
-                  <div className="absolute bottom-0 left-0 flex flex-col justify-center gap-8 p-6 text-white">
-                    <div className="flex flex-col gap-1.5">
-                      <p className="text-4xl font-medium lg:text-5xl">{tabContent[activeTab].stat1.number}</p>
-                      <p className="font-medium">{tabContent[activeTab].stat1.label}</p>
-                    </div>
-                    <div className="flex flex-col gap-1.5">
-                      <p className="text-4xl font-medium lg:text-5xl">{tabContent[activeTab].stat2.number}</p>
-                      <p className="font-medium">{tabContent[activeTab].stat2.label}</p>
-                    </div>
+                  <div className="absolute inset-0 rounded-3xl bg-gradient-to-t from-[rgb(28,39,6)]/70 via-transparent to-transparent" />
+                  <div className="absolute bottom-0 left-0 p-6 text-white">
+                    <p className="text-xl font-medium md:text-2xl">{tabContent[activeTab].title}</p>
+                    <p className="mt-1 text-sm text-white/85">{tabContent[activeTab].category}</p>
                   </div>
                 </div>
               </div>
